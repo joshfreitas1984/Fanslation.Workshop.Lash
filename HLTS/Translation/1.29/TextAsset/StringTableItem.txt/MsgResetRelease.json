@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "MsgResetRelease",
+  "RawLine": "MsgResetRelease\t{0} 卸劲归零",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "MsgResetRelease",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} 卸劲归零",
+      "c": "<0> 卸劲归零",
+      "rq": true,
+      "it": "{0} Unloading to Zero",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

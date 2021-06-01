@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipAttackLossHp",
+  "RawLine": "TipAttackLossHp\t攻击时会造成自身<color=#00ffff>{0}</color>点气血损失",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipAttackLossHp",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "攻击时会造成自身<color=#00ffff>{0}</color>点气血损失",
+      "c": "攻击时会造成自身<0>点气血损失",
+      "rq": true,
+      "it": "Attack causes {0} points of blood loss on attack",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

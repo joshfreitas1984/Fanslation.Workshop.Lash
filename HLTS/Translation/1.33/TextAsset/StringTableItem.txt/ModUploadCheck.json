@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ModUploadCheck",
+  "RawLine": "ModUploadCheck\t是否要上传 {0} 模块？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ModUploadCheck",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是否要上传 {0} 模块？",
+      "c": "是否要上传 <0> 模块？",
+      "rq": true,
+      "it": "Do you want to upload a {0} module?",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

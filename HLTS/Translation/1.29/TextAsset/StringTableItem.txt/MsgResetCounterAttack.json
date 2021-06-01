@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "MsgResetCounterAttack",
+  "RawLine": "MsgResetCounterAttack\t{0} 反击归零",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "MsgResetCounterAttack",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} 反击归零",
+      "c": "<0> 反击归零",
+      "rq": true,
+      "it": "{0} Counterattack to zero.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

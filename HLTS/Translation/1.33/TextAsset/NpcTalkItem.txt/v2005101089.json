@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "v2005101089",
+  "RawLine": "v2005101089\t0\t0\t0\t0\t0\t【啧啧…这人武功是不错，可惜坚守仁义，不懂得占人便宜的重要性，这种人往往最后都是死的最惨的……嘿，难成大事！】\t0\t\t0\t{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q51002\", 0} , { \"GivenQuestAction\" : \"Q51002_02\", 0} , { \"GivenQuestAction\" : \"Q51002_02\", 2} , { \"GivenQuestAction\" : \"Q51002\", 2} , { \"SetTimeBlackboardAction\" : \"f2郎中走向客棧\", 2} , { \"RunScheduleAction\" : \"sc51002\", \"n51002\", -1, \"\"}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "v2005101089",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "【啧啧…这人武功是不错，可惜坚守仁义，不懂得占人便宜的重要性，这种人往往最后都是死的最惨的……嘿，难成大事！】",
+      "c": "<[>啧啧...这人武功是不错,可惜坚守仁义,不懂得占人便宜的重要性,这种人往往最后都是死的最惨的......嘿,难成大事！<]>",
+      "rq": true,
+      "it": "<size=16>[Tsk, tsk, tsk... He is a good martial artist, but he doesn't understand the importance of taking advantage of others, so he always ends up dead. .... Hey, it's hard to make a difference! ]</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q51002\", 0} , { \"GivenQuestAction\" : \"Q51002_02\", 0} , { \"GivenQuestAction\" : \"Q51002_02\", 2} , { \"GivenQuestAction\" : \"Q51002\", 2} , { \"SetTimeBlackboardAction\" : \"f2郎中走向客棧\", 2} , { \"RunScheduleAction\" : \"sc51002\", \"n51002\", -1, \"\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

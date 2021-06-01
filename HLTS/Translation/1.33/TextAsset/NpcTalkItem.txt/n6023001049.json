@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n6023001049",
+  "RawLine": "n6023001049\t0\tn6023001052\tn6023001047\tn60230\t0\t如今我村中事忙，村人也都正为<color=#FF0000>蛇窟之患</color>担忧害怕，咱们实在抽不出手再为你去寻那姓徐的闲汉。\t0\t\t{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f62022和梅紅綺說過話\", 0, 0} , { \"CheckFlagAction\" : \"f62023梅紅綺指示前往客棧\", 1, 0} , { \"QuestCondition\" : \"Q10002_03\", 0, True}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否已解決洞中蛇王？\", 1, 0} , { \"CheckFlagAction\" : \"f51001郎中事件：是否已解決洞中蛇王？\", 1, 3}  ], 1}  ], 0} \t0",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n6023001049",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n6023001052",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "n6023001047",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n60230",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "如今我村中事忙，村人也都正为<color=#FF0000>蛇窟之患</color>担忧害怕，咱们实在抽不出手再为你去寻那姓徐的闲汉。",
+      "c": "如今我村中事忙,村人也都正为蛇窟之患担忧害怕,咱们实在抽不出手再为你去寻那姓徐的闲汉。",
+      "rq": true,
+      "it": "<size=16>Now that my village is busy, and the people are worried about the danger of the snake pit, we really can't spare the time to help you. Go and find the idle man surnamed Xu.</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f62022和梅紅綺說過話\", 0, 0} , { \"CheckFlagAction\" : \"f62023梅紅綺指示前往客棧\", 1, 0} , { \"QuestCondition\" : \"Q10002_03\", 0, True}  ], 0} , { \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f51001郎中事件：是否已解決洞中蛇王？\", 1, 0} , { \"CheckFlagAction\" : \"f51001郎中事件：是否已解決洞中蛇王？\", 1, 3}  ], 1}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

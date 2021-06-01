@@ -1,0 +1,97 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "1_TalentNode001",
+  "RawLine": "1_TalentNode001\t后发制人\t执行等待不消耗精力，另外，每次受击时累积反击率额外增加5%\t1_TalentIcon08\t(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,5)(TrickDamage,0)\t[]\t\ttalent10007\t",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "1_TalentNode001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "后发制人",
+      "c": "后发制人",
+      "rq": true,
+      "it": "Counterattack from behind",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "执行等待不消耗精力，另外，每次受击时累积反击率额外增加5%",
+      "c": "执行等待不消耗精力,另外,每次受击时累积反击率额外增加5%",
+      "rq": true,
+      "it": "Waiting does not consume energy, and the cumulative knockback rate increases by an additional 5% per hit.",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "1_TalentIcon08",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,5)(TrickDamage,0)",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "[]",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "talent10007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

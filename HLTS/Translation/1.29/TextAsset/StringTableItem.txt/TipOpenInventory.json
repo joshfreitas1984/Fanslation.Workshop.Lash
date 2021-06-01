@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipOpenInventory",
+  "RawLine": "TipOpenInventory\t开启背包<br>更换武器消耗 {0} 点精力<br>使用道具消耗 {1} 点精力",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipOpenInventory",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "开启背包<br>更换武器消耗 {0} 点精力<br>使用道具消耗 {1} 点精力",
+      "c": "开启背包更换武器消耗 <0> 点精力使用道具消耗 <1> 点精力",
+      "rq": true,
+      "it": "Open Backpack Replacement Weapon Consumption {0} Points Energy Use Item Consumption {1} Points Energy",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

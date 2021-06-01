@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HintTypeLearnDrug",
+  "RawLine": "HintTypeLearnDrug\t习得 {0} 药方",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HintTypeLearnDrug",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "习得 {0} 药方",
+      "c": "习得 <0> 药方",
+      "rq": true,
+      "it": "Acquired {0} Medicinal Prescriptions",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

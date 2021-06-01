@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60201",
+  "RawLine": "h60201\t602\t\t特技值\t特技值是指角色在战斗中累积特殊能力的机率值后自动发动效果的操作，如爆击、连击、反击、卸劲、虚招等。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60201",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "602",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "特技值",
+      "c": "特技值",
+      "rq": true,
+      "it": "Stunt Value",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "特技值是指角色在战斗中累积特殊能力的机率值后自动发动效果的操作，如爆击、连击、反击、卸劲、虚招等。",
+      "c": "特技值是指角色在战斗中累积特殊能力的机率值后自动发动效果的操作,如爆击、连击、反击、卸劲、虚招等。",
+      "rq": true,
+      "it": "Stunts are actions that automatically activate effects when the character accumulates special abilities in battle, such as blasts, blows, and other effects. Combos, counterattacks, unloads, virtual moves, etc.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

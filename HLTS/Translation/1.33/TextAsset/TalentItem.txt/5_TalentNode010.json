@@ -1,0 +1,97 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "5_TalentNode010",
+  "RawLine": "5_TalentNode010\t由拙入刚\t可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）\t2_TalentIcon00\t(Combo,0)(Critical,2)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,2)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)\t[]\t\ttalent50009\t2_TalentNode015",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "5_TalentNode010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "由拙入刚",
+      "c": "由拙入刚",
+      "rq": true,
+      "it": "From Clumsy to Rigid.",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时，累积暴击率2% ）",
+      "c": "可累积暴击率并发动特技「暴击」：当次招式威力提升30%（每回合与每次受击时,累积暴击率2% ）",
+      "rq": true,
+      "it": "Strike rate can be accumulated and activated: 30% increase in the power of the move (per turn and per move). (2% cumulative blast rate when hit)",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "2_TalentIcon00",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "(Combo,0)(Critical,2)(Release,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,2)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "[]",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "talent50009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "2_TalentNode015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

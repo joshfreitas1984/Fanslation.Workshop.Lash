@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "MsgRaiseComboAttack",
+  "RawLine": "MsgRaiseComboAttack\t{0} 发动连击，+{1} AP",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "MsgRaiseComboAttack",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} 发动连击，+{1} AP",
+      "c": "<0> 发动连击,+<1> AP",
+      "rq": true,
+      "it": "{0} Initiate combo,+{1} AP",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIBlacksmithInventoryHint",
+  "RawLine": "UIBlacksmithInventoryHint\t装备中的物品必须先卸下至背包才会显示。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIBlacksmithInventoryHint",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "装备中的物品必须先卸下至背包才会显示。",
+      "c": "装备中的物品必须先卸下至背包才会显示。",
+      "rq": true,
+      "it": "Items in equipment must be unloaded into your backpack before they will appear.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

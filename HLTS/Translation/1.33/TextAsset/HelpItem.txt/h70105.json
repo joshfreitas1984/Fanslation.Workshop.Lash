@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h70105",
+  "RawLine": "h70105\t701\tMain/Img_Main_Money.png\t锻造费用\t锻造除了需要消耗锻造素材之外，铁匠也会向玩家收取锻造费用，若使用稀有度越高的材料，费用也会跟着提高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h70105",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "701",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Main/Img_Main_Money.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "锻造费用",
+      "c": "锻造费用",
+      "rq": true,
+      "it": "Forging Cost",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "锻造除了需要消耗锻造素材之外，铁匠也会向玩家收取锻造费用，若使用稀有度越高的材料，费用也会跟着提高。",
+      "c": "锻造除了需要消耗锻造素材之外,铁匠也会向玩家收取锻造费用,若使用稀有度越高的材料,费用也会跟着提高。",
+      "rq": true,
+      "it": "In addition to consuming forging materials, the blacksmith will also charge the player a forging fee, and the rarer the forging material, the more expensive it is. The cost of higher materials will also increase.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

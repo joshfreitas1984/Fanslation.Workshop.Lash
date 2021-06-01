@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HintTypeFallAndHurt",
+  "RawLine": "HintTypeFallAndHurt\t你由高处摔落减少了{0}气血",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HintTypeFallAndHurt",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你由高处摔落减少了{0}气血",
+      "c": "你由高处摔落减少了<0>气血",
+      "rq": true,
+      "it": "Your fall from a high place reduced {0} the blood of the air",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

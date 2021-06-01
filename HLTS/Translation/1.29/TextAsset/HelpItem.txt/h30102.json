@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h30102",
+  "RawLine": "h30102\t301\t\t秘籍经验值\t每个秘籍有着各自的经验值储存槽，彼此间无法互通，所以为了避免经验值溢出造成的损失，在每场战斗后实时检视秘籍修练的状况是必要的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h30102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "秘籍经验值",
+      "c": "秘籍经验值",
+      "rq": true,
+      "it": "Secret Book Experience Value",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "每个秘籍有着各自的经验值储存槽，彼此间无法互通，所以为了避免经验值溢出造成的损失，在每场战斗后实时检视秘籍修练的状况是必要的。",
+      "c": "每个秘籍有着各自的经验值储存槽,彼此间无法互通,所以为了避免经验值溢出造成的损失,在每场战斗后实时检视秘籍修练的状况是必要的。",
+      "rq": true,
+      "it": "Each book has its own experience storage slot, which is not interoperable with each other. It is necessary to review the status of the secret practice in real time after each battle.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

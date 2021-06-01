@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60304",
+  "RawLine": "h60304\t603\tBattle2/Img_buffer_Poisoned.png\t中毒\t每回合损失内力，同时会降低角色的攻击力与减伤效果，超过50点时会降低每回合能回复的精力。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60304",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "603",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Battle2/Img_buffer_Poisoned.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "中毒",
+      "c": "中毒",
+      "rq": true,
+      "it": "Poisoning",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "每回合损失内力，同时会降低角色的攻击力与减伤效果，超过50点时会降低每回合能回复的精力。",
+      "c": "每回合损失内力,同时会降低角色的攻击力与减伤效果,超过50点时会降低每回合能回复的精力。",
+      "rq": true,
+      "it": "Each round, the character loses internal energy, which also reduces the character's attack and damage reduction. The energy that can be replied to by the Roundup.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

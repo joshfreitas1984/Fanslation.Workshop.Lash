@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIRepairDialog2",
+  "RawLine": "UIRepairDialog2\t修理全部的装备需花费 {0} 文钱，您的金钱不足。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIRepairDialog2",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "修理全部的装备需花费 {0} 文钱，您的金钱不足。",
+      "c": "修理全部的装备需花费 <0> 文钱,您的金钱不足。",
+      "rq": true,
+      "it": "It costs {0} money to repair all the equipment, you do not have enough money.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

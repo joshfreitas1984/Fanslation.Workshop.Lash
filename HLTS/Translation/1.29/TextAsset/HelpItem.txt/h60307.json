@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60307",
+  "RawLine": "h60307\t603\tBattle2/Img_buffer_Dazed.png\t晕眩\t有机率会跳过战斗回合，数值越高越容易发动，超过50点以上会无法施展反击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60307",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "603",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Battle2/Img_buffer_Dazed.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "晕眩",
+      "c": "晕眩",
+      "rq": true,
+      "it": "Daze",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "有机率会跳过战斗回合，数值越高越容易发动，超过50点以上会无法施展反击。",
+      "c": "有机率会跳过战斗回合,数值越高越容易发动,超过50点以上会无法施展反击。",
+      "rq": true,
+      "it": "There is a chance that it will skip the combat round, the higher the value, the easier it is to launch, and if it exceeds 50 points, it will not be able to launch counterattack.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "m2004501013",
+  "RawLine": "m2004501013\t0\t0\tm2004501017\tn20176\t0\t哪来的龟儿子来豹王寨放肆，找死！\t0\t\t{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2發現流寇寶藏\", False} , { \"CheckTimeBlackboardAction\" : \"f2豹王寨救民女\", True}  ], 0} , { \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2豹王寨救民女\", True} , { \"CheckFlagAction\" : \"f2發現流寇寶藏b\", 3, 1}  ], 0}  ], 1} \t{ \"MultiAction\" : [ { 211 } , { \"SetBlackboardAction\" : \"f2曾經門口戰流寇\", 1, 2} , { \"SetTimeBlackboardAction\" : \"f2門口戰流寇\", 24} , { 211 } , { \"BattleAction\" : \"b20026c\"}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "m2004501013",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "m2004501017",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n20176",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "哪来的龟儿子来豹王寨放肆，找死！",
+      "c": "哪来的龟儿子来豹王寨放肆,找死！",
+      "rq": true,
+      "it": "<size=16>Who are these sons of bitches coming to Leopard King's stronghold, looking for death!</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2發現流寇寶藏\", False} , { \"CheckTimeBlackboardAction\" : \"f2豹王寨救民女\", True}  ], 0} , { \"LogicalNode\" : [ { \"CheckTimeBlackboardAction\" : \"f2豹王寨救民女\", True} , { \"CheckFlagAction\" : \"f2發現流寇寶藏b\", 3, 1}  ], 0}  ], 1} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { 211 } , { \"SetBlackboardAction\" : \"f2曾經門口戰流寇\", 1, 2} , { \"SetTimeBlackboardAction\" : \"f2門口戰流寇\", 24} , { 211 } , { \"BattleAction\" : \"b20026c\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

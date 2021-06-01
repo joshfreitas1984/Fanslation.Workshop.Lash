@@ -1,0 +1,97 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "1_TalentNode022",
+  "RawLine": "1_TalentNode022\t黄雀在后\t当敌人在自身的反击范围内攻击队友，有20%机率以反击技攻击该敌人\t1_TalentIcon06\t(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)\t[]\t\ttalent10005\t",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "1_TalentNode022",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "黄雀在后",
+      "c": "黄雀在后",
+      "rq": true,
+      "it": "Yellow Bird.",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "当敌人在自身的反击范围内攻击队友，有20%机率以反击技攻击该敌人",
+      "c": "当敌人在自身的反击范围内攻击队友,有20%机率以反击技攻击该敌人",
+      "rq": true,
+      "it": "When an enemy attacks a teammate within their own counter attack range, there is a 20% chance that the enemy will be attacked with a counter attack.",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "1_TalentIcon06",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "(CounterAttack,0)(Critical,0)(Release,0)(Combo,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "[]",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "talent10005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n8889001001",
+  "RawLine": "n8889001001\t0\tn8889001005\tn8889001004\t0\t0\t我之前跟那些刀客们的确有些恩怨未了，实在遗憾。\t0\t\t{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q80024\", 0, True} , { \"QuestCondition\" : \"Q80024\", 2, True} , { \"QuestCondition\" : \"Q80019\", 0, True} , { \"QuestCondition\" : \"Q80019\", 2, True}  ], 1} \t{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q80024_01\", 2} , { \"GivenQuestAction\" : \"Q80024_02\", 2} , { \"GivenQuestAction\" : \"Q80024_03\", 2} , { \"GivenQuestAction\" : \"Q80024_04\", 2} , { \"GivenQuestAction\" : \"Q80024_05\", 2} , { \"GivenQuestAction\" : \"Q80024\", 2} , { \"GivenQuestAction\" : \"Q80019_01\", 2} , { \"GivenQuestAction\" : \"Q80019_02\", 2} , { \"GivenQuestAction\" : \"Q80019_03\", 2} , { \"GivenQuestAction\" : \"Q80019\", 2}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n8889001001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n8889001005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "n8889001004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "我之前跟那些刀客们的确有些恩怨未了，实在遗憾。",
+      "c": "我之前跟那些刀客们的确有些恩怨未了,实在遗憾。",
+      "rq": true,
+      "it": "<size=16>I do have some unfinished business with the Blades, I'm sorry to say.</size>",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q80024\", 0, True} , { \"QuestCondition\" : \"Q80024\", 2, True} , { \"QuestCondition\" : \"Q80019\", 0, True} , { \"QuestCondition\" : \"Q80019\", 2, True}  ], 1} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q80024_01\", 2} , { \"GivenQuestAction\" : \"Q80024_02\", 2} , { \"GivenQuestAction\" : \"Q80024_03\", 2} , { \"GivenQuestAction\" : \"Q80024_04\", 2} , { \"GivenQuestAction\" : \"Q80024_05\", 2} , { \"GivenQuestAction\" : \"Q80024\", 2} , { \"GivenQuestAction\" : \"Q80019_01\", 2} , { \"GivenQuestAction\" : \"Q80019_02\", 2} , { \"GivenQuestAction\" : \"Q80019_03\", 2} , { \"GivenQuestAction\" : \"Q80019\", 2}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

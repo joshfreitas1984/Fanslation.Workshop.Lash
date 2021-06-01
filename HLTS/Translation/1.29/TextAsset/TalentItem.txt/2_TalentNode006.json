@@ -1,0 +1,97 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "2_TalentNode006",
+  "RawLine": "2_TalentNode006\t狮子搏兔\t若出招所耗费的精力超过5点，招式威力提升；耗费精力越多，威力越强。\t2_TalentIcon05\t(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(Critical,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)\t[]\t\ttalent20006\t",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "2_TalentNode006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "狮子搏兔",
+      "c": "狮子搏兔",
+      "rq": true,
+      "it": "Lion fighting rabbit",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "若出招所耗费的精力超过5点，招式威力提升；耗费精力越多，威力越强。",
+      "c": "若出招所耗费的精力超过5点,招式威力提升；耗费精力越多,威力越强。",
+      "rq": true,
+      "it": "If the move consumes more than 5 points of energy, the power of the move increases; the more energy consumed, the more powerful the move becomes.",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "2_TalentIcon05",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "(Release,0)(Combo,0)(CounterAttack,0)(Trick,0)(CriticalValue,0)(ReleaseValue,0)(ComboValue,0)(CounterAttackValue,0)(TrickValue,0)(Critical,0)(CriticalDamage,0)(ReleaseDamage,0)(ComboDamage,0)(CounterAttackDamage,0)(TrickDamage,0)",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "[]",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "talent20006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

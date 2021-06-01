@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60107",
+  "RawLine": "h60107\t601\tBattle2/Img_skillshortcut_item.png\t使用道具\t战斗接口下方的使用道具指令可以打开玩家的背包，在背包中能够使用丹药或是更换武器，各项操作需要耗不同数量的行动点数。部份战斗可能会有使用丹药的次数限制，甚至是禁止使用等规则。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60107",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Battle2/Img_skillshortcut_item.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "使用道具",
+      "c": "使用道具",
+      "rq": true,
+      "it": "Using Items",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "战斗接口下方的使用道具指令可以打开玩家的背包，在背包中能够使用丹药或是更换武器，各项操作需要耗不同数量的行动点数。部份战斗可能会有使用丹药的次数限制，甚至是禁止使用等规则。",
+      "c": "战斗接口下方的使用道具指令可以打开玩家的背包,在背包中能够使用丹药或是更换武器,各项操作需要耗不同数量的行动点数。部份战斗可能会有使用丹药的次数限制,甚至是禁止使用等规则。",
+      "rq": true,
+      "it": "The item command below the combat interface will open the player's backpack, which can be used for potions or Changing weapons, each action costs a different number of action points. Some battles may have rules that limit the number of times you can use potions, or even ban them.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

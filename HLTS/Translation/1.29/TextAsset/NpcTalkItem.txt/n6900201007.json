@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n6900201007",
+  "RawLine": "n6900201007\t0\tn6900201003\tn6900201033\tn69002\t0\t你已经没有利用价值了，滚一边去吧小伙子，我现在需要找一个一脸<color=#FF0000>缺德</color>样的人，那人看起来不是你！\t0\t\t{ \"LogicalNode\" : [ { \"CheckNpcFlagAction\" : \"f601\", 1, 0, \"\"} , { \"QuestCondition\" : \"Q60035_02\", 1, True} , { \"CheckFlagAction\" : \"f62025和梅福齊問過鐵沙掌\", 0, 0} , { \"QuestCondition\" : \"Q60034\", 0, False} , { \"QuestCondition\" : \"Q60034\", 1, False} , { \"CheckNpcFlagAction\" : \"f602\", 1, 0, \"\"} , { \"QuestCondition\" : \"Q60034\", 2, False}  ], 0} \t0",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n6900201007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n6900201003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "n6900201033",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n69002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "你已经没有利用价值了，滚一边去吧小伙子，我现在需要找一个一脸<color=#FF0000>缺德</color>样的人，那人看起来不是你！",
+      "c": "你已经没有利用价值了,滚一边去吧小伙子,我现在需要找一个一脸缺德样的人,那人看起来不是你！",
+      "rq": true,
+      "it": "<size=16>You're no longer of any use to me, so fuck off, lad, I need to find one with a bad face. Man, that doesn't look like you!</size>",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"CheckNpcFlagAction\" : \"f601\", 1, 0, \"\"} , { \"QuestCondition\" : \"Q60035_02\", 1, True} , { \"CheckFlagAction\" : \"f62025和梅福齊問過鐵沙掌\", 0, 0} , { \"QuestCondition\" : \"Q60034\", 0, False} , { \"QuestCondition\" : \"Q60034\", 1, False} , { \"CheckNpcFlagAction\" : \"f602\", 1, 0, \"\"} , { \"QuestCondition\" : \"Q60034\", 2, False}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60102",
+  "RawLine": "h60102\t601\t\t回合时序制\t依照战斗接口上方的顺序由左至右轮流操作，排序的规则是依照各角色的能力，一旦行动点数完全消耗，就会自动结束该单位在此回合的行动，玩家亦可以利用休息操作强制结束该单位的行动。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "回合时序制",
+      "c": "回合时序制",
+      "rq": true,
+      "it": "Turn Timing System",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "依照战斗接口上方的顺序由左至右轮流操作，排序的规则是依照各角色的能力，一旦行动点数完全消耗，就会自动结束该单位在此回合的行动，玩家亦可以利用休息操作强制结束该单位的行动。",
+      "c": "依照战斗接口上方的顺序由左至右轮流操作,排序的规则是依照各角色的能力,一旦行动点数完全消耗,就会自动结束该单位在此回合的行动,玩家亦可以利用休息操作强制结束该单位的行动。",
+      "rq": true,
+      "it": "Rotate from left to right according to the order at the top of the combat port, with the sorting rules being based on each character's ability, Once the action points are used up, it will automatically end the unit's actions this turn, or the player can use the rest action to force the unit to end. The unit's action.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

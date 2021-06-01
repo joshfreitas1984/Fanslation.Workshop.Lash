@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UISmeltMaterialHintText",
+  "RawLine": "UISmeltMaterialHintText\t稀有度为{0}的{1}共{2}个",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UISmeltMaterialHintText",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "稀有度为{0}的{1}共{2}个",
+      "c": "稀有度为<0>的<1>共<2>个",
+      "rq": true,
+      "it": "Rarity of {0} of {1} total of {2}",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

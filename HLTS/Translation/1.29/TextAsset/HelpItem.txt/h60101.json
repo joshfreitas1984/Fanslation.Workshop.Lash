@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60101",
+  "RawLine": "h60101\t601\t\t战斗模式\t本游戏的战斗机制为回合制时序战斗，每个战斗单位含有行动点数(AP)，各单位消耗各自的行动点数执行战斗指令，直到达成胜利条件或失败条件为止，才会结束战斗。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "战斗模式",
+      "c": "战斗模式",
+      "rq": true,
+      "it": "Battle Mode",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "本游戏的战斗机制为回合制时序战斗，每个战斗单位含有行动点数(AP)，各单位消耗各自的行动点数执行战斗指令，直到达成胜利条件或失败条件为止，才会结束战斗。",
+      "c": "本游戏的战斗机制为回合制时序战斗,每个战斗单位含有行动点数(AP),各单位消耗各自的行动点数执行战斗指令,直到达成胜利条件或失败条件为止,才会结束战斗。",
+      "rq": true,
+      "it": "The game's combat system is turn-based chronological combat, where each combat unit contains action points (AP). The battle will not end until either the victory condition or the defeat condition is fulfilled, after each unit consumes its own action points to execute battle commands.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

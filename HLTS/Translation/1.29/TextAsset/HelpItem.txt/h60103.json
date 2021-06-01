@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60103",
+  "RawLine": "h60103\t601\t\t时序改变\t部份技能可能含有能够改变时序的效果，例如击退时序能将受击单位的顺序往后推，晕眩效果有机会使该单位在该回合无法操作，有些能获得增益效果的技能也可能让玩家取得下一回合的先手机会。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "时序改变",
+      "c": "时序改变",
+      "rq": true,
+      "it": "Timing change",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "部份技能可能含有能够改变时序的效果，例如击退时序能将受击单位的顺序往后推，晕眩效果有机会使该单位在该回合无法操作，有些能获得增益效果的技能也可能让玩家取得下一回合的先手机会。",
+      "c": "部份技能可能含有能够改变时序的效果,例如击退时序能将受击单位的顺序往后推,晕眩效果有机会使该单位在该回合无法操作,有些能获得增益效果的技能也可能让玩家取得下一回合的先手机会。",
+      "rq": true,
+      "it": "Some skills may contain effects that change the timing, such as knockback timing that pushes back the order of units hit. There is a chance that the stun effect will render the unit inoperable that turn, and some skills that have a gain effect may also allow the player to get the next turn. Round's first phone will be.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

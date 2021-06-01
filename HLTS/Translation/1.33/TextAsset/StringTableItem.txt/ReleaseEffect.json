@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ReleaseEffect",
+  "RawLine": "ReleaseEffect\t卸劲发动时，自身伤害减少 <color=#00ffff>{0} %</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ReleaseEffect",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "卸劲发动时，自身伤害减少 <color=#00ffff>{0} %</color>",
+      "c": "卸劲发动时,自身伤害减少 <0> %",
+      "rq": true,
+      "it": "Damage reduction {0} % when unload is activated.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

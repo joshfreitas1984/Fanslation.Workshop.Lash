@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60104",
+  "RawLine": "h60104\t601\tBattle2/Img_battle_AP4.png\t行动点数(AP)\t行动点数为每个战斗单位执行战斗指令的允许值，包含移动、攻击、使用道具、更换武器等行为均会消耗行动点数，每个单位的初始点数以及每回合回复量，皆受到角色自身的能力值所影响，部份减益效果也会造成行动点数的变化。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60104",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Battle2/Img_battle_AP4.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "行动点数(AP)",
+      "c": "行动点数(AP)",
+      "rq": true,
+      "it": "Action Points (AP)",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "行动点数为每个战斗单位执行战斗指令的允许值，包含移动、攻击、使用道具、更换武器等行为均会消耗行动点数，每个单位的初始点数以及每回合回复量，皆受到角色自身的能力值所影响，部份减益效果也会造成行动点数的变化。",
+      "c": "行动点数为每个战斗单位执行战斗指令的允许值,包含移动、攻击、使用道具、更换武器等行为均会消耗行动点数,每个单位的初始点数以及每回合回复量,皆受到角色自身的能力值所影响,部份减益效果也会造成行动点数的变化。",
+      "rq": true,
+      "it": "Action points are the allowed value for each combat unit to execute combat commands, including movement, attack, use items, and Actions such as changing weapons consume action points. The ability value is affected by the ability, and some of the minus effects will also cause action points to change.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

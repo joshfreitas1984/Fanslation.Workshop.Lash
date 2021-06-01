@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h70205",
+  "RawLine": "h70205\t702\tMain/Img_Main_Money.png\t淬炼费用\t淬炼除了需要消耗投炉道具之外，铁匠也会向玩家收取淬炼费用，若使用稀有度越高的投炉，费用也会跟着提高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h70205",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "702",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Main/Img_Main_Money.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "淬炼费用",
+      "c": "淬炼费用",
+      "rq": true,
+      "it": "Hardening costs",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "淬炼除了需要消耗投炉道具之外，铁匠也会向玩家收取淬炼费用，若使用稀有度越高的投炉，费用也会跟着提高。",
+      "c": "淬炼除了需要消耗投炉道具之外,铁匠也会向玩家收取淬炼费用,若使用稀有度越高的投炉,费用也会跟着提高。",
+      "rq": true,
+      "it": "Hardening will not only cost the player a cauldron item, but the blacksmith will also charge the player a hardening fee, which will increase with rarity. The higher the pitcher, the higher the cost.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

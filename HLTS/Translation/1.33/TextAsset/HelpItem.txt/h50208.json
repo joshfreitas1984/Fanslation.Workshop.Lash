@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h50208",
+  "RawLine": "h50208\t502\t\t任务追踪\t在任务列表点击任务，可以追踪该任务，会呈现在追踪的任务列表中。若该任务有地点提示，也会将地图卷动置该位置方便玩家辨认。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h50208",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "502",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "任务追踪",
+      "c": "任务追踪",
+      "rq": true,
+      "it": "Quest Tracking",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "在任务列表点击任务，可以追踪该任务，会呈现在追踪的任务列表中。若该任务有地点提示，也会将地图卷动置该位置方便玩家辨认。",
+      "c": "在任务列表点击任务,可以追踪该任务,会呈现在追踪的任务列表中。若该任务有地点提示,也会将地图卷动置该位置方便玩家辨认。",
+      "rq": true,
+      "it": "Clicking on a quest in the quest list will track that quest, and it will be shown in the list of quests tracked. If the quest has a location hint, the map will also be scrolled to that location for the player to identify.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

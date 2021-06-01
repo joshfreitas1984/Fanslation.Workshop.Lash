@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n6040601025",
+  "RawLine": "n6040601025\t0\t0\tn6040601029\tn60406\t0\t可惜了大哥哥，明明就交代过的呀，连续七次，每次最长不得超过一天，只要中间断了就得重来，还以为阿爹能够康复了，唉…。\t0\t\t{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60041\", 0, True} , { \"CheckTimeBlackboardAction\" : \"t64022-1藥草未給足24\", False} , { \"CheckFlagAction\" : \"f64022-1藥草未給足\", 0, 0} , { \"CheckFlagAction\" : \"f64022-2藥草給足了\", 1, 0} , { \"QuestCondition\" : \"Q40038_02\", 0, False}  ], 0} \t{ \"MultiAction\" : [ { \"SetBlackboardAction\" : \"f64022-1藥草未給足\", 0, 2} , { \"SetNpcFlagAction\" : \"f601\", 0, 2, \"\"}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n6040601025",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "n6040601029",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n60406",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "可惜了大哥哥，明明就交代过的呀，连续七次，每次最长不得超过一天，只要中间断了就得重来，还以为阿爹能够康复了，唉…。",
+      "c": "可惜了大哥哥,明明就交代过的呀,连续七次,每次最长不得超过一天,只要中间断了就得重来,还以为阿爹能够康复了,唉...。",
+      "rq": true,
+      "it": "<size=16>It's a pity, big brother, I have told you, seven times in a row, each time no longer than one day, as long as... I thought I would be able to recover, but I have to start all over again....</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q60041\", 0, True} , { \"CheckTimeBlackboardAction\" : \"t64022-1藥草未給足24\", False} , { \"CheckFlagAction\" : \"f64022-1藥草未給足\", 0, 0} , { \"CheckFlagAction\" : \"f64022-2藥草給足了\", 1, 0} , { \"QuestCondition\" : \"Q40038_02\", 0, False}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"SetBlackboardAction\" : \"f64022-1藥草未給足\", 0, 2} , { \"SetNpcFlagAction\" : \"f601\", 0, 2, \"\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

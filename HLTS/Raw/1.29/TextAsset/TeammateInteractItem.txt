@@ -1,0 +1,86 @@
+n07018	n90401t	1	0	0	n0701801006	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07019	n60040	1	0	0	n0701901005	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07020	n60005	1	0	0	n0702001005	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07021	n60400	1	0	0	n0702101008	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07022	n09997	1	0	0	n0702201004	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07023	n90405	1	0	0	n0702301005	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07024	n50060	1	0	0	n0702401005	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07025a	n09999a	1	0	0	n0702501004	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07025b	n09999b	1	0	0	n0702501004	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07026	n09996	1	0	0	n0702601004	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07027	n60130	1	0	0	n0702701004	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07028	n60560	1	0	0	n0702801005	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07029	n20033	1	0	0	n0702901005	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07030	n60273	1	0	0	n0703001005	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07031	n20049	1	0	0	n0703101004	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07032	n60402	1	0	0	n0703201006	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n07035	n60100	1	0	0	n0703501004	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, True}  ], 0} 
+n0999601	n09996	1	0	0	n0999610000	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n0999602	n09996	2	1	0	n0999614000	{ "LogicalNode" : [ { 100 : 110, 0, -60, "player"} , { "QuestCondition" : "Q00020", 0, False}  ], 0} 
+n0999701	n09997	1	0	0	n0999713000	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n0999702	n09997	2	2	0	n0999716000	{ "LogicalNode" : [ { 100 : 110, 2, 30, "player"} , { "QuestCondition" : "Q00020", 0, False}  ], 0} 
+n09999a01	n09999a	1	0	0	n0999914000	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n09999b01	n09999b	1	0	0	n0999918000	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t01	n20049	1	0	0	n20049t01000	{ "LogicalNode" : [ { "QuestCondition" : "Q20011_06", 0, False} , { "QuestCondition" : "Q20011_06", 1, False} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t02	n20049	1	0	0	n20049t01002	{ "LogicalNode" : [ { "QuestCondition" : "Q20011_06", 1, True} , { "QuestCondition" : "Q20018_02", 1, False} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t03	n20049	1	0	0	n20049t01006	{ "LogicalNode" : [ { "QuestCondition" : "Q20018_02", 1, True} , { "QuestCondition" : "Q20021_06", 0, False} , { "QuestCondition" : "Q20021_06", 1, False} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t04	n20049	1	0	0	n20049t01008	{ "LogicalNode" : [ { "QuestCondition" : "Q20021_06", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t05	n20049	1	0	0	n20049t01009	{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t06	n20049	1	0	0	n20049t01010	{ "LogicalNode" : [ { "QuestCondition" : "Q20021_07", 1, True} , { "QuestCondition" : "Q20022_03", 1, False} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t07	n20049	2	0	0	n20049t07000	{ "LogicalNode" : [ { 100 : 110, 2, -100, "player"}  ], 0} 
+n20049t08	n20049	1	0	0	n20049t01012	{ "LogicalNode" : [ { "QuestCondition" : "Q20022_03", 1, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n20049t09	n51001	1	0	0	n20049t09000	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_06", 0, True}  ], 0} 
+n50060t01	n50060	1	0	0	n50060t01027	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_04", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t02	n50060	1	0	0	n50060t01028	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_06", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t03	n50060	1	0	0	n50060t01029	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_09", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t04	n50060	1	0	0	n50060t01030	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_10", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t05	n50060	1	0	0	n50060t01031	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_11", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t06	n50060	1	0	0	n50060t01043	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_05", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t07	n50060	1	0	0	n50060t01056	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_03", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t08	n50060	1	0	0	n50060t01045	{ "LogicalNode" : [ { "QuestCondition" : "Q52005_12", 1, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n50060t09	n50060	2	2	0	n50060t01046	{ "LogicalNode" : [ { 100 : 110, 2, 0, "player"} , { "QuestCondition" : "Q52005", 1, True} , { "CheckFlagAction" : "f50060t01", 0, 0}  ], 0} 
+n50060t10	n50060	3	1	0	n50060t01058	{ "LogicalNode" : [ { 100 : 109, 0, -15, "player"} , { "QuestCondition" : "Q52005", 1, True} , { "CheckFlagAction" : "f50060t02", 0, 0}  ], 0} 
+n50060t11	n50060	2	2	0	n50060t01061	{ "LogicalNode" : [ { 100 : 110, 2, 0, "player"} , { "CheckFlagAction" : "f50060t01", 1, 0} , { "QuestCondition" : "Q52005", 1, True}  ], 0} 
+n50060t12	n50060	3	1	0	n50060t01062	{ "LogicalNode" : [ { 100 : 109, 0, -15, "player"} , { "CheckFlagAction" : "f50060t02", 1, 0} , { "QuestCondition" : "Q52005", 1, True}  ], 0} 
+n51001t00	n51001	1	0	0	n9040109000	{ "LogicalNode" : [ { "QuestCondition" : "Q51001", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n51001t01	n51001	1	0	0	n9040109001	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_01", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n51001t02	n51001	1	0	0	n9040109002	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_01", 1, True} , { "QuestCondition" : "Q20017_10", 1, False} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n51001t03	n51001	1	0	0	n9040109003	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_10", 1, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n51001t06	n51001	2	2	0	n9040109022	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_10", 1, True} , { 100 : 110, 2, 61, "player"}  ], 0} 
+n51001t07	n51001	3	1	0	n9040109028	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_10", 1, True} , { 100 : 109, 0, -31, "player"}  ], 0} 
+n53001t01	n53001	1	0	0	n530010501011	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False} , { "LogicalNode" : [ { "QuestCondition" : "Q53001_05a2", 1, True} , { "QuestCondition" : "Q53001_04c1", 1, True}  ], 0}  ], 0} 
+n53001t02	n53001	1	0	0	n5300102b01147	{ "LogicalNode" : [ { "QuestCondition" : "Q53001_05a", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n53001t03	n53001	1	0	0	n5300102b01149	{ "LogicalNode" : [ { "QuestCondition" : "Q53001_05a1", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n53001t04	n53001	3	2	0	n530010501009	{ "LogicalNode" : [ { "QuestCondition" : "Q53001_05a2", 1, True} , { 100 : 109, 2, 30, "player"}  ], 0} 
+n53001t05	n53001	2	1	0	n530010501009	{ "LogicalNode" : [ { "QuestCondition" : "Q53001_05a2", 1, True} , { 100 : 110, 0, 0, "player"}  ], 0} 
+n53001t06	n53001	2	1	0	n530010501015	{ "LogicalNode" : [ { 100 : 110, 0, -11, "player"} , { "CheckFlagAction" : "f53001t01", 1, 0} , { "QuestCondition" : "Q53001_05a2", 1, True} , { 100 : 110, 2, 0, "player"}  ], 0} 
+n53001t07	n53001	3	2	0	n530010501017	{ "LogicalNode" : [ { 100 : 109, 2, 41, "player"} , { 100 : 109, 0, 30, "player"} , { "CheckFlagAction" : "f53001t02", 1, 0} , { "QuestCondition" : "Q53001_05a2", 1, True}  ], 0} 
+n60005t01	n60005	3	0	0	n6000508001	{ "LogicalNode" : [ { 100 : 109, 2, 20, "player"} , { "QuestCondition" : "Q60002", 1, False}  ], 0} 
+n60005t02	n60005	1	0	0	n6000508000	{ "LogicalNode" : [ { "CheckFlagAction" : "f63013拿到古開明王城圖", 1, 0} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60005t03	n60005	1	0	0	n6000508005	{ "LogicalNode" : [ { "QuestCondition" : "Q60037_05", 0, True} , { "CheckFlagAction" : "f63013拿到古開明王城圖", 0, 0} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60040t01	n60040	2	0	0	n6004005002	{ "LogicalNode" : [ { 100 : 110, 2, 1, "player"} , { "QuestCondition" : "Q60002", 1, False}  ], 0} 
+n60040t02	n60040	1	0	0	n6004005000	{ "LogicalNode" : [ { "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60037_04", 0, True} , { "CheckFlagAction" : "f63013拿到古開明王城圖", 1, 0}  ], 0} , { "LogicalNode" : [ { "QuestCondition" : "Q60037_04", 0, False} , { "QuestCondition" : "Q60037_04", 1, False}  ], 0}  ], 1} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60040t03	n60040	1	0	0	n6004005003	{ "LogicalNode" : [ { "QuestCondition" : "Q60037_04", 0, True} , { "CheckInventoryCountAction" : "it801069", 0, 0} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60040t04	n60040	1	0	0	n6004005005	{ "LogicalNode" : [ { "QuestCondition" : "Q60037_05", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60040t05	n60040	1	0	0	n6004005007	{ "LogicalNode" : [ { "QuestCondition" : "Q60037", 1, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60100t01	n60100	4	0	22	n6010009003	{ "LogicalNode" : [ { "CheckAreaFriendlyAction" : 2, 0, 22}  ], 0} 
+n60100t02	n60100	1	0	0	n6010009000	{ "LogicalNode" : [ { "LogicalNode" : [ { "LogicalNode" : [ { "QuestCondition" : "Q60037_01", 0, True} , { "QuestCondition" : "Q60037_02", 0, True} , { "QuestCondition" : "Q60037_03", 0, True}  ], 1} , { "LogicalNode" : [ { "QuestCondition" : "Q60037_04", 0, True} , { "CheckFlagAction" : "f63013拿到古開明王城圖", 1, 0}  ], 0} , { "LogicalNode" : [ { "QuestCondition" : "Q60037", 1, True} , { "QuestCondition" : "Q60037", 0, False}  ], 1}  ], 1} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60100t03	n60100	1	0	0	n6010009004	{ "LogicalNode" : [ { "CheckFlagAction" : "f63013拿到古開明王城圖", 0, 0} , { "QuestCondition" : "Q60037_04", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60100t04	n60100	1	0	0	n6010009006	{ "LogicalNode" : [ { "CheckFlagAction" : "f63013拿到古開明王城圖", 0, 0} , { "QuestCondition" : "Q60037_05", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60130t01	n60130	1	0	22	n6013005039	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60130t02	n60130	2	0	0	n6013005040	{ "LogicalNode" : [ { 100 : 110, 0, -31, "player"}  ], 1} 
+n60273t01	n60273	1	0	0	n6027301049	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60400t01	n60400	1	0	0	n6040002016	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60400t02	n60400	2	0	0	n6040002018	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False} , { "QuestCondition" : "Q60040", 1, False} , { 100 : 110, 2, -29, "player"}  ], 0} 
+n60402t01	n60402	1	0	0	n6040202000	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n60402t02	n60402	2	0	0	n6040202000	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False} , { 100 : 110, 0, -11, "player"}  ], 0} 
+n60560t01	n60560	1	0	0	n6056001021	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False} , { "QuestCondition" : "Q60039_02", 1, False}  ], 0} 
+n60560t02	n60560	1	0	0	n6056001025	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False} , { "QuestCondition" : "Q60039_02", 1, True} , { "QuestCondition" : "Q60039", 1, False}  ], 0} 
+n60560t03	n60560	1	0	0	n6056001026	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False} , { "QuestCondition" : "Q60039", 1, True}  ], 0} 
+n90405t00	n90405	1	0	0	n9040109023	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_07", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n90405t01	n90405	1	0	0	n9040109005	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_08", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n90405t02	n90405	1	0	0	n9040109012	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_09", 0, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n90405t03	n90405	1	0	0	n9040109013	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_10", 1, True} , { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n90405t04	n90405	1	0	0	n9040109025	{ "LogicalNode" : [ { "QuestCondition" : "Q20017_11", 0, True}  ], 0} 
+n90601t01	n20033	1	0	0	n9060100026	{ "LogicalNode" : [ { "QuestCondition" : "Q07004_02", 0, False}  ], 0} 
+n90601t02	n20033	2	2	0	n9060100018	{ "LogicalNode" : [ { 100 : 110, 2, 46, "player"} , { "QuestCondition" : "Q90009_04", 1, True}  ], 0} 

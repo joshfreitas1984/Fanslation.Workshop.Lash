@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n0008301065",
+  "RawLine": "n0008301065\t0\tn0008301067\t0\tn00083c\t0\t啊!我想到了，掌门见了宝哥后好像在找你来着，不如你就趁这个良机进去偷听吧。拜托你啦!\t0\tm_talk026_ec\t0\t{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q00018_02\", 2} , { 302 : \"n00083c\", \"m_talk011_ec\"} , { \"SetBlackboardAction\" : \"f2聽說美貌道姑上山了\", 1, 2} , { \"GivenQuestAction\" : \"Q20029_01\", 2} , { \"GivenQuestAction\" : \"Q20029_02\", 0} , { \"GivenQuestAction\" : \"Q20024_01\", 3} , { \"GivenQuestAction\" : \"Q20024_02\", 3} , { \"GivenQuestAction\" : \"Q20024_03\", 3} , { \"GivenQuestAction\" : \"Q20024\", 3} , { 213 } , { \"SetNpcFlagAction\" : \"201\", 1, 2, \"n00083c\"}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n0008301065",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n0008301067",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n00083c",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "啊!我想到了，掌门见了宝哥后好像在找你来着，不如你就趁这个良机进去偷听吧。拜托你啦!",
+      "c": "啊!我想到了,掌门见了宝哥后好像在找你来着,不如你就趁这个良机进去偷听吧。拜托你啦!",
+      "rq": true,
+      "it": "<size=16>Ah, I got it! I've got it, the Master is looking for you after seeing Brother Bao, so why don't you take this opportunity to go in and eavesdrop? I'm begging you!</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "m_talk026_ec",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q00018_02\", 2} , { 302 : \"n00083c\", \"m_talk011_ec\"} , { \"SetBlackboardAction\" : \"f2聽說美貌道姑上山了\", 1, 2} , { \"GivenQuestAction\" : \"Q20029_01\", 2} , { \"GivenQuestAction\" : \"Q20029_02\", 0} , { \"GivenQuestAction\" : \"Q20024_01\", 3} , { \"GivenQuestAction\" : \"Q20024_02\", 3} , { \"GivenQuestAction\" : \"Q20024_03\", 3} , { \"GivenQuestAction\" : \"Q20024\", 3} , { 213 } , { \"SetNpcFlagAction\" : \"201\", 1, 2, \"n00083c\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

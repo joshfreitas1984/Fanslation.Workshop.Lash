@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "MsgReceiveCriticalDamage",
+  "RawLine": "MsgReceiveCriticalDamage\t{0} 对 {1} 造成了 <color=#FFFF00>{2}</color> 点爆击伤害",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "MsgReceiveCriticalDamage",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} 对 {1} 造成了 <color=#FFFF00>{2}</color> 点爆击伤害",
+      "c": "<0> 对 <1> 造成了 <2> 点爆击伤害",
+      "rq": true,
+      "it": "{0} dealt {2} point blast damage to {1}.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

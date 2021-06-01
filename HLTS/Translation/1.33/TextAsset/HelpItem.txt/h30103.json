@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h30103",
+  "RawLine": "h30103\t301\t\t经验值分配\t游戏内建的经验值分配是将所得经验值的25%分给所修习的武学，但玩家也可以用武学秘籍图标旁的调整光标改变分配的比例来控制秘籍修练的速度，同时也可以利用这个调整光标来减少秘籍经验值的溢出量。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h30103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "经验值分配",
+      "c": "经验值分配",
+      "rq": true,
+      "it": "Distribution of Experience Points",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "游戏内建的经验值分配是将所得经验值的25%分给所修习的武学，但玩家也可以用武学秘籍图标旁的调整光标改变分配的比例来控制秘籍修练的速度，同时也可以利用这个调整光标来减少秘籍经验值的溢出量。",
+      "c": "游戏内建的经验值分配是将所得经验值的25%分给所修习的武学,但玩家也可以用武学秘籍图标旁的调整光标改变分配的比例来控制秘籍修练的速度,同时也可以利用这个调整光标来减少秘籍经验值的溢出量。",
+      "rq": true,
+      "it": "The in-game experience distribution is built in such a way that 25% of the experience points earned are allocated to the martial arts you've studied, but you can also use the The adjustment cursor next to the martial arts book icon changes the allocation ratio to control the speed of the book, and can also be used to adjust the cursor. to reduce the overflow of secret experience values.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

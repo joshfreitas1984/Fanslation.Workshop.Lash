@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h20102",
+  "RawLine": "h20102\t201\tTeamInventory/Img_bag_list07.png\t内力\t角色施展所有技能招式所需消耗的能量，内力不足的时候将无法发挥技能招式的全部威力。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h20102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "201",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "TeamInventory/Img_bag_list07.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "内力",
+      "c": "内力",
+      "rq": true,
+      "it": "Inner Strength",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "角色施展所有技能招式所需消耗的能量，内力不足的时候将无法发挥技能招式的全部威力。",
+      "c": "角色施展所有技能招式所需消耗的能量,内力不足的时候将无法发挥技能招式的全部威力。",
+      "rq": true,
+      "it": "The amount of energy the character needs to use to perform all skill moves, if the character is low on internal energy, he or she will not be able to use the full power of the skill move. Might.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h50207",
+  "RawLine": "h50207\t502\t\t任务标示\t部份进行中的任务会在地图上有地点提示，以黄色问号显示，但并非所有的任务都会提示地点，追踪中的任务会已绿色旗帜标示之。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h50207",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "502",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "任务标示",
+      "c": "任务标示",
+      "rq": true,
+      "it": "Mission marker.",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "部份进行中的任务会在地图上有地点提示，以黄色问号显示，但并非所有的任务都会提示地点，追踪中的任务会已绿色旗帜标示之。",
+      "c": "部份进行中的任务会在地图上有地点提示,以黄色问号显示,但并非所有的任务都会提示地点,追踪中的任务会已绿色旗帜标示之。",
+      "rq": true,
+      "it": "Some ongoing tasks will have a location on the map, indicated by a yellow question mark, but not all. The location will be prompted, and the quests being tracked will be marked with a green flag.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

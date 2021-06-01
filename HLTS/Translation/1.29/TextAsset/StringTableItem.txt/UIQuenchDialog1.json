@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIQuenchDialog1",
+  "RawLine": "UIQuenchDialog1\t淬炼所需费用为 {0} 文钱，您的金钱不足。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIQuenchDialog1",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "淬炼所需费用为 {0} 文钱，您的金钱不足。",
+      "c": "淬炼所需费用为 <0> 文钱,您的金钱不足。",
+      "rq": true,
+      "it": "Hardening costs {0} money, you do not have enough money.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

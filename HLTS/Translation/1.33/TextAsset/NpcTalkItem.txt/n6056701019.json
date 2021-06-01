@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n6056701019",
+  "RawLine": "n6056701019\t0\tn6056701031\t0\tn60567\t0\t哎别急、别急，刚刚姑娘才说闻到食物的香味呢，我这儿有些现成的东西，不嫌弃的话，一起吃个饭吧！这下我总算可以每天做上几道拿手好菜啦，呵呵。\t0\t\t0\t{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it60113\", 1} , { \"InventoryAction\" : 0, \"it60105\", 1} , { \"InventoryAction\" : 0, \"it60123\", 1} , { \"SetBlackboardAction\" : \"f65022-8收到第一次菜餚\", 1, 0} , { \"SetTimeBlackboardAction\" : \"t65022-8收到第一次菜餚24\", 24}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n6056701019",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n6056701031",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n60567",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "哎别急、别急，刚刚姑娘才说闻到食物的香味呢，我这儿有些现成的东西，不嫌弃的话，一起吃个饭吧！这下我总算可以每天做上几道拿手好菜啦，呵呵。",
+      "c": "哎别急、别急,刚刚姑娘才说闻到食物的香味呢,我这儿有些现成的东西,不嫌弃的话,一起吃个饭吧！这下我总算可以每天做上几道拿手好菜啦,呵呵。",
+      "rq": true,
+      "it": "<size=16>Hey, don't worry, don't worry, just now the girl said she smelled the scent of food, I have some ready-made stuff here, no. If you don't like it, let's have dinner together. Now I can finally cook a few dishes every day, huh?</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it60113\", 1} , { \"InventoryAction\" : 0, \"it60105\", 1} , { \"InventoryAction\" : 0, \"it60123\", 1} , { \"SetBlackboardAction\" : \"f65022-8收到第一次菜餚\", 1, 0} , { \"SetTimeBlackboardAction\" : \"t65022-8收到第一次菜餚24\", 24}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

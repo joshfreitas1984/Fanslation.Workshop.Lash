@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "MsgGainProperty",
+  "RawLine": "MsgGainProperty\t{0} 获得状态值 {1} : {2}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "MsgGainProperty",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} 获得状态值 {1} : {2}",
+      "c": "<0> 获得状态值 <1> : <2>",
+      "rq": true,
+      "it": "{0} Gets status value {1} : {2}",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

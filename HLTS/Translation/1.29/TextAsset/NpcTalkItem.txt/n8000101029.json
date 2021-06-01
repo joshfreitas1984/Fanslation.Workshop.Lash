@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n8000101029",
+  "RawLine": "n8000101029\t0\t0\t0\tn80002\t0\t知道了，拿去吧！\t0\tm_talk001\t0\t{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it70101\", 30} , { \"InventoryAction\" : 0, \"it70103\", 30} , { \"InventoryAction\" : 0, \"it70107\", 30} , { \"InventoryAction\" : 0, \"it70109\", 30} , { \"InventoryAction\" : 0, \"it70209\", 30} , { \"InventoryAction\" : 0, \"it70319\", 30} , { \"InventoryAction\" : 0, \"it70504\", 30} , { \"LearnForgeFormulaAction\" : \"fg10102\"} , { \"LearnForgeFormulaAction\" : \"fg10104\"} , { \"LearnForgeFormulaAction\" : \"fg10303\"} , { \"LearnForgeFormulaAction\" : \"fg10326\"} , { \"LearnForgeFormulaAction\" : \"fg10420\"} , { \"LearnForgeFormulaAction\" : \"fg10520\"} , { \"LearnForgeFormulaAction\" : \"fg11102\"} , { \"LearnForgeFormulaAction\" : \"fg10705\"} , { \"LearnForgeFormulaAction\" : \"fg10812\"} , { \"LearnForgeFormulaAction\" : \"fg10902\"} , { \"LearnForgeFormulaAction\" : \"fg10917\"} , { \"InventoryAction\" : 0, \"it70417\", 30} , { \"InventoryAction\" : 0, \"it70416\", 30}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n8000101029",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n80002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "知道了，拿去吧！",
+      "c": "知道了,拿去吧！",
+      "rq": true,
+      "it": "<size=16>Got it, take it!</size>",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "m_talk001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"InventoryAction\" : 0, \"it70101\", 30} , { \"InventoryAction\" : 0, \"it70103\", 30} , { \"InventoryAction\" : 0, \"it70107\", 30} , { \"InventoryAction\" : 0, \"it70109\", 30} , { \"InventoryAction\" : 0, \"it70209\", 30} , { \"InventoryAction\" : 0, \"it70319\", 30} , { \"InventoryAction\" : 0, \"it70504\", 30} , { \"LearnForgeFormulaAction\" : \"fg10102\"} , { \"LearnForgeFormulaAction\" : \"fg10104\"} , { \"LearnForgeFormulaAction\" : \"fg10303\"} , { \"LearnForgeFormulaAction\" : \"fg10326\"} , { \"LearnForgeFormulaAction\" : \"fg10420\"} , { \"LearnForgeFormulaAction\" : \"fg10520\"} , { \"LearnForgeFormulaAction\" : \"fg11102\"} , { \"LearnForgeFormulaAction\" : \"fg10705\"} , { \"LearnForgeFormulaAction\" : \"fg10812\"} , { \"LearnForgeFormulaAction\" : \"fg10902\"} , { \"LearnForgeFormulaAction\" : \"fg10917\"} , { \"InventoryAction\" : 0, \"it70417\", 30} , { \"InventoryAction\" : 0, \"it70416\", 30}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

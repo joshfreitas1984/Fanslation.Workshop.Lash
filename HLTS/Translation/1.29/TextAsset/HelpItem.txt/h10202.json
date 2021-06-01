@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h10202",
+  "RawLine": "h10202\t102\t\t休息\t角色可以在各据点的旅店中跟NPC购买休息时间，也可以在野外使用物品栏中的草席或极乐枕来进行休息的动作，休息将可以回复角色的血量、内力与异常状态，休息时间越久恢复效益也越高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h10202",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "休息",
+      "c": "休息",
+      "rq": true,
+      "it": "Rest.",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "角色可以在各据点的旅店中跟NPC购买休息时间，也可以在野外使用物品栏中的草席或极乐枕来进行休息的动作，休息将可以回复角色的血量、内力与异常状态，休息时间越久恢复效益也越高。",
+      "c": "角色可以在各据点的旅店中跟NPC购买休息时间,也可以在野外使用物品栏中的草席或极乐枕来进行休息的动作,休息将可以回复角色的血量、内力与异常状态,休息时间越久恢复效益也越高。",
+      "rq": true,
+      "it": "Characters can buy time off from NPCs at inns in each stronghold, and can also use mats in the field. The longer you rest, the longer you will be able to recover your character's blood, internal strength and abnormal state. The higher the efficiency as well.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

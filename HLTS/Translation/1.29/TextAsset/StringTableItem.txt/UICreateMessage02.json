@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UICreateMessage02",
+  "RawLine": "UICreateMessage02\t是否要以<color=#3174F8>{0}</color>的身分进入河洛世界展开冒险吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UICreateMessage02",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是否要以<color=#3174F8>{0}</color>的身分进入河洛世界展开冒险吗？",
+      "c": "是否要以<0>的身分进入河洛世界展开冒险吗？",
+      "rq": true,
+      "it": "Do you want to enter the world of He Luo as {0} and have an adventure?",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

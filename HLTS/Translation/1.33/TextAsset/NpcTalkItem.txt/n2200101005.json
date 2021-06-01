@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n2200101005",
+  "RawLine": "n2200101005\t0\tn2200101172\tn2200101477\tn09996\t0\t你是上哪去啦？就这么抛下奴家，自个儿快活去了是吧？我看你们这些男人都一个样，看到漂亮女人就被迷的神魂颠倒，不要奴家是吧？哼，奴家也不需要理会你这种人，不来就不来吧。\t0\t\t{ \"LogicalNode\" : [ { \"ProbabilityAction\" : 35.00000} , { 100 : 120, 0, 80, \"n09996tm\"} , { \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60040\", True} , { \"TeammateCondition\" : \"n09999a\", True} , { \"TeammateCondition\" : \"n09999b\", True} , { \"TeammateCondition\" : \"n60560\", True} , { \"TeammateCondition\" : \"n90405\", True} , { \"TeammateCondition\" : \"n20049\", True} , { \"TeammateCondition\" : \"n60400\", True} , { \"TeammateCondition\" : \"n60100\", True}  ], 1} , { 100 : 120, 2, 120, \"n09996tm\"}  ], 0} \t0",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n2200101005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n2200101172",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "n2200101477",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n09996",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "你是上哪去啦？就这么抛下奴家，自个儿快活去了是吧？我看你们这些男人都一个样，看到漂亮女人就被迷的神魂颠倒，不要奴家是吧？哼，奴家也不需要理会你这种人，不来就不来吧。",
+      "c": "你是上哪去啦？就这么抛下奴家,自个儿快活去了是吧？我看你们这些男人都一个样,看到漂亮女人就被迷的神魂颠倒,不要奴家是吧？哼,奴家也不需要理会你这种人,不来就不来吧。",
+      "rq": true,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"ProbabilityAction\" : 35.00000} , { 100 : 120, 0, 80, \"n09996tm\"} , { \"LogicalNode\" : [ { \"TeammateCondition\" : \"n60040\", True} , { \"TeammateCondition\" : \"n09999a\", True} , { \"TeammateCondition\" : \"n09999b\", True} , { \"TeammateCondition\" : \"n60560\", True} , { \"TeammateCondition\" : \"n90405\", True} , { \"TeammateCondition\" : \"n20049\", True} , { \"TeammateCondition\" : \"n60400\", True} , { \"TeammateCondition\" : \"n60100\", True}  ], 1} , { 100 : 120, 2, 120, \"n09996tm\"}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

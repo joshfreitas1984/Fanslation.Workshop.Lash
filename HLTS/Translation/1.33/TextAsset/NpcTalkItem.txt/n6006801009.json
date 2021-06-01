@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n6006801009",
+  "RawLine": "n6006801009\t0\t0\t0\tn60068\t0\t这是之前说过的报酬，乃是我的一点心意，还请{name_1}{name_2}少侠千万不要拒绝才好。\t0\t\t0\t{ \"MultiAction\" : [ { \"SetMoneyAction\" : 10000, 0} , { \"RunScheduleAction\" : \"sc60112001\", \"n60112\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60113001\", \"n60113\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60114001\", \"n60114\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60115001\", \"n60115\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60069003\", \"n60069\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60068001\", \"n60068\", -1, \"\"} , { 303 : \"n60069\", \"sc60069004\"}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n6006801009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n60068",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "这是之前说过的报酬，乃是我的一点心意，还请{name_1}{name_2}少侠千万不要拒绝才好。",
+      "c": "这是之前说过的报酬,乃是我的一点心意,还请<name_1><name_2>少侠千万不要拒绝才好。",
+      "rq": true,
+      "it": "<size=16>This is the payment I was talking about before, but it's just a little something that I'd like to do, so please {name_1}<name _2>Don't ever say no to a young warrior.</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"SetMoneyAction\" : 10000, 0} , { \"RunScheduleAction\" : \"sc60112001\", \"n60112\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60113001\", \"n60113\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60114001\", \"n60114\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60115001\", \"n60115\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60069003\", \"n60069\", -1, \"\"} , { \"RunScheduleAction\" : \"sc60068001\", \"n60068\", -1, \"\"} , { 303 : \"n60069\", \"sc60069004\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

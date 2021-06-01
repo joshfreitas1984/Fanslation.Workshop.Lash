@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipWaiting",
+  "RawLine": "TipWaiting\t等待<br>消耗 {0} 点精力",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipWaiting",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "等待<br>消耗 {0} 点精力",
+      "c": "等待消耗 <0> 点精力",
+      "rq": true,
+      "it": "Waiting consumes {0} points of energy",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

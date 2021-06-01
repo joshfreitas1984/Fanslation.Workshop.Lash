@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "DifficultyWarning2",
+  "RawLine": "DifficultyWarning2\t<color=#FFE829>˙战斗数值调整</color>：己方单位的战力会<color=#ff2222>削弱</color>，而敌方单位的战力会<color=#ff2222>增强</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "DifficultyWarning2",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#FFE829>˙战斗数值调整</color>：己方单位的战力会<color=#ff2222>削弱</color>，而敌方单位的战力会<color=#ff2222>增强</color>。",
+      "c": "˙战斗数值调整：己方单位的战力会削弱,而敌方单位的战力会增强。",
+      "rq": true,
+      "it": "Combat value adjustment: Self-unit's power will be weakened, while enemy unit's power will be increased.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

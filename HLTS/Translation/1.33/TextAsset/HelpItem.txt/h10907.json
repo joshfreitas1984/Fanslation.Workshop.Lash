@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h10907",
+  "RawLine": "h10907\t109\t\t战斗限制\t炼狱难度模式下的战斗会新增一条战斗限制，任一我方可控制战斗单位死亡就会判定玩家战斗失败。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h10907",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "109",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "战斗限制",
+      "c": "战斗限制",
+      "rq": true,
+      "it": "Combat Limits",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "炼狱难度模式下的战斗会新增一条战斗限制，任一我方可控制战斗单位死亡就会判定玩家战斗失败。",
+      "c": "炼狱难度模式下的战斗会新增一条战斗限制,任一我方可控制战斗单位死亡就会判定玩家战斗失败。",
+      "rq": true,
+      "it": "Combat in Purgatory difficulty mode will have a new combat limit, which will be determined if any of the combat units under our control dies. The player loses the battle.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

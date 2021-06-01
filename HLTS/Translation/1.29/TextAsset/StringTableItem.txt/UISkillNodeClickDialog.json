@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UISkillNodeClickDialog",
+  "RawLine": "UISkillNodeClickDialog\t学习 {0} 将消耗 {1} 点技能经验值",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UISkillNodeClickDialog",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "学习 {0} 将消耗 {1} 点技能经验值",
+      "c": "学习 <0> 将消耗 <1> 点技能经验值",
+      "rq": true,
+      "it": "Learning {0} will cost {1} skill points",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

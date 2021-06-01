@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIDecomposeDialog2",
+  "RawLine": "UIDecomposeDialog2\t拆解全部的装备需花费 {0} 文钱，您的金钱不足。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIDecomposeDialog2",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "拆解全部的装备需花费 {0} 文钱，您的金钱不足。",
+      "c": "拆解全部的装备需花费 <0> 文钱,您的金钱不足。",
+      "rq": true,
+      "it": "Disassembling all the equipment costs {0} money, you do not have enough money.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "m20018",
+  "RawLine": "m20018\t擎天寨操刀\tEventBox\t\tNone\t-1466.53, 235.86, -361.61\t50, 5, 50\t44.57893, 3.75277, 56.57059\t0, 359.149, 0\tTrue\t0\t\t{ \"LogicalNode\" : [ { \"TimeCondition\" : 13, 20} , { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} \t{ \"MultiAction\" : [ { \"RunScheduleAction\" : \"sc20031b\", \"n20031b\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031c\", \"n20031c\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031d\", \"n20031d\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031e\", \"n20031e\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031g\", \"n20031g\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031h\", \"n20031h\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031i\", \"n20031i\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031j\", \"n20031j\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031k\", \"n20031k\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031m\", \"n20031m\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031\", \"n20031\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031f\", \"n20031f\", -1, \"\"}  ]} \t{ \"MultiAction\" : [ { \"StopScheduleAction\" : \"n20031\"} , { \"StopScheduleAction\" : \"n20031b\"} , { \"StopScheduleAction\" : \"n20031c\"} , { \"StopScheduleAction\" : \"n20031d\"} , { \"StopScheduleAction\" : \"n20031e\"} , { \"StopScheduleAction\" : \"n20031f\"} , { \"StopScheduleAction\" : \"n20031g\"} , { \"StopScheduleAction\" : \"n20031h\"} , { \"StopScheduleAction\" : \"n20031i\"} , { \"StopScheduleAction\" : \"n20031j\"} , { \"StopScheduleAction\" : \"n20031k\"} , { \"StopScheduleAction\" : \"n20031m\"}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "m20018",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "擎天寨操刀",
+      "c": "擎天寨操刀",
+      "rq": true,
+      "it": "Sorrento's Daggers",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "EventBox",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "None",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "-1466.53, 235.86, -361.61",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "50, 5, 50",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "44.57893, 3.75277, 56.57059",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "0, 359.149, 0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "True",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 11,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 12,
+      "r": "{ \"LogicalNode\" : [ { \"TimeCondition\" : 13, 20} , { \"QuestCondition\" : \"Q20021_07\", 1, False}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 13,
+      "r": "{ \"MultiAction\" : [ { \"RunScheduleAction\" : \"sc20031b\", \"n20031b\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031c\", \"n20031c\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031d\", \"n20031d\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031e\", \"n20031e\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031g\", \"n20031g\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031h\", \"n20031h\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031i\", \"n20031i\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031j\", \"n20031j\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031k\", \"n20031k\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031m\", \"n20031m\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031\", \"n20031\", -1, \"\"} , { \"RunScheduleAction\" : \"sc20031f\", \"n20031f\", -1, \"\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 14,
+      "r": "{ \"MultiAction\" : [ { \"StopScheduleAction\" : \"n20031\"} , { \"StopScheduleAction\" : \"n20031b\"} , { \"StopScheduleAction\" : \"n20031c\"} , { \"StopScheduleAction\" : \"n20031d\"} , { \"StopScheduleAction\" : \"n20031e\"} , { \"StopScheduleAction\" : \"n20031f\"} , { \"StopScheduleAction\" : \"n20031g\"} , { \"StopScheduleAction\" : \"n20031h\"} , { \"StopScheduleAction\" : \"n20031i\"} , { \"StopScheduleAction\" : \"n20031j\"} , { \"StopScheduleAction\" : \"n20031k\"} , { \"StopScheduleAction\" : \"n20031m\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

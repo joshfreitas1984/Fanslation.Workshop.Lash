@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "RemoveTeammate",
+  "RawLine": "RemoveTeammate\t是否剔除队友｢{0}」",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "RemoveTeammate",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是否剔除队友｢{0}」",
+      "c": "是否剔除队友｢<0>」",
+      "rq": true,
+      "it": "Did you want to remove your teammate \"{0}\"?",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

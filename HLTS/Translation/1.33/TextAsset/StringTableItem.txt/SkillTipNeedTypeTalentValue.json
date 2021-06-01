@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SkillTipNeedTypeTalentValue",
+  "RawLine": "SkillTipNeedTypeTalentValue\t{0}感悟{1}点",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SkillTipNeedTypeTalentValue",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0}感悟{1}点",
+      "c": "<0>感悟<1>点",
+      "rq": true,
+      "it": "{0}Perceptions {1}Points",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n5002001062",
+  "RawLine": "n5002001062\t0\t0\t0\tn50020\t0\t…哼…想不到你竟是如此无情之人。你离开吧，我不想看见你。\t0\t\t0\t{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q50012_01\", 3} , { \"GivenQuestAction\" : \"Q50012_02\", 3} , { \"GivenQuestAction\" : \"Q50012_03\", 3} , { \"GivenQuestAction\" : \"Q50012_04\", 3} , { \"GivenQuestAction\" : \"Q50012_05\", 3} , { \"GivenQuestAction\" : \"Q50012_06\", 3} , { \"GivenQuestAction\" : \"Q50012_07\", 3} , { \"GivenQuestAction\" : \"Q50012\", 3} , { \"SetNpcPropertyAction\" : 109, 3, 0, \"player\"} , { \"AddExpAction\" : 50} , { 300 : \"n50020\", \"n5002002000\"} , { 213 }  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n5002001062",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n50020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "…哼…想不到你竟是如此无情之人。你离开吧，我不想看见你。",
+      "c": "...哼...想不到你竟是如此无情之人。你离开吧,我不想看见你。",
+      "rq": true,
+      "it": "<size=16>... Hmm... I never thought you could be so heartless. Go away, I don't want to see you.</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"GivenQuestAction\" : \"Q50012_01\", 3} , { \"GivenQuestAction\" : \"Q50012_02\", 3} , { \"GivenQuestAction\" : \"Q50012_03\", 3} , { \"GivenQuestAction\" : \"Q50012_04\", 3} , { \"GivenQuestAction\" : \"Q50012_05\", 3} , { \"GivenQuestAction\" : \"Q50012_06\", 3} , { \"GivenQuestAction\" : \"Q50012_07\", 3} , { \"GivenQuestAction\" : \"Q50012\", 3} , { \"SetNpcPropertyAction\" : 109, 3, 0, \"player\"} , { \"AddExpAction\" : 50} , { 300 : \"n50020\", \"n5002002000\"} , { 213 }  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

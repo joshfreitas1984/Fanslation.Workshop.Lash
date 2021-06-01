@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n6040601027",
+  "RawLine": "n6040601027\t0\tn6040601028\tn6040601022\tn60406\t0\t太好了，终于在时间内凑足了七次用药不间断的份量！\t0\t\t{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f64022-1藥草未給足\", 1, 6} , { \"CheckNpcFlagAction\" : \"f601\", 0, 0, \"\"} , { \"CheckInventoryCountAction\" : \"it40203\", 0, 29} , { \"CheckInventoryCountAction\" : \"it40204\", 0, 29} , { \"CheckInventoryCountAction\" : \"it40207\", 0, 29}  ], 0} \t{ \"MultiAction\" : [ { \"SetBlackboardAction\" : \"f64022-2藥草給足了\", 1, 0} , { \"InventoryAction\" : 1, \"it40203\", 30} , { \"InventoryAction\" : 1, \"it40204\", 30} , { \"InventoryAction\" : 1, \"it40207\", 30}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n6040601027",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n6040601028",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "n6040601022",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n60406",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "太好了，终于在时间内凑足了七次用药不间断的份量！",
+      "c": "太好了,终于在时间内凑足了七次用药不间断的份量！",
+      "rq": true,
+      "it": "<size=16>Great, finally got enough of the seven uninterrupted doses of medication in the time it took!</size>",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"CheckFlagAction\" : \"f64022-1藥草未給足\", 1, 6} , { \"CheckNpcFlagAction\" : \"f601\", 0, 0, \"\"} , { \"CheckInventoryCountAction\" : \"it40203\", 0, 29} , { \"CheckInventoryCountAction\" : \"it40204\", 0, 29} , { \"CheckInventoryCountAction\" : \"it40207\", 0, 29}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"SetBlackboardAction\" : \"f64022-2藥草給足了\", 1, 0} , { \"InventoryAction\" : 1, \"it40203\", 30} , { \"InventoryAction\" : 1, \"it40204\", 30} , { \"InventoryAction\" : 1, \"it40207\", 30}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

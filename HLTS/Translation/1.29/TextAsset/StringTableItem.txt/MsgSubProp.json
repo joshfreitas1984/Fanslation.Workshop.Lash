@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "MsgSubProp",
+  "RawLine": "MsgSubProp\t{0} {1} 减少 <color=#FFFF00>{2}</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "MsgSubProp",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} {1} 减少 <color=#FFFF00>{2}</color>",
+      "c": "<0> <1> 减少 <2>",
+      "rq": true,
+      "it": "{0} {1} Decrease {2}",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

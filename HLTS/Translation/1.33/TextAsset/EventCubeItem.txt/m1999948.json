@@ -1,0 +1,157 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "m1999948",
+  "RawLine": "m1999948\t首次遇见韩猊跋\tEventBox\t\tNone\t-1154.738, 75.676, -95.122\t1, 1, 1\t2.051912, 2.051912, 4.695453\t0, 6.306882, 0\tFalse\t0\t\t{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10010_01\", 0, True} , { \"CheckFlagAction\" : \"f2擎天寨謎樣男子b\", 3, 1}  ], 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_07\", 1, True} , { \"CheckFlagAction\" : \"f2闖擎天寨後\", 1, 1}  ], 1}  ], 0} , { \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10010_10\", 1, True} , { \"CheckTimeBlackboardAction\" : \"n1997401013\", False} , { \"CheckFlagAction\" : \"f2擎天寨謎樣男子b\", 3, 1}  ], 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_07\", 1, True} , { \"CheckFlagAction\" : \"f2闖擎天寨後\", 1, 1}  ], 1}  ], 0}  ], 1} \t{ \"MultiAction\" : [ { \"NpcNavRotateAction\" : \"player\", { 359.40170, 303.71570, 0.00000} , Null} , { \"SetTalkIdAction\" : \"n1997600018\"}  ]} \t0",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "m1999948",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "首次遇见韩猊跋",
+      "c": "首次遇见韩猊跋",
+      "rq": true,
+      "it": "First encounter with Han Geibiku",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "EventBox",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "None",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "-1154.738, 75.676, -95.122",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "1, 1, 1",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "2.051912, 2.051912, 4.695453",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "0, 6.306882, 0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "False",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 11,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 12,
+      "r": "{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10010_01\", 0, True} , { \"CheckFlagAction\" : \"f2擎天寨謎樣男子b\", 3, 1}  ], 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_07\", 1, True} , { \"CheckFlagAction\" : \"f2闖擎天寨後\", 1, 1}  ], 1}  ], 0} , { \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10010_10\", 1, True} , { \"CheckTimeBlackboardAction\" : \"n1997401013\", False} , { \"CheckFlagAction\" : \"f2擎天寨謎樣男子b\", 3, 1}  ], 0} , { \"LogicalNode\" : [ { \"QuestCondition\" : \"Q20011_07\", 1, True} , { \"CheckFlagAction\" : \"f2闖擎天寨後\", 1, 1}  ], 1}  ], 0}  ], 1} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 13,
+      "r": "{ \"MultiAction\" : [ { \"NpcNavRotateAction\" : \"player\", { 359.40170, 303.71570, 0.00000} , Null} , { \"SetTalkIdAction\" : \"n1997600018\"}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 14,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

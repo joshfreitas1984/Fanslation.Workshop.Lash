@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h50209",
+  "RawLine": "h50209\t502\t\t限时任务\t有些任务会有时间的限制，若在时间内没有完成，可能会导致任务失败。部份任务也与日夜变化相互影响，需要在对应的时间才能完成。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h50209",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "502",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "限时任务",
+      "c": "限时任务",
+      "rq": true,
+      "it": "Time-bound quests",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "有些任务会有时间的限制，若在时间内没有完成，可能会导致任务失败。部份任务也与日夜变化相互影响，需要在对应的时间才能完成。",
+      "c": "有些任务会有时间的限制,若在时间内没有完成,可能会导致任务失败。部份任务也与日夜变化相互影响,需要在对应的时间才能完成。",
+      "rq": true,
+      "it": "Some tasks are time-bound and failure to complete them within the time limit may result in failure. Some of the tasks also interact with day and night changes, and need to be completed at the corresponding time.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

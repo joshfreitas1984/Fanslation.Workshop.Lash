@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipDazed",
+  "RawLine": "TipDazed\t每回合开始<color=#00ffff> {0} %</color>无法行动",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipDazed",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每回合开始<color=#00ffff> {0} %</color>无法行动",
+      "c": "每回合开始 <0> %无法行动",
+      "rq": true,
+      "it": "Start of each round {0} % Unable to act",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "AfterDamageTalent",
+  "RawLine": "AfterDamageTalent\t每次受到攻击，累积{0} <color=#00ffff>{1} %</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "AfterDamageTalent",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每次受到攻击，累积{0} <color=#00ffff>{1} %</color>",
+      "c": "每次受到攻击,累积<0> <1> %",
+      "rq": true,
+      "it": "Cumulative {0} {1} % for each attack.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

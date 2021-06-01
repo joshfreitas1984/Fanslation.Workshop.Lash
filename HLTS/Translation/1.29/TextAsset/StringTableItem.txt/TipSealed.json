@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipSealed",
+  "RawLine": "TipSealed\t最大精力减少为<color=#00ffff>{0}</color>点",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipSealed",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "最大精力减少为<color=#00ffff>{0}</color>点",
+      "c": "最大精力减少为<0>点",
+      "rq": true,
+      "it": "max energy reduced to {0} points",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

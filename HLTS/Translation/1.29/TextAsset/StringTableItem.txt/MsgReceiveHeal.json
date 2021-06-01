@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "MsgReceiveHeal",
+  "RawLine": "MsgReceiveHeal\t{0} 对 {1} 造成了 <color=#FFFF00>{2}</color> 点治疗",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "MsgReceiveHeal",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} 对 {1} 造成了 <color=#FFFF00>{2}</color> 点治疗",
+      "c": "<0> 对 <1> 造成了 <2> 点治疗",
+      "rq": true,
+      "it": "{0} Caused {2} point healing to {1}",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

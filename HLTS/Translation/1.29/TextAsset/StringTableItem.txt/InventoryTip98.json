@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "InventoryTip98",
+  "RawLine": "InventoryTip98\t无法修炼此秘籍，因为有限定对象！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "InventoryTip98",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "无法修炼此秘籍，因为有限定对象！",
+      "c": "无法修炼此秘籍,因为有限定对象！",
+      "rq": true,
+      "it": "Can't practice this secret book because it has a limited target!",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

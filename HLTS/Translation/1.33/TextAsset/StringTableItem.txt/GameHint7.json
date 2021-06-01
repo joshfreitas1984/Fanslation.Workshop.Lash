@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "GameHint7",
+  "RawLine": "GameHint7\t每个角色可装备的负重上限不同，若超过负重最大值会使角色行动力降低。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "GameHint7",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每个角色可装备的负重上限不同，若超过负重最大值会使角色行动力降低。",
+      "c": "每个角色可装备的负重上限不同,若超过负重最大值会使角色行动力降低。",
+      "rq": true,
+      "it": "Each character can equip a different loadout, exceeding the maximum loadout will reduce the character's mobility.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

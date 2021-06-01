@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TrickEffect",
+  "RawLine": "TrickEffect\t虚招发动时，对中招者随机附加一种负面状态 <color=#00ffff>{0}</color> 点",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TrickEffect",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "虚招发动时，对中招者随机附加一种负面状态 <color=#00ffff>{0}</color> 点",
+      "c": "虚招发动时,对中招者随机附加一种负面状态 <0> 点",
+      "rq": true,
+      "it": "When a false move is launched, a random negative status {0} points is added to the hitter.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

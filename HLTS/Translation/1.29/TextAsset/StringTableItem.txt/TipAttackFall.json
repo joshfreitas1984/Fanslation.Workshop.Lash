@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipAttackFall",
+  "RawLine": "TipAttackFall\t攻击时伤害降低<color=#00ffff>{0}</color>%",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipAttackFall",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "攻击时伤害降低<color=#00ffff>{0}</color>%",
+      "c": "攻击时伤害降低<0>%",
+      "rq": true,
+      "it": "Damage reduction {0}% when attacking",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

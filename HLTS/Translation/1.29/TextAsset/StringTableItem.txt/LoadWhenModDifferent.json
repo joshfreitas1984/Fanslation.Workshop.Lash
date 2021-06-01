@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "LoadWhenModDifferent",
+  "RawLine": "LoadWhenModDifferent\t存盘所使用模块 {0} 与当前模块 {1} 不同！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "LoadWhenModDifferent",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "存盘所使用模块 {0} 与当前模块 {1} 不同！",
+      "c": "存盘所使用模块 <0> 与当前模块 <1> 不同！",
+      "rq": true,
+      "it": "The module {0} used to save the disk is different from the current module {1}!",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

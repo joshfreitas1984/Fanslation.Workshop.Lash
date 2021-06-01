@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "DifficultyWarning3",
+  "RawLine": "DifficultyWarning3\t<color=#FFE829>˙战斗机制新增</color>：<color=#22FF22>己方势力(绿色)</color>任何单位<color=#ff2222>死亡</color>会导致<color=#ff2222>战斗失败</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "DifficultyWarning3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#FFE829>˙战斗机制新增</color>：<color=#22FF22>己方势力(绿色)</color>任何单位<color=#ff2222>死亡</color>会导致<color=#ff2222>战斗失败</color>。",
+      "c": "˙战斗机制新增：己方势力(绿色)任何单位死亡会导致战斗失败。",
+      "rq": true,
+      "it": "Combat mechanic added: If any unit of your own force (green) dies, the battle will be lost.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

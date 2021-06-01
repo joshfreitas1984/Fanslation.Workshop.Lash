@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n5000401040",
+  "RawLine": "n5000401040\t0\t0\t0\t0\t0\t【……哈哈，也说不定是我多想了。没事又没证据的，可别随便去怀疑别人哪。】\t0\t\t0\t{ \"MultiAction\" : [ { 300 : \"n50004\", \"n5000402000\"} , { \"GivenQuestAction\" : \"Q50001_02\", 2} , { \"GivenQuestAction\" : \"Q50001_03\", 2} , { \"GivenQuestAction\" : \"Q50001_04\", 2} , { \"GivenQuestAction\" : \"Q50001_05\", 2} , { \"GivenQuestAction\" : \"Q50001_06\", 2} , { \"SetAreaFriendlyAction\" : 20, 15, 0} , { \"SetNpcPropertyAction\" : 111, 15, 0, \"player\"} , { \"SetBlackboardAction\" : \"f50019得知藏文佛經被偷\", 4, 2} , { \"GivenQuestAction\" : \"Q50001_07\", 0} , { \"GivenQuestAction\" : \"Q50001_07\", 2} , { \"GivenQuestAction\" : \"Q50001\", 2}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n5000401040",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "【……哈哈，也说不定是我多想了。没事又没证据的，可别随便去怀疑别人哪。】",
+      "c": "<[>......哈哈,也说不定是我多想了。没事又没证据的,可别随便去怀疑别人哪。<]>",
+      "rq": true,
+      "it": "<size=16>[.... I don't know, maybe I'm just thinking too much. It's okay and there's no evidence, don't just suspect anyone. ]</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { 300 : \"n50004\", \"n5000402000\"} , { \"GivenQuestAction\" : \"Q50001_02\", 2} , { \"GivenQuestAction\" : \"Q50001_03\", 2} , { \"GivenQuestAction\" : \"Q50001_04\", 2} , { \"GivenQuestAction\" : \"Q50001_05\", 2} , { \"GivenQuestAction\" : \"Q50001_06\", 2} , { \"SetAreaFriendlyAction\" : 20, 15, 0} , { \"SetNpcPropertyAction\" : 111, 15, 0, \"player\"} , { \"SetBlackboardAction\" : \"f50019得知藏文佛經被偷\", 4, 2} , { \"GivenQuestAction\" : \"Q50001_07\", 0} , { \"GivenQuestAction\" : \"Q50001_07\", 2} , { \"GivenQuestAction\" : \"Q50001\", 2}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

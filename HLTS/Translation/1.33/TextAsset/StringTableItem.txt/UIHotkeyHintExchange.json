@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIHotkeyHintExchange",
+  "RawLine": "UIHotkeyHintExchange\t按键<color=#3174F8>{0}</color>已被设定为<color=#ff2222>{1}</color>，是否要互换按键设定？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIHotkeyHintExchange",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "按键<color=#3174F8>{0}</color>已被设定为<color=#ff2222>{1}</color>，是否要互换按键设定？",
+      "c": "按键<0>已被设定为<1>,是否要互换按键设定？",
+      "rq": true,
+      "it": "button {0} is already set to {1}, do I need to change the button setting?",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

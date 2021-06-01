@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60109",
+  "RawLine": "h60109\t601\tBattle2/Img_skillshortcut_watting.png\t等待\t战斗接口下方的等待指令，可以让目前战斗单位的时序延后操作，此操作会消耗行动点数，但回合结束后该单位会回归到原先的时序位置。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60109",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Battle2/Img_skillshortcut_watting.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "等待",
+      "c": "等待",
+      "rq": true,
+      "it": "Waiting",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "战斗接口下方的等待指令，可以让目前战斗单位的时序延后操作，此操作会消耗行动点数，但回合结束后该单位会回归到原先的时序位置。",
+      "c": "战斗接口下方的等待指令,可以让目前战斗单位的时序延后操作,此操作会消耗行动点数,但回合结束后该单位会回归到原先的时序位置。",
+      "rq": true,
+      "it": "The wait command below the combat interface allows the current combat unit's timing to be postponed. Action Points, but at the end of the turn the unit will return to its original chronological position.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

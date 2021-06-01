@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h70403",
+  "RawLine": "h70403\t704\tMain/Img_Main_Money.png\t拆解费用\t铁匠会向玩家收取拆解武器与装备的费用，拆解稀有度越高的武器与防具，费用也会跟着提高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h70403",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "704",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Main/Img_Main_Money.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "拆解费用",
+      "c": "拆解费用",
+      "rq": true,
+      "it": "Cost of dismantling",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "铁匠会向玩家收取拆解武器与装备的费用，拆解稀有度越高的武器与防具，费用也会跟着提高。",
+      "c": "铁匠会向玩家收取拆解武器与装备的费用,拆解稀有度越高的武器与防具,费用也会跟着提高。",
+      "rq": true,
+      "it": "The Blacksmith will charge players a fee to disassemble weapons and equipment, the higher the rarity of the weapons and defense equipment, the more expensive it is. Will follow to improve.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

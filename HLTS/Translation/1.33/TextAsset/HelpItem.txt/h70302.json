@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h70302",
+  "RawLine": "h70302\t703\tMain/Img_Main_Money.png\t修理费用\t铁匠会向玩家收取修理的费用，修理稀有度越高的武器与防具，费用也会跟着提高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h70302",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "703",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Main/Img_Main_Money.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "修理费用",
+      "c": "修理费用",
+      "rq": true,
+      "it": "Cost of repairs",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "铁匠会向玩家收取修理的费用，修理稀有度越高的武器与防具，费用也会跟着提高。",
+      "c": "铁匠会向玩家收取修理的费用,修理稀有度越高的武器与防具,费用也会跟着提高。",
+      "rq": true,
+      "it": "The Blacksmith will charge the player for repairs, and the higher the rarity of the weapon or weapon, the higher the cost of repair. .",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

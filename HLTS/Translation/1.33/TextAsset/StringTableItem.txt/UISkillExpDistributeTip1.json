@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UISkillExpDistributeTip1",
+  "RawLine": "UISkillExpDistributeTip1\t获得的经验值会依照一定比例分配给秘籍，比例若调高，角色会获得较少的成长经验值，但可获得较多的秘籍经验点数。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UISkillExpDistributeTip1",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "获得的经验值会依照一定比例分配给秘籍，比例若调高，角色会获得较少的成长经验值，但可获得较多的秘籍经验点数。",
+      "c": "获得的经验值会依照一定比例分配给秘籍,比例若调高,角色会获得较少的成长经验值,但可获得较多的秘籍经验点数。",
+      "rq": true,
+      "it": "Experience points gained are allocated to the secret book in proportion to the ratio, with higher ratios resulting in less character growth. experience points, but you can gain more secret experience points.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

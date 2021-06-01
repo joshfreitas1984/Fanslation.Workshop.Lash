@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipFrozen",
+  "RawLine": "TipFrozen\t{0}减少<color=#00ffff>{1}</color>点",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipFrozen",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0}减少<color=#00ffff>{1}</color>点",
+      "c": "<0>减少<1>点",
+      "rq": true,
+      "it": "{0}Decrease of {1} points",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

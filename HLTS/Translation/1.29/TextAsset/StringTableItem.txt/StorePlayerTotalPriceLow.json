@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "StorePlayerTotalPriceLow",
+  "RawLine": "StorePlayerTotalPriceLow\t你提供的物品价值太低，我不愿跟你交换。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "StorePlayerTotalPriceLow",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你提供的物品价值太低，我不愿跟你交换。",
+      "c": "你提供的物品价值太低,我不愿跟你交换。",
+      "rq": true,
+      "it": "The value of the item you are offering is too low, I don't want to trade with you.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

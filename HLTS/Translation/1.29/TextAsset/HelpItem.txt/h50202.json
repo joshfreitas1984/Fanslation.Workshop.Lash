@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h50202",
+  "RawLine": "h50202\t502\t\t任务难度分级\t玩家接取到的任务会以白色(简单)、橘色(普通)、红色(困难)进行分级，方便玩家辨识任务的难易度。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h50202",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "502",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "任务难度分级",
+      "c": "任务难度分级",
+      "rq": true,
+      "it": "Task difficulty rating.",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "玩家接取到的任务会以白色(简单)、橘色(普通)、红色(困难)进行分级，方便玩家辨识任务的难易度。",
+      "c": "玩家接取到的任务会以白色(简单)、橘色(普通)、红色(困难)进行分级,方便玩家辨识任务的难易度。",
+      "rq": true,
+      "it": "Quests received by the player will be graded in white (easy), orange (normal), or red (difficult), Easy for the player to identify the difficulty of the mission.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

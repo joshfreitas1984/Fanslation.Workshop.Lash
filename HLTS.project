@@ -1,0 +1,275 @@
+{
+  "$type": "FanslationStudio.Domain.Project, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "Name": "HLTS",
+  "ScriptsToTranslate": [
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\AchievementItem.txt",
+      "SplitIndexes": [
+        1,
+        2,
+        12
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\AreaItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\BufferItem.txt",
+      "SplitIndexes": [
+        1,
+        2
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\CharacterPropertyItem.txt",
+      "SplitIndexes": [
+        5
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\CreatePlayerQuestionItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 18
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\DefaultSkillItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\DefaultTalentItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\EquipInventoryItem.txt",
+      "SplitIndexes": [
+        1,
+        3
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\EventCubeItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\HelpItem.txt",
+      "SplitIndexes": [
+        3,
+        4
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 20
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\NicknameItem.txt",
+      "SplitIndexes": [
+        1,
+        2
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\NormalBufferItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\NormalInventoryItem.txt",
+      "SplitIndexes": [
+        1,
+        3
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\NpcItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 18
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\NpcTalkItem.txt",
+      "SplitIndexes": [
+        6
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 20
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\ReforgeItem.txt",
+      "SplitIndexes": [
+        3
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\SkillNodeItem.txt",
+      "SplitIndexes": [
+        1,
+        2
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\SkillTreeItem.txt",
+      "SplitIndexes": [
+        1,
+        3
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\StringTableItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\TalentItem.txt",
+      "SplitIndexes": [
+        1,
+        2
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\TeleporterItem.txt",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    },
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "TextAsset\\QuestItem.txt",
+      "SplitIndexes": [
+        1,
+        3
+      ],
+      "SplitCharacters": "\t",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 18
+    }
+  ],
+  "Versions": [
+    {
+      "$type": "FanslationStudio.Domain.ProjectVersion, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Version": "1.29",
+      "RawInputFolder": "X:\\repos\\GameTranslator\\GameTranslator\\Hlts\\input1.29",
+      "OldGameTranslator": true,
+      "GameTranslatorSource": "X:\\repos\\GameTranslator\\GameTranslator\\Hlts\\finaloutput1.29"
+    },
+    {
+      "$type": "FanslationStudio.Domain.ProjectVersion, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Version": "1.33",
+      "RawInputFolder": "X:\\repos\\GameTranslator\\GameTranslator\\Hlts\\input1.33",
+      "OldGameTranslator": false,
+      "GameTranslatorSource": null
+    }
+  ]
+}

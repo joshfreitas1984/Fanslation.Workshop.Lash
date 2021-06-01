@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "CriticalEffect",
+  "RawLine": "CriticalEffect\t爆击发动时，当次伤害增加 <color=#00ffff>{0} %</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "CriticalEffect",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "爆击发动时，当次伤害增加 <color=#00ffff>{0} %</color>",
+      "c": "爆击发动时,当次伤害增加 <0> %",
+      "rq": true,
+      "it": "Add {0} % to damage when Blast is initiated.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipCramped",
+  "RawLine": "TipCramped\t每一点精力所移动的距离减为{0}%",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipCramped",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每一点精力所移动的距离减为{0}%",
+      "c": "每一点精力所移动的距离减为<0>%",
+      "rq": true,
+      "it": "Distance traveled per point of energy reduced to {0}%",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

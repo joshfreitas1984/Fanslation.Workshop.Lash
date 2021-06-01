@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UISkillTransferExp",
+  "RawLine": "UISkillTransferExp\t是否要将{0}点秘籍经验转换为角色经验？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UISkillTransferExp",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是否要将{0}点秘籍经验转换为角色经验？",
+      "c": "是否要将<0>点秘籍经验转换为角色经验？",
+      "rq": true,
+      "it": "Do I want to convert {0} points of secret experience to character experience?",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIRestDialog",
+  "RawLine": "UIRestDialog\t要休息 {0} 小时到 {1} 吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIRestDialog",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "要休息 {0} 小时到 {1} 吗？",
+      "c": "要休息 <0> 小时到 <1> 吗？",
+      "rq": true,
+      "it": "To rest {0} hours to {1}?",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

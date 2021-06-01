@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h10503",
+  "RawLine": "h10503\t105\t\t队友踢除\t若玩家想要将队友从队伍中踢除，可以在接口中（默认Tab）选择队友，并按下踢除（预设Q）键将队友请离队伍，该名队友则会回到特定地区等待玩家再次组队。部分剧情中无法踢除队友，必须完成系列任务后才能执行此操作。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h10503",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "105",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "队友踢除",
+      "c": "队友踢除",
+      "rq": true,
+      "it": "Teammates kicked out.",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "若玩家想要将队友从队伍中踢除，可以在接口中（默认Tab）选择队友，并按下踢除（预设Q）键将队友请离队伍，该名队友则会回到特定地区等待玩家再次组队。部分剧情中无法踢除队友，必须完成系列任务后才能执行此操作。",
+      "c": "若玩家想要将队友从队伍中踢除,可以在接口中（默认Tab）选择队友,并按下踢除（预设Q）键将队友请离队伍,该名队友则会回到特定地区等待玩家再次组队。部分剧情中无法踢除队友,必须完成系列任务后才能执行此操作。",
+      "rq": true,
+      "it": "If a player wants to kick a teammate off the team, he/she can select the teammate in the interface (default tab) and press kick. If a teammate is kicked off the team with the Q button, he or she will return to a specific area and wait for the player to regroup. In some scenarios, it is not possible to kick a teammate, you have to complete a series of quests to do so.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

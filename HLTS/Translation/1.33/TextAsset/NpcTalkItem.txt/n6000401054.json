@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n6000401054",
+  "RawLine": "n6000401054\t0\tn6000401055\tn6000401061\tn60040\t0\t嗯？你是谁，居然识得我家这对菡萏戏蝶？\t0\t\t{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"eq10915\", 0, 0} , { \"CheckInventoryCountAction\" : \"eq10916\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10915\", False} , { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10916\", False}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10916\", False} , { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10915\", False}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10915\", False} , { \"CheckInventoryCountAction\" : \"eq10916\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10915\", False} , { \"CheckInventoryCountAction\" : \"eq10916\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10916\", False} , { \"CheckInventoryCountAction\" : \"eq10915\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10916\", False} , { \"CheckInventoryCountAction\" : \"eq10915\", 0, 0}  ], 0}  ], 1} \t0",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n6000401054",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n6000401055",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "n6000401061",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "n60040",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "嗯？你是谁，居然识得我家这对菡萏戏蝶？",
+      "c": "嗯？你是谁,居然识得我家这对菡萏戏蝶？",
+      "rq": true,
+      "it": "<size=16>Huh? Who are you? How do you know these Indian objects?</size>",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"eq10915\", 0, 0} , { \"CheckInventoryCountAction\" : \"eq10916\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10915\", False} , { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10916\", False}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10916\", False} , { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10915\", False}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10915\", False} , { \"CheckInventoryCountAction\" : \"eq10916\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10915\", False} , { \"CheckInventoryCountAction\" : \"eq10916\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 1, \"eq10916\", False} , { \"CheckInventoryCountAction\" : \"eq10915\", 0, 0}  ], 0} , { \"LogicalNode\" : [ { \"CheckEquipmentAction\" : \"n60040\", 2, \"eq10916\", False} , { \"CheckInventoryCountAction\" : \"eq10915\", 0, 0}  ], 0}  ], 1} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BeginUnitTalent",
+  "RawLine": "BeginUnitTalent\t每回合累积{0} <color=#00ffff>{1} %</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BeginUnitTalent",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每回合累积{0} <color=#00ffff>{1} %</color>",
+      "c": "每回合累积<0> <1> %",
+      "rq": true,
+      "it": "Cumulative {0} {1} % per round",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

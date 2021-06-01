@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UITalentNodeClickDialog",
+  "RawLine": "UITalentNodeClickDialog\t精通 {0} 将消耗 {1} 点感悟点数",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UITalentNodeClickDialog",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "精通 {0} 将消耗 {1} 点感悟点数",
+      "c": "精通 <0> 将消耗 <1> 点感悟点数",
+      "rq": true,
+      "it": "Mastery {0} will cost {1} Sense Points",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

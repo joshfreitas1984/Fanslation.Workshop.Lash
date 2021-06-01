@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "StoreNoItemTransaction",
+  "RawLine": "StoreNoItemTransaction\t你得选择物品，我们才能交易喔。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "StoreNoItemTransaction",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你得选择物品，我们才能交易喔。",
+      "c": "你得选择物品,我们才能交易喔。",
+      "rq": true,
+      "it": "You have to choose the item, then we can trade.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

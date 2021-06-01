@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipTurnLossMp",
+  "RawLine": "TipTurnLossMp\t每回合失去内力<color=#00ffff>{0}</color>点",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipTurnLossMp",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每回合失去内力<color=#00ffff>{0}</color>点",
+      "c": "每回合失去内力<0>点",
+      "rq": true,
+      "it": "Loss of internal strength {0} points per round",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIBlacksmithDialog1",
+  "RawLine": "UIBlacksmithDialog1\t锻造所需费用为 {0} 文钱，您的金钱不足。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIBlacksmithDialog1",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "锻造所需费用为 {0} 文钱，您的金钱不足。",
+      "c": "锻造所需费用为 <0> 文钱,您的金钱不足。",
+      "rq": true,
+      "it": "The cost of forging is {0} money, you do not have enough money.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

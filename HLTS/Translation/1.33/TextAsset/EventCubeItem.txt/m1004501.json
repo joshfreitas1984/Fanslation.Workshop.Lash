@@ -1,0 +1,157 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "m1004501",
+  "RawLine": "m1004501\t移除高僧与火工等人尸体\tEventBox\t\tNone\t-711.342, 84.285, -237.131\t1, 1, 1\t1, 4.096363, 3.476217\t0, 0, 0\tFalse\t0\t\t{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10016_07\", 1, True}  ], 0} \t{ \"MultiAction\" : [ { \"CreateRemoveNpcAction\" : 1, \"n10045a\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10045b\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10045c\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10046b\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10051\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveObjectAction\" : 1, \"m1000114\", { 0.00000, 0.00000, 0.00000} , False, { 0.00000, 0.00000, 0.00000} } , { 213 }  ]} \t0",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "m1004501",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "移除高僧与火工等人尸体",
+      "c": "移除高僧与火工等人尸体",
+      "rq": true,
+      "it": "Removing the bodies of the high monks and firemen and others",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "EventBox",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "None",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "-711.342, 84.285, -237.131",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "1, 1, 1",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "1, 4.096363, 3.476217",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "0, 0, 0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "False",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 11,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 12,
+      "r": "{ \"LogicalNode\" : [ { \"QuestCondition\" : \"Q10016_07\", 1, True}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 13,
+      "r": "{ \"MultiAction\" : [ { \"CreateRemoveNpcAction\" : 1, \"n10045a\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10045b\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10045c\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10046b\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveNpcAction\" : 1, \"n10051\", { 0.00000, 0.00000, 0.00000} , { 0.00000, 0.00000, 0.00000} } , { \"CreateRemoveObjectAction\" : 1, \"m1000114\", { 0.00000, 0.00000, 0.00000} , False, { 0.00000, 0.00000, 0.00000} } , { 213 }  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 14,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

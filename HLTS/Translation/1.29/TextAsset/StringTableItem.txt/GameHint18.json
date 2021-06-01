@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "GameHint18",
+  "RawLine": "GameHint18\t战斗时如果内力不够，威力将会降低许多。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "GameHint18",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "战斗时如果内力不够，威力将会降低许多。",
+      "c": "战斗时如果内力不够,威力将会降低许多。",
+      "rq": true,
+      "it": "If you don't have enough power during a battle, it will be much less powerful.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

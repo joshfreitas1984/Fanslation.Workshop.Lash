@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TipIncreasedDamage",
+  "RawLine": "TipIncreasedDamage\t被攻击时伤害提高<color=#00ffff>{0}</color>%",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TipIncreasedDamage",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "被攻击时伤害提高<color=#00ffff>{0}</color>%",
+      "c": "被攻击时伤害提高<0>%",
+      "rq": true,
+      "it": "Damage increased by {0}% when attacked",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

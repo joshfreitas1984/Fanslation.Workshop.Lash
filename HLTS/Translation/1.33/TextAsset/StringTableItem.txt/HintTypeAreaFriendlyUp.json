@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HintTypeAreaFriendlyUp",
+  "RawLine": "HintTypeAreaFriendlyUp\t你与 {0} 的友好度上升了",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HintTypeAreaFriendlyUp",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你与 {0} 的友好度上升了",
+      "c": "你与 <0> 的友好度上升了",
+      "rq": true,
+      "it": "Your friendliness with {0} has gone up",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

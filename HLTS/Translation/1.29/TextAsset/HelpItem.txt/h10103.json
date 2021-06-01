@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h10103",
+  "RawLine": "h10103\t101\t\t跳跃\t按压跳跃键（预设为Space键）可以让角色跳跃到达一些一般行走无法到达的区域，配合奔跑可以让角色跳得更高更远。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h10103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "跳跃",
+      "c": "跳跃",
+      "rq": true,
+      "it": "Jumping",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "按压跳跃键（预设为Space键）可以让角色跳跃到达一些一般行走无法到达的区域，配合奔跑可以让角色跳得更高更远。",
+      "c": "按压跳跃键（预设为Space键）可以让角色跳跃到达一些一般行走无法到达的区域,配合奔跑可以让角色跳得更高更远。",
+      "rq": true,
+      "it": "Pressing the jump key (preset to Space) allows the character to jump to reach areas that would be inaccessible to normal walking! With running you can make the character jump higher and farther.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

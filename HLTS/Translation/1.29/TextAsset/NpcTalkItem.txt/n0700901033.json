@@ -1,0 +1,117 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "n0700901033",
+  "RawLine": "n0700901033\t0\tn0700901034\t0\t0\t0\t酒帮你弄来了。\t0\t\t{ \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"it60201\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60202\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60203\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60204\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60205\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60207\", 0, 0} , { \"QuestCondition\" : \"Q00016_01\", 0, True}  ], 0} \t{ \"MultiAction\" : [ { \"InventoryAction\" : 1, \"it60201\", 1} , { \"InventoryAction\" : 1, \"it60202\", 1} , { \"InventoryAction\" : 1, \"it60203\", 1} , { \"InventoryAction\" : 1, \"it60204\", 1} , { \"InventoryAction\" : 1, \"it60205\", 1} , { \"InventoryAction\" : 1, \"it60207\", 1}  ]} ",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "n0700901033",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "n0700901034",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 5,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 6,
+      "r": "酒帮你弄来了。",
+      "c": "酒帮你弄来了。",
+      "rq": true,
+      "it": "<size=16>Here's the wine for you.</size>",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 7,
+      "r": "0",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 8,
+      "r": "",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 9,
+      "r": "{ \"LogicalNode\" : [ { \"CheckInventoryCountAction\" : \"it60201\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60202\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60203\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60204\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60205\", 0, 0} , { \"CheckInventoryCountAction\" : \"it60207\", 0, 0} , { \"QuestCondition\" : \"Q00016_01\", 0, True}  ], 0} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 10,
+      "r": "{ \"MultiAction\" : [ { \"InventoryAction\" : 1, \"it60201\", 1} , { \"InventoryAction\" : 1, \"it60202\", 1} , { \"InventoryAction\" : 1, \"it60203\", 1} , { \"InventoryAction\" : 1, \"it60204\", 1} , { \"InventoryAction\" : 1, \"it60205\", 1} , { \"InventoryAction\" : 1, \"it60207\", 1}  ]} ",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

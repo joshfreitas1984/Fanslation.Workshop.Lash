@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h10302",
+  "RawLine": "h10302\t103\tPoint/Img_point_07.png\t暗取\t玩家可以使用暗取（预设为F键）来拿取NPC身上的物品，只是有被发现的可能，而被发现后通常会对玩家带来一些负面的影响，甚至引发战斗。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h10302",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Point/Img_point_07.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "暗取",
+      "c": "暗取",
+      "rq": true,
+      "it": "Dark Takes",
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "玩家可以使用暗取（预设为F键）来拿取NPC身上的物品，只是有被发现的可能，而被发现后通常会对玩家带来一些负面的影响，甚至引发战斗。",
+      "c": "玩家可以使用暗取（预设为F键）来拿取NPC身上的物品,只是有被发现的可能,而被发现后通常会对玩家带来一些负面的影响,甚至引发战斗。",
+      "rq": true,
+      "it": "The player can use the secret fetch (preset to F) to retrieve items from an NPC, only with the possibility of being discovered, while the Being discovered will usually have some negative effects on the player, and even lead to combat.",
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

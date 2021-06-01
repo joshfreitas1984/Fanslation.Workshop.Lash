@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60105",
+  "RawLine": "h60105\t601\tCompass/Img_Tagged.png\t移动\t轮到每个单位操作时默认会处于等待移动的状态，玩家可以利用鼠标、键盘或游戏手把选择要移动到的地点，移动的距离越远将会消耗越多的行动点数。战斗中没有限定角色单回合内的移动次数，可以自由移动到行动点数耗尽为止。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60105",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Compass/Img_Tagged.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "移动",
+      "c": "移动",
+      "rq": true,
+      "it": "Movement",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "轮到每个单位操作时默认会处于等待移动的状态，玩家可以利用鼠标、键盘或游戏手把选择要移动到的地点，移动的距离越远将会消耗越多的行动点数。战斗中没有限定角色单回合内的移动次数，可以自由移动到行动点数耗尽为止。",
+      "c": "轮到每个单位操作时默认会处于等待移动的状态,玩家可以利用鼠标、键盘或游戏手把选择要移动到的地点,移动的距离越远将会消耗越多的行动点数。战斗中没有限定角色单回合内的移动次数,可以自由移动到行动点数耗尽为止。",
+      "rq": true,
+      "it": "By default, each unit will be waiting for its turn to move, and the player can use the mouse, keyboard or the game to move it. The further you move, the more action points you gain. There is no limit to the number of times a character can move in a single turn in battle, so you can move freely until you run out of action points.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

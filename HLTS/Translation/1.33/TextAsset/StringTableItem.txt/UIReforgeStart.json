@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "UIReforgeStart",
+  "RawLine": "UIReforgeStart\t是否要以{0}的方式重新锻造？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "UIReforgeStart",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是否要以{0}的方式重新锻造？",
+      "c": "是否要以<0>的方式重新锻造？",
+      "rq": true,
+      "it": "Is it to be re-forged in a {0} fashion?",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h10310",
+  "RawLine": "h10310\t103\tPoint/Img_point_08.png\t切磋\t当玩家靠近NPC时，可以进行切磋（预设为G键），玩家会与该NPC进行一对一切磋，切磋胜利NPC可以有机率获得其身上的物品，一天只可以对同一个NPC提起一次切磋要求。<color=#ff2222>(只有在困难模式以上的难度下才能够切磋NPC)</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h10310",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Point/Img_point_08.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "切磋",
+      "c": "切磋",
+      "rq": true,
+      "it": "Cutscenes",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "当玩家靠近NPC时，可以进行切磋（预设为G键），玩家会与该NPC进行一对一切磋，切磋胜利NPC可以有机率获得其身上的物品，一天只可以对同一个NPC提起一次切磋要求。<color=#ff2222>(只有在困难模式以上的难度下才能够切磋NPC)</color>",
+      "c": "当玩家靠近NPC时,可以进行切磋（预设为G键）,玩家会与该NPC进行一对一切磋,切磋胜利NPC可以有机率获得其身上的物品,一天只可以对同一个NPC提起一次切磋要求。(只有在困难模式以上的难度下才能够切磋NPC)",
+      "rq": true,
+      "it": "When a player approaches an NPC, they can engage in a cutscene (preset to the G key), and the player will engage in a one-on-one with the NPC. Clash, if you win a clash, you can get items from the same NPC once a day. Requirements. (You can only cut NPCs on difficulty modes above difficulty)",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}

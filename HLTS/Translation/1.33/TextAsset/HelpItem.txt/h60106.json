@@ -1,0 +1,57 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "h60106",
+  "RawLine": "h60106\t601\tBattle2/Img_unitqueue_attack.png\t攻击\t攻击可以让玩家选择要攻击的目标，并造成受击单位伤害的指令，可以点击战斗接口下方的技能栏，或是按下对应的快捷键选择要施放的技能，接着选择攻击的目标来进行攻击，若玩家所剩余的行动点数小于技能所需的行动点数则无法施放。攻击指令亦没有次数限制，可以自由攻击到行动点数耗尽为止。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "h60106",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "Battle2/Img_unitqueue_attack.png",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 3,
+      "r": "攻击",
+      "c": "攻击",
+      "rq": true,
+      "it": "Attack",
+      "mt": "",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 4,
+      "r": "攻击可以让玩家选择要攻击的目标，并造成受击单位伤害的指令，可以点击战斗接口下方的技能栏，或是按下对应的快捷键选择要施放的技能，接着选择攻击的目标来进行攻击，若玩家所剩余的行动点数小于技能所需的行动点数则无法施放。攻击指令亦没有次数限制，可以自由攻击到行动点数耗尽为止。",
+      "c": "攻击可以让玩家选择要攻击的目标,并造成受击单位伤害的指令,可以点击战斗接口下方的技能栏,或是按下对应的快捷键选择要施放的技能,接着选择攻击的目标来进行攻击,若玩家所剩余的行动点数小于技能所需的行动点数则无法施放。攻击指令亦没有次数限制,可以自由攻击到行动点数耗尽为止。",
+      "rq": true,
+      "it": "Attack allows the player to select the target to attack and cause damage to the unit being hit. Select a skill from the skill bar below the interface, or press the corresponding shortcut key to select the skill you want to perform, and then select the target to attack, If the player has less action points than the skill requires, it cannot be used. There is no limit to the number of attack commands, so you can attack freely until you run out of action points.",
+      "mt": "",
+      "mc": false
+    }
+  ]
+}
