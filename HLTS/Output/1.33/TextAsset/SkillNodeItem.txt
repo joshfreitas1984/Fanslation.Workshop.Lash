@@ -1007,7 +1007,7 @@ SkillTree133_006	Sword Cultivation.		8000	skillIcon001_1	[]	PropertyAdd	(Sword,4
 SkillTree134_000	The Three Blades of Wondrousness		9900	SkillTree134_000	[]	Active		0	skill_wp1c009	6	340	Enemy	sector : { 0, 0, 0 }, 0, 2, 0, 100	fm_atk_sector	Target	0	buffSkillTree134_000	TRUE	342	Blade	-0.5	SkillTree134_000	
 SkillTree134_001	Saber Cultivation.		3000	skillIcon005_5	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree134_002	Genius	The required energy for the Kizen Sansei Knife is reduced by 1 point.	6600	SkillTree134	[{"Type":2,"Value1":"0","Value2":"0_TalentNode027"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree134_002	FALSE	0	None	0	0	SkillTree134_000
-SkillTree134_003	地才	The damage of the moves of the Three Talents of Chimun is increased by 90 points.	6600	SkillTree134	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree134_003	FALSE	0	None	0	0	SkillTree134_000
+SkillTree134_003	Ground Talent	The damage of the moves of the Three Talents of Chimun is increased by 90 points.	6600	SkillTree134	[{"Type":2,"Value1":"0","Value2":"2_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree134_003	FALSE	0	None	0	0	SkillTree134_000
 SkillTree134_004	Talent	If you use the Three Blades of Wonders, increase your own virtual move value by 6 points.	6600	SkillTree134	[{"Type":2,"Value1":"0","Value2":"4_TalentNode000"}]	Passive		0		0	0	Enemy			Target	0	buffSkillTree134_004	FALSE	0	None	0	0	SkillTree134_000
 SkillTree134_005	Saber Cultivation.		3000	skillIcon001_1	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree134_006	Saber Cultivation.		3000	skillIcon001_1	[]	PropertyAdd	(Blade,3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
@@ -1429,13 +1429,13 @@ SkillTree192_003	Xuan Yin Nei Gong.		6000	skillIcon001_1	[]	PropertyAdd	(Neigong
 SkillTree192_004	Xuan Yin Nei Gong.		6000	skillIcon001_1	[]	PropertyAdd	(Neigong,3)(YinAndYang,-3)	0		0	0	Enemy			Target	0		FALSE	0	None	0	0	
 SkillTree192_005	Mercy without limit		5500	SkillTree192	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree192_005	FALSE	0	None	-0.5	0	SkillTree192_000
 SkillTree192_006	Compassion for the Infinite Mind		5500	SkillTree192	[]	Passive		0		0	0	Enemy			Target	0	buffSkillTree192_006	FALSE	0	None	-0.5	0	SkillTree192_000
-SkillTree193_000	再造膏	学会再造膏的配方	5000	SkillTree193_000	[{"Type":1,"Value1":"307","Value2":"35","Operator":0},{"Type":3,"Value1":"it40208","Value2":"10"},{"Type":3,"Value1":"it40203","Value2":"10"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree193_000	FALSE	0	None	0	0	
-SkillTree193_001	医术修为	医术+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
-SkillTree193_002	医术修为	医术+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
-SkillTree193_003	医术修为	医术+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
-SkillTree193_004	虎骨断续胶	学会虎骨断续胶的配方	10000	SkillTree193_000	[{"Type":1,"Value1":"307","Value2":"45","Operator":0},{"Type":3,"Value1":"it40208","Value2":"15"},{"Type":3,"Value1":"it40228","Value2":"1"},{"Type":3,"Value1":"it40203","Value2":"15"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree193_004	FALSE	0	None	0	0	
-SkillTree194_000	凝神汤	学会凝神汤的配方	5000	SkillTree194_000	[{"Type":1,"Value1":"307","Value2":"35","Operator":0},{"Type":3,"Value1":"it40209","Value2":"10"},{"Type":3,"Value1":"it40203","Value2":"10"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree194_000	FALSE	0	None	0	0	
-SkillTree194_001	医术修为	医术+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
-SkillTree194_002	医术修为	医术+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
-SkillTree194_003	医术修为	医术+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
-SkillTree194_004	镇心理气丸	学会镇心理气丸的配方	10000	SkillTree194_000	[{"Type":1,"Value1":"307","Value2":"45","Operator":0},{"Type":3,"Value1":"it40209","Value2":"15"},{"Type":3,"Value1":"it40229","Value2":"8"},{"Type":3,"Value1":"it40203","Value2":"15"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree194_004	FALSE	0	None	0	0	
+SkillTree193_000	Recreating Ointment	Learn the recipe for Reclaiming Cream	5000	SkillTree193_000	[{"Type":1,"Value1":"307","Value2":"35","Operator":0},{"Type":3,"Value1":"it40208","Value2":"10"},{"Type":3,"Value1":"it40203","Value2":"10"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree193_000	FALSE	0	None	0	0	
+SkillTree193_001	Medical skill training	Medicine +3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
+SkillTree193_002	Medical skill	Medical skill+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
+SkillTree193_003	Medical skill	Medicine+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
+SkillTree193_004	Tiger Bone Gum	Learn the recipe for Tiger Bone Gum	10000	SkillTree193_000	[{"Type":1,"Value1":"307","Value2":"45","Operator":0},{"Type":3,"Value1":"it40208","Value2":"15"},{"Type":3,"Value1":"it40228","Value2":"1"},{"Type":3,"Value1":"it40203","Value2":"15"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree193_004	FALSE	0	None	0	0	
+SkillTree194_000	Nutrient Soup	Learn the recipe of Nourishing Soup	5000	SkillTree194_000	[{"Type":1,"Value1":"307","Value2":"35","Operator":0},{"Type":3,"Value1":"it40209","Value2":"10"},{"Type":3,"Value1":"it40203","Value2":"10"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree194_000	FALSE	0	None	0	0	
+SkillTree194_001	healing skill cultivation	Medicine +3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
+SkillTree194_002	Medical skill	healing skill+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
+SkillTree194_003	Medical skill	Medicine+3	3000	skillIcon001_1	[]	PropertyAdd	(Doctor,3)	0		0	0	Ally			Target	0		FALSE	0	None	0	0	
+SkillTree194_004	Calm your mind	Learn the recipe for Calming Qi Pills	10000	SkillTree194_000	[{"Type":1,"Value1":"307","Value2":"45","Operator":0},{"Type":3,"Value1":"it40209","Value2":"15"},{"Type":3,"Value1":"it40229","Value2":"8"},{"Type":3,"Value1":"it40203","Value2":"15"}]	Passive		0		0	0	Ally			Target	0	buffSkillTree194_004	FALSE	0	None	0	0	

@@ -215,8 +215,8 @@ CurrentTurn	Rounds {0}
 cutyourself	Practicing the Book of Broken Flowers
 cutyourself02	To practice this martial art you must be self-employed, do you want to continue practicing?
 DayFromBeginning	Day {0}
-Delete	删除存档
-DeleteFile	是否要删除此存盘记录？
+Delete	Delete archive
+DeleteFile	Do you want to delete this file?
 Deleting	is on its way to the main menu
 DifficultyDetails	Detailed description
 DifficultyWarning0	The game difficulty level currently selected is the Purgatory level, and some of the game content will be somewhat different.
@@ -644,7 +644,7 @@ GameHint22	When exploring the wilderness, always be prepared for battle and be a
 GameHint23	Forge with materials of higher rarity to create better weapons and defense equipment.
 GameHint24	There are many things to explore in the world of Rivera, so keep an eye out for interactive items around you.
 GameHint25	Learn cooking skills to cook ingredients and make delicious food, which can be eaten to gain temporary benefits. .
-GameHint26	您可以依照游戏习惯，在环境设定的操作分页中选择是否使用「视角自动跟随鼠标」的模式来进行游戏。
+GameHint26	You can choose whether to use the "view auto-follow mouse" mode to play the game according to your gaming habits in the Operation tab of the environment settings.
 GameHint3	When in battle, click on the upper left avatar to open the character's battle information interface, you can learn more about the character's details. .
 GameHint4	During battle, click on the upper left avatar to hear the character's voice and open the character's combat message interface. For more detailed information about the character, press the Alt key to display the distance between the target and the cursor.
 GameHint5	Tasks are divided into three levels of difficulty: easy (white), normal (orange), and difficult (red). You will be able to perform missions with your own abilities.
@@ -731,7 +731,7 @@ HintTypeStealProbabilityZero	The other side is heavily guarded.
 HintTypeStealTodayDontSteal	It is no longer possible to do anything to this man today
 HintTypeStealTooFar	Target too far away.
 HintTypeTeamFull	Your team is full.
-HintTypeTeammateFriendly	队友友好度上升了
+HintTypeTeammateFriendly	Teammate friendliness has increased
 HintTypeTeammmateJoin	{0} Join the team
 HintTypeTeammmateLeave	{0} Leaving the group
 HintTypeYinAndYangDown	You've become more feminine.
@@ -749,7 +749,7 @@ Hurt6	Short damage
 Hurt7	Other injuries
 Hurt8	Double Sword Damage
 Hurt9	Double Blade Damage
-HurtRang	{0}~{1}%
+HurtRang	<0>~<1>%
 Interactive02	Conversation
 Interactive03	Take
 Interactive04	Excavation
@@ -906,7 +906,7 @@ KeyName_RightControl	RightCtrl
 KeyName_Semicolon	;
 KeyName_Slash	/
 KeyName_UpArrow	↑
-LevelLabel	级
+LevelLabel	level
 Load	Load
 LoadFile	Do you want to Load {0}?
 Loading	Loading
@@ -944,7 +944,7 @@ MsgEndUnit	{0} End of operation
 MsgGainDebuffDueToTrick	{0} Because the virtual move gets a random negative status value.
 MsgGainProperty	{0} Gets status value {1} : {2}
 MsgHaveNot	{0} None {1}
-MsgLaunch	{0}
+MsgLaunch	<0>
 MsgMPNotEnough	Insufficient internal strength
 MsgPleaseSelectAvaliableTarget	Please select a valid target.
 MsgRaiseComboAttack	{0} Initiate combo,+{1} AP
@@ -1010,7 +1010,7 @@ SkillTipBuffer2	Run effect
 SkillTipCondition	Conditions of Training
 SkillTipIsCounter	Counterattackable
 SkillTipManaCost	Consuming Internal Energy
-SkillTipMultiRange	{0}-{1}
+SkillTipMultiRange	<0>-<1>
 SkillTipNeedExp	Experience
 SkillTipNeedInventory	Props
 SkillTipNeedInventoryValue	{0}{1}pc.
@@ -1021,7 +1021,7 @@ SkillTipNeedWeapon	equipment required
 SkillTipNotTalent	Conflict
 SkillTipSelector	Attack Range
 SkillTipSelectorRange	effective distance
-SkillTipSingleRange	{0}
+SkillTipSingleRange	<0>
 SkillTipSkillAction	Additional Effects
 SkillTipSwitchApCost	Energy Required for Switching
 StoreNoItemTransaction	You have to choose the item, then we can trade.
@@ -1065,7 +1065,7 @@ TipCramped	Distance traveled per point of energy reduced to {0}%
 TipDazed	Start of each round {0} % Unable to act
 TipFinish	End of battle
 TipFrozen	{0}Decrease of {1} points
-TipGameMenu	游戏选单
+TipGameMenu	Game menu
 TipIncreasedDamage	Damage increased by {0}% when attacked
 TipOpenInventory	Open Backpack Replacement Weapon Consumption {0} Points Energy Use Item Consumption {1} Points Energy
 TipRest	Conclusion of operations
@@ -1293,13 +1293,13 @@ UIRestRestUnit	hours
 UIRestTimeTitle	Now Time.
 UISettingAmbient	Ambient Music
 UISettingBGM	Background Music
-UISettingFootStep	脚步音效
+UISettingFootStep	 Footstep sound effects
 UISettingMapPlayerPosition	Display the character's current coordinates.
 UISettingMapQuestIcon	Show task location markers
 UISettingME	Sound
 UISettingMsg1	Do you want to store the current {0} setting?
 UISettingMsg2	Do you want to discard the current {0} setting and return to the preset setting?
-UISettingSwitch	开关
+UISettingSwitch	Switch
 UISettingTalk	Voice of dialogue
 UISettingTitle	Environmental Settings
 UISettingUI	Interface
