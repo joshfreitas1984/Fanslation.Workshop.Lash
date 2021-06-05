@@ -2111,7 +2111,7 @@ n40024	Mandrill evil ghost	ml_idle004	n20264	-1399.38, 130.3, -99.17	-79.761		FA
 n40025	Hillwolf evil ghost	ml_idle004	n20264	-1397.32, 132.01, -102.75	-70.63		FALSE	FALSE						1	0	1	n20161	n40020				{ "LogicalNode" : [ { "QuestCondition" : "Q40008_02", 0, True} , { "QuestCondition" : "Q40008_03", 0, True}  ], 1} 	0
 n40026	Black Tiger	al20007@idle	animal52	913.749, 76.93228, 1298.658	209.475		FALSE	TRUE		v10002		n40026		0	21	0	animal52	n40021				{ "LogicalNode" : [ { "TimeCondition" : 0, 3} , { "QuestCondition" : "Q40017_02", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "FaceToPlayerAction" : 0, "n40026", 0.00000, 0} , { "SetTalkIdAction" : "n4001703066"}  ]} , 10.00000}  ], 0} 
 n40026b	Black Tiger	al20007@idle	animal52	926.2402, 83.6162, 1330.197	72.584		FALSE	FALSE	n4001704031	v10002				0	0	0	animal52	n40021				{ "LogicalNode" : [ { "QuestCondition" : "Q40017", 1, True}  ], 0} 	0
-n40027	 Suixin Island bandit leader	ml_idle109	c_m04	0, 0, 0	0		FALSE	FALSE						1		1	n00046	n40022				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
+n40027	Suixin Island bandit leader	ml_idle109	c_m04	0, 0, 0	0		FALSE	FALSE						1		1	n00046	n40022				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
 n40028	Suixin Island bandits	m_woodman_stand01	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n19999f	n40023				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
 n40029	Suixin Island Bandits	ml_idle110	c_m07	0, 0, 0	0		FALSE	FALSE						1		1	n29006	n40024				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
 n40030	Suixin Island Bandits	ml_idle106	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n29007	n40025				{ "LogicalNode" : [ { "QuestCondition" : "Q40018", 0, True}  ], 0} 	0
@@ -2140,14 +2140,14 @@ n40037p	Theft of the dictionary robber	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE	
 n40037q	Theft of the dictionary robber	ml_idle005	n20154	0, 0, 0	0		FALSE	FALSE						1	0	0	n20154	n40031q				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
 n40037r	Theft of the dictionary robber	ml_idle108	n20154	0, 0, 0	0		FALSE	FALSE						1	0	0	n20154	n40031r				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
 n40037s	Theft of the dictionary robber	ml_idle005	n20154	0, 0, 0	0		FALSE	FALSE						1	0	0	n20154	n40031s				{ "LogicalNode" : [ { "QuestCondition" : "Q40011", 0, True}  ], 0} 	0
-n40038	 Dong House guards	ml_die101		-779.0795, 71.44144, -1038.555	-6.884		TRUE	TRUE		v00030				1	16	3	n00024c		0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
+n40038	Dong House guards	ml_die101		-779.0795, 71.44144, -1038.555	-6.884		TRUE	TRUE		v00030				1	16	3	n00024c		0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
 n40039	Dong House Guards	ml_die101		-779.4803, 71.48861, -1044.976	88.721		TRUE	TRUE		v00030				1	16	3	n00024d		0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
 n40040	Lao's mother	m_standD00		-774.67, 71.44144, -1046.82	286.663		TRUE	TRUE	n4001202033	v00053				2	16	1	n60039	n20229	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
-n40041	 Dong House escort	m_standJ00		-772.6, 71.418, -1042.678	263.364		TRUE	TRUE	n4001202032	v00030				1	16	0	n00024c	n20213	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
+n40041	Dong House escort	m_standJ00		-772.6, 71.418, -1042.678	263.364		TRUE	TRUE	n4001202032	v00030				1	16	0	n00024c	n20213	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
 n40042	Guards of the Dong House	m_standB00		-774.6472, 71.48, -1044.625	284.344		TRUE	TRUE	n4001202030	v00030				1	16	0	n00024d	n20214	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
 n40043	Maidservant Gunner	w_standA00		-774.95, 71.42, -1037.81	255.64		TRUE	TRUE	n4001202036	v00060				2	16	0	n60063-3	n20220	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
 n40044	Guards of the House of Dong	m_cry001Loop_ec		-771.5611, 71.442, -1044.923	294.334		FALSE	TRUE	n4001202031	v00030				1	16	0	n00024a	n20216	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
-n40045	 Nurse Zhao	w_standB00		-773.75, 71.44144, -1040.025	246.62		TRUE	TRUE	n4001202035	v00052	sc20217			2	16	0	n60062	n20217	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
+n40045	Nurse Zhao	w_standB00		-773.75, 71.44144, -1040.025	246.62		TRUE	TRUE	n4001202035	v00052	sc20217			2	16	0	n60062	n20217	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
 n40046	Maidservant Jian'er	w_standA00		-772.4298, 71.394, -1038.732	255.513		TRUE	TRUE	n4001202034	v00060				2	16	0	n60063-1	n20218	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40012_01", 0, True} , { "QuestCondition" : "Q40012_02", 0, True} , { "QuestCondition" : "Q40012_03", 0, True}  ], 1} 	0
 n40047	Nanzhao army chief	ml_idle101	c_m14	0, 0, 0	0		FALSE	TRUE						1		1	n00015b	n40034				{ "LogicalNode" : [ { "QuestCondition" : "Q40012_03", 0, True}  ], 0} 	0
 n40048a	Soldier of Nanzhao	ml_idle101	c_m58	0, 0, 0	0		FALSE	TRUE						1		1	n00015a	n40033a				{ "LogicalNode" : [ { "QuestCondition" : "Q40012_03", 0, True}  ], 0} 	0
@@ -2229,7 +2229,7 @@ n40085c	Wolf barbarian soldiers	ml_idle406	c_m43	-1514.813, 237.5047, -381.6056	
 n40085d	Wolf barbarian soldiers	ml_idle406	c_m43	-1508.309, 237.5047, -388.7442	-108.617		FALSE	TRUE						1	27	0	n20364d	n40058d				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
 n40085e	Wolf barbarian soldier	ml_idle104	c_m45	-1514.075, 237.5047, -389.6336	265.404		FALSE	TRUE						1	27	0	n20364	n40058e				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
 n40085f	Wolf barbarian soldier	ml_idle305	c_m45	-1518.046, 237.5047, -385.1797	187.49		FALSE	TRUE						1	27	0	n20364	n40058f				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
-n40086a	 Centurion	m_standB00	n20363	-1409.26, 228.347, -369.03	-71.38		FALSE	TRUE						1	27	0	n20363	n40059a				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
+n40086a	Centurion	m_standB00	n20363	-1409.26, 228.347, -369.03	-71.38		FALSE	TRUE						1	27	0	n20363	n40059a				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
 n40086b	Wolf barbarian soldier	ml_idle101	c_m44	-1408.422, 228.33, -371.0547	-71.38		FALSE	TRUE						1	27	0	n20364b	n40059b				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
 n40086c	Wolf barbarian soldier	ml_idle301	c_m44	-1407.421, 228.308, -368.0836	-71.38		FALSE	TRUE						1	27	0	n20364b	n40059c				{ "LogicalNode" : [ { "QuestCondition" : "Q40032_02", 0, True}  ], 0} 	0
 n40087	Wang Che	m_standG00	n20033	0, 0, 0	0		TRUE	TRUE						1	5	0	n20033	n20033	0			{ "LogicalNode" : [ { "QuestCondition" : "Q40032", 0, True} , { "QuestCondition" : "Q40033", 0, True}  ], 1} 	0
@@ -2272,7 +2272,7 @@ n40090h	Karma monks	ml_idle007	c_m35	-688.8846, 109.588, -355.7879	-250.221		FAL
 n40090i	Karma monk	ml_idle007	c_m36	-690.2764, 110.145, -358.4157	134.962		FALSE	FALSE						1	20	0	n52016	n40060i				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_01", 0, True}  ], 0} 	0
 n40091a	Disciples of the winery	ml_idle102	c_m02	-386.2968, 97.044, 742.9293	310.374		FALSE	FALSE						1	6	0	n60129	n40061a				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
 n40091b	Disciples of the winery	ml_idle102	c_m03	-384.3418, 97.073, 743.8999	310.374		FALSE	FALSE						1	6	0	n60130	n40061b				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
-n40091c	 Centurion	ml_idle109	n20363	-390.2694, 97.266, 748.7584	126.694		FALSE	FALSE						1	27	0	n20363	n40061c				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
+n40091c	Centurion	ml_idle109	n20363	-390.2694, 97.266, 748.7584	126.694		FALSE	FALSE						1	27	0	n20363	n40061c				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
 n40091d	Wolf barbarian soldier	ml_idle109	c_m44	-384.0533, 97.172, 748.7082	177.4691		FALSE	FALSE						1	27	0	n20364b	n40061d				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
 n40091e	Wolf barbarian soldier	ml_idle109	c_m45	-386.71, 97.27, 748.47	153.2631		FALSE	FALSE						1	27	0	n20364	n40061e				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
 n40091f	Wolf barbarian soldier	ml_idle109	c_m44	-390.0067, 97.109, 742.3834	78.29606		FALSE	FALSE						1	27	0	n20364b	n40061f				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_02", 0, True}  ], 0} 	0
@@ -2286,7 +2286,7 @@ n40092c	Disciples of the Immeasurable Sword School	ml_idle102	c_m79	387.0852, 67
 n40092d	Qinghai monk	ml_idle108	c_m54	382.05, 67.27654, 1305.93	150.576		FALSE	FALSE						1		0	n20511b	n40062d				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
 n40092e	Qinghai Fangs	ml_idle108	c_m53	381.51, 67.27654, 1303.91	150.576		FALSE	FALSE						1	27	0	n20511	n40062e				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
 n40092f	Qinghai monk	ml_idle108	c_m53	384.25, 67.27654, 1305.46	150.576		FALSE	FALSE						1	27	0	n20511	n40062f				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
-n40092g	 Centurion	ml_idle109	n20363	388.3578, 67.151, 1294.868	-28.289		FALSE	FALSE						1	27	0	n20363	n40062g				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
+n40092g	Centurion	ml_idle109	n20363	388.3578, 67.151, 1294.868	-28.289		FALSE	FALSE						1	27	0	n20363	n40062g				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
 n40092h	Wolf barbarian soldier	ml_idle305	c_m44	384.0156, 67.43, 1295.655	18.414		FALSE	FALSE						1	27	0	n20364b	n40062h				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
 n40092i	Wolf barbarian soldier	ml_idle305	c_m45	390.0732, 67.43, 1299.027	287.91		FALSE	FALSE						1	27	0	n20364	n40062i				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
 n40092j	Wolf barbarian soldier	ml_idle401	c_m43	391.9873, 67.43, 1302.86	234.096		FALSE	FALSE						1	27	0	n20364d	n40062j				{ "LogicalNode" : [ { "QuestCondition" : "Q40033_03", 0, True}  ], 0} 	0
@@ -2337,17 +2337,17 @@ n40101c	Disciple of the winery	ml_standA00	c_m07	-364.8279, 83.8, 704.4416	143.2
 n40101d	Disciple of the winery	ml_standA00	c_m06	-360.3613, 83.359, 704.002	200.5502		FALSE	FALSE						1	6	0	n60133	n40074d				{ "LogicalNode" : [ { "QuestCondition" : "Q40043", 0, True}  ], 0} 	0
 n40101e	Disciple of the winery	ml_standA00	c_m05	-361.6737, 83.844, 705.6716	174.3391		FALSE	FALSE						1	6	0	n60132	n40074e				{ "LogicalNode" : [ { "QuestCondition" : "Q40043", 0, True}  ], 0} 	0
 n40101f	Disciple of the winery	ml_standA00	c_m04	-364.1003, 84.02, 706.0963	157.7635		FALSE	FALSE						1	6	0	n60131	n40074f				{ "LogicalNode" : [ { "QuestCondition" : "Q40043", 0, True}  ], 0} 	0
-n40102a	 Mountain Thief	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1		1	n29006	n40076a				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
-n40102b	 mountain thief	ml_idle110	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n29007	n40076b				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
-n40102c	 mountain thief	ml_idle005	c_m16	0, 0, 0	0		FALSE	FALSE						1		1	n29008	n40076c				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
-n40102d	 Mountain bandit	ml_idle001	c_m18	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40076d				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
-n40102e	 Mountain bandit	ml_idle004	c_m06	0, 0, 0	0		FALSE	FALSE						1		0	n29009	n40076e				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
-n40102f	 Mountain bandit	ml_idle001	c_m15	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40076f				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
+n40102a	Mountain Thief	ml_idle109	c_m07	0, 0, 0	0		FALSE	FALSE						1		1	n29006	n40076a				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
+n40102b	mountain thief	ml_idle110	c_m12	0, 0, 0	0		FALSE	FALSE						1		1	n29007	n40076b				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
+n40102c	mountain thief	ml_idle005	c_m16	0, 0, 0	0		FALSE	FALSE						1		1	n29008	n40076c				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
+n40102d	Mountain bandit	ml_idle001	c_m18	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40076d				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
+n40102e	Mountain bandit	ml_idle004	c_m06	0, 0, 0	0		FALSE	FALSE						1		0	n29009	n40076e				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
+n40102f	Mountain bandit	ml_idle001	c_m15	0, 0, 0	0		FALSE	FALSE						1		1	n29009	n40076f				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
 n40103	ja jongchen	ml_standA00	c_m39	0, 0, 0	0		FALSE	FALSE						1	0	0	n40101	n40077				{ "LogicalNode" : [ { "QuestCondition" : "Q40045", 0, True}  ], 0} 	0
 n40104	thief	m_eavesdrop001Loop	n20154	-735.6472, 72.61195, -1111.817	100.894		FALSE	TRUE						1	0	0	n20154	n40078	n40104_1,n40104_2			{ "LogicalNode" : [ { "QuestCondition" : "Q40029_02", 0, True} , { "LogicalNode" : [ { "TimeCondition" : 23, 24} , { "TimeCondition" : 0, 3}  ], 1}  ], 0} 	0
 n40105	joint man	ml_standA00	n20154	-814.7766, 67.7695, -916.6612	215.439		FALSE	TRUE	n4003001005					1	0	0	n20154	n40079c				{ "LogicalNode" : [ { "QuestCondition" : "Q40030_02", 0, True} , { "LogicalNode" : [ { "TimeCondition" : 23, 24} , { "TimeCondition" : 0, 3}  ], 1}  ], 0} 	0
 n40106a	guard	ml_standA00	c_m11	0, 0, 0	0		FALSE	FALSE						1	0	0	n20170	n40079a				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, False} , { "QuestCondition" : "Q52006_08", 1, False}  ], 0} 	0
-n40106b	 escort	ml_standA00	c_m13	0, 0, 0	0		FALSE	FALSE						1	0	0	n20171	n40079b				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, False} , { "QuestCondition" : "Q52006_08", 1, False}  ], 0} 	0
+n40106b	escort	ml_standA00	c_m13	0, 0, 0	0		FALSE	FALSE						1	0	0	n20171	n40079b				{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, False} , { "QuestCondition" : "Q52006_08", 1, False}  ], 0} 	0
 n40107	Lord Luo	ml_standA00	c_m31	0, 0, 0	0		FALSE	FALSE						1	0	0	n60084					0	0
 n40108	Daoist of Chidan Palace	ml_idle004	c_m61	0, 0, 0	0		FALSE	TRUE						1	10	0	n00092a	n40080				{ "LogicalNode" : [ { "QuestCondition" : "Q40047", 0, True}  ], 1} 	0
 n40109a	Jianghu people Shadowless legs	ml_standA00	c_m05	0, 0, 0	0		FALSE	FALSE						1	0	0	n80299	n40081a				0	0
@@ -2383,19 +2383,19 @@ n40116d	Disciples of Taihua	w_kneel005	c_w04	-192.202, 129.1901, -221.995	-176.5
 n40117	Kougui Elder	ml_standA00	c_m67	0, 0, 0	0	20-23, 0-3	TRUE	FALSE	n4005302038					1	12	0	n60504	n60503				0	0
 n40118	Nun	w_worship_ec	n20534	683.4531, 101.305, 1546.383	103.838		TRUE	FALSE	n4005303058					2	0	1	n20531e	n40089				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40119a	Roving bandits	ml_idle101	c_m03	686.1943, 100.603, 1544.226	-54.576		FALSE	FALSE						1	0	0	n60174	n40088a				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
-n40119b	 Rangers	ml_idle102	c_m05	686.2368, 101.188, 1550.193	-109.511		FALSE	FALSE						1	0	0	n60176	n40088b				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
-n40119c	 Rangers	ml_idle001	c_m06	681.7642, 101.641, 1549.81	141.737		FALSE	FALSE						1	0	0	n60177	n40088c				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
-n40119d	 Rangers	ml_idle010	c_m07	686.5869, 100.25, 1541.37	-51.201		FALSE	FALSE						1	0	0	n60178	n40088d				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
+n40119b	Rangers	ml_idle102	c_m05	686.2368, 101.188, 1550.193	-109.511		FALSE	FALSE						1	0	0	n60176	n40088b				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
+n40119c	Rangers	ml_idle001	c_m06	681.7642, 101.641, 1549.81	141.737		FALSE	FALSE						1	0	0	n60177	n40088c				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
+n40119d	Rangers	ml_idle010	c_m07	686.5869, 100.25, 1541.37	-51.201		FALSE	FALSE						1	0	0	n60178	n40088d				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40119e	Roving bandits	ml_idle104	c_m03	684.2324, 100.426, 1541.004	-18.503		FALSE	FALSE						1	0	0	n60174	n40088e				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40119f	Roving bandits	ml_idle105	c_m05	684.7236, 101.532, 1552.776	-149.579		FALSE	FALSE						1	0	0	n60176	n40088f				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40119g	Roving bandits	ml_idle001	c_m06	681.5073, 101.183, 1543.066	29.197		FALSE	FALSE						1	0	0	n60177	n40088g				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40119h	Roving bandits	ml_idle010	c_m07	688.9443, 101.003, 1550.193	-108.958		FALSE	FALSE						1	0	0	n60178	n40088h				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	0
 n40120	white wolf	al20011@Scraching	animal13	-923.18, 159.978, -1432.2	-53.806		FALSE	FALSE		v10004				0	21	0	animal13	n40090				{ "LogicalNode" : [ { "QuestCondition" : "Q40053", 0, True}  ], 0} 	{ "LogicalNode" : [ { "PlayerEnterNode" : { "MultiAction" : [ { "SetTalkIdAction" : "n4005303064"}  ]} , 0.00000}  ], 0} 
-n40121a	 Rangers	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE		v00007				1		0	n29006	n20651				0	0
-n40121b	 Rangers	ml_standA00	c_m12	0, 0, 0	0		FALSE	FALSE		v00042				1		0	n29007	n20652				0	0
-n40121c	 Rangers	ml_standA00	c_m17	0, 0, 0	0		FALSE	FALSE		v00008				1		0	n29008	n20653				0	0
+n40121a	Rangers	ml_standA00	c_m07	0, 0, 0	0		FALSE	FALSE		v00007				1		0	n29006	n20651				0	0
+n40121b	Rangers	ml_standA00	c_m12	0, 0, 0	0		FALSE	FALSE		v00042				1		0	n29007	n20652				0	0
+n40121c	Rangers	ml_standA00	c_m17	0, 0, 0	0		FALSE	FALSE		v00008				1		0	n29008	n20653				0	0
 n40121d	Roving bandits	ml_standA00	c_m18	0, 0, 0	0		FALSE	FALSE		v00007				1		0	n29009	n20654				0	0
-n40121e	 Rangers	ml_standA00	c_m19	0, 0, 0	0		FALSE	FALSE		v00042				1		0	n29010	n20655				0	0
+n40121e	Rangers	ml_standA00	c_m19	0, 0, 0	0		FALSE	FALSE		v00042				1		0	n29010	n20655				0	0
 n50001	Monks of the Temple of Sweeping the Earth	ml_standA00		-620.5339, 112.7751, -434.1799	359.5416	5-17	TRUE	FALSE	n5000101000		sc50001001			1	20	0	n50012	n50001	0			{ "LogicalNode" : [ { "QuestCondition" : "Q52006_08", 0, False} , { "QuestCondition" : "Q52006_08", 1, False}  ], 0} 	0
 n50001m1	Sweeping Temple Monks	ml_standA00		0, 0, 0	0		FALSE	FALSE						1	20	0	n50018					0	0
 n50002	Ahuasan	ml_standA00		-623.12, 98.93762, -394.72	87.23091	6-18	TRUE	FALSE	n5000201000		sc50002001			1	3	0	n50007	n50002	0			{ "LogicalNode" : [ { "CheckFlagAction" : "f50005偷走老丈的木工器具", 1, 0} , { "QuestCondition" : "Q52005_06", 0, False}  ], 0} 	0

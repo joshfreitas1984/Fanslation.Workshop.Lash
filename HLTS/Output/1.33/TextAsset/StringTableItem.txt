@@ -749,7 +749,7 @@ Hurt6	Short damage
 Hurt7	Other injuries
 Hurt8	Double Sword Damage
 Hurt9	Double Blade Damage
-HurtRang	<0>~<1>%
+HurtRang	{0}~{1}%
 Interactive02	Conversation
 Interactive03	Take
 Interactive04	Excavation
@@ -944,7 +944,7 @@ MsgEndUnit	{0} End of operation
 MsgGainDebuffDueToTrick	{0} Because the virtual move gets a random negative status value.
 MsgGainProperty	{0} Gets status value {1} : {2}
 MsgHaveNot	{0} None {1}
-MsgLaunch	<0>
+MsgLaunch	{0}
 MsgMPNotEnough	Insufficient internal strength
 MsgPleaseSelectAvaliableTarget	Please select a valid target.
 MsgRaiseComboAttack	{0} Initiate combo,+{1} AP
@@ -1010,7 +1010,7 @@ SkillTipBuffer2	Run effect
 SkillTipCondition	Conditions of Training
 SkillTipIsCounter	Counterattackable
 SkillTipManaCost	Consuming Internal Energy
-SkillTipMultiRange	<0>-<1>
+SkillTipMultiRange	{0}-{1}
 SkillTipNeedExp	Experience
 SkillTipNeedInventory	Props
 SkillTipNeedInventoryValue	{0}{1}pc.
@@ -1021,7 +1021,7 @@ SkillTipNeedWeapon	equipment required
 SkillTipNotTalent	Conflict
 SkillTipSelector	Attack Range
 SkillTipSelectorRange	effective distance
-SkillTipSingleRange	<0>
+SkillTipSingleRange	{0}
 SkillTipSkillAction	Additional Effects
 SkillTipSwitchApCost	Energy Required for Switching
 StoreNoItemTransaction	You have to choose the item, then we can trade.
@@ -1293,7 +1293,7 @@ UIRestRestUnit	hours
 UIRestTimeTitle	Now Time.
 UISettingAmbient	Ambient Music
 UISettingBGM	Background Music
-UISettingFootStep	 Footstep sound effects
+UISettingFootStep	Footstep sound effects
 UISettingMapPlayerPosition	Display the character's current coordinates.
 UISettingMapQuestIcon	Show task location markers
 UISettingME	Sound
