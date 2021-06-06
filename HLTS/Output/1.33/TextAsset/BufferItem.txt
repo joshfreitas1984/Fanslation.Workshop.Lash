@@ -4,11 +4,11 @@ abovewave01	Flying Snow in Limbo	10% evasion rate	0		0	FALSE	0	FALSE	0	0		0
 abovewave02	Flying Snow in Limbo	15% evasion.	0		0	FALSE	0	FALSE	0	0		0
 abovewave03	Flying Snow in Limbo	20% evasion rate	0		0	FALSE	0	FALSE	0	0		0
 addAttack	The Golden Needle is a blessing.	In 5 rounds, significantly increase your friend's attack power.	0	buffSkillTree152_004	0	TRUE	0	FALSE	0	0		addAttack
-addDefence	Magic Needles for Moxibustion	Dramatically increase your friend's defense in 5 turns.	0	buffSkillTree152_005	0	TRUE	0	FALSE	0	0		addDefence
-addQinggong	The Wild Goose Travels a Thousand Miles	In 4 rounds, increase light power by 10 points.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		addQinggong
-addQinggong02	A thousand miles leave no trace.	In 4 rounds, increase light power by 20 points.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		addQinggong02
-addQinggong03	Ling Bo Xing	In 5 rounds, increase light power by 25 points.	0	addQinggong03	0	TRUE	0	FALSE	0	0		addQinggong03
-addQinggong04	Ling Bo Xing	In 5 rounds, increase self light power by 25 points; increase ranged attack rate when moving.	0	addQinggong03	0	TRUE	0	FALSE	0	0		addQinggong04
+addDefence	Magic Acupuncture Needle	Dramatically increase your friend's defense in 5 turns.	0	buffSkillTree152_005	0	TRUE	0	FALSE	0	0		addDefence
+addQinggong	The Wild Goose Travels a Thousand Miles	In 4 rounds, increase Light Work by 10 points.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		addQinggong
+addQinggong02	A thousand miles leave no trace.	In 4 rounds, increase Light Work by 20 points.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		addQinggong02
+addQinggong03	Ling Bo Xing	In 5 rounds, increase Light Work by 25 points.	0	addQinggong03	0	TRUE	0	FALSE	0	0		addQinggong03
+addQinggong04	Ling Bo Xing	In 5 rounds, increase self Light Work by 25 points; increase ranged attack rate when moving.	0	addQinggong03	0	TRUE	0	FALSE	0	0		addQinggong04
 allDebuffDecrease_1	Full negative status reduction	Call all-negative status reduced by 3	0		0	FALSE	0	FALSE	0	0	(Injured,-3)(Wounded,-3)(Poisoned,-3)(Sealed,-3)(Confused,-3)(Dazed,-3)(Cramped,-3)(Sprained,-3)(Exhausted,-3)(Frozen,-3)(Drunk,-3)	afterAttackProp
 armor00	Protection against trauma	Reduces the value of traumatic injury to oneself by 1 point	0		0	FALSE	0	FALSE	0	0		armor00
 armor01	Protection against trauma	Reduces self-inflicted trauma by 3 points.	0		0	FALSE	0	FALSE	0	0		armor01
@@ -50,14 +50,14 @@ BattleSchedule015	The miasma is everywhere.	Persistently poisoned each round whi
 BattleSchedule016	Severely wounded.	Aggravate the degree of trauma each round.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule016
 BattleSchedule017	Father-daughter affection.	Fight for your loved ones, damage increased by 30%.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule017
 BattleSchedule018	Plague of Gold and Silver	Money attack, resulting in trauma.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule018
-BattleSchedule019	Dong Chunlian blood replenishment judgment buff	Help Jing Tai Ran replenish his blood.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule019
-BattleSchedule020	Dong Jing cherishes each other.	Jing Tai Ran situation is critical, stimulate their own fighting power.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule020
+BattleSchedule019	Dong Chunlian blood replenishment judgment buff	Help Jing Tairan replenish his blood.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule019
+BattleSchedule020	Dong Jing cherishes each other.	Jing Tairan situation is critical, stimulate their own fighting power.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule020
 BattleSchedule021	Dong Jing cherishes each other.	Dong Chunlian is in critical condition and inspires herself to fight.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule021
 BattleSchedule022	Ezbo self-destruct to determine the hidden buff	Add 40 points for post-explosion trauma.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule022
 BattleSchedule023	Explosive Fragmentation	Trauma from the explosion.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule023
 BattleSchedule024	Vomiting of blood.	Internal wounds caused by excessive sentimentality.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule024
 BattleSchedule025	Revenge and hatred.	Lose your mind and fight with brute force, increase combat ability and lower defense.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule025
-BattleSchedule026	Dart Array	Affected by the dart formation, reduced light power.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule026
+BattleSchedule026	Dart Array	Affected by dart formations, reduces Light Work.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule026
 BattleSchedule027	Body like mud.	Cunning and unpredictable, 20% increase in offload rate per round.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule027
 BattleSchedule028	Plague of Gold and Silver	Temporarily unable to use pills after being hit hard by silver coins on acupuncture points.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule028
 BattleSchedule029	Poisonous Ambergris.	Poisoning, slight reduction in mobility and inability to use potions.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule029
@@ -65,28 +65,28 @@ BattleSchedule030	Poisonous ambergris	Poisoning, reduced mobility and inability 
 BattleSchedule031	Poisonous ambergris	Poisoning, severely reduces movement and cannot use pills.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule031
 BattleSchedule032	Huangfu Dengyun back to full blood hidden buff.	Back to full blood.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule032
 BattleSchedule033	Holy Prairie Fire.	Performing Ming Sect's unique internal power to stimulate your fighting ability.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
-BattleSchedule034	Catch the thief in the heart.	In order to capture Li Tan, increase your Light Power by 30 points.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule034
+BattleSchedule034	Catch the thief in the heart.	In order to capture Li Tan, increase your Light Work by 30 points.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule034
 BattleSchedule035	Sneak attack seriously injured	Cumulative trauma value 30 points.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule035
 BattleSchedule036	Jade and stone.	Increase your attack power by 100% and accumulate 5 points of internal damage when you attack.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule036
 BattleSchedule037	Grief and anger.	Grief and anger in heart, increase self attack power by 20%, accumulate 30 points of confusion.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule037
 BattleSchedule038	Panic	20% chance to get out of dialogue and escape the battle on the unit's turn.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule038
 BattleSchedule039	Soft Tendons.	Reduces energy value by 5 points and internal energy value by 20%	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule039
 BattleSchedule040	Backwater.	Desperate struggle, damage increased by 50%.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule033
-BattleSchedule041	Imminent danger.	See Lee Yen-sen in critical condition to trigger potential, increase damage by 30% and reduce damage by 50%.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule041
+BattleSchedule041	Imminent danger.	Seeing Li Yanxian in critical condition increases his damage potential by 30% and reduces damage by 50%.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule041
 BattleSchedule042	The Power of No Mercy	Hidden buff, when 70% of blood level, dialogue back to full blood.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule042
 BattleSchedule043	Yang Tianyi Blood Judgment Hidden Buffs	Judging the Blood Volume	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule043
 BattleSchedule044	Drunken Butterfly Scales	Unique poison, accumulate 3 points of poison per move.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule044
-BattleSchedule045	Yang Tianyi's blood quantity to judge He Bai Shao burst away hidden buffs	Apply a buff to He Bai Shao after judging the amount of blood.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule045
+BattleSchedule045	Yang Tianyi's blood quantity to judge He Baishao burst away hidden buffs	Apply a buff to He Baishao after judging the amount of blood.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule045
 BattleSchedule046	Stronger parasites	Forcing the body's potential with compulsion, restoring 50% of one's qi and blood value, increasing damage by 30%.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule046
 BattleSchedule047	Moral Decay hidden buff	Moral value reduced by two points	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule047
 BattleSchedule048	Second Idiot Blood Volume Hidden Judgment Buff	Blood volume to judge the conversation	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule048
 BattleSchedule049	Fiery Kundoka	When running, it will increase your offensive and defensive combat ability, and will run out of energy after five rounds.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule049
 BattleSchedule050	Blood Feud	Great Enemy is currently high, dealing 50% more damage, 4 additional points of energy per turn, and confusion. Cumulative 20 points	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule050
 BattleSchedule051	Kiankun Tongji	Use the secret method of the Book of Heaven to increase damage by 50%.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule051
-BattleSchedule052	Wo Yuqing Blood Judgment buff	Hidden buff, 50% blood volume judgment, out of dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
-BattleSchedule053	Wo Wang Yuan Blood Judgment buff	Hidden buff, 50% blood volume judgment, out of dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule053
+BattleSchedule052	He Yuqing Blood Judgment buff	Hidden buff, 50% blood volume judgment, out of dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule052
+BattleSchedule053	He Hongyuan Blood Judgment buff	Hidden buff, 50% blood volume judgment, out of dialogue	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule053
 BattleSchedule054	Megatronan	30% increase in attack power	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule054
-BattleSchedule055	White Dew Frost attack buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
+BattleSchedule055	Bailu Shuang Attack buff		0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule055
 BattleSchedule056	Golden Toad Spitting Pearl	Damage increases by 30% after every two rounds.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule056
 BattleSchedule057	The Magic Hand.	Recover 20% of your blood after three rounds.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule057
 BattleSchedule058	Serpentine.	Slow Poisoning, accumulates 10 poison points per round.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule058
@@ -111,7 +111,7 @@ BattleSchedule076	Top 10 Villainous Sanctum Battle Shrimp Resurrection buff	Hide
 BattleSchedule077	He Baek Paeong blood amount to judge hidden buffs	Hidden Buffs	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule077
 BattleSchedule078	Full Fury	Damage increased by 25%.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule078
 BattleSchedule079	Ecstasy	Poisoning drains internal strength, cumulative dizziness 50 points, and confusion 50 points; reduces internal strength by 30 points and light strength by 30 points. Points; no use of items	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule079
-BattleSchedule080	Wang Che lowering light power hidden buff	Hide buff, light power minus 30 points.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule080
+BattleSchedule080	Wang Zhe's Light Descent Hidden Buff	Hide buff, Light Work minus 30 points.	0	battle_debuff	0	FALSE	0	FALSE	0	0		BattleSchedule080
 BattleSchedule081	There is a way to steal.	Dramatically increase the combat ability of the enemy.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule081
 BattleSchedule082	Enemy in the back	Enemy in front and behind, 20% reduction in counter rate, disarm rate, blast rate, combo rate, and false move rate per round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule082
 BattleSchedule083	Vomiting and diarrhea	Stomach pain and dizziness, 10 points of confusion per round	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule083
@@ -146,23 +146,23 @@ BattleSchedule501	Hoorrrrr!!!!!	Snow Leopard rages at the sight of an enemy, boo
 BattleSchedule502	Shivering	What is there to be afraid of in a big, big snow leopard? Eat, eat, eat, eat my knife!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule502
 BattleSchedule503	Fear	... Ugh... This snow leopard is fierce... I should have known not to come to Snow Mountain...	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule503
 BattleSchedule504	Gahhhh!	The Snow Winged Eagle, emboldened, comes to attack the colony, growing stronger by the day!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule504
-BattleSchedule505	Gahhhh....!	Snowwing Sculptor has been hit by a paralyzing poison, and has fallen into a state of weakness... Weakened attack damage and energy recovery, and accumulated 20 points of poison!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule505
-BattleSchedule506	Avenge the Falcon!	Eagle Hunter's vengeful heart, move damage increase	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule506
+BattleSchedule505	Gahhhh....!	Snow Wing Eagle has been hit by a paralyzing poison, and has fallen into a state of weakness... Weakened attack damage and energy recovery, and accumulated 20 points of poison!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule505
+BattleSchedule506	Avenge the Eagle!	Eagle Hunter's vengeful heart, move damage increase	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule506
 BattleSchedule507	Big Brother is right!	Keep up with the big brother! Self-improvement in combat!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule507
-BattleSchedule508	Give me back my falcon's life!	Ajie's desire for revenge has strengthened his fighting ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule508
-BattleSchedule509	Preying on falcons	The more falcons you catch, the more blood and energy you'll gain per round.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509
+BattleSchedule508	Give me back my Eagle's life!	Ajie's desire for revenge has strengthened his fighting ability!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule508
+BattleSchedule509	Preying on Eagles	The more eagles you catch, the more blood and energy you'll gain per round.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule509
 BattleSchedule510	Stubborn and unyielding	Snow Winged Eagle is fierce and stubborn, even if it dies, it won't run away!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule510
-BattleSchedule511	Exhaustion	Snowwing Eagle is exhausted, showing signs of fatigue... Attack damage is reduced, and accumulates 10 points of Confusion.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
-BattleSchedule512	Weakness	Snowwing has lost a lot of blood and is getting weaker... Reduced stamina and accumulated 10 points of dizziness.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
+BattleSchedule511	Exhaustion	Snow Wing Eagle is exhausted, showing signs of fatigue... Attack damage is reduced, and accumulates 10 points of Confusion.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule511
+BattleSchedule512	Weakness	Snow Wing Eagle has lost a lot of blood and is getting weaker... Reduced energy recovery and accumulated 10 points of dizziness.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule512
 BattleSchedule513	Bloodbath.	In order to live up to his mission, Tulle fought a bloody battle.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule513
 BattleSchedule514	Stand firm in raising one's spear	Tulle fought to the death to keep his mission alive.	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule514
 BattleSchedule515	Heroic Rage	Tulle fought with blood, vowing to slaughter the bandits!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule515
 BattleSchedule516	Spread of the poison	Tulle has been poisoned by the Man in Black, with a very strong poison!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule516
-BattleSchedule517	The will to seize power	Mukui's fighting ability has increased dramatically, and he continues to recover his blood!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
+BattleSchedule517	The will to seize power	Mu Kui's fighting ability has increased dramatically, and he continues to recover his blood!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule517
 BattleSchedule518	"Gango	Mukky is in danger, fighting alone! Combat ability is greatly increased, and it continues to recover its own blood!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule518
 BattleSchedule519	All hands on deck.	Keep up with the Second Master! Move damage is greatly increased, and continues to restore your blood!	0	battle	0	TRUE	0	FALSE	0	0		BattleSchedule519
 BattleSchedule520	The Lone Defender of the Lord	Tulle fights to protect his master... Each turn, he will accumulate trauma points and lose a lot of blood.	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule520
-BattleSchedule521	Impending rebellion	Sandon defected in front of the battlefield to assist in the capture of Mokyu, the rebel from Kifu!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
+BattleSchedule521	Impending rebellion	Sang Deng defected in front of the battlefield to assist in the capture of Mu Kui, the rebel from Mu House!	0	battle_debuff	0	TRUE	0	FALSE	0	0		BattleSchedule521
 blade01	Enhanced Blade Damage 1st Level	Enhanced Blade Damage 3%.	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
 blade02	Enhanced Blade Damage 2nd Level	Enhanced Blade Damage 5%.	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
 blade03	Enhanced Blade Damage 3rd Level	Enhanced Blade Damage 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
@@ -180,10 +180,10 @@ buffSkillTree000_010	Stamina	Power Up for Wildball Punch Moves	0		0	FALSE	0	FALS
 buffSkillTree000_011	Stones	Heavy attack with 5 points of internal damage.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree000_012	Scissors	Linear attacks	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree000_013	cloth	Fan Attack	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree000_014	Energizing	When the fist of baseball is complete, it will be invincible.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree000_014	Energizing	When the Wild Ball Punch is mastered, it will be invincible in the world.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree001_004	The wind is laid to rest.	Desert Lonely Smoke Power Up	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree001_005	The yellow sands are so thick.	Desert Lonely Smoke Attack Range Increase	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree002_005	As the lightness of the wind	Pine Wind Sword adds 8 points of Daze	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree002_005	As light as the wind.	Pine Wind Sword adds 8 points of Daze	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree002_006	As strong as a pine.	Pine Wind Sword's energy drain is reduced by 1 point	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree003_006	The Middle Kingdom of the Northern Territories	Increase energy consumption by 1 point, increase internal energy consumption, increase power, increase range	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree004_000	Weishui Fishing	Use our water fishing as a counter attack, and accumulate an additional 5% counter attack rate per turn.	0		0	FALSE	0	FALSE	0	0		0
@@ -191,16 +191,16 @@ buffSkillTree004_004	He who wishes takes the bait.	If you use the Wishful Bait a
 buffSkillTree004_005	Fishing rod without hooks	Increase the attack range of Taigong Fishing.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree004_006	Diamond in the rough to be sold	If you use the Wishful Bait as a counter attack, you can increase the attack rate by 10%.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree004_009	The old man who fished the riverbank	Use Ourui Fishing as a Counter Strike, accumulating an additional 10% Counter Strike per turn.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree005_000	The Eight Trigrams of the Nine Palaces	Required Martial Arts: Fist 45, Required Awareness: "Move fast and hit slow." The longer the distance you move, the higher the damage (3% more damage per frame).	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree005_001	Jiu Gong Bagua Palm	Required Martial Arts: Fist 45, Awareness Needed: "Coincidence?" The attacker must move around to the target's right.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree005_004	Eight Trigrams and Dragons	Required Martial Arts: Fist 45, Required Awareness: Move fast and hit slow. The longer the distance you move, the higher the damage (3% more damage per frame).	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree005_005	Bagua Swim Body	Required Martial Arts: Fist 45, Required Awareness: Pointing to the east to strike the west. The attacker must move around to the target's right.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree005_000	The Eight Trigrams of the Nine Palaces	Required Martial Arts: Fist 45, Required Talent: "Move fast and hit slow." The longer the distance you move, the higher the damage (3% more damage per frame).	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree005_001	Jiu Gong Bagua Palm	Required Martial Arts: Fist 45, Talent Needed: "Qiao:????" The attacker must move around to the target's right.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree005_004	Eight Trigrams and Dragons	Required Martial Arts: Fist 45, Required Talent: "Move fast and hit slow" The longer the distance you move, the higher the damage (3% more damage per frame).	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree005_005	Bagua Swim Body	Required Martial Arts: Fist 45, Required Talent: "Pointing to the east to strike the west". The attacker must move around to the target's right.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree006_000	Excalibur	The power of the Flying Sword returns to the mountain is enhanced when equipped with the Qingcheng Sword Order.	0		0	FALSE	0	FALSE	0	0		buffSkillTree006_000
 buffSkillTree006_002	Seeking the Unseen	Flying Sword Return to Mountains attack range increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree006_004	Heard the Word	25% increase in power when countering with Flying Sword Return to Mountain	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_000	Ten Thousand Strands of Threads	Required Martial Art "Sword Art". Every enemy within the range will take slight damage with each passing sequence. Lasts 3 rounds.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree007_002	Twisting Technique	Requires Awareness "Soft:". Damage reduction +15% for friends within range.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree007_003	Secret of Mianzi	Requires Perception "Soft:". The wielder of the move can reduce his own damage by +15%.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree007_002	Twisting Technique	Requires Talent "Soft:". Damage reduction +15% for friends within range.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree007_003	Secret of Mianzi	Requires Talent "Soft:". The wielder of the move can reduce his own damage by +15%.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree007_006	Threading the Needle	Increase the damage dealt to enemies by 10% per time sequence.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree008_000	Mighty Masturbation.	Spend all remaining energy to attack, the more energy you spend, the more powerful your attack will be.	0		0	FALSE	0	FALSE	0	0		buffSkillTree008_000
 buffSkillTree008_002	Stirring up the waves.	Increased damage for each point of energy expended by the Rampage's Blade Position	0		0	FALSE	0	FALSE	0	0		0
@@ -211,7 +211,7 @@ buffSkillTree010_002	Dare to be a millionaire.	If you kill an enemy with Dare to
 buffSkillTree010_003	Straight into the Tiger-Wolf Bush	If you kill an enemy by going straight into the Wolf Bush, you will regain 2 points of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_003
 buffSkillTree010_006	All covered with gall.	Increase the distance of the attack; increase the attack rate by 35 points for each enemy killed.	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_006
 buffSkillTree010_007	Charge to the Rescue	Charge distance increases as you enter the Wolf Bush; 3 points of energy return for each enemy you kill.	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_007
-buffSkillTree010_008	Who dares to contend with it?	Rin Ishinjo adds an additional 7 points of trauma.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree010_008	Who dares to contend with it?	Linlin Yixin adds an additional 7 points of trauma.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree010_009	There are no pairs at the ends of the earth.	If you equip the Spear, you will be able to display the power of the Loyalty, Dare to be a Millionaire, and Go to the Tiger and Wolf.	0		0	FALSE	0	FALSE	0	0		buffSkillTree010_009
 buffSkillTree011_002	Swallows playing in the water	Clothesline's knockback distance increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree011_003	Monkeys Ringing the Bell	When countering with a clothesline, the power of the move is increased by 25%.	0		0	FALSE	0	FALSE	0	0		0
@@ -337,8 +337,8 @@ buffSkillTree049_008	Attracting Butterflies and Bees	If you perform a False Move
 buffSkillTree049_009	The Thorn in the Back	If you use the Death Star, you will have a 50% chance to regain 1 point of energy after the attack.	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_009
 buffSkillTree049_010	The Ghost is Not Gone	If you perform a False Star, you have a 50% chance to regain 1 point of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_010
 buffSkillTree049_011	The Seven Breaks of the Soul Snatcher	If you use Soulstruck Seven Breaks, you will regain 2 points of energy from your attack.	0		0	FALSE	0	FALSE	0	0		buffSkillTree049_011
-buffSkillTree050_000	Eat my thunderbolts!	Kong Jin Exclusive Move.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree050_001	Kong Ba La.	Kong Jin exclusive move.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree050_000	Eat my thunderbolts!	Kongjin Exclusive Move.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree050_001	Kong Ba La.	Kongjin exclusive move.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree051_000	Ling Bo Wei Steps.	After you perform Wave of Waves, you will increase your evasion rate by 6% for 5 rounds.	0	microstep	0	TRUE	0	FALSE	0	0		buffSkillTree051_000
 buffSkillTree051_007	Slippery as a God	After 5 rounds, increase evasion rate by 12% and recover 2% of internal energy for every unit you move.	0	microstep	0	TRUE	0	FALSE	0	0		buffSkillTree051_000
 buffSkillTree052_001	Pronunciation method	Teng Yuan Gong provides additional protection against 6 points of Daze and 6 points of Confusion.	0		0	FALSE	0	FALSE	0	0		0
@@ -355,8 +355,8 @@ buffSkillTree052_007	Reduction of bones	Teng Yuan Gong provides additional resis
 buffSkillTree053_000	Mixed Yuan Gong	Increase energy by 1 point per turn when running Mixed Element Kung Fu.	0	buffSkillTree053_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree053_000_2	From the outside in.	To enhance the power of the moves of the Mixed Element Palm when running the Mixed Element Kung Fu	0	buffSkillTree053_000	0	FALSE	0	FALSE	0	0		0
 buffSkillTree053_005	Mixing of the Elements	Strengthen the internal damage effect of Mixed Element Palm upon completion; when running Mixed Element Kung Fu, increase your energy by 2 points per round.	0	buffSkillTree053_000	0	TRUE	0	FALSE	0	0		forIcon
-buffSkillTree054_000	The Wild Goose Travels a Thousand Miles	If you use Wild Goose Walk, you will increase your light power by 10 points in 4 rounds.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		buffSkillTree054_000
-buffSkillTree054_004	A thousand miles leave no trace.	If you use Wild Goose Walk, you will increase your light power by 20 points in 4 rounds.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		buffSkillTree054_004
+buffSkillTree054_000	The Wild Goose Travels a Thousand Miles	If you use Wild Goose Walk, you will increase your Light Work by 10 points in 4 rounds.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		buffSkillTree054_000
+buffSkillTree054_004	A thousand miles leave no trace.	If you use Wild Goose Walk, you will increase your Light Work by 20 points in 4 rounds.	0	buffSkillTree054_000	0	TRUE	0	FALSE	0	0		buffSkillTree054_004
 buffSkillTree055_000	Twins	Dozens of extra 5 points of gluten.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree055_001	Dual land	Dozens of extra 5 points of Confusion added to the Heavenly Character.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree055_004	Two Days	The energy consumption of the nine dozen of the Heavenly Character is reduced by 1 point	0		0	FALSE	0	FALSE	0	0		0
@@ -398,13 +398,13 @@ buffSkillTree076_003	Pure Yang True Qi	8% of internal energy, 12% of internal da
 buffSkillTree076_006	Dense Violet Vapor	Recover 12% of internal strength, 15% of internal damage, 15% of poison, and 15% of ice per round.	0	buffSkillTree076_000	0	TRUE	0	FALSE	0	1	(MP,12)(Injured,-15)(Poisoned,-15)(Frozen,-15)	beginUnitProp
 buffSkillTree077_000	Arrow of the Arrow Seven in a Row	If you kill an enemy with the 7 arrows, you will regain 2 points of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_000
 buffSkillTree077_000_2	Arrow of the Seventh Pearl	If you kill an enemy with the 7 arrows, your energy returns 3 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_000_2
-buffSkillTree077_001	Falcon Down Snowy Mountain	If you kill an enemy with a falcon down a snowy mountain, you will regain 2 points of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_001
-buffSkillTree077_001_2	Falcon Down Snowy Mountain	If you kill an enemy with a falcon down a snowy mountain, you will regain 3 points of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_001_2
+buffSkillTree077_001	Eagle Down Snowy Mountain	If you kill an enemy with a Eagle Down A Snowy Mountain, you will regain 2 points of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_001
+buffSkillTree077_001_2	Eagle Down Snowy Mountain	If you kill an enemy with a Eagle Down A Snowy Mountain, you will regain 3 points of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_001_2
 buffSkillTree077_002	Brown Bear into the Creek	The power of the seven arrows of divine arrows is enhanced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree077_003	Leopard's Walk to Ussery	Cast the arrow seven chain of pearls, increase your attack rate by 4 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_003
-buffSkillTree077_006	Fierce as a tiger pounces	The Falcon's Descent Down the Snowy Mountain Increases in Power	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree077_007	White Foxes Fly in the Forest	Cast Falcon Down Snowy Mountain to increase your ranged attack rate by 6 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_007
-buffSkillTree077_008	The eagle swiftly beats its wings.	If you kill an enemy with the Seven Arrows and Falcon Down the Snowy Mountain, you will regain 3 points of energy.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree077_006	Fierce as a tiger pounces	The Eagle Down the Snowy Mountain Increases in Power	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree077_007	White Foxes Fly in the Forest	Cast Eagle Down Snowy Mountain to increase your ranged attack rate by 6 points.	0		0	FALSE	0	FALSE	0	0		buffSkillTree077_007
+buffSkillTree077_008	The eagle swiftly beats its wings.	If you kill an enemy with the Seven Arrows and Eagle Down the Snowy Mountain, you will regain 3 points of energy.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_004	Lazy leaning on a white horse	Where is the moon now when the cup is stopped?	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_005	Laughing at the heavens again	Stop the cup to ask where the moon is now, the maniac's smile is a pearl, enhance damage.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree078_006	I laugh at all beings.	Stop the cup and ask where the moon is now, the maniacal man is laughing, there is a pearl, additional tendon effect.	0		0	FALSE	0	FALSE	0	0		0
@@ -514,7 +514,7 @@ buffSkillTree109_005	"The Star of the Rod" is a unicorn step.	Extension of the r
 buffSkillTree109_006	A tangled branch and a twitching soul are absent	Increase damage by 15% when counterattacking with Goro-Bat.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree109_010	The strength of the bridge of Tiberius is like a pillar.	Extension of the Eight Hanging Sticks	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree109_011	The Star of Fortune steals in and frightens the soul.	Increase damage by 15% when countering with Bagua.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree110_004	Pear Blossoms with Rain	Falling Goose and Pearblossom's depletion of internal energy reduced	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree110_004	Pear Blossoms with Rain	Falling Goose and Pear Blossom's depletion of internal energy reduced	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree110_005	A day drunk with begonias	Falling Goose and Pear Blossom adds 8 points of Confusion to the game.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree111_006	Biblical Dragon and Tiger	The increased power of the Taijo Rod and Taijo Long Fist	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree111_007	Yellow Robe.	Reduce your negative status when using Taizu Rod and Taizu Long Fist.	0		0	FALSE	0	FALSE	0	0		buffSkillTree111_007
@@ -525,7 +525,7 @@ buffSkillTree112_009	Stinging Bones	Increased Power of the Vertebral Arrow	0		0	
 buffSkillTree113_007	Flying Flowers	Sand and rain in the sky, additional confusion points.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree113_008	As rain	Sand flying in the sky, rain all over the sky, reduce the consumption of internal energy.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree113_009	Foggy Fog	Sand flying in the sky, rain all over the sky, extended attack range.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree114_007	Dense Rain	Rainstorm Pearblossom additional internal damage value of 8 points	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree114_007	Dense Rain	Rainstorm Pear Blossom additional internal damage value of 8 points	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree114_008	Flying Flowers	Raining Pear Blossoms adds 8 points of Daze	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree114_009	Strong Winds	Raining Pear Blossom with additional knockback timing effect	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree115_003	containing sand	If you use Insinuate Shadow as a counter attack, the engine rate increases by 5%.	0		0	FALSE	0	FALSE	0	0		0
@@ -568,10 +568,10 @@ buffSkillTree126_009	Bouncing on the waist and offering wine in a drunken stroll
 buffSkillTree127_000	The Secret of Swallowing	Increase Evasion Rate by 5% for 4 rounds after performing Ruyan's Secrets.	0	likeBird	0	TRUE	0	FALSE	0	0		buffSkillTree127_000
 buffSkillTree127_003	Light as a Swallow	If you dodge an enemy's attack within 4 rounds after performing the Swallowing Technique, your attack rate increases by 10 points.	0	likeBird	0	TRUE	0	FALSE	0	0		0
 buffSkillTree127_004	Circling back and forth.	If you dodge an enemy's attack within 4 rounds after performing Ruyan, you increase your own virtual move rate by 10 points.	0	likeBird	0	TRUE	0	FALSE	0	0		0
-buffSkillTree128_002	Turn a stone into gold.	Yang Hsuzantachi adds an extra 3 points to the blocking points.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree128_003	Seal of the Gold Pendant	Yang Hsu Sandachi adds an extra 3 points to the value of sealed points	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree128_007	Snow-covered Blue Pass	Increased attack range of Yang Hsu Shan Li and Sunrise Danfeng	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree128_008	Righteousness is in the air.	The higher the positive value, the more powerful the Duanjia Finger is.	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_008
+buffSkillTree128_002	Turn a stone into gold.	Yang Xushanli adds an extra 3 points to the blocking points.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_003	Seal of the Gold Pendant	Yang Hsu Sandachi adds 3 extra points to the blocked points.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_007	Snow-covered Blue Pass	Increase the attack range of Yang Hsu Shan Li and Sunrise Dan Feng.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree128_008	Righteousness is in the air.	The higher the positive value, the more powerful the Duan Clan Finger is.	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_008
 buffSkillTree128_009	Clouds across the Qinling Mountains	The sun hath risen on the mountains, and the sunrise and the power of the phoenix is increased	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree128_010	Legal rigor.	The higher the impetus value, the more powerful the Duan Jiao.	0		0	FALSE	0	FALSE	0	0		buffSkillTree128_010
 buffSkillTree128_012	The First Sun Comes to Life	When using Duan's Finger, reduce the hitting enemy's special skill value by 18 points.	0		0	FALSE	0	FALSE	0	0		0
@@ -612,21 +612,21 @@ buffSkillTree142_005	Bing Xin Xie Tang Pill	Learn the recipe for the Ice Heart A
 buffSkillTree142_008	Tasting the hyssop	Better recovery when taking herbs and pills	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_000	Chan Chan One Sword	Counterattack with the Chanjuan Sword, move damage increased. The power of the Chan-Chuan Sword is unaffected by internal strength.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_002	Broken Fist	When facing a fist move and counterattacking with a single sword, you must first dodge the enemy's move and then counterattack.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_002_2	Sword Cultivation.	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_002_2	Sword Training	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_003	Broken Sword	When facing a sword move and counterattacking with a Chan-Chuan sword, you must first dodge the enemy's move and then counterattack.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_003_2	Sword Cultivation.	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_004	Broken Blade	When facing a saber move and counterattacking with the Chan-Chuan Sword, you must first dodge the enemy's move and then counterattack.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_004_2	Sword Cultivation.	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_003_2	Sword Training	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_004	Broken Blade	When facing a blade move and counterattacking with the Chan-Chuan Sword, you must first dodge the enemy's move and then counterattack.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_004_2	Sword Training	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_005	Break a Spear	When facing the Guns and Sticks move and counterattacking with the Chan-Chuan Sword, you must first dodge the enemy's move and then counterattack.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_005_2	Sword Cultivation.	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_005_2	Sword Training	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_006	Broken Arrow	When facing a concealed weapon move and counterattacking with the Chan-Chuan Sword, you must first dodge the enemy's move before counterattacking!	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_006_2	Sword Art Cultivation.	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree144_006_2	Sword Art Training	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree144_007	Crack the Whip	When facing short-ranged moves and counterattacking with the Chan-Chuan Sword, you must first dodge the enemy's moves and then counterattack!	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree144_007_2	Sword Cultivation.	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree145_002	A Thousand Piles of Snow	The higher one's own lightness, the more powerful the Thousand Piles of Snow is.	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002
-buffSkillTree145_002_2	A Thousand Piles of Snow	The better one's lightness, the longer the distance one can move before striking, the more powerful the Thousand Piles of Snow will be.	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002
-buffSkillTree145_005	Ling Bo Xing	In 5 rounds, increase your light power by 25 points.	0	addQinggong03	0	TRUE	0	FALSE	0	0		buffSkillTree145_005
-buffSkillTree145_005_2	Ling Bo Xing	In 5 rounds, increase self light power by 25 points; increase ranged attack rate when moving.	0	addQinggong03	0	TRUE	0	FALSE	0	0		buffSkillTree145_005
+buffSkillTree144_007_2	Sword Training	Sword Art +4	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree145_002	A Thousand Piles of Snow	The higher one's own Light Work, the more powerful the Thousand Piles of Snow is.	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002
+buffSkillTree145_002_2	A Thousand Piles of Snow	The better one's Light Work, the longer the distance one can move before striking, the more powerful the Thousand Piles of Snow will be.	0		0	FALSE	0	FALSE	0	0		buffSkillTree145_002
+buffSkillTree145_005	Ling Bo Xing	In 5 rounds, increase your Light Work by 25 points.	0	addQinggong03	0	TRUE	0	FALSE	0	0		buffSkillTree145_005
+buffSkillTree145_005_2	Ling Bo Xing	In 5 rounds, increase self Light Work by 25 points; increase ranged attack rate when moving.	0	addQinggong03	0	TRUE	0	FALSE	0	0		buffSkillTree145_005
 buffSkillTree145_008	Limbo	Additional effect, increase hit rate when moving.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree145_008_2	Flying Snow	The longer the distance before the move, the more powerful Thousand Piles of Snow will be.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree146_000	Jiu Yin Shen Gong	The power of the White Bone Claw of the Nine Yin and the Great Demon Fist is increased when the Nine Yin Divine Kung Fu is activated.	0	buffSkillTree146_000	0	TRUE	0	FALSE	0	0		forIcon
@@ -661,7 +661,7 @@ buffSkillTree151_008	Yulong Yang Qi Pill	Learn the formula of Jade Dragon Yang Q
 buffSkillTree152_000	Tonifying Vessel San.	Learn the formula for Tong Ren San	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree152_001	Goldtronics.	Learn the recipe for the gold-tron drug	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree152_004	The Golden Needle is a blessing.	Dramatically increase your friend's attack power in 4 turns.	0		0	FALSE	0	FALSE	0	0		buffSkillTree152_004
-buffSkillTree152_005	Magic Needles for Moxibustion	Dramatically increase your friend's defense in 4 turns.	0		0	FALSE	0	FALSE	0	0		buffSkillTree152_005
+buffSkillTree152_005	Magic Acupuncture Needle	Dramatically increase your friend's defense in 4 turns.	0		0	FALSE	0	FALSE	0	0		buffSkillTree152_005
 buffSkillTree152_009	Haemostatic and Muscular Pills	Learn the formula for the Hemostatic Muscle Pills	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree152_010	Baiyun Bear Gall Bladder Pill	Learn the recipe for Baiyun Bear Gall Bladder Pill	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree153_000	The Battle of the Stars.	Do unto others as you would have them do unto you.	0		0	FALSE	0	FALSE	0	0		0
@@ -684,7 +684,7 @@ buffSkillTree158_009	Vajra is invulnerable	Defends against 20 points of internal
 buffSkillTree159_003	Pusher Clouds	Inflicts an additional 12 points of internal damage to the enemy on counterattack.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree159_004	Shaking Mountains and Joints	A whip adds 6 points of internal damage.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree159_007	Wild goose wing type	Inflicts an additional 16 points of internal damage to the enemy on counterattack.	0		0	FALSE	0	FALSE	0	0		0
-buffSkillTree160_000	Tai Ching Di Gang Qi	Replies 4% of blood and 10% of internal damage per round.	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,4)(Injured,-8)	beginUnitProp
+buffSkillTree160_000	Tai Qing Gang Qi	Replies 4% of blood and 10% of internal damage per round.	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,4)(Injured,-8)	beginUnitProp
 buffSkillTree160_002	Qian Kun Gang Qi	Replenish 8% of blood and 16% of internal damage per round.	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,8)(Injured,-16)	beginUnitProp
 buffSkillTree160_006	The Big Dipper	Replenish 12% of blood and 24% of internal damage per round.	0	buffSkillTree160_000	0	TRUE	0	FALSE	0	1	(HP,12)(Injured,-24)	beginUnitProp
 buffSkillTree161_000	Heaven and earth are living.	Restore 800 points of blood and qi to a teammate; the higher your own healing skill, the higher your recovery.	0		0	FALSE	0	FALSE	0	0		buffSkillTree161_000
@@ -764,7 +764,7 @@ buffSkillTree182_010	Blood-spewing	The drain of internal energy from the flow of
 buffSkillTree182_011	Draining the blood and putting on the liver	If you kill an enemy with the Sea of Blood and Mountain of Corpses, you will regain 2 points of energy.	0		0	FALSE	0	FALSE	0	0		buffSkillTree182_011
 buffSkillTree182_012	The Bloodbath.	Blood Sea Corpse Mountain's depletion of internal energy halved	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree182_013	Troops without bloodshed.	If you equip the Blood Blade, the power to cast Blood Rain, Blood Sea and Corpse Mountain, and Blood Flowing River will increase.	0		0	FALSE	0	FALSE	0	0		buffSkillTree182_013
-buffSkillTree183_000	Capturing Snowwing Sculptures	15% chance of successfully capturing Snowwing Eagles, the lower the Snowwing Eagles blood level, the higher the chance of success.	0		0	FALSE	0	FALSE	0	0		0
+buffSkillTree183_000	Capturing Snow Wing Eagles	15% chance of successfully capturing Snow Wing Eagles, the lower the Snow Wing Eagles blood level, the higher the chance of success.	0		0	FALSE	0	FALSE	0	0		0
 buffSkillTree184_000	Mountains Avalanches	8% increase in power hitting power	0	buffSkillTree184_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree184_000_2	Splitting Stones and Cleaving Stones	16% increase in power hitting power	0	buffSkillTree184_000	0	TRUE	0	FALSE	0	0		forIcon
 buffSkillTree184_000_3	Landslide.	24% increase in power hitting power	0	buffSkillTree184_000	0	TRUE	0	FALSE	0	0		forIcon
@@ -835,12 +835,12 @@ cramped06	Split Ribs	Cumulative gluten value 6 points	0		0	FALSE	0	FALSE	0	0	(Cr
 cramped08	Split Ribs	Cumulative gluten value of 8 points	0		0	FALSE	0	FALSE	0	0	(Cramped,8)	attackBuffer
 cramped10	Split Ribs	Cumulative gluten value of 10 points	0		0	FALSE	0	FALSE	0	0	(Cramped,10)	attackBuffer
 cramped12	Split Ribs	Cumulative gluten value 12 points	0		0	FALSE	0	FALSE	0	0	(Cramped,12)	attackBuffer
-darts01	Enhanced Concealed Weapon Damage Level 1	Enhanced Dark Weapon Damage 3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
-darts02	Enhanced Dark Weapon Damage 2nd level	Enhanced Dark Weapon Damage 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
-darts03	Enhanced Dark Weapon Damage 3rd level	Enhanced Dark Weapon Damage 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
-darts04	Enhanced Dark Weapon Damage 4th Level	10% Enhanced Dark Weapon Damage	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
-darts05	Enhanced Dark Weapon Damage Level 5	25% enhanced concealed weapon damage	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
-dartsrange01	Increasing the range of the dark weapon attack	Increasing the range of the hidden weapon attack	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
+darts01	Enhanced Concealed Weapon Damage Level 1	加强暗器伤害3%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,3)	0
+darts02	Enhanced Hidden Weapon Damage 2nd level	Enhanced Hidden Weapon Damage 5%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
+darts03	Enhanced Hidden Weapon Damage 3rd level	Enhanced Hidden Weapon Damage 8%	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,8)	0
+darts04	Enhanced Hidden Weapon Damage 4th Level	10% Enhanced Hidden Weapon Damage	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,10)	0
+darts05	Enhanced Hidden Weapon Damage Level 5	25% enhanced concealed weapon damage	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,25)	0
+dartsrange01	Increasing the range of the Hidden Weapon attack	Increasing the range of the hidden weapon attack	0		0	FALSE	0	FALSE	0	0	(SkillRangeAdd,1)	0
 dazed02	Dizziness	Cumulative Dizziness 2 points	0		0	FALSE	0	FALSE	0	0	(Dazed,2)	attackBuffer
 dazed03	Dizziness	Cumulative Dizziness 3 points	0		0	FALSE	0	FALSE	0	0	(Dazed,3)	attackBuffer
 dazed04	Dizziness	Cumulative Dizziness 4 points	0		0	FALSE	0	FALSE	0	0	(Dazed,4)	attackBuffer
@@ -884,7 +884,7 @@ frozen09	Frozen	Cumulative freezing value 9 points	0		0	FALSE	0	FALSE	0	0	(Froze
 frozen10	Frozen	Cumulative freezing value 10 points	0		0	FALSE	0	FALSE	0	0	(Frozen,10)	attackBuffer
 frozen12	Frozen	Cumulative freezing value 12 points	0		0	FALSE	0	FALSE	0	0	(Frozen,12)	attackBuffer
 healing_over_time01	Sustained recovery	Recover 10% of blood per round for 3 rounds.	0	Buffer_01	0	TRUE	0	FALSE	0	1	(HP,10)	beginUnitProp
-heavysword01	Heavy Sword is Bladeless	The heavier the weight, the higher the damage.	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
+heavysword01	Heavy Swords have no finesse	The heavier the weight, the higher the damage.	0		0	FALSE	0	FALSE	0	1	(EquipDamageFactor,5)	0
 hitback	Knockback.	Repel hit enemies	0		0	FALSE	0	FALSE	0	0		0
 hitback02	Repulsion	Repel hit enemies	0		0	FALSE	0	FALSE	0	0		0
 injured01	Internal injuries	Cumulative internal damage value 1 point	0		0	FALSE	0	FALSE	0	0	(Injured,1)	attackBuffer
@@ -918,8 +918,8 @@ jewelry15	Phoenix Feather	6% chance to dodge enemy attacks.	0		0	FALSE	0	FALSE	0
 jewelry16	Merchandise of good fortune	Randomly increases the value of one of these special skills by 6 points per round	0		0	FALSE	0	FALSE	0	0		jewelry16
 jewelry17	Spooky Pendants	Randomly decreases the value of one of these stunts by 20 points per round, but increases the experience gained.	0		0	FALSE	0	FALSE	0	0		jewelry17
 jewelry19	Goldfinger	Low chance to spike enemies of lower level than yourself	0		0	FALSE	0	FALSE	0	0		jewelry19
-jewelry20	Feather of Snowwing Sculptor	6% chance to dodge enemy attacks; gain 1 extra point of energy per turn.	0		0	FALSE	0	FALSE	0	0		jewelry20
-jewelry21	Bandit's Wristguard	Increases all Special Attacks by 2 points per turn, and increases one's ranged attack rate by 2 points per unit of distance moved. The better the wearer's lightness, the better the effect.	0		0	FALSE	0	FALSE	0	0		jewelry21
+jewelry20	Snow Wing Eagle's Feather	6% chance to dodge enemy attacks; gain 1 extra point of energy per turn.	0		0	FALSE	0	FALSE	0	0		jewelry20
+jewelry21	Bandit's Wristguard	Increases all Special Attacks by 2 points per turn, and increases one's ranged attack rate by 2 points per unit of distance moved. The better the wearer's Light Work, the better the effect.	0		0	FALSE	0	FALSE	0	0		jewelry21
 jewelry22	Mani Stone Amulet	At the start of the round, add 3 points to self unload; 6 points to resist splitting tendons and wrong bones.	0		0	FALSE	0	FALSE	0	0		jewelry22
 jewelry23	Luminous Mani Stone	At the start of the round, add 3 points to unload your own strength; 6 points to resist splitting tendons and wrong bones; 9% to restore internal strength.	0		0	FALSE	0	FALSE	0	0		jewelry23
 jewelry24	Golden lock piece	Restore chi 6% per round.	0		0	FALSE	0	FALSE	0	0		jewelry24
@@ -929,7 +929,7 @@ jewelry27	Cold Blood Silver Hairpin	When attacking, add 5 points of poisoning an
 jewelry28	Silver Swallow Hairpin	Restore 2% of your blood for every unit of distance you move.	0		0	FALSE	0	FALSE	0	0		jewelry28
 jewelry29	Earrings with Heart of Water Lily	At the beginning of a battle, increase your qi and blood maximum by 12% and internal strength maximum by 6%.	0		0	FALSE	0	FALSE	0	0		jewelry29
 jewelry30	Jadeite Jade Bracelet with Ice Heart	Resists freezing for 3 points and restores 3% of its internal strength each round.	0		0	FALSE	0	FALSE	0	0		jewelry30
-jewelry31	The Golden Bracelet	At the beginning of their turn, if their blood is 15% or less, they will recover 15% of their blood; if the wearer is... Zhang Jun Bao, you'll get an extra 15% of your blood.	0		0	FALSE	0	FALSE	0	0		jewelry31
+jewelry31	The Golden Bracelet	At the beginning of your turn, if your blood pressure is below 15%, you will recover 15% of your blood pressure; if the wearer is Zhang Junbao, you will recover an additional 15% of your blood pressure.	0		0	FALSE	0	FALSE	0	0		jewelry31
 jewelry32	Ruyi Pisces Pepe	Add 3 points to unload after hit; Recover 6% of your blood when you unload.	0		0	FALSE	0	FALSE	0	0		jewelry32
 likeBird	The secret of Ruyan	In 4 rounds, increase evasion rate by 5%.	0	likeBird	0	TRUE	0	FALSE	0	0		likeBird
 likeBird02	The Secret of Swallowing	In 4 rounds, increase evasion rate by 5%; after evading, increase your own ranged attack rate by 10 points.	0	likeBird	0	TRUE	0	FALSE	0	0		likeBird02
@@ -951,11 +951,11 @@ mindlose2	Loss of Mind	Temporary loss of mind for 4 turns	0	battle_debuff	0	TRUE
 nick006buff	The Chosen One	Wildball Fist's base damage is +20%, and the damage bonus will increase as you level up.	0	nickname	0	TRUE	0	FALSE	0	0		nick006
 nick007buff	Tennan Wangdao	Reduce your negative stats by 5 points per turn for friends within 2 squares of you.	0	nickname	0	TRUE	0	FALSE	0	0		nick007buff
 nick007buffPlus	Renewal of the King	Lower negative status by 5 points and raise positive status by 3 points per turn for all friends within 4 squares of the surrounding area.	0	nickname	0	TRUE	0	FALSE	0	0		nick007buffPlus
-nick008buff	Twilight feather in a turnip forest	If you stay within 2 units of Heteroplasty of Ho, 8 points of poison per turn	0	nickname	0	TRUE	0	FALSE	0	0		nick008buff
+nick008buff	Poison feathers from a bamboo shoot	If you stay within 2 units of He Ziwan, you will be poisoned for 8 points per turn	0	nickname	0	TRUE	0	FALSE	0	0		nick008buff
 nick008buffPlus	Biyang Hemlock Feather	If you stay within 4 units of Aster Ho, your enemy will be poisoned by 8 points and your teammates will be poisoned by 5 points every turn.	0	nickname	0	TRUE	0	FALSE	0	0		nick008buffPlus
 nick009	Eagle of the Snowy Mountains	Add 25% more damage to your own bow, and all friends gain the status "Eagle Hunter".	0	nickname	0	TRUE	0	FALSE	0	0		nick009
 nick009b	Wings for a Thousand Miles	20% chance to dodge enemy attacks.	0	nickname	0	TRUE	0	FALSE	0	0		nick009b
-nick009buff	Flying Eagle Hunters	Increases self-bow damage by 15% in the presence of Adeak.	0	battle	0	TRUE	0	FALSE	0	0		nick009
+nick009buff	Flying Eagle Hunters	Increases self-bow damage by 15% in the presence of Ade Ake.	0	battle	0	TRUE	0	FALSE	0	0		nick009
 nick009buff2	Flying Falconer	Increase your bow damage by 40% due to the presence of Ard-Ark	0	battle	0	TRUE	0	FALSE	0	0		nick009P
 nick009c	Wings for a Thousand Miles	has 10% chance to dodge enemy attacks.	0	nickname	0	TRUE	0	FALSE	0	0		nick009c
 nick009d	Paralytic poisoning	Increases its own poison and dizziness by 10 points per round.	0	nickname	0	TRUE	0	FALSE	0	0		nick009d
@@ -968,7 +968,7 @@ nick010buffb	The Orchid Interpretation	When Yen Yushu is on the field, all teamm
 nick010buffbP	Huaiyin Lanxiang	When Yan Yushu is on the field, all teammates' attack power is increased by 50% and damage is reduced by 10%.	0	battle	0	TRUE	0	FALSE	0	0		nick010buffbP
 nick011	A Thousand Goldens of the Horse Gang	10% increase in cumulative blast rate per hit, 50% increase in blast damage.	0	nickname	0	TRUE	0	FALSE	0	0		nick011
 nick011P	Horse gang leader	Each time you receive a hit, the cumulative blast rate is increased by 20%, and the blast damage is increased by 80%.	0	nickname	0	TRUE	0	FALSE	0	0		nick011P
-nick012	Spring Breeze in October	Chance to dodge enemy attacks; the higher your lightness, the higher your dodge rate.	0	nickname	0	TRUE	0	FALSE	0	0		nick012
+nick012	Spring Breeze in October	Chance to dodge enemy attacks; the higher your Light Work, the higher your dodge rate.	0	nickname	0	TRUE	0	FALSE	0	0		nick012
 nick012P	Big Brother	The higher your lightness, the higher your evasion rate; back attack causes an additional 15 points of dizziness to the target	0	nickname	0	TRUE	0	FALSE	0	0		nick012P
 nick013a	Pointing Fairy.	Movements with two swords or two skirmishers are 30% more powerful.	0	nickname	0	TRUE	0	FALSE	0	0		nick013
 nick013P	White Horse Fairy	The power of double sword or double short weapon moves is increased by 50%, and light power is increased by 10 points when fighting	0	nickname	0	TRUE	0	FALSE	0	0		nick013P
@@ -985,7 +985,7 @@ nick018b	Hate the sea of lonely souls	+10% of your attack power each turn, up to
 nick018bP	Master of the World	10% increase in attack power per turn, up to 80%; 30% increase in damage when attacking with a blast	0	nickname	0	TRUE	0	FALSE	0	0		nick018bP
 nick019	Demon King of the Mandrill	30% more powerful when attacking from the back, 15% of damage is converted to your blood when attacking.	0	nickname	0	TRUE	0	FALSE	0	0		nick019
 nick020	Confucian Heart and Sword Guts	+25 knockback points per turn, all friends gain the status "Ru-Sword Formation".	0	nickname	0	TRUE	0	FALSE	0	0		nick020
-nick020buff	Confucian Sword Formation	+15 to your own Counterattack per turn due to the presence of Ling Zhong Yue.	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
+nick020buff	Confucian Sword Formation	+15 to your own Counterattack per turn due to the presence of Ling Zhongyue.	0	battle	0	TRUE	0	FALSE	0	0		nick020buff
 nick021	Hundred Damages Taoist	If you perform a martial art with a freezing effect, the move is more powerful.	0	nickname	0	TRUE	0	FALSE	0	0		nick021
 nick021P	Master of Guang Han Palace	If you perform a martial art with ice effect, your moves become more powerful	0	nickname	0	TRUE	0	FALSE	0	0		nick021P
 nick022	Hiawatha Wind King	Energy +3 when launching a blast.	0	nickname	0	TRUE	0	FALSE	0	0		nick022
@@ -1012,7 +1012,7 @@ nick036	Elite villagers	Flower Fist and Kicks power +100%.	0	nickname	0	TRUE	0	F
 nick037	Couldn't keep their hands to themselves	30% less chance of theft being detected	0	nickname	0	TRUE	0	FALSE	0	0		nick037
 nick038	Borrowing the usual.	Theft is 50% less likely to be detected	0	nickname	0	TRUE	0	FALSE	0	0		nick038
 nick039	The King of Thieves	Theft will not be detected	0	nickname	0	TRUE	0	FALSE	0	0		nick039
-nick040buff	Sentimentality.	Increase aptitude by 10 points, but each time your negative stats increase, they increase by 30%.	0	nickname	0	TRUE	0	FALSE	0	0		nick040
+nick040buff	Sentimentality.	Increase intelligence by 10 points, but each time your negative stats increase, they increase by 30%.	0	nickname	0	TRUE	0	FALSE	0	0		nick040
 nick041buff	Fruit Throwing Pan Lang	Female teammates who participate in combat have their damage increased by 30%; however, they are vulnerable to enemy locks during combat.	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick042buff	Reincarnated Berserker.	Each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is a 25% chance that the target will accumulate 10 false bones; each time the target is attacked from the front, there is When attacking from the side or back, you have a 25% chance to accumulate 10 points of confusion.	0	nickname	0	TRUE	0	FALSE	0	0		nick042
 nick043buff	Hindsight.	Physique increases by 10 points; and each time one's negative stats increase, the increase is reduced by 30%.	0	nickname	0	TRUE	0	FALSE	0	0		nick043
@@ -1020,35 +1020,35 @@ nick044buff	Martial Artist.	The power of your martial arts increases as you grow
 nick046buff	Hero Warrior.	Your offensive and defensive abilities will increase with your Jianghu reputation.	0	nickname	0	TRUE	0	FALSE	0	0		bnick046
 nick084buff	"Hundred Steps to Yang"	Bow and arrow damage increased by 15%.	0	nickname	0	TRUE	0	FALSE	0	0		nick084
 nick085buff	"The Eagle of the North Mountains"	Bow and arrow damage increased by 20%.	0	nickname	0	TRUE	0	FALSE	0	0		nick085
-nick086buff	"Jade Dragon Eagle"	Bow and arrow damage increased by 25%; you and Adeak's bow and arrow damage increases by an additional 25% when Adeak is in the group. 15% increase	0	nickname	0	TRUE	0	FALSE	0	0		nick086
+nick086buff	"Jade Dragon Eagle"	Add 25% to the damage of your bow and arrow; add an extra 15% to the damage of your bow and arrow with Ade Ake when he's in the group.	0	nickname	0	TRUE	0	FALSE	0	0		nick086
 nick091	"The Poisonous Hand"	Every blow from this unit carries a severe poison!	0	nickname	0	TRUE	0	FALSE	0	0		nick091
 nick092	"God of Boxing"	Martial arts supreme, the God of Boxing is invincible!	0	nickname	0	TRUE	0	FALSE	0	0		nick092
 nick101	"A hundred feet will not be lost"	Increases evasion rate by 2% per round, capped at 20%.	0	nickname	0	TRUE	0	FALSE	0	0		nick101
 nick102buff	Jingzhai Maiden	Enemy troops within 2 units of He Baishao, accumulate 12 points of poison and 6 points of confusion per turn.	0	nickname	0	TRUE	0	FALSE	0	0		nick102buff
 nick103	"Iron Leopard Silver Lance"	When fighting, Black Panther joins the fray; increases the damage of his moves by 5% each round, up to 50%.	0	nickname	0	TRUE	0	FALSE	0	0		nick103
 nick104	"Nanzhao Young General"	Every friendly soldier within 10 units of Duan Siliang increases his blast rate by 5% at the beginning of each turn.	0	nickname	0	TRUE	0	FALSE	0	0		nick104
-nick105	"Famous Families"	Enemy troops 5 units around Dong Garo, reduce blast rate by 15% at the start of each turn.	0	nickname	0	TRUE	0	FALSE	0	0		nick105
+nick105	"Famous Families"	Enemy troops 5 units around Dong Jialuo, reduce blast rate by 15% at the start of each turn.	0	nickname	0	TRUE	0	FALSE	0	0		nick105
 nick106	"The Successor of the Sojourner"	At the beginning of each turn, 15% of your enemy's blood pressure is restored to 2 units.	0	nickname	0	TRUE	0	FALSE	0	0		nick106
-nick107	"Kifu Warlord"	When you launch a blast, increase your own blast rate by 20%, and add "Battle Intent" to yourself and your friends within 2 squares. The "High	0	nickname	0	TRUE	0	FALSE	0	0		nick107
+nick107	"Mu House Warlord"	When you launch a blast, increase your own blast rate by 20%, and add "Battle Intent" to yourself and your friends within 2 squares. The "High	0	nickname	0	TRUE	0	FALSE	0	0		nick107
 nick107a	"Battle Intensity is High"	10% of your blood and 10% of your blast per turn for three rounds.	0	battle	0	TRUE	0	FALSE	0	0		nick107a
 nick108	"Three War Admirals	For every enemy within 2 units of you, you will receive 1 point of energy from your own blast.	0	nickname	0	TRUE	0	FALSE	0	0		nick108
 nick110	"The Master	Rebound 30% of internal energy per turn; when you launch a blast, remove 25 points of all negative status.	0	nickname	0	TRUE	0	FALSE	0	0		nick110
 nick111	"The World is Beautiful	Damage increases by 1% for every 1% blood loss; all negative stats are removed for 20 points per round.	0	nickname	0	TRUE	0	FALSE	0	0		nick111
 nick112	"Do as you wish	Increase my own counterattack rate and unload rate by 25% per round.	0	nickname	0	TRUE	0	FALSE	0	0		nick112
 nick114	"Poisonous Hand Human Slaughter	Attack increases damage by 1% for every 1 point of poison accumulated by the target.	0	nickname	0	TRUE	0	FALSE	0	0		nick114
-nick115	"Dong Ho	When using Thunderbolt Thunderbolt, there is a 25% chance that the target will inflict 30 points of trauma.	0	nickname	0	TRUE	0	FALSE	0	0		nick115
-nick116	"South Leisure	At the start of each round, you will randomly regain between 2 and 8 points of your energy.	0	nickname	0	TRUE	0	FALSE	0	0		nick116
-nick117	"Western Kitchen	50% of damage when attacking is converted to your own blood.	0	nickname	0	TRUE	0	FALSE	0	0		nick117
+nick115	"Donghao"	When using Thunderbolt Thunderbolt, there is a 25% chance that the target will inflict 30 points of trauma.	0	nickname	0	TRUE	0	FALSE	0	0		nick115
+nick116	"Nan Xian"	At the start of each round, you will randomly regain between 2 and 8 points of your energy.	0	nickname	0	TRUE	0	FALSE	0	0		nick116
+nick117	"Xi Pao"	50% of damage when attacking is converted to your own blood.	0	nickname	0	TRUE	0	FALSE	0	0		nick117
 nick118	"Northern Ugliness	Add 100% to attack power when you trigger a combo, lasts one round.	0	nickname	0	TRUE	0	FALSE	0	0		nick118
 nick118a	"Northern Ugliness	Increase attack power by 100% for one round.	0	nickname	0	TRUE	0	FALSE	0	0		nick118a
-nick119buff	Martial Arts Barriers: Awkwardness	The effect of my humble perception is amazing.	0	nickname	0	TRUE	0	FALSE	0	0		foricon
+nick119buff	Martial Arts Barriers: Awkwardness	The effect of my humble talents are amazing.	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick120buff	Martial Arts Barrier: Silence	Do unto others as you would have them do unto you.	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick121buff	Martial Arts Barrier: Soft	Four Double Pounds deals more damage to the surrounding enemies.	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick122buff	Martial Arts Barriers: ingenuity	Soul Removal Magic is a sure hit.	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick123buff	Martial Arts Barrier: Movement	Stunning range of counterattacks	0	nickname	0	TRUE	0	FALSE	0	0		foricon
 nick124buff	Martial Science Barrier: Kong	Enhancing the effects of Endeavour Heroic Rage	0	nickname	0	TRUE	0	FALSE	0	0		nick122buff
 nick125	"Redan Kui Puppet	Target accumulates 2 points of poisoning, 2 points of trauma, 2 points of tendon damage when attacking.	0	nickname	0	TRUE	0	FALSE	0	0		nick125
-nick126	"Commander Nishikawa's Soldiers and Horses	Decreases all Special Skills by 25 points per turn against enemies within 3 units of the enemy.	0	nickname	0	TRUE	0	FALSE	0	0		nick126
+nick126	"Commander Xichuan's Soldiers and Horses"	Decreases all Special Skills by 25 points per turn against enemies within 3 units of the enemy.	0	nickname	0	TRUE	0	FALSE	0	0		nick126
 nick126b	"NoMercy Master"	When using Wildball Fist, the power of the move is increased by 100%.	0	nickname	0	TRUE	0	FALSE	0	0		nick126b
 nick127	"Mixed Element Pushers	When unloading, the enemy accumulates 10 points of internal damage within 2 units of the target; if the target is male, Accumulate an additional 10 points of internal damage.	0	nickname	0	TRUE	0	FALSE	0	0		nick127
 nick128	"The Cold-Faced King of Hell	When launching a virtual move, 25% chance to apply "King of Hell" to the target, reduce internal power by 3 points per turn.	0	nickname	0	TRUE	0	FALSE	0	0		nick128
@@ -1071,9 +1071,9 @@ nick142	"Two Swords in Snow	Increase your own evasion rate, 8 points of stun whe
 nick143	"Two Swords in Snow	Increase your own evasion rate, 8 points of confusion when attacking.	0	nickname	0	TRUE	0	FALSE	0	0		nick143
 nick144	"Château Dahl	Increases evasion rate by 1% per round, up to 10%; increases blast rate by 2% per round	0	nickname	0	TRUE	0	FALSE	0	0		nick144
 nick145	"Château Jiro	Increases evasion rate by 1% per round, up to 10%; increases ranged and virtual attack rate by 2% per round	0	nickname	0	TRUE	0	FALSE	0	0		nick145
-nick146	"Château Saburo	Increases evasion by 1% per round, up to 10%; increases ranged by an additional 5% per round.	0	nickname	0	TRUE	0	FALSE	0	0		nick146
+nick146	"Chateau Sanlang"	Increases evasion by 1% per round, up to 10%; increases ranged by an additional 5% per round.	0	nickname	0	TRUE	0	FALSE	0	0		nick146
 nick147	"The winepress	Increases evasion rate by 3% per round, up to 15%, and increases virtual move rate by an additional 9% when attacking combos.	0	nickname	0	TRUE	0	FALSE	0	0		nick147
-nick148	"Chateau Old Master	Increases evasion rate by 3% up to 15% per round, and increases blast rate by an additional 9% when attacking combos.	0	nickname	0	TRUE	0	FALSE	0	0		nick148
+nick148	"Winery Old Master"	Increases evasion rate by 3% up to 15% per round, and increases blast rate by an additional 9% when attacking combos.	0	nickname	0	TRUE	0	FALSE	0	0		nick148
 nick149	"Commander of the Imperial Guard	Each turn, all Special Attacks are reduced by 10 points for enemies within 2 units of your opponent.	0	nickname	0	TRUE	0	FALSE	0	0		nick149
 nick150	"The Pointed Swordsman	Increase your attack power by 5%, up to 50%, after you launch a counterattack.	0	nickname	0	TRUE	0	FALSE	0	0		nick150
 nick151	"Border Guard General	All friendly troops on the field, damage reduction 15%.	0	nickname	0	TRUE	0	FALSE	0	0		nick151
@@ -1090,7 +1090,7 @@ nick160	"The Good Person of the King	If your blood is below 50%, increase your u
 nick515	"Friends of the Great Apes	Monkey Three, King of the Great Apes, is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick516	"The Widowmaker	The Boar King "Widowmaker" is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
 nick518	"White Stripes	The Crocodile King "White Stripe" is now at your disposal!	0	nickname	0	TRUE	0	FALSE	0	0		forIcon
-nick600buff	"Northern Warrior	In the name of the Northern Warrior, the power of fists, palms and arrows increases by 25%, and there is a 50% chance to hit the enemy! Deals 2 damage.	0	nickname	0	TRUE	0	FALSE	0	0		nick600
+nick600buff	"Northern Warrior	In the name of the Northern Warrior, the power of fists, palms and arrows increases by 25%, and there is a 50% chance to hit the enemy twice!	0	nickname	0	TRUE	0	FALSE	0	0		nick600
 nick601buff	"Snowy Mountain Flying Fox	Snow Mountain Warrior, Knife Power Increases by 30%, all damage skills will carry trauma effects.	0	nickname	0	TRUE	0	FALSE	0	0		nick601
 nick602buff	"Old Poison	Martial Arts Champion, King of Poison, all skills are 30% more powerful, and your every strike is poisonous.	0	nickname	0	TRUE	0	FALSE	0	0		nick602
 nick603buff	"Smiling and Proud	The power of your sword increases by 50%, and you have a 20% chance to dodge damage in battle.	0	nickname	0	TRUE	0	FALSE	0	0		nick603
