@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10001016",
+  "RawLine": "TNPC_10001016,【現在我手中有了繩子，和一個魚鉤，只要將它們組合起來，就能垂到井裡把米倉鑰匙鉤上來了。】,【现在我手中有了绳子，和一个鱼钩，只要将它们组合起来，就能垂到井里把米仓钥匙钩上来了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10001016",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【現在我手中有了繩子，和一個魚鉤，只要將它們組合起來，就能垂到井裡把米倉鑰匙鉤上來了。】",
+      "c": "<[>現在我手中有了繩子,和一個魚鉤,只要將它們組合起來,就能垂到井裡把米倉鑰匙鉤上來了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Now I have a rope and a fish hook in my hand, and if I combine them, I can hang down the well and hook up the rice storage key. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【现在我手中有了绳子，和一个鱼钩，只要将它们组合起来，就能垂到井里把米仓钥匙钩上来了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

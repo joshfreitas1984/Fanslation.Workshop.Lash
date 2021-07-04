@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_213_Tip",
+  "RawLine": "ABILITY_213_Tip,使用長柄武器時，更容易將敵人擊暈。,使用长柄武器时，更容易将敌人击晕。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_213_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "使用長柄武器時，更容易將敵人擊暈。",
+      "c": "使用長柄武器時,更容易將敵人擊暈。",
+      "rq": true,
+      "it": null,
+      "mt": "When using a long-handled weapon, it is easier to knock the enemy out.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "使用长柄武器时，更容易将敌人击晕。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

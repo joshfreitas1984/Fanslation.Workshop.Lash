@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003081",
+  "RawLine": "TNPC_10003081,【總共有{color=#FF0000}三個燈檯{/color}要點燃，現在還剩下一個。】,【总共有{color=#FF0000}三个灯台{/color}要点燃，现在还剩下一个。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003081",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【總共有{color=#FF0000}三個燈檯{/color}要點燃，現在還剩下一個。】",
+      "c": "<[>總共有三個燈檯要點燃,現在還剩下一個。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There are three light tables to be lit, and there is still one left. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【总共有{color=#FF0000}三个灯台{/color}要点燃，现在还剩下一个。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

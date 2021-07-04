@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20045010",
+  "RawLine": "TNPC_20045010,【沒反應，看來已無氣息。】,【没反应，看来已无气息。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20045010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【沒反應，看來已無氣息。】",
+      "c": "<[>沒反應,看來已無氣息。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>No response, seems to be out of breath. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【没反应，看来已无气息。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

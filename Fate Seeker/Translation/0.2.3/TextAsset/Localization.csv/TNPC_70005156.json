@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005156",
+  "RawLine": "TNPC_70005156,快快快！別偷懶啊！今天不做完，飯就別吃了。,快快快！别偷懒啊！今天不做完，饭就别吃了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005156",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "快快快！別偷懶啊！今天不做完，飯就別吃了。",
+      "c": "快快快！別偷懶啊！今天不做完,飯就別吃了。",
+      "rq": true,
+      "it": null,
+      "mt": "Go, go, go! Don't be lazy! If you don't finish it today, don't eat the meal.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "快快快！别偷懒啊！今天不做完，饭就别吃了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

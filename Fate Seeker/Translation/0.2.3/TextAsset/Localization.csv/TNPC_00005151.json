@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_00005151",
+  "RawLine": "TNPC_00005151,這種秈米不會太黏，最適合做蘿蔔糕了。,这种籼米不会太黏，最适合做萝卜糕了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_00005151",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這種秈米不會太黏，最適合做蘿蔔糕了。",
+      "c": "這種秈米不會太黏,最適合做蘿蔔糕了。",
+      "rq": true,
+      "it": null,
+      "mt": "This kind of rice is not too sticky, so it's perfect for making turnip cake.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这种籼米不会太黏，最适合做萝卜糕了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103014116",
+  "RawLine": "SDM_2103014116,【糟糕，沒想到我運氣這麼背，反而贏不了錢。】,【糟糕，没想到我运气这么背，反而赢不了钱。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103014116",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【糟糕，沒想到我運氣這麼背，反而贏不了錢。】",
+      "c": "<[>糟糕,沒想到我運氣這麼背,反而贏不了錢。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Oh no, I didn't think I'd be so unlucky as to not win. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【糟糕，没想到我运气这么背，反而赢不了钱。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

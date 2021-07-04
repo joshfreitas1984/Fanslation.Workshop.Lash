@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009520",
+  "RawLine": "TNPC_70009520,{color=#FF0000}朔云橫高天，萬里起秋色{/color}。請補完此詩之後續。,{color=#FF0000}朔云横高天，万里起秋色{/color}。请补完此诗之后续。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009520",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#FF0000}朔云橫高天，萬里起秋色{/color}。請補完此詩之後續。",
+      "c": "朔云橫高天,萬里起秋色。請補完此詩之後續。",
+      "rq": true,
+      "it": null,
+      "mt": "The clouds are across the sky, the autumn colors are rising from the miles. Please finish this poem and continue.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#FF0000}朔云横高天，万里起秋色{/color}。请补完此诗之后续。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

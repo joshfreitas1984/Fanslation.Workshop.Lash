@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_238_Tip",
+  "RawLine": "ABILITY_238_Tip,使用酒類物品時，<color=#00DB00>20%</color>不消耗物品。,使用酒类物品时，<color=#00DB00>20%</color>不消耗物品。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_238_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "使用酒類物品時，<color=#00DB00>20%</color>不消耗物品。",
+      "c": "使用酒類物品時,20%不消耗物品。",
+      "rq": true,
+      "it": null,
+      "mt": "When using alcohol items, 20% of the items are not consumed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "使用酒类物品时，<color=#00DB00>20%</color>不消耗物品。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

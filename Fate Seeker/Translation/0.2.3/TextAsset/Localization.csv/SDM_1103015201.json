@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103015201",
+  "RawLine": "SDM_1103015201,【這是一根{color=#FF0000}折斷的槍柄{/color}，難道此處發生過戰鬥？】,【这是一根{color=#FF0000}折断的枪柄{/color}，难道此处发生过战斗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103015201",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這是一根{color=#FF0000}折斷的槍柄{/color}，難道此處發生過戰鬥？】",
+      "c": "<[>這是一根折斷的槍柄,難道此處發生過戰鬥？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is a broken gun handle, was there a battle here? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这是一根{color=#FF0000}折断的枪柄{/color}，难道此处发生过战斗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

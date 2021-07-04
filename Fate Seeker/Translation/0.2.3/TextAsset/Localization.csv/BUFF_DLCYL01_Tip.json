@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_DLCYL01_Tip",
+  "RawLine": "BUFF_DLCYL01_Tip,你因嚴喜的打氣感到振作，攻擊力上升。,你因严喜的打气感到振作，攻击力上升。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_DLCYL01_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你因嚴喜的打氣感到振作，攻擊力上升。",
+      "c": "你因嚴喜的打氣感到振作,攻擊力上升。",
+      "rq": true,
+      "it": null,
+      "mt": "You feel invigorated by Yan Xi's cheer and your attack power increases.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你因严喜的打气感到振作，攻击力上升。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

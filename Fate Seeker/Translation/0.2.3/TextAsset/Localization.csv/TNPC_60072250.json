@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072250",
+  "RawLine": "TNPC_60072250,【第一次來這屋子裡時，似乎沒有見到這瓶子？這裡面的味道聞起來，似乎是某種草藥？】,【第一次来这屋子里时，似乎没有见到这瓶子？这里面的味道闻起来，似乎是某种草药？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072250",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【第一次來這屋子裡時，似乎沒有見到這瓶子？這裡面的味道聞起來，似乎是某種草藥？】",
+      "c": "<[>第一次來這屋子裡時,似乎沒有見到這瓶子？這裡面的味道聞起來,似乎是某種草藥？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>When I first came to this house, I didn't seem to see this bottle? The smell here seems to be some kind of herbal medicine? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【第一次来这屋子里时，似乎没有见到这瓶子？这里面的味道闻起来，似乎是某种草药？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

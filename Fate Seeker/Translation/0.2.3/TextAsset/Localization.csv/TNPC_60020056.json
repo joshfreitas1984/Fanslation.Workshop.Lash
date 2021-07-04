@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60020056",
+  "RawLine": "TNPC_60020056,【雖然佛珠是摩尼教遺失的，但也無法證明是他們餵藥給瘋乞丐吃，看來這件事情也只能到此為止了{s=6}……{/s}】,【虽然佛珠是摩尼教遗失的，但也无法证明是他们喂药给疯乞丐吃，看来这件事情也只能到此为止了{s=6}……{/s}】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60020056",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【雖然佛珠是摩尼教遺失的，但也無法證明是他們餵藥給瘋乞丐吃，看來這件事情也只能到此為止了{s=6}……{/s}】",
+      "c": "<[>雖然佛珠是摩尼教遺失的,但也無法證明是他們餵藥給瘋乞丐吃,看來這件事情也只能到此為止了......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Although the Buddha beads are lost by the Manichaeans, there is no proof that they fed the medicine to the crazy beggars, so it seems that this matter can only end here ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【虽然佛珠是摩尼教遗失的，但也无法证明是他们喂药给疯乞丐吃，看来这件事情也只能到此为止了{s=6}……{/s}】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

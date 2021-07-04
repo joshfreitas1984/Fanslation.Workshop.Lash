@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078440",
+  "RawLine": "TNPC_60078440,既然心情這麼差，不如我請你去{color=#FF0000}杭州的雲來客棧{/color}喝個酒，解解悶，如何？,既然心情这么差，不如我请你去{color=#FF0000}杭州的云来客栈{/color}喝个酒，解解闷，如何？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078440",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "既然心情這麼差，不如我請你去{color=#FF0000}杭州的雲來客棧{/color}喝個酒，解解悶，如何？",
+      "c": "既然心情這麼差,不如我請你去杭州的雲來客棧喝個酒,解解悶,如何？",
+      "rq": true,
+      "it": null,
+      "mt": "Since you are in such a bad mood, why don't I invite you to the Yunlai Inn in Hangzhou to have a drink and relieve your boredom?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "既然心情这么差，不如我请你去{color=#FF0000}杭州的云来客栈{/color}喝个酒，解解闷，如何？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

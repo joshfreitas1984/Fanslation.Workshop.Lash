@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SystemWindow.CreateCharError",
+  "RawLine": "SystemWindow.CreateCharError,名字設定錯誤，姓 或 名 請至少各填一個字。\\n(按下確認會設回預設值),名字设定错误，姓 或 名 请至少各填一个字。\\n(按下确认会设回预设值)",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SystemWindow.CreateCharError",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "名字設定錯誤，姓 或 名 請至少各填一個字。\\n(按下確認會設回預設值)",
+      "c": "名字設定錯誤,姓 或 名 請至少各填一個字。<<\\n>>(按下確認會設回預設值)",
+      "rq": true,
+      "it": null,
+      "mt": "Name setting error, please fill in at least one character each for last name or first name. <<\\n>>(Pressing confirm will set it back to the default value)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "名字设定错误，姓 或 名 请至少各填一个字。\\n(按下确认会设回预设值)",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

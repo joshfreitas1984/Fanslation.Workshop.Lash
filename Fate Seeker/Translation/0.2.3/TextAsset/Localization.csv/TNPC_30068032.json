@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30068032",
+  "RawLine": "TNPC_30068032,小的只知道他們兩位離開這裡後，朝著{color=#FF0000}羅織帛舖{/color}的方向去了。,小的只知道他们两位离开这里后，朝着{color=#FF0000}罗织帛铺{/color}的方向去了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30068032",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小的只知道他們兩位離開這裡後，朝著{color=#FF0000}羅織帛舖{/color}的方向去了。",
+      "c": "小的只知道他們兩位離開這裡後,朝著羅織帛舖的方向去了。",
+      "rq": true,
+      "it": null,
+      "mt": "I only know that after they left here, they went in the direction of the Luo Weaving and Silk Shop.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小的只知道他们两位离开这里后，朝着{color=#FF0000}罗织帛铺{/color}的方向去了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

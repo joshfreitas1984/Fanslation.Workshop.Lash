@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31067504",
+  "RawLine": "TNPC_31067504,這你就得問{color=#cc0000}糧倉{/color}的{color=#cc0000}黃正{/color}去了，他對這事最清楚了。,这你就得问{color=#cc0000}粮仓{/color}的{color=#cc0000}黄正{/color}去了，他对这事最清楚了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31067504",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這你就得問{color=#cc0000}糧倉{/color}的{color=#cc0000}黃正{/color}去了，他對這事最清楚了。",
+      "c": "這你就得問糧倉的黃正去了,他對這事最清楚了。",
+      "rq": true,
+      "it": null,
+      "mt": "You have to ask Huang Zheng of the granary, he knows the most about this matter.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这你就得问{color=#cc0000}粮仓{/color}的{color=#cc0000}黄正{/color}去了，他对这事最清楚了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

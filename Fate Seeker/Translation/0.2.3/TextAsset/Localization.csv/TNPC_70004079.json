@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004079",
+  "RawLine": "TNPC_70004079,【這盒子不知是誰設計的，仔細一看這盒子上{color=#FF0000}有隻淡淡的金絲構成的孔雀{/color}呼之欲出。】,【这盒子不知是谁设计的，仔细一看这盒子上{color=#FF0000}有只淡淡的金丝构成的孔雀{/color}呼之欲出。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004079",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這盒子不知是誰設計的，仔細一看這盒子上{color=#FF0000}有隻淡淡的金絲構成的孔雀{/color}呼之欲出。】",
+      "c": "<[>這盒子不知是誰設計的,仔細一看這盒子上有隻淡淡的金絲構成的孔雀呼之欲出。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I wonder who designed this box, and a faint golden peacock appears on the box when you take a closer look. <]> The box was designed by someone.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这盒子不知是谁设计的，仔细一看这盒子上{color=#FF0000}有只淡淡的金丝构成的孔雀{/color}呼之欲出。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

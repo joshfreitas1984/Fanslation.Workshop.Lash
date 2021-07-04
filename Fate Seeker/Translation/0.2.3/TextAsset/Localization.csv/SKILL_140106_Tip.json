@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140106_Tip",
+  "RawLine": "SKILL_140106_Tip,【{color=#FFD700}破防功能{/color}】\\n產生大範圍火焰地板，火圈仍會留在地上，持續{color=#00DB00}20{/color}秒。低機率造成火毒。,【{color=#FFD700}破防功能{/color}】\\n产生大范围火焰地板，火圈仍会留在地上，持续{color=#00DB00}20{/color}秒。低机率造成火毒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140106_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n產生大範圍火焰地板，火圈仍會留在地上，持續{color=#00DB00}20{/color}秒。低機率造成火毒。",
+      "c": "<[>破防功能<]><<\\n>>產生大範圍火焰地板,火圈仍會留在地上,持續20秒。低機率造成火毒。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Break Defenses<]><<\\n>> Creates a large flaming floor with a ring of fire that remains on the ground for 20 seconds. Low chance of causing fire poison.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n产生大范围火焰地板，火圈仍会留在地上，持续{color=#00DB00}20{/color}秒。低机率造成火毒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

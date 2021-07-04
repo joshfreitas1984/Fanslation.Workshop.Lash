@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_334_Tip",
+  "RawLine": "ABILITY_334_Tip,被敵人暈眩時，<color=#00DB00>20%</color>機率讓所有冷卻時間歸零。,被敌人晕眩时，<color=#00DB00>20%</color>机率让所有冷却时间归零。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_334_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "被敵人暈眩時，<color=#00DB00>20%</color>機率讓所有冷卻時間歸零。",
+      "c": "被敵人暈眩時,20%機率讓所有冷卻時間歸零。",
+      "rq": true,
+      "it": null,
+      "mt": "When stunned by an enemy, there is a 20% chance that all cooldowns will be zero.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "被敌人晕眩时，<color=#00DB00>20%</color>机率让所有冷却时间归零。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

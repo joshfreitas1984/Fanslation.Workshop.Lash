@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60020085",
+  "RawLine": "TNPC_60020085,【雖然他們有心悔改，但人命關天之事，要就此放過他們嗎？】,【虽然他们有心悔改，但人命关天之事，要就此放过他们吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60020085",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【雖然他們有心悔改，但人命關天之事，要就此放過他們嗎？】",
+      "c": "<[>雖然他們有心悔改,但人命關天之事,要就此放過他們嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Although they are willing to repent, but human lives are at stake, should we just let them go? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【虽然他们有心悔改，但人命关天之事，要就此放过他们吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

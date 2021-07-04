@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04102_Tip",
+  "RawLine": "ITEM_04102_Tip,以永安吉山的上等糯米為主原料，加入甘美山泉釀造的酒。香味綿長，入口醇厚。{p}{p}種類：{color=#ff0000}黃酒{/color}{p}合成難度：{color=#ff0000}2{/color}。,以永安吉山的上等糯米为主原料，加入甘美山泉酿造的酒。香味绵长，入口醇厚。{p}{p}种类：{color=#ff0000}黄酒{/color}{p}合成难度：{color=#ff0000}2{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04102_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "以永安吉山的上等糯米為主原料，加入甘美山泉釀造的酒。香味綿長，入口醇厚。{p}{p}種類：{color=#ff0000}黃酒{/color}{p}合成難度：{color=#ff0000}2{/color}。",
+      "c": "以永安吉山的上等糯米為主原料,加入甘美山泉釀造的酒。香味綿長,入口醇厚。種類：黃酒合成難度：2。",
+      "rq": true,
+      "it": null,
+      "mt": "This wine is made from the finest glutinous rice from Jishan, Yong'an, with the addition of sweet mountain springs. The aroma is long and mellow in the mouth. Type: Yellow Wine Synthesis Difficulty: 2.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "以永安吉山的上等糯米为主原料，加入甘美山泉酿造的酒。香味绵长，入口醇厚。{p}{p}种类：{color=#ff0000}黄酒{/color}{p}合成难度：{color=#ff0000}2{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

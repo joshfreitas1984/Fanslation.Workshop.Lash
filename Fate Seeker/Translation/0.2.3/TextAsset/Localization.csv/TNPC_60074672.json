@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074672",
+  "RawLine": "TNPC_60074672,【謝半仙的話好像還沒說完，看他這個樣子，得吃上{color=#FF0000}一帖的藥{/color}才有辦法痊癒。或許可以去藥鋪看看。】,【谢半仙的话好像还没说完，看他这个样子，得吃上{color=#FF0000}一帖的药{/color}才有办法痊愈。或许可以去药铺看看。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074672",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【謝半仙的話好像還沒說完，看他這個樣子，得吃上{color=#FF0000}一帖的藥{/color}才有辦法痊癒。或許可以去藥鋪看看。】",
+      "c": "<[>謝半仙的話好像還沒說完,看他這個樣子,得吃上一帖的藥才有辦法痊癒。或許可以去藥鋪看看。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[> It seems that Half-Sen Xie has not finished his speech. Perhaps you can go to a pharmacy to see. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【谢半仙的话好像还没说完，看他这个样子，得吃上{color=#FF0000}一帖的药{/color}才有办法痊愈。或许可以去药铺看看。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

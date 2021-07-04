@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60006006",
+  "RawLine": "TNPC_60006006,我、{s=6}我……{/s}我決定離開這個家，以免這個家繼續被我牽連倒楣吧。,我、{s=6}我……{/s}我决定离开这个家，以免这个家继续被我牵连倒霉吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60006006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我、{s=6}我……{/s}我決定離開這個家，以免這個家繼續被我牽連倒楣吧。",
+      "c": "我、我......我決定離開這個家,以免這個家繼續被我牽連倒楣吧。",
+      "rq": true,
+      "it": null,
+      "mt": "I, I ...... I decided to leave this family, so that this family will not continue to be involved in my bad luck.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我、{s=6}我……{/s}我决定离开这个家，以免这个家继续被我牵连倒霉吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20059003",
+  "RawLine": "TNPC_20059003,只見{name}不敵被打倒在地，江帛會一招砍刀將至，{p}說時遲、那時快，妽兒擊退數人之後，轉身出手相救，{p}即時擋下了奪命一招，也把這幾人打的滿地找牙。,只见{name}不敌被打倒在地，江帛会一招砍刀将至，{p}说时迟、那时快，妽儿击退数人之后，转身出手相救，{p}即时挡下了夺命一招，也把这几人打的满地找牙。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20059003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "只見{name}不敵被打倒在地，江帛會一招砍刀將至，{p}說時遲、那時快，妽兒擊退數人之後，轉身出手相救，{p}即時擋下了奪命一招，也把這幾人打的滿地找牙。",
+      "c": "只見<name>不敵被打倒在地,江帛會一招砍刀將至,說時遲、那時快,妽兒擊退數人之後,轉身出手相救,即時擋下了奪命一招,也把這幾人打的滿地找牙。",
+      "rq": true,
+      "it": null,
+      "mt": "Only <name>was defeated and knocked to the ground, Jiang Pali would come with a machete move, and then it was too late.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "只见{name}不敌被打倒在地，江帛会一招砍刀将至，{p}说时迟、那时快，妽儿击退数人之后，转身出手相救，{p}即时挡下了夺命一招，也把这几人打的满地找牙。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

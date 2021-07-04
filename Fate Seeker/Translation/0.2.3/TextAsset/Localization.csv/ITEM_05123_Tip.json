@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05123_Tip",
+  "RawLine": "ITEM_05123_Tip,製藥藥材，生津止渴、清熱瀉火，可用於涼血、生血。味甘苦、性涼。{p}{p}合成難度：{color=#ff0000}5{/color}。,制药药材，生津止渴、清热泻火，可用于凉血、生血。味甘苦、性凉。{p}{p}合成难度：{color=#ff0000}5{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05123_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，生津止渴、清熱瀉火，可用於涼血、生血。味甘苦、性涼。{p}{p}合成難度：{color=#ff0000}5{/color}。",
+      "c": "製藥藥材,生津止渴、清熱瀉火,可用於涼血、生血。味甘苦、性涼。合成難度：5。",
+      "rq": true,
+      "it": null,
+      "mt": "A medicinal herb that is used for cooling the blood and promoting blood circulation. It is sweet and bitter in taste and cool in nature. Synthesis Difficulty: 5.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，生津止渴、清热泻火，可用于凉血、生血。味甘苦、性凉。{p}{p}合成难度：{color=#ff0000}5{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

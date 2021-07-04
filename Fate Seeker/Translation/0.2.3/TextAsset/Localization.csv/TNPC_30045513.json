@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30045513",
+  "RawLine": "TNPC_30045513,【雖然可能無法一擊成功，但幻波渾圓掌的第一式似乎較容易打斷敵人運氣，看到敵人發出{color=#FFAA33}橘色{/color}氣息時試試看吧！】,【虽然可能无法一击成功，但幻波浑圆掌的第一式似乎较容易打断敌人运气，看到敌人发出{color=#FFAA33}橘色{/color}气息时试试看吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30045513",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【雖然可能無法一擊成功，但幻波渾圓掌的第一式似乎較容易打斷敵人運氣，看到敵人發出{color=#FFAA33}橘色{/color}氣息時試試看吧！】",
+      "c": "<[>雖然可能無法一擊成功,但幻波渾圓掌的第一式似乎較容易打斷敵人運氣,看到敵人發出橘色氣息時試試看吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Although it may not be successful in one hit, the first move of the Mirage Wave Round Palm seems to be easier to break the enemy's Qi. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【虽然可能无法一击成功，但幻波浑圆掌的第一式似乎较容易打断敌人运气，看到敌人发出{color=#FFAA33}橘色{/color}气息时试试看吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

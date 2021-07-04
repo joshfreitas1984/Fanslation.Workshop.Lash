@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70008876",
+  "RawLine": "TNPC_70008876,{ln}盟主，有空歡迎來到我們家作客，十分歡迎。,{ln}盟主，有空欢迎来到我们家作客，十分欢迎。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70008876",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{ln}盟主，有空歡迎來到我們家作客，十分歡迎。",
+      "c": "<ln>盟主,有空歡迎來到我們家作客,十分歡迎。",
+      "rq": true,
+      "it": null,
+      "mt": "<ln>Alliance Master, you are welcome to come to our house when you have time, you are very welcome.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{ln}盟主，有空欢迎来到我们家作客，十分欢迎。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

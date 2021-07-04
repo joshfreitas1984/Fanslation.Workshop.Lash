@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003083",
+  "RawLine": "TNPC_10003083,【總共有{color=#FF0000}三個燈檯{/color}要點燃，現在還剩下兩個。】,【总共有{color=#FF0000}三个灯台{/color}要点燃，现在还剩下两个。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003083",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【總共有{color=#FF0000}三個燈檯{/color}要點燃，現在還剩下兩個。】",
+      "c": "<[>總共有三個燈檯要點燃,現在還剩下兩個。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>總共有三個燈檯要點燃,現在還剩下兩個。<]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【总共有{color=#FF0000}三个灯台{/color}要点燃，现在还剩下两个。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

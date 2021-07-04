@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120308_Tip",
+  "RawLine": "SKILL_120308_Tip,【{color=#FFD700}絕學{/color}】\\n以弒魂刀氣繞身，弒魂刀氣會自動攻擊接近的敵人，持續{color=#FF0000}30{/color}秒。,【{color=#FFD700}绝学{/color}】\\n以弑魂刀气绕身，弑魂刀气会自动攻击接近的敌人，持续{color=#FF0000}30{/color}秒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120308_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】\\n以弒魂刀氣繞身，弒魂刀氣會自動攻擊接近的敵人，持續{color=#FF0000}30{/color}秒。",
+      "c": "<[>絕學<]><<\\n>>以弒魂刀氣繞身,弒魂刀氣會自動攻擊接近的敵人,持續30秒。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Extreme Technique<]><<\\n>>Wrap your body with Parricide Qi, which will automatically attack the approaching enemy for 30 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】\\n以弑魂刀气绕身，弑魂刀气会自动攻击接近的敌人，持续{color=#FF0000}30{/color}秒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

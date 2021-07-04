@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007201",
+  "RawLine": "TNPC_70007201,柴曜！！！{w=1}你害死了嬸娘，如今又害死了師父！,柴曜！！！{w=1}你害死了婶娘，如今又害死了师父！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007201",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "柴曜！！！{w=1}你害死了嬸娘，如今又害死了師父！",
+      "c": "柴曜！！！你害死了嬸娘,如今又害死了師父！",
+      "rq": true,
+      "it": null,
+      "mt": " Chai Yao! You killed your aunt, and now you've killed your master!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "柴曜！！！{w=1}你害死了婶娘，如今又害死了师父！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

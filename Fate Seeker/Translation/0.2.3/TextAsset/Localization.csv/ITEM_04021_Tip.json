@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04021_Tip",
+  "RawLine": "ITEM_04021_Tip,每一窩蜂巢只能從一隻蜂王身上取得一滴的精華，對於修習內功有相當大的幫助。{p}{p}合成難度：{color=#ff0000}3{/color}。,每一窝蜂巢只能从一只蜂王身上取得一滴的精华，对于修习内功有相当大的帮助。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04021_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每一窩蜂巢只能從一隻蜂王身上取得一滴的精華，對於修習內功有相當大的幫助。{p}{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "每一窩蜂巢只能從一隻蜂王身上取得一滴的精華,對於修習內功有相當大的幫助。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": "Only one drop of essence can be obtained from one queen bee from each hive, which is very helpful for practicing internal energy. Synthesis difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "每一窝蜂巢只能从一只蜂王身上取得一滴的精华，对于修习内功有相当大的帮助。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

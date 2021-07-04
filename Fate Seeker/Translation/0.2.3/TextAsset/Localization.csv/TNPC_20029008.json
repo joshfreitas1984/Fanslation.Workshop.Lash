@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20029008",
+  "RawLine": "TNPC_20029008,【沒想到！居然有新的賊子佔據這裡，{p}聽起來……這寨中不只他二人，我該得想個法子才行……】,【没想到！居然有新的贼子占据这里，{p}听起来……这寨中不只他二人，我该得想个法子才行……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20029008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【沒想到！居然有新的賊子佔據這裡，{p}聽起來……這寨中不只他二人，我該得想個法子才行……】",
+      "c": "<[>沒想到！居然有新的賊子佔據這裡,聽起來......這寨中不只他二人,我該得想個法子才行......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I didn't expect that! A new bandit has taken over this place, it sounds like ...... There are more than two of them in this fortress, I should think of a way to do it ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【没想到！居然有新的贼子占据这里，{p}听起来……这寨中不只他二人，我该得想个法子才行……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009438",
+  "RawLine": "TNPC_70009438,【從白虎令上的文字看來，這應該是個機關櫃。】,【从白虎令上的文字看来，这应该是个机关柜。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009438",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【從白虎令上的文字看來，這應該是個機關櫃。】",
+      "c": "<[>從白虎令上的文字看來,這應該是個機關櫃。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>From the writing on the White Tiger Order, this should be a machine cabinet. <]> The white tiger order is a cabinet.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【从白虎令上的文字看来，这应该是个机关柜。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

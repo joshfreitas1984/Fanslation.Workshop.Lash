@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005816",
+  "RawLine": "TNPC_70005816,我一向很少服別人，但若是{name}來當盟主，我完全認同。,我一向很少服别人，但若是{name}来当盟主，我完全认同。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005816",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我一向很少服別人，但若是{name}來當盟主，我完全認同。",
+      "c": "我一向很少服別人,但若是<name>來當盟主,我完全認同。",
+      "rq": true,
+      "it": null,
+      "mt": "I seldom obey others, but if <name> were to be the master, I would totally agree.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我一向很少服别人，但若是{name}来当盟主，我完全认同。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

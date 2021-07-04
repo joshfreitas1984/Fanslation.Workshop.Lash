@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002390",
+  "RawLine": "TNPC_70002390,【嘿嘿，我剛拿起來的時候，就已經用手掂過重量了。】,【嘿嘿，我刚拿起来的时候，就已经用手掂过重量了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002390",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嘿嘿，我剛拿起來的時候，就已經用手掂過重量了。】",
+      "c": "<[>嘿嘿,我剛拿起來的時候,就已經用手掂過重量了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, when I picked it up, I already weighed it with my hands. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嘿嘿，我刚拿起来的时候，就已经用手掂过重量了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

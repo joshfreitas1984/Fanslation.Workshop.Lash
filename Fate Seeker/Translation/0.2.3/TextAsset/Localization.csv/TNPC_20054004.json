@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20054004",
+  "RawLine": "TNPC_20054004,【看來她好像正與人談事……{p}先不要打擾她好了，等我要走再去打聲招呼。】,【看来她好像正与人谈事……{p}先不要打扰她好了，等我要走再去打声招呼。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20054004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來她好像正與人談事……{p}先不要打擾她好了，等我要走再去打聲招呼。】",
+      "c": "<[>看來她好像正與人談事......先不要打擾她好了,等我要走再去打聲招呼。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It looks like she's talking to someone ...... Don't bother her yet, I'll go say hello when I'm leaving. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来她好像正与人谈事……{p}先不要打扰她好了，等我要走再去打声招呼。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

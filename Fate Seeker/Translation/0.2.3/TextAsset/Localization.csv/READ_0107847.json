@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0107847",
+  "RawLine": "READ_0107847,豌豆與大麥\\n\\n八二比例混合為豆麴，可製濁酒\\n四六比例混合為青麴，可製汾酒\\n一九比例混合為麥麴，可製穀酒,豌豆与大麦\\n\\n八二比例混合为豆曲，可制浊酒\\n四六比例混合为青曲，可制汾酒\\n一九比例混合为麦曲，可制谷酒",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0107847",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "豌豆與大麥\\n\\n八二比例混合為豆麴，可製濁酒\\n四六比例混合為青麴，可製汾酒\\n一九比例混合為麥麴，可製穀酒",
+      "c": "豌豆與大麥<<\\n>><<\\n>>八二比例混合為豆麴,可製濁酒<<\\n>>四六比例混合為青麴,可製汾酒<<\\n>>一九比例混合為麥麴,可製穀酒",
+      "rq": true,
+      "it": null,
+      "mt": "Mixing peas with barley in a ratio of 82 to make bean koji makes turbid wine<<\\n>>Mixing in a ratio of 46 to make green koji makes Fen wine<\\n>>Mixing in a ratio of 19 to make wheat koji makes grain wine<\\n>>.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "豌豆与大麦\\n\\n八二比例混合为豆曲，可制浊酒\\n四六比例混合为青曲，可制汾酒\\n一九比例混合为麦曲，可制谷酒",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

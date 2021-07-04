@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001770",
+  "RawLine": "TNPC_70001770,【不過臭老頭說過只要找到{color=#FF0000}其中的順序{/color}，就能離開這裡。】,【不过臭老头说过只要找到{color=#FF0000}其中的顺序{/color}，就能离开这里。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001770",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【不過臭老頭說過只要找到{color=#FF0000}其中的順序{/color}，就能離開這裡。】",
+      "c": "<[>不過臭老頭說過只要找到其中的順序,就能離開這裡。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>But the old man said that if we find the sequence, we can get out of here. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【不过臭老头说过只要找到{color=#FF0000}其中的顺序{/color}，就能离开这里。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

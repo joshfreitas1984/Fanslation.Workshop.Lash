@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "CHOICE_100102512",
+  "RawLine": "CHOICE_100102512,目標是個大夫，現在上山採藥了，只有他的小徒弟在家。,目标是个大夫，现在上山采药了，只有他的小徒弟在家。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "CHOICE_100102512",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "目標是個大夫，現在上山採藥了，只有他的小徒弟在家。",
+      "c": "目標是個大夫,現在上山採藥了,只有他的小徒弟在家。",
+      "rq": true,
+      "it": null,
+      "mt": "The target is a doctor who has gone to the mountain to collect medicine, and only his young apprentice is at home.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "目标是个大夫，现在上山采药了，只有他的小徒弟在家。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

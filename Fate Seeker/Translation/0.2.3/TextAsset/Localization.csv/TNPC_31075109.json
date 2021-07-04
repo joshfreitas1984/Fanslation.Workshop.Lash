@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31075109",
+  "RawLine": "TNPC_31075109,給你點提示吧，二仙酒是難度約為{color=#cc0000}四{/color}的{color=#cc0000}藥酒{/color}。,给你点提示吧，二仙酒是难度约为{color=#cc0000}四{/color}的{color=#cc0000}药酒{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31075109",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "給你點提示吧，二仙酒是難度約為{color=#cc0000}四{/color}的{color=#cc0000}藥酒{/color}。",
+      "c": "給你點提示吧,二仙酒是難度約為四的藥酒。",
+      "rq": true,
+      "it": null,
+      "mt": "A little hint, Erxian wine is a medicinal wine with a difficulty level of about four.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "给你点提示吧，二仙酒是难度约为{color=#cc0000}四{/color}的{color=#cc0000}药酒{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

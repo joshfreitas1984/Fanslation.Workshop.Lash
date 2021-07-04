@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20032012",
+  "RawLine": "TNPC_20032012,【這酒鬼老伯應該想不到，我已向小二打聽寶藏之事，{p}還是快點去棺馬寨尋寶，免得落於人後。】,【这酒鬼老伯应该想不到，我已向小二打听宝藏之事，{p}还是快点去棺马寨寻宝，免得落于人后。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20032012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這酒鬼老伯應該想不到，我已向小二打聽寶藏之事，{p}還是快點去棺馬寨尋寶，免得落於人後。】",
+      "c": "<[>這酒鬼老伯應該想不到,我已向小二打聽寶藏之事,還是快點去棺馬寨尋寶,免得落於人後。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This drunken old man should not have imagined that I have asked Xiao Er about the treasure, so I'd better go to the Coffin Horse Cottage to find the treasure quickly, so as not to be left behind. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这酒鬼老伯应该想不到，我已向小二打听宝藏之事，{p}还是快点去棺马寨寻宝，免得落于人后。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

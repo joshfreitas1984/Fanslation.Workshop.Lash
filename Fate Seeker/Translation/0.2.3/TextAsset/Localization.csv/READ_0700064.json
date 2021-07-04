@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0700064",
+  "RawLine": "READ_0700064,《木客》\\n酒盡君莫沽，壺傾我當發。\\n城市多囂塵，還山弄明月。,《木客》\\n酒尽君莫沽，壶倾我当发。\\n城市多嚣尘，还山弄明月。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0700064",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "《木客》\\n酒盡君莫沽，壺傾我當發。\\n城市多囂塵，還山弄明月。",
+      "c": "《木客》<<\\n>>酒盡君莫沽,壺傾我當發。<<\\n>>城市多囂塵,還山弄明月。",
+      "rq": true,
+      "it": null,
+      "mt": "\"The Wooden Guest\" <<\\n>>The wine is not to be sold, the bottle is to be poured out. <<\\n>>The city is full of clamor and dust, I return to the mountain to get the bright moon.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "《木客》\\n酒尽君莫沽，壶倾我当发。\\n城市多嚣尘，还山弄明月。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

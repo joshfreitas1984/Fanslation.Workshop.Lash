@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102007311",
+  "RawLine": "SDM_2102007311,只要你替老夫尋得{color=#ff0000}獸骨、凝玉露、仙療丸，各一個。{/color}便能幫你製此藥。,只要你替老夫寻得{color=#ff0000}兽骨、凝玉露、仙疗丸，各一个。{/color}便能帮你制此药。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102007311",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "只要你替老夫尋得{color=#ff0000}獸骨、凝玉露、仙療丸，各一個。{/color}便能幫你製此藥。",
+      "c": "只要你替老夫尋得獸骨、凝玉露、仙療丸,各一個。便能幫你製此藥。",
+      "rq": true,
+      "it": null,
+      "mt": "As long as you can find one each of Animal Bone, Jade Dew, and Immortal Healing Pill for me. Then I can help you make this medicine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "只要你替老夫寻得{color=#ff0000}兽骨、凝玉露、仙疗丸，各一个。{/color}便能帮你制此药。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

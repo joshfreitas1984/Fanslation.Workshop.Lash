@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130301_Tip",
+  "RawLine": "SKILL_130301_Tip,【{color=#FFD700}前置{/color}】\\n往前方快速突刺的快招。,【{color=#FFD700}前置{/color}】\\n往前方快速突刺的快招。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130301_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n往前方快速突刺的快招。",
+      "c": "<[>前置<]><<\\n>>往前方快速突刺的快招。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>> A quick jab to the front.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n往前方快速突刺的快招。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

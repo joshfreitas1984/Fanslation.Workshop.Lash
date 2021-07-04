@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070309",
+  "RawLine": "TNPC_60070309,這{s=6}……{/s}這我也不清楚，可能把我跟誰搞混了吧？,这{s=6}……{/s}这我也不清楚，可能把我跟谁搞混了吧？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070309",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這{s=6}……{/s}這我也不清楚，可能把我跟誰搞混了吧？",
+      "c": "這......這我也不清楚,可能把我跟誰搞混了吧？",
+      "rq": true,
+      "it": null,
+      "mt": "This ...... I'm not sure about this, maybe I'm confused with someone?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这{s=6}……{/s}这我也不清楚，可能把我跟谁搞混了吧？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

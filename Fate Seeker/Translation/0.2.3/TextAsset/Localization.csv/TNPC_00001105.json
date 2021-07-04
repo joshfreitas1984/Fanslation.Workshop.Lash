@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_00001105",
+  "RawLine": "TNPC_00001105,你真是我的知音啊！這錢給你，幫我買個飯糰吧！,你真是我的知音啊！这钱给你，帮我买个饭团吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_00001105",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你真是我的知音啊！這錢給你，幫我買個飯糰吧！",
+      "c": "你真是我的知音啊！這錢給你,幫我買個飯糰吧！",
+      "rq": true,
+      "it": null,
+      "mt": "You are really my soulmate! This money is for you, buy me a rice ball!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你真是我的知音啊！这钱给你，帮我买个饭团吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

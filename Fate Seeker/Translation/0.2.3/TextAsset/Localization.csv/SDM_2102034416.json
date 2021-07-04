@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102034416",
+  "RawLine": "SDM_2102034416,【印象中，一客茶館和李氏雜貨舖相鄰不遠。】,【印象中，一客茶馆和李氏杂货铺相邻不远。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102034416",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【印象中，一客茶館和李氏雜貨舖相鄰不遠。】",
+      "c": "<[>印象中,一客茶館和李氏雜貨舖相鄰不遠。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I have the impression that Yike's Teahouse and Lee's Grocery are not far from each other. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【印象中，一客茶馆和李氏杂货铺相邻不远。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

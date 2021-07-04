@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20046023",
+  "RawLine": "TNPC_20046023,老伯、你別輕舉妄動啊！{p}如果你敢傷人，我必定當場將你誅之。{p}你還是投降吧……,老伯、你别轻举妄动啊！{p}如果你敢伤人，我必定当场将你诛之。{p}你还是投降吧……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20046023",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老伯、你別輕舉妄動啊！{p}如果你敢傷人，我必定當場將你誅之。{p}你還是投降吧……",
+      "c": "老伯、你別輕舉妄動啊！如果你敢傷人,我必定當場將你誅之。你還是投降吧......",
+      "rq": true,
+      "it": null,
+      "mt": "Old man, don't act rashly! If you dare to hurt someone, I will definitely kill you on the spot. You'd better surrender ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老伯、你别轻举妄动啊！{p}如果你敢伤人，我必定当场将你诛之。{p}你还是投降吧……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

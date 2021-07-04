@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "Skill.Condition.Tip",
+  "RawLine": "Skill.Condition.Tip,需<color=#ff3333>{0}</color>{1}<color=#ff3333>{2}</color>級,需<color=#ff3333>{0}</color>{1}<color=#ff3333>{2}</color>级",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "Skill.Condition.Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "需<color=#ff3333>{0}</color>{1}<color=#ff3333>{2}</color>級",
+      "c": "需<0><1><2>級",
+      "rq": true,
+      "it": null,
+      "mt": " need <0><1><2> level",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "需<color=#ff3333>{0}</color>{1}<color=#ff3333>{2}</color>级",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

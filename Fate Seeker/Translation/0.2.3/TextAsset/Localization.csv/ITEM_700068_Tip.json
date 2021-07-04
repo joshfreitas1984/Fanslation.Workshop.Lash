@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700068_Tip",
+  "RawLine": "ITEM_700068_Tip,唐代孟浩然所著。內文：『春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少？』,唐代孟浩然所着。内文：『春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少？』",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700068_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唐代孟浩然所著。內文：『春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少？』",
+      "c": "唐代孟浩然所著。內文：『春眠不覺曉,處處聞啼鳥。夜來風雨聲,花落知多少？』",
+      "rq": true,
+      "it": null,
+      "mt": "Written by Meng Haoran in the Tang Dynasty. The text: 'Spring sleeps but does not realize the dawn, and everywhere we hear cries of birds. How much do you know about the falling flowers when the wind and rain come at night?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唐代孟浩然所着。内文：『春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少？』",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_50009814",
+  "RawLine": "TNPC_50009814,【這人剛剛提到詩壁上的留言，方才似乎在哪個牆上有看見……再去找一下吧！】,【这人刚刚提到诗壁上的留言，方才似乎在哪个墙上有看见……再去找一下吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_50009814",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這人剛剛提到詩壁上的留言，方才似乎在哪個牆上有看見……再去找一下吧！】",
+      "c": "<[>這人剛剛提到詩壁上的留言,方才似乎在哪個牆上有看見......再去找一下吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This person just mentioned the message on the poetry wall, I seem to have seen it on one of the walls just now ...... Go find it again! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这人刚刚提到诗壁上的留言，方才似乎在哪个墙上有看见……再去找一下吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

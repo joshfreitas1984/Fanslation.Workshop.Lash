@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103013809",
+  "RawLine": "SDM_2103013809,【糟糕，沒看準，這力道不夠，骰子動都沒動，我得練練再來。】,【糟糕，没看准，这力道不够，骰子动都没动，我得练练再来。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103013809",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【糟糕，沒看準，這力道不夠，骰子動都沒動，我得練練再來。】",
+      "c": "<[>糟糕,沒看準,這力道不夠,骰子動都沒動,我得練練再來。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Oops, I didn't see it right, it's not strong enough, the dice didn't even move, I'll have to practice and come back. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【糟糕，没看准，这力道不够，骰子动都没动，我得练练再来。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

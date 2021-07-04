@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20020008",
+  "RawLine": "TNPC_20020008,而{color=#ff0000}賽錦體{/color}是以刺青比美為名目，{p}能由參加者背景挑選符合者，再於賽後約談，{p}但並非人人都有自信來參加比美，可能會遺漏。,而{color=#ff0000}赛锦体{/color}是以刺青比美为名目，{p}能由参加者背景挑选符合者，再于赛后约谈，{p}但并非人人都有自信来参加比美，可能会遗漏。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20020008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "而{color=#ff0000}賽錦體{/color}是以刺青比美為名目，{p}能由參加者背景挑選符合者，再於賽後約談，{p}但並非人人都有自信來參加比美，可能會遺漏。",
+      "c": "而賽錦體是以刺青比美為名目,能由參加者背景挑選符合者,再於賽後約談,但並非人人都有自信來參加比美,可能會遺漏。",
+      "rq": true,
+      "it": null,
+      "mt": "The tournament is called a tattoo contest, and the participants' backgrounds can be used to select the right person for a post-contest interview.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "而{color=#ff0000}赛锦体{/color}是以刺青比美为名目，{p}能由参加者背景挑选符合者，再于赛后约谈，{p}但并非人人都有自信来参加比美，可能会遗漏。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31085801",
+  "RawLine": "TNPC_31085801,這個人雖然有自己的說法，但別人該提到他的時候卻沒有提，這份證詞或許根本是假的！,这个人虽然有自己的说法，但别人该提到他的时候却没有提，这份证词或许根本是假的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31085801",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這個人雖然有自己的說法，但別人該提到他的時候卻沒有提，這份證詞或許根本是假的！",
+      "c": "這個人雖然有自己的說法,但別人該提到他的時候卻沒有提,這份證詞或許根本是假的！",
+      "rq": true,
+      "it": null,
+      "mt": "This person has his own statement, but no one mentions him when they should.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这个人虽然有自己的说法，但别人该提到他的时候却没有提，这份证词或许根本是假的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20046015",
+  "RawLine": "TNPC_20046015,小二你給我閉嘴！{p}雖然老夫我現在受傷，但敢妨礙老夫報仇的話，老夫第一個拉你墊背！,小二你给我闭嘴！{p}虽然老夫我现在受伤，但敢妨碍老夫报仇的话，老夫第一个拉你垫背！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20046015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小二你給我閉嘴！{p}雖然老夫我現在受傷，但敢妨礙老夫報仇的話，老夫第一個拉你墊背！",
+      "c": "小二你給我閉嘴！雖然老夫我現在受傷,但敢妨礙老夫報仇的話,老夫第一個拉你墊背！",
+      "rq": true,
+      "it": null,
+      "mt": "Shut up, Xiao Er! Although I'm injured now, if I dare to interfere with my revenge, I'll be the first one to pull your back!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小二你给我闭嘴！{p}虽然老夫我现在受伤，但敢妨碍老夫报仇的话，老夫第一个拉你垫背！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

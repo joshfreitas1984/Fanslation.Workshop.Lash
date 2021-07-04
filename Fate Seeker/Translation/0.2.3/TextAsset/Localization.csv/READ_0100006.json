@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0100006",
+  "RawLine": "READ_0100006,難度八\\n神癒丸：沉香+車前子+地黃\\n神現丹：何首烏+車前子+地黃\\n\\n增魄露：沙參+車前子+地黃\\n仙靈漿：胡黃連+車前子+地黃,难度八\\n神愈丸：沉香+车前子+地黄\\n神现丹：何首乌+车前子+地黄\\n\\n增魄露：沙参+车前子+地黄\\n仙灵浆：胡黄连+车前子+地黄",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0100006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "難度八\\n神癒丸：沉香+車前子+地黃\\n神現丹：何首烏+車前子+地黃\\n\\n增魄露：沙參+車前子+地黃\\n仙靈漿：胡黃連+車前子+地黃",
+      "c": "難度八<<\\n>>神癒丸：沉香+車前子+地黃<<\\n>>神現丹：何首烏+車前子+地黃<<\\n>><<\\n>>增魄露：沙參+車前子+地黃<<\\n>>仙靈漿：胡黃連+車前子+地黃",
+      "rq": true,
+      "it": null,
+      "mt": "Difficulty 8<<\\n>>God Healing Pill: Incense + Psyllium + Earth Yellow<<\\n>>God Present Pill: He Shou Wu + Psyllium + Earth Yellow<<\\n>><<\\n>>Great Soul Enhancer: Salvia + Psyllium + Earth Yellow<<\\n>>Good Spirit Paste: Hu Huang Lian + Psyllium + Earth Yellow",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "难度八\\n神愈丸：沉香+车前子+地黄\\n神现丹：何首乌+车前子+地黄\\n\\n增魄露：沙参+车前子+地黄\\n仙灵浆：胡黄连+车前子+地黄",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

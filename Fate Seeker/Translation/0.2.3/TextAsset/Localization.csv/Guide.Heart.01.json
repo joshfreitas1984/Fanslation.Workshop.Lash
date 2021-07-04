@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "Guide.Heart.01",
+  "RawLine": "Guide.Heart.01,玩家運行此心法會得到的額外能力，停止運行便會中止。,玩家运行此心法会得到的额外能力，停止运行便会中止。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "Guide.Heart.01",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "玩家運行此心法會得到的額外能力，停止運行便會中止。",
+      "c": "玩家運行此心法會得到的額外能力,停止運行便會中止。",
+      "rq": true,
+      "it": null,
+      "mt": "The extra ability that the player will get by running this mind, which will be suspended if you stop running it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "玩家运行此心法会得到的额外能力，停止运行便会中止。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

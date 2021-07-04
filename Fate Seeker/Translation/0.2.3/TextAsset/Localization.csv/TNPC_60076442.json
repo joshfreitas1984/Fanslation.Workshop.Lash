@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60076442",
+  "RawLine": "TNPC_60076442,現在忙著呢！想問問雜七雜八的東西去{color=#FF0000}李氏雜貨{/color}就對了。,现在忙着呢！想问问杂七杂八的东西去{color=#FF0000}李氏杂货{/color}就对了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60076442",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "現在忙著呢！想問問雜七雜八的東西去{color=#FF0000}李氏雜貨{/color}就對了。",
+      "c": "現在忙著呢！想問問雜七雜八的東西去李氏雜貨就對了。",
+      "rq": true,
+      "it": null,
+      "mt": "I'm busy now! If you want to ask about miscellaneous things, just go to Lee's Grocery.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "现在忙着呢！想问问杂七杂八的东西去{color=#FF0000}李氏杂货{/color}就对了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

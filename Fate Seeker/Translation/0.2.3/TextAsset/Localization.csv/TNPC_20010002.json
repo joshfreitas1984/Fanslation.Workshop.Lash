@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20010002",
+  "RawLine": "TNPC_20010002,我{color=#ff0000}最近喪母{/color}，{s=6}心煩意亂……{/s},我{color=#ff0000}最近丧母{/color}，{s=6}心烦意乱……{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20010002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我{color=#ff0000}最近喪母{/color}，{s=6}心煩意亂……{/s}",
+      "c": "我最近喪母,心煩意亂......",
+      "rq": true,
+      "it": null,
+      "mt": "I recently lost my mother, I am disturbed ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我{color=#ff0000}最近丧母{/color}，{s=6}心烦意乱……{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31028003",
+  "RawLine": "TNPC_31028003,【我得先去{color=#cc0000}糧倉{/color}找正哥拿{color=#cc0000}麵粉{/color}才行……】,【我得先去{color=#cc0000}粮仓{/color}找正哥拿{color=#cc0000}面粉{/color}才行……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31028003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我得先去{color=#cc0000}糧倉{/color}找正哥拿{color=#cc0000}麵粉{/color}才行……】",
+      "c": "<[>我得先去糧倉找正哥拿麵粉才行......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I have to go to the granary to get flour from Zheng first ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我得先去{color=#cc0000}粮仓{/color}找正哥拿{color=#cc0000}面粉{/color}才行……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101000139",
+  "RawLine": "SDM_2101000139,{fn}你沒事吧，會不會是剛才被石頭打到肚子？,{fn}你没事吧，会不会是刚才被石头打到肚子？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101000139",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}你沒事吧，會不會是剛才被石頭打到肚子？",
+      "c": "<fn>你沒事吧,會不會是剛才被石頭打到肚子？",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Are you okay, did you just get hit in the stomach with a rock?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}你没事吧，会不会是刚才被石头打到肚子？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

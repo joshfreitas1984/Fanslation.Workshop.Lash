@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003834",
+  "RawLine": "TNPC_10003834,【接著...這個寫著「{color=#FF0000}土{/color}」的凹槽應該放入哪塊令牌？】,【接着...这个写着「{color=#FF0000}土{/color}」的凹槽应该放入哪块令牌？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003834",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【接著...這個寫著「{color=#FF0000}土{/color}」的凹槽應該放入哪塊令牌？】",
+      "c": "<[>接著...這個寫著「土」的凹槽應該放入哪塊令牌？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Next... Which token should go into the notch that says \"earth\"? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【接着...这个写着「{color=#FF0000}土{/color}」的凹槽应该放入哪块令牌？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

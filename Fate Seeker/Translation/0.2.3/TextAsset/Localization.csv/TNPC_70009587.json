@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009587",
+  "RawLine": "TNPC_70009587,而且這抄本字跡潦草不易閱讀，真要讀論語還不如買一本現成的。,而且这抄本字迹潦草不易阅读，真要读论语还不如买一本现成的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009587",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "而且這抄本字跡潦草不易閱讀，真要讀論語還不如買一本現成的。",
+      "c": "而且這抄本字跡潦草不易閱讀,真要讀論語還不如買一本現成的。",
+      "rq": true,
+      "it": null,
+      "mt": "And this copy is not easy to read, so it is better to buy a ready-made copy if you really want to read the discourses.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "而且这抄本字迹潦草不易阅读，真要读论语还不如买一本现成的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

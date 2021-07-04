@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60073172",
+  "RawLine": "TNPC_60073172,是{fn}啊，謝啦！你要買酒的話，去釀酒坊，直接找我丈夫買去。,是{fn}啊，谢啦！你要买酒的话，去酿酒坊，直接找我丈夫买去。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60073172",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是{fn}啊，謝啦！你要買酒的話，去釀酒坊，直接找我丈夫買去。",
+      "c": "是<fn>啊,謝啦！你要買酒的話,去釀酒坊,直接找我丈夫買去。",
+      "rq": true,
+      "it": null,
+      "mt": "Yes<fn>, thanks! If you want to buy wine, go to the brewery and ask my husband to buy it directly.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "是{fn}啊，谢啦！你要买酒的话，去酿酒坊，直接找我丈夫买去。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

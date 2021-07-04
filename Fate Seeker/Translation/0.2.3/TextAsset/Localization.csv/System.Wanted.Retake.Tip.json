@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Wanted.Retake.Tip",
+  "RawLine": "System.Wanted.Retake.Tip,是否放棄原本的懸賞，並承接此懸賞？,是否放弃原本的悬赏，并承接此悬赏？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Wanted.Retake.Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是否放棄原本的懸賞，並承接此懸賞？",
+      "c": "是否放棄原本的懸賞,並承接此懸賞？",
+      "rq": true,
+      "it": null,
+      "mt": "Will you give up the original reward and take over this reward?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "是否放弃原本的悬赏，并承接此悬赏？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

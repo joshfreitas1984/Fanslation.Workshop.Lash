@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009108",
+  "RawLine": "TNPC_70009108,（小聲的說）{p}此地不宜多談，跟我到安全的地方，我自會相告。,（小声的说）{p}此地不宜多谈，跟我到安全的地方，我自会相告。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009108",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "（小聲的說）{p}此地不宜多談，跟我到安全的地方，我自會相告。",
+      "c": "（小聲的說）此地不宜多談,跟我到安全的地方,我自會相告。",
+      "rq": true,
+      "it": null,
+      "mt": "(whispering) This is not the right place to talk, come with me to a safe place and I will tell you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "（小声的说）{p}此地不宜多谈，跟我到安全的地方，我自会相告。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

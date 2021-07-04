@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078450",
+  "RawLine": "TNPC_60078450,{name}兄弟，聽聞這客棧裡最有名的就是羊羔酒，你喝看看！,{name}兄弟，听闻这客栈里最有名的就是羊羔酒，你喝看看！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078450",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，聽聞這客棧裡最有名的就是羊羔酒，你喝看看！",
+      "c": "<name>兄弟,聽聞這客棧裡最有名的就是羊羔酒,你喝看看！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, I heard that the most famous wine in this inn is lamb wine, you have a look!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，听闻这客栈里最有名的就是羊羔酒，你喝看看！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

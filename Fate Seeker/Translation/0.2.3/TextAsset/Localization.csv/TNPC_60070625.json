@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070625",
+  "RawLine": "TNPC_60070625,【這個應該不是大嬸在找的東西，到附近再找看看吧！】,【这个应该不是大婶在找的东西，到附近再找看看吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070625",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這個應該不是大嬸在找的東西，到附近再找看看吧！】",
+      "c": "<[>這個應該不是大嬸在找的東西,到附近再找看看吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This should not be what Ahjumma is looking for, take it to the neighborhood and check it out! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这个应该不是大婶在找的东西，到附近再找看看吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

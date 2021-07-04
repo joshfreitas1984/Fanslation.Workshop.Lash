@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102043739",
+  "RawLine": "SDM_2102043739,{color=#ff0000}這妃笑酒，正是由荔枝、杜梨、蜜桃釀製而成的。{/color},{color=#ff0000}这妃笑酒，正是由荔枝、杜梨、蜜桃酿制而成的。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102043739",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}這妃笑酒，正是由荔枝、杜梨、蜜桃釀製而成的。{/color}",
+      "c": "這妃笑酒,正是由荔枝、杜梨、蜜桃釀製而成的。",
+      "rq": true,
+      "it": null,
+      "mt": "This wine is made from lychee, pear and peach.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}这妃笑酒，正是由荔枝、杜梨、蜜桃酿制而成的。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

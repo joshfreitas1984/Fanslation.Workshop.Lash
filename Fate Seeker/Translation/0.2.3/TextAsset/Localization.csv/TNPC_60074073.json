@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074073",
+  "RawLine": "TNPC_60074073,【{name}，委屈你坐牢一下了，待我調查清楚後再去救你。】,【{name}，委屈你坐牢一下了，待我调查清楚后再去救你。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074073",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{name}，委屈你坐牢一下了，待我調查清楚後再去救你。】",
+      "c": "<[><name>,委屈你坐牢一下了,待我調查清楚後再去救你。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[><name>, I'll let you go to jail for a while, and I'll rescue you after I investigate clearly. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{name}，委屈你坐牢一下了，待我调查清楚后再去救你。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

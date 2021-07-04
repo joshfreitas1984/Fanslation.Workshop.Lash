@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31076206",
+  "RawLine": "TNPC_31076206,總之盡力而為吧！老酒鬼那應該有賣釀酒所需的{color=#cc0000}全部材料{/color}了。,总之尽力而为吧！老酒鬼那应该有卖酿酒所需的{color=#cc0000}全部材料{/color}了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31076206",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "總之盡力而為吧！老酒鬼那應該有賣釀酒所需的{color=#cc0000}全部材料{/color}了。",
+      "c": "總之盡力而為吧！老酒鬼那應該有賣釀酒所需的全部材料了。",
+      "rq": true,
+      "it": null,
+      "mt": "Do your best! The old drunkard should have all the ingredients needed to make wine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "总之尽力而为吧！老酒鬼那应该有卖酿酒所需的{color=#cc0000}全部材料{/color}了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

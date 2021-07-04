@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20064001",
+  "RawLine": "TNPC_20064001,【這店小二看起來正忙，與其用說的不清不楚，還不如直接拿甕片組給他看。】,【这店小二看起来正忙，与其用说的不清不楚，还不如直接拿瓮片组给他看。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20064001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這店小二看起來正忙，與其用說的不清不楚，還不如直接拿甕片組給他看。】",
+      "c": "<[>這店小二看起來正忙,與其用說的不清不楚,還不如直接拿甕片組給他看。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This shopkeeper seems to be busy, so instead of using unclear words, we should just show him the urn set. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这店小二看起来正忙，与其用说的不清不楚，还不如直接拿瓮片组给他看。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05124_Tip",
+  "RawLine": "ITEM_05124_Tip,製藥藥材，除肺熱、止咳化痰，味甘、性涼。{p}{p}合成難度：{color=#ff0000}9{/color}。,制药药材，除肺热、止咳化痰，味甘、性凉。{p}{p}合成难度：{color=#ff0000}9{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05124_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，除肺熱、止咳化痰，味甘、性涼。{p}{p}合成難度：{color=#ff0000}9{/color}。",
+      "c": "製藥藥材,除肺熱、止咳化痰,味甘、性涼。合成難度：9。",
+      "rq": true,
+      "it": null,
+      "mt": "An herb used in medicine to remove heat from the lung and relieve cough and phlegm. Synthesis difficulty: 9.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，除肺热、止咳化痰，味甘、性凉。{p}{p}合成难度：{color=#ff0000}9{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

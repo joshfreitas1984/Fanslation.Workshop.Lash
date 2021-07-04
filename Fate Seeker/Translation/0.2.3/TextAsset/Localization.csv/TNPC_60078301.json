@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078301",
+  "RawLine": "TNPC_60078301,{name}兄弟，你看我這身打扮怎麼樣？不會太隨便吧？,{name}兄弟，你看我这身打扮怎么样？不会太随便吧？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，你看我這身打扮怎麼樣？不會太隨便吧？",
+      "c": "<name>兄弟,你看我這身打扮怎麼樣？不會太隨便吧？",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, what do you think of my outfit? It's not too casual, right?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，你看我这身打扮怎么样？不会太随便吧？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31030711",
+  "RawLine": "TNPC_31030711,【跟我說話的時候一直在瞄{color=#cc0000}牆角的桶子{/color}，他八成就把酒藏在那吧！】,【跟我说话的时候一直在瞄{color=#cc0000}墙角的桶子{/color}，他八成就把酒藏在那吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31030711",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【跟我說話的時候一直在瞄{color=#cc0000}牆角的桶子{/color}，他八成就把酒藏在那吧！】",
+      "c": "<[>跟我說話的時候一直在瞄牆角的桶子,他八成就把酒藏在那吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>While talking to me, he kept looking at the barrel in the corner, so he probably hid the wine there! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【跟我说话的时候一直在瞄{color=#cc0000}墙角的桶子{/color}，他八成就把酒藏在那吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

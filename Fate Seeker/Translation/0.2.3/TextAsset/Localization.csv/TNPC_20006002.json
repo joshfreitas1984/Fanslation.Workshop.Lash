@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20006002",
+  "RawLine": "TNPC_20006002,{s=10}嗯？沒有呢，{/s}你不是要來買東西的嗎？,{s=10}嗯？没有呢，{/s}你不是要来买东西的吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20006002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=10}嗯？沒有呢，{/s}你不是要來買東西的嗎？",
+      "c": "嗯？沒有呢,你不是要來買東西的嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Huh? No. Aren't you here to buy something?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=10}嗯？没有呢，{/s}你不是要来买东西的吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

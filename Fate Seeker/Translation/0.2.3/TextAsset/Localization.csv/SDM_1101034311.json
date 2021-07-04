@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101034311",
+  "RawLine": "SDM_1101034311,【話說回來，雖然確定了{color=#FF0000}手中髮簪和攤上的相同{/color}，但還有許多事必須確認。】,【话说回来，虽然确定了{color=#FF0000}手中发簪和摊上的相同{/color}，但还有许多事必须确认。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101034311",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【話說回來，雖然確定了{color=#FF0000}手中髮簪和攤上的相同{/color}，但還有許多事必須確認。】",
+      "c": "<[>話說回來,雖然確定了手中髮簪和攤上的相同,但還有許多事必須確認。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Then again, even though I'm sure the hairpin in my hand is the same as the one on the stand, there are still many things I need to confirm. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【话说回来，虽然确定了{color=#FF0000}手中发簪和摊上的相同{/color}，但还有许多事必须确认。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

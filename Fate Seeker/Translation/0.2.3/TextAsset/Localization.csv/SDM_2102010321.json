@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102010321",
+  "RawLine": "SDM_2102010321,{color=#ff0000}少主，您到洛陽找古陽堂老闆，憑此藥單領藥材，再自己製藥便可。{/color},{color=#ff0000}少主，您到洛阳找古阳堂老板，凭此药单领药材，再自己制药便可。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102010321",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}少主，您到洛陽找古陽堂老闆，憑此藥單領藥材，再自己製藥便可。{/color}",
+      "c": "少主,您到洛陽找古陽堂老闆,憑此藥單領藥材,再自己製藥便可。",
+      "rq": true,
+      "it": null,
+      "mt": "You can go to the owner of Guyang Hall in Luoyang and get the herbs with this medicine list, and then make your own medicine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}少主，您到洛阳找古阳堂老板，凭此药单领药材，再自己制药便可。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

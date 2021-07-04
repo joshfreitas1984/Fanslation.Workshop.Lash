@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60005001",
+  "RawLine": "TNPC_60005001,【目前得知的線索{s=6}……{/s}結論出兩個可能，其一是子千母親與弟弟有問題；其二是子千可能在外結下樑子。用這兩個線索，去{color=#cc0000}調查{/color}或{color=#cc0000}詳問{/color}看看吧。】,【目前得知的线索{s=6}……{/s}结论出两个可能，其一是子千母亲与弟弟有问题；其二是子千可能在外结下梁子。用这两个线索，去{color=#cc0000}调查{/color}或{color=#cc0000}详问{/color}看看吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60005001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【目前得知的線索{s=6}……{/s}結論出兩個可能，其一是子千母親與弟弟有問題；其二是子千可能在外結下樑子。用這兩個線索，去{color=#cc0000}調查{/color}或{color=#cc0000}詳問{/color}看看吧。】",
+      "c": "<[>目前得知的線索......結論出兩個可能,其一是子千母親與弟弟有問題；其二是子千可能在外結下樑子。用這兩個線索,去調查或詳問看看吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The clues we know so far ...... One is that Ziqian's mother and brother have problems, and the other is that Ziqian may have made connections outside the home. Use these two clues to investigate or ask more questions. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【目前得知的线索{s=6}……{/s}结论出两个可能，其一是子千母亲与弟弟有问题；其二是子千可能在外结下梁子。用这两个线索，去{color=#cc0000}调查{/color}或{color=#cc0000}详问{/color}看看吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

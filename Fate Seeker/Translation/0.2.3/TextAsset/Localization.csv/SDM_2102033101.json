@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102033101",
+  "RawLine": "SDM_2102033101,這比賽實在是太精彩了！恭喜{ln}少俠連闖三關成功！,这比赛实在是太精彩了！恭喜{ln}少侠连闯三关成功！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102033101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這比賽實在是太精彩了！恭喜{ln}少俠連闖三關成功！",
+      "c": "這比賽實在是太精彩了！恭喜<ln>少俠連闖三關成功！",
+      "rq": true,
+      "it": null,
+      "mt": "This was a great match! Congrats to <ln>Solicitor on his three consecutive victories!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这比赛实在是太精彩了！恭喜{ln}少侠连闯三关成功！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

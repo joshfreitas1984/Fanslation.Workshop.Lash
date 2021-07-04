@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_04004_Tip",
+  "RawLine": "HEART_04004_Tip,{color=#EFD8B0}內力低於一定量時，內力恢復量增加；內力高於一定量時，傷害增加。 {/color},{color=#EFD8B0}内力低于一定量时，内力恢复量增加；内力高于一定量时，伤害增加。 {/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_04004_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#EFD8B0}內力低於一定量時，內力恢復量增加；內力高於一定量時，傷害增加。 {/color}",
+      "c": "內力低於一定量時,內力恢復量增加；內力高於一定量時,傷害增加。 ",
+      "rq": true,
+      "it": null,
+      "mt": "Increases internal power recovery when internal power is lower than a certain amount; increases damage when internal power is higher than a certain amount. ",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#EFD8B0}内力低于一定量时，内力恢复量增加；内力高于一定量时，伤害增加。 {/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

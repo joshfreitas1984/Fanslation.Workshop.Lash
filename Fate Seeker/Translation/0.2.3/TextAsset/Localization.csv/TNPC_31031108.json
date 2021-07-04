@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31031108",
+  "RawLine": "TNPC_31031108,出門後我先送了{color=#cc0000}五石米{/color}給大福，接著把{color=#cc0000}剩下{/color}的米都拿給了龐大娘。,出门后我先送了{color=#cc0000}五石米{/color}给大福，接着把{color=#cc0000}剩下{/color}的米都拿给了庞大娘。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31031108",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "出門後我先送了{color=#cc0000}五石米{/color}給大福，接著把{color=#cc0000}剩下{/color}的米都拿給了龐大娘。",
+      "c": "出門後我先送了五石米給大福,接著把剩下的米都拿給了龐大娘。",
+      "rq": true,
+      "it": null,
+      "mt": "After I left home, I gave five stones of rice to Dafu and then took the rest to Daphne Pang.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "出门后我先送了{color=#cc0000}五石米{/color}给大福，接着把{color=#cc0000}剩下{/color}的米都拿给了庞大娘。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

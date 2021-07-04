@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700027_Tip",
+  "RawLine": "ITEM_700027_Tip,獵戶的<color=#FF0000>煉製的迷藥，據說能同時讓數人陷入昏迷</color>。,猎户的<color=#FF0000>炼制的迷药，据说能同时让数人陷入昏迷</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700027_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "獵戶的<color=#FF0000>煉製的迷藥，據說能同時讓數人陷入昏迷</color>。",
+      "c": "獵戶的煉製的迷藥,據說能同時讓數人陷入昏迷。",
+      "rq": true,
+      "it": null,
+      "mt": "The hunter's magic potion, said to be able to put several people in a coma at the same time.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "猎户的<color=#FF0000>炼制的迷药，据说能同时让数人陷入昏迷</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

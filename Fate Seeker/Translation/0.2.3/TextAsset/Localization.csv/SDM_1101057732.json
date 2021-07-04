@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101057732",
+  "RawLine": "SDM_1101057732,這個城鎮裡還有{flag=1120030}個容器尚未擊破。,这个城镇里还有{flag=1120030}个容器尚未击破。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101057732",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這個城鎮裡還有{flag=1120030}個容器尚未擊破。",
+      "c": "這個城鎮裡還有<flag=1120030>個容器尚未擊破。",
+      "rq": true,
+      "it": null,
+      "mt": "There are <flag=1120030> containers in this town that have not yet been broken.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这个城镇里还有{flag=1120030}个容器尚未击破。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

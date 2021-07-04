@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60020049",
+  "RawLine": "TNPC_60020049,{s=25}由於摩尼教的大聲喧嘩，導致周圍的信徒都聚集過來。{/s},{s=25}由于摩尼教的大声喧哗，导致周围的信徒都聚集过来。{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60020049",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=25}由於摩尼教的大聲喧嘩，導致周圍的信徒都聚集過來。{/s}",
+      "c": "由於摩尼教的大聲喧嘩,導致周圍的信徒都聚集過來。",
+      "rq": true,
+      "it": null,
+      "mt": "Because of the loud noise of the Manichaeans, all the believers around them have gathered.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=25}由于摩尼教的大声喧哗，导致周围的信徒都聚集过来。{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

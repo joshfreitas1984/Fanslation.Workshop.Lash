@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31076103",
+  "RawLine": "TNPC_31076103,老酒鬼似乎有賣{color=#cc0000}新材料{/color}了，你可能會需要吧！,老酒鬼似乎有卖{color=#cc0000}新材料{/color}了，你可能会需要吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31076103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老酒鬼似乎有賣{color=#cc0000}新材料{/color}了，你可能會需要吧！",
+      "c": "老酒鬼似乎有賣新材料了,你可能會需要吧！",
+      "rq": true,
+      "it": null,
+      "mt": "The old drunk seems to be selling new ingredients, so you might need them!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老酒鬼似乎有卖{color=#cc0000}新材料{/color}了，你可能会需要吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

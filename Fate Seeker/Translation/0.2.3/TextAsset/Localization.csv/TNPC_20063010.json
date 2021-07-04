@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20063010",
+  "RawLine": "TNPC_20063010,【想起最懂酒甕之人，酒攤的店小二應該很懂，我就拿這組甕片{color=#ff0000}出示給他看，找窄巷或虹橋酒攤的店小二{/color}應該都行。】,【想起最懂酒瓮之人，酒摊的店小二应该很懂，我就拿这组瓮片{color=#ff0000}出示给他看，找窄巷或虹桥酒摊的店小二{/color}应该都行。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20063010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【想起最懂酒甕之人，酒攤的店小二應該很懂，我就拿這組甕片{color=#ff0000}出示給他看，找窄巷或虹橋酒攤的店小二{/color}應該都行。】",
+      "c": "<[>想起最懂酒甕之人,酒攤的店小二應該很懂,我就拿這組甕片出示給他看,找窄巷或虹橋酒攤的店小二應該都行。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Remembering that the shopkeeper at the wine stall should know the most about wine urns, I will show him this set of urn pieces, and the shopkeeper at the wine stall in Narrow Lane or Hongqiao should be able to do it. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【想起最懂酒瓮之人，酒摊的店小二应该很懂，我就拿这组瓮片{color=#ff0000}出示给他看，找窄巷或虹桥酒摊的店小二{/color}应该都行。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

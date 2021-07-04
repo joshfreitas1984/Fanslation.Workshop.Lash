@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Ending.Text_002",
+  "RawLine": "System.Ending.Text_002,“是剿滅摩尼教，拯救了天下的{name}大俠！”\\n“這是我家種的菜，大俠拿著吧！”\\n“這是我家養的牛，大俠牽著吧！”\\n“這是我家未出閣的閨女…”\\n【雖說大家盛情難卻，但這樣下去，我哪裡吃得消！】\\n“大家看！那裡有頭豬在天上飛！”\\n“在哪…啊！大俠逃走了！”,“是剿灭摩尼教，拯救了天下的{name}大侠！”\\n“这是我家种的菜，大侠拿着吧！”\\n“这是我家养的牛，大侠牵着吧！”\\n“这是我家未出阁的闺女…”\\n【虽说大家盛情难却，但这样下去，我哪里吃得消！】\\n“大家看！那里有头猪在天上飞！”\\n“在哪…啊！大侠逃走了！”",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Ending.Text_002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "“是剿滅摩尼教，拯救了天下的{name}大俠！”\\n“這是我家種的菜，大俠拿著吧！”\\n“這是我家養的牛，大俠牽著吧！”\\n“這是我家未出閣的閨女…”\\n【雖說大家盛情難卻，但這樣下去，我哪裡吃得消！】\\n“大家看！那裡有頭豬在天上飛！”\\n“在哪…啊！大俠逃走了！”",
+      "c": "“是剿滅摩尼教,拯救了天下的<name>大俠！”<<\\n>>“這是我家種的菜,大俠拿著吧！”<<\\n>>“這是我家養的牛,大俠牽著吧！”<<\\n>>“這是我家未出閣的閨女...”<<\\n>><[>雖說大家盛情難卻,但這樣下去,我哪裡吃得消！<]><<\\n>>“大家看！那裡有頭豬在天上飛！”<<\\n>>“在哪...啊！大俠逃走了！”",
+      "rq": true,
+      "it": null,
+      "mt": "\"The <name> great warrior who destroyed the Manichaeans and saved the world!\" <<\\n>>\"This is the vegetable I grew, take it!\" <<\\n>>\"This is the cow I raised, take it!\" <<\\n>>\"This is the daughter of my family...\" <<\\n>><[>Although we are all very kind, I can't bear to go on like this! <]><<\\n>\"Look, everyone! There's a pig flying in the sky!\" <<n>>\"Where... Ah! The warrior has escaped!\"",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "“是剿灭摩尼教，拯救了天下的{name}大侠！”\\n“这是我家种的菜，大侠拿着吧！”\\n“这是我家养的牛，大侠牵着吧！”\\n“这是我家未出阁的闺女…”\\n【虽说大家盛情难却，但这样下去，我哪里吃得消！】\\n“大家看！那里有头猪在天上飞！”\\n“在哪…啊！大侠逃走了！”",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

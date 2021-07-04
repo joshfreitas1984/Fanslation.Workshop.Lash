@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101060316",
+  "RawLine": "SDM_2101060316,客官想找賣首飾的？{color=#ff0000}由這往市集走，看到一個身寬體胖的，就是賣首飾的儒南了。{/color},客官想找卖首饰的？{color=#ff0000}由这往市集走，看到一个身宽体胖的，就是卖首饰的儒南了。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101060316",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客官想找賣首飾的？{color=#ff0000}由這往市集走，看到一個身寬體胖的，就是賣首飾的儒南了。{/color}",
+      "c": "客官想找賣首飾的？由這往市集走,看到一個身寬體胖的,就是賣首飾的儒南了。",
+      "rq": true,
+      "it": null,
+      "mt": "Are you looking for a jewelry vendor? If you walk towards the market, you will see a fat guy with a wide body, that's the jewelry vendor, Junan.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客官想找卖首饰的？{color=#ff0000}由这往市集走，看到一个身宽体胖的，就是卖首饰的儒南了。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

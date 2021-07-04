@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "GUIDE.07.002",
+  "RawLine": "GUIDE.07.002,只要拿著對應武器，戰鬥時便會使用標著<color=#cc0000>裝備中</color>的武學。,只要拿着对应武器，战斗时便会使用标着<color=#cc0000>装备中</color>的武学。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "GUIDE.07.002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "只要拿著對應武器，戰鬥時便會使用標著<color=#cc0000>裝備中</color>的武學。",
+      "c": "只要拿著對應武器,戰鬥時便會使用標著裝備中的武學。",
+      "rq": true,
+      "it": null,
+      "mt": "When fighting with the corresponding weapon, you will use the martial art marked in your equipment.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "只要拿着对应武器，战斗时便会使用标着<color=#cc0000>装备中</color>的武学。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

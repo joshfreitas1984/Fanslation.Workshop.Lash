@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130202_Tip",
+  "RawLine": "SKILL_130202_Tip,【{color=#FFD700}前置{/color}】\\n使用過{color=#FF0000}順風掃葉{/color}後接此技增傷{color=#00DB00}25%{/color}。,【{color=#FFD700}前置{/color}】\\n使用过{color=#FF0000}顺风扫叶{/color}后接此技增伤{color=#00DB00}25%{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130202_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n使用過{color=#FF0000}順風掃葉{/color}後接此技增傷{color=#00DB00}25%{/color}。",
+      "c": "<[>前置<]><<\\n>>使用過順風掃葉後接此技增傷25%。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>>Take this technique after using Wind Swept Leaf to increase damage by 25%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n使用过{color=#FF0000}顺风扫叶{/color}后接此技增伤{color=#00DB00}25%{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101710211",
+  "RawLine": "SDM_1101710211,【這是本武學秘笈，雖說文字糊了大半，從其他部份推敲出全文也算是小菜一碟。】,【这是本武学秘笈，虽说文字糊了大半，从其他部份推敲出全文也算是小菜一碟。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101710211",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這是本武學秘笈，雖說文字糊了大半，從其他部份推敲出全文也算是小菜一碟。】",
+      "c": "<[>這是本武學秘笈,雖說文字糊了大半,從其他部份推敲出全文也算是小菜一碟。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is a book of martial arts secrets, although most of the text is blurred, it is a piece of cake to deduce the whole text from other parts. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这是本武学秘笈，虽说文字糊了大半，从其他部份推敲出全文也算是小菜一碟。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

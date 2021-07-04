@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60001005",
+  "RawLine": "TNPC_60001005,{s=6}我……{/s}我叫{color=#cc0000}周子千{/color}，我家{s=6}就在……{/s}（昏）,{s=6}我……{/s}我叫{color=#cc0000}周子千{/color}，我家{s=6}就在……{/s}（昏）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60001005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}我……{/s}我叫{color=#cc0000}周子千{/color}，我家{s=6}就在……{/s}（昏）",
+      "c": "我......我叫周子千,我家就在......（昏）",
+      "rq": true,
+      "it": null,
+      "mt": " I ...... My name is Zhou Zichen, my home is at ...... (faint)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}我……{/s}我叫{color=#cc0000}周子千{/color}，我家{s=6}就在……{/s}（昏）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

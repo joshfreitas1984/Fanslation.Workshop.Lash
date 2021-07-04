@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_00006108",
+  "RawLine": "TNPC_00006108,{fn}哥，你那有沒有能讓妖怪顯形的法寶，借我一下，我想確認一下我這親戚到底有沒有問題。,{fn}哥，你那有没有能让妖怪显形的法宝，借我一下，我想确认一下我这亲戚到底有没有问题。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_00006108",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}哥，你那有沒有能讓妖怪顯形的法寶，借我一下，我想確認一下我這親戚到底有沒有問題。",
+      "c": "<fn>哥,你那有沒有能讓妖怪顯形的法寶,借我一下,我想確認一下我這親戚到底有沒有問題。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Bro, do you have a magic weapon that can make demons appear, lend it to me, I want to make sure my relative is okay or not.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}哥，你那有没有能让妖怪显形的法宝，借我一下，我想确认一下我这亲戚到底有没有问题。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

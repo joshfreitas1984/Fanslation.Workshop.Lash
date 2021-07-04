@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60002003",
+  "RawLine": "TNPC_60002003,【好了！話說{s=6}……{/s}在這如此天裡，小兄弟衣著也穿的太少了吧！{p}整個身子也都傷痕累累的……這究竟是怎麼一回事？】,【好了！话说{s=6}……{/s}在这如此天里，小兄弟衣着也穿的太少了吧！{p}整个身子也都伤痕累累的……这究竟是怎么一回事？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60002003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【好了！話說{s=6}……{/s}在這如此天裡，小兄弟衣著也穿的太少了吧！{p}整個身子也都傷痕累累的……這究竟是怎麼一回事？】",
+      "c": "<[>好了！話說......在這如此天裡,小兄弟衣著也穿的太少了吧！整個身子也都傷痕累累的......這究竟是怎麼一回事？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Okay! By the way ...... In this day, the little brother is also wearing too little clothing! The whole body is also scarred ...... What the hell is going on here? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【好了！话说{s=6}……{/s}在这如此天里，小兄弟衣着也穿的太少了吧！{p}整个身子也都伤痕累累的……这究竟是怎么一回事？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

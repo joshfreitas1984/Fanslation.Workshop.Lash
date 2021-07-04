@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078278",
+  "RawLine": "TNPC_60078278,{name}兄弟，送給師父當壽禮的人蔘藥酒，就麻煩你了。,{name}兄弟，送给师父当寿礼的人参药酒，就麻烦你了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078278",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，送給師父當壽禮的人蔘藥酒，就麻煩你了。",
+      "c": "<name>兄弟,送給師父當壽禮的人蔘藥酒,就麻煩你了。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, the ginseng wine for the birthday gift to my master, I'll ask you to do it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，送给师父当寿礼的人参药酒，就麻烦你了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

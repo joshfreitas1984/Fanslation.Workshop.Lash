@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072123",
+  "RawLine": "TNPC_60072123,【上面寫著……絕……世……武……！這竟然是一本{color=#FF0000}絕世武功祕笈{/color}！】,【上面写着……绝……世……武……！这竟然是一本{color=#FF0000}绝世武功秘笈{/color}！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072123",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【上面寫著……絕……世……武……！這竟然是一本{color=#FF0000}絕世武功祕笈{/color}！】",
+      "c": "<[>上面寫著......絕......世......武......！這竟然是一本絕世武功祕笈！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It says ...... Absolute ...... World ...... Martial ......! This is actually a book of absolute martial arts secrets! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【上面写着……绝……世……武……！这竟然是一本{color=#FF0000}绝世武功秘笈{/color}！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

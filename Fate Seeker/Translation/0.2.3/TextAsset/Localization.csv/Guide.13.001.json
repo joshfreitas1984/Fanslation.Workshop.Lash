@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "Guide.13.001",
+  "RawLine": "Guide.13.001,組隊狀態時，戰鬥中可點擊這裡或按<color=#cc0000>「Q」</color>叫出夥伴。,组队状态时，战斗中可点击这里或按<color=#cc0000>「Q」</color>叫出伙伴。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "Guide.13.001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "組隊狀態時，戰鬥中可點擊這裡或按<color=#cc0000>「Q」</color>叫出夥伴。",
+      "c": "組隊狀態時,戰鬥中可點擊這裡或按「Q」叫出夥伴。",
+      "rq": true,
+      "it": null,
+      "mt": "When you are in a team, you can click here or press \"Q\" to call out your partner during the battle.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "组队状态时，战斗中可点击这里或按<color=#cc0000>「Q」</color>叫出伙伴。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

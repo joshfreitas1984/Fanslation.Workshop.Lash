@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003622",
+  "RawLine": "TNPC_10003622,這香菇【{color=#FF0000}有夠辣{/color}！光是聞一聞，我都快被辣出淚來了...】,这香菇【{color=#FF0000}有够辣{/color}！光是闻一闻，我都快被辣出泪来了...】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003622",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這香菇【{color=#FF0000}有夠辣{/color}！光是聞一聞，我都快被辣出淚來了...】",
+      "c": "這香菇<[>有夠辣！光是聞一聞,我都快被辣出淚來了...<]>",
+      "rq": true,
+      "it": null,
+      "mt": "The mushrooms <[>are spicy enough! Just smelling it makes me cry... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这香菇【{color=#FF0000}有够辣{/color}！光是闻一闻，我都快被辣出泪来了...】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110101_Tip",
+  "RawLine": "SKILL_110101_Tip,【{color=#FFD700}位移{/color}】\\n向前衝刺攻擊。,【{color=#FFD700}位移{/color}】\\n向前冲刺攻击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110101_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}位移{/color}】\\n向前衝刺攻擊。",
+      "c": "<[>位移<]><<\\n>>向前衝刺攻擊。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Displacement<]><<\\n>>Dash forward to attack.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}位移{/color}】\\n向前冲刺攻击。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

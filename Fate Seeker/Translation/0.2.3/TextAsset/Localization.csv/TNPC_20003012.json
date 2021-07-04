@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20003012",
+  "RawLine": "TNPC_20003012,【這位幫忙賣酒的婆婆，雙手被袖子遮著看不到，要怎麼辦呢？】,【这位帮忙卖酒的婆婆，双手被袖子遮着看不到，要怎么办呢？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20003012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這位幫忙賣酒的婆婆，雙手被袖子遮著看不到，要怎麼辦呢？】",
+      "c": "<[>這位幫忙賣酒的婆婆,雙手被袖子遮著看不到,要怎麼辦呢？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This old lady who helped to sell wine couldn't see her hands because they were covered by her sleeves. <]>The woman who is helping to sell wine can't see her hands because they are covered by her sleeves.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这位帮忙卖酒的婆婆，双手被袖子遮着看不到，要怎么办呢？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

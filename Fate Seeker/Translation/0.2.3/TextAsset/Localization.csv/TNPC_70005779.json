@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005779",
+  "RawLine": "TNPC_70005779,【得到作為{color=#FF0000}原料{/color}的藥草——{color=#FF0000}一品紅{/color}。】,【得到作为{color=#FF0000}原料{/color}的药草——{color=#FF0000}一品红{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005779",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【得到作為{color=#FF0000}原料{/color}的藥草——{color=#FF0000}一品紅{/color}。】",
+      "c": "<[>得到作為原料的藥草——一品紅。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Get the herb that is used as the raw material - Yibinhong. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【得到作为{color=#FF0000}原料{/color}的药草——{color=#FF0000}一品红{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

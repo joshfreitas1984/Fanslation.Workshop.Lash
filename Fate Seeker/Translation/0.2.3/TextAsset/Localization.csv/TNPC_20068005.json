@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20068005",
+  "RawLine": "TNPC_20068005,【{color=#ff0000}這一劍往我右肩刺來{/color}，該怎閃躲？】,【{color=#ff0000}这一剑往我右肩刺来{/color}，该怎闪躲？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20068005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#ff0000}這一劍往我右肩刺來{/color}，該怎閃躲？】",
+      "c": "<[>這一劍往我右肩刺來,該怎閃躲？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This sword is coming to my right shoulder, how should I dodge? <]>The sword is coming towards my right shoulder.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#ff0000}这一剑往我右肩刺来{/color}，该怎闪躲？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

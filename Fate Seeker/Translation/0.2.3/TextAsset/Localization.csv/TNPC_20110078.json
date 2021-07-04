@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20110078",
+  "RawLine": "TNPC_20110078,外頭的老酒鬼那，應該有賣釀酒所需的{color=#cc0000}全部材料{/color}了，祝大哥哥好運。,外头的老酒鬼那，应该有卖酿酒所需的{color=#cc0000}全部材料{/color}了，祝大哥哥好运。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20110078",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "外頭的老酒鬼那，應該有賣釀酒所需的{color=#cc0000}全部材料{/color}了，祝大哥哥好運。",
+      "c": "外頭的老酒鬼那,應該有賣釀酒所需的全部材料了,祝大哥哥好運。",
+      "rq": true,
+      "it": null,
+      "mt": "The old drunkard outside should have all the ingredients needed to make wine, good luck to you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "外头的老酒鬼那，应该有卖酿酒所需的{color=#cc0000}全部材料{/color}了，祝大哥哥好运。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

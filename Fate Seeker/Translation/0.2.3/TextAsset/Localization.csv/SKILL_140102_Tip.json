@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140102_Tip",
+  "RawLine": "SKILL_140102_Tip,【{color=#FFD700}特殊{/color}】\\n帶火衝刺突擊技，尾段會往前方放火產生火圈並持續{color=#00DB00}20{/color}秒。低機率造成火毒。,【{color=#FFD700}特殊{/color}】\\n带火冲刺突击技，尾段会往前方放火产生火圈并持续{color=#00DB00}20{/color}秒。低机率造成火毒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140102_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}特殊{/color}】\\n帶火衝刺突擊技，尾段會往前方放火產生火圈並持續{color=#00DB00}20{/color}秒。低機率造成火毒。",
+      "c": "<[>特殊<]><<\\n>>帶火衝刺突擊技,尾段會往前方放火產生火圈並持續20秒。低機率造成火毒。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Special<]><<\\n>> A fire dash attack with fire, the tail end of which releases fire to the front and creates a fire circle that lasts 20 seconds. Low chance of causing fire poison.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}特殊{/color}】\\n带火冲刺突击技，尾段会往前方放火产生火圈并持续{color=#00DB00}20{/color}秒。低机率造成火毒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

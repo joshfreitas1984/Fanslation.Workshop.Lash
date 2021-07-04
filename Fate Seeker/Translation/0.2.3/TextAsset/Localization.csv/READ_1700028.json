@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_1700028",
+  "RawLine": "READ_1700028,梁兄\\n良久未見，梁兄是否別來無恙？\\n小弟落居於開封，在碼頭附近開了一間小店鋪營生。\\n倘若來日光臨寒舍，記得將東西捎給我。\\n                青陽謹啟,梁兄\\n良久未见，梁兄是否别来无恙？\\n小弟落居于开封，在码头附近开了一间小店铺营生。\\n倘若来日光临寒舍，记得将东西捎给我。\\n                青阳谨启",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_1700028",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "梁兄\\n良久未見，梁兄是否別來無恙？\\n小弟落居於開封，在碼頭附近開了一間小店鋪營生。\\n倘若來日光臨寒舍，記得將東西捎給我。\\n                青陽謹啟",
+      "c": "梁兄<<\\n>>良久未見,梁兄是否別來無恙？<<\\n>>小弟落居於開封,在碼頭附近開了一間小店鋪營生。<<\\n>>倘若來日光臨寒舍,記得將東西捎給我。<<\\n>>                青陽謹啟",
+      "rq": true,
+      "it": null,
+      "mt": "Brother Liang<<\\n>Long time no see, is Brother Liang well? <<\\n>>I live in Kaifeng, and I have a small store near the pier. <\\\\n>>If you come to my house, remember to bring me something. <<\\n>> Qing Yang",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "梁兄\\n良久未见，梁兄是否别来无恙？\\n小弟落居于开封，在码头附近开了一间小店铺营生。\\n倘若来日光临寒舍，记得将东西捎给我。\\n                青阳谨启",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

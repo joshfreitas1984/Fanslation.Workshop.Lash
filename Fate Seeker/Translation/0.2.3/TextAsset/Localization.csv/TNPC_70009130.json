@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009130",
+  "RawLine": "TNPC_70009130,通過每一域考驗後，都能獲得令牌，將令牌拿給橋前的看守者，他們便會替你開路。,通过每一域考验后，都能获得令牌，将令牌拿给桥前的看守者，他们便会替你开路。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009130",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "通過每一域考驗後，都能獲得令牌，將令牌拿給橋前的看守者，他們便會替你開路。",
+      "c": "通過每一域考驗後,都能獲得令牌,將令牌拿給橋前的看守者,他們便會替你開路。",
+      "rq": true,
+      "it": null,
+      "mt": "After passing the test in each area, you will get a token. Take the token to the guards in front of the bridge and they will open the way for you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "通过每一域考验后，都能获得令牌，将令牌拿给桥前的看守者，他们便会替你开路。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

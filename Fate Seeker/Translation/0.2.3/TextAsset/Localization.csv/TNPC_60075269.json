@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60075269",
+  "RawLine": "TNPC_60075269,【現在不是出村的時候，得調查出李嬸跟李饅頭的下落才行。】,【现在不是出村的时候，得调查出李婶跟李馒头的下落才行。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60075269",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【現在不是出村的時候，得調查出李嬸跟李饅頭的下落才行。】",
+      "c": "<[>現在不是出村的時候,得調查出李嬸跟李饅頭的下落才行。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Now is not the time to go out of the village, we have to find out the whereabouts of Auntie Li and Li Steamed Bun. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【现在不是出村的时候，得调查出李婶跟李馒头的下落才行。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

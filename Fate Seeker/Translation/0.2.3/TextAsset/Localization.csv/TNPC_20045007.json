@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20045007",
+  "RawLine": "TNPC_20045007,【看來這次尋寶之行真是不順利，{p}得向老伯抱怨一下才是，給我這什麼爛消息。】,【看来这次寻宝之行真是不顺利，{p}得向老伯抱怨一下才是，给我这什么烂消息。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20045007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這次尋寶之行真是不順利，{p}得向老伯抱怨一下才是，給我這什麼爛消息。】",
+      "c": "<[>看來這次尋寶之行真是不順利,得向老伯抱怨一下才是,給我這什麼爛消息。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It looks like this treasure hunt is really not going well, I have to complain to the old man, giving me this crap news. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这次寻宝之行真是不顺利，{p}得向老伯抱怨一下才是，给我这什么烂消息。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

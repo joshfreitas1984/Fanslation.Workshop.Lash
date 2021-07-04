@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103004301",
+  "RawLine": "SDM_1103004301,【桌上有許多詩集，有些艱澀的詩句上面做了些朱批。】,【桌上有许多诗集，有些艰涩的诗句上面做了些朱批。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103004301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【桌上有許多詩集，有些艱澀的詩句上面做了些朱批。】",
+      "c": "<[>桌上有許多詩集,有些艱澀的詩句上面做了些朱批。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There are many poetry books on the table, some of the tough poems have some vermilion marks on them. <]> <[>The poems are in the book of poetry.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【桌上有许多诗集，有些艰涩的诗句上面做了些朱批。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

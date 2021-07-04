@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101817720",
+  "RawLine": "SDM_3101817720,{fn}，雖然這麼說可能晚了，但是之後少跟趙姑娘接觸吧。,{fn}，虽然这么说可能晚了，但是之后少跟赵姑娘接触吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101817720",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}，雖然這麼說可能晚了，但是之後少跟趙姑娘接觸吧。",
+      "c": "<fn>,雖然這麼說可能晚了,但是之後少跟趙姑娘接觸吧。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>, it may be too late to say this, but let's have less contact with Ms. Zhao afterwards.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}，虽然这么说可能晚了，但是之后少跟赵姑娘接触吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

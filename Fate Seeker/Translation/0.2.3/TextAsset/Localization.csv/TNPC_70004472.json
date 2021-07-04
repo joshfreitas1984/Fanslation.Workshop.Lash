@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004472",
+  "RawLine": "TNPC_70004472,我知道了！這櫃子從上而下，每層分別代表著{color=#FF0000}四季、五行、天干、地支。{/color},我知道了！这柜子从上而下，每层分别代表着{color=#FF0000}四季、五行、天干、地支。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004472",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我知道了！這櫃子從上而下，每層分別代表著{color=#FF0000}四季、五行、天干、地支。{/color}",
+      "c": "我知道了！這櫃子從上而下,每層分別代表著四季、五行、天干、地支。",
+      "rq": true,
+      "it": null,
+      "mt": "I got it! This cabinet is from top to bottom, each layer represents the four seasons, the five elements, the heavenly stems and the earthly branches respectively.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我知道了！这柜子从上而下，每层分别代表着{color=#FF0000}四季、五行、天干、地支。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

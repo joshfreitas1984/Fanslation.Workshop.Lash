@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078294",
+  "RawLine": "TNPC_60078294,{name}兄弟，你已經給過我這藥酒了，多的你自己享用吧！,{name}兄弟，你已经给过我这药酒了，多的你自己享用吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078294",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，你已經給過我這藥酒了，多的你自己享用吧！",
+      "c": "<name>兄弟,你已經給過我這藥酒了,多的你自己享用吧！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, you have already given me this medicine wine, you can enjoy more by yourself!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，你已经给过我这药酒了，多的你自己享用吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

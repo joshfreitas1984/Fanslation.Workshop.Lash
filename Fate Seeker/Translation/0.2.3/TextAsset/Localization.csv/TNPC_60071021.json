@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071021",
+  "RawLine": "TNPC_60071021,賭大小遊戲玩法：{p}骰子大小為一至十八，一至九為小，十至十八為大。每次下注前，荷官先把三顆骰子放在有蓋的器皿內搖晃。當各賭客下注完畢，荷官便打開器皿看骰子大小，贏者發放銀兩。,赌大小游戏玩法：{p}骰子大小为一至十八，一至九为小，十至十八为大。每次下注前，荷官先把三颗骰子放在有盖的器皿内摇晃。当各赌客下注完毕，荷官便打开器皿看骰子大小，赢者发放银两。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "賭大小遊戲玩法：{p}骰子大小為一至十八，一至九為小，十至十八為大。每次下注前，荷官先把三顆骰子放在有蓋的器皿內搖晃。當各賭客下注完畢，荷官便打開器皿看骰子大小，贏者發放銀兩。",
+      "c": "賭大小遊戲玩法：骰子大小為一至十八,一至九為小,十至十八為大。每次下注前,荷官先把三顆骰子放在有蓋的器皿內搖晃。當各賭客下注完畢,荷官便打開器皿看骰子大小,贏者發放銀兩。",
+      "rq": true,
+      "it": null,
+      "mt": "How to Play: The dice sizes are one to eighteen, with one to nine being small and ten to eighteen being large. The game is played in the same way as the other games. The first thing you need to do is to open the container and see the size of the dice.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "赌大小游戏玩法：{p}骰子大小为一至十八，一至九为小，十至十八为大。每次下注前，荷官先把三颗骰子放在有盖的器皿内摇晃。当各赌客下注完毕，荷官便打开器皿看骰子大小，赢者发放银两。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

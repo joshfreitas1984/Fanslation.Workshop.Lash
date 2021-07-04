@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_ALL7_Tip",
+  "RawLine": "ABILITY_ALL7_Tip,有額外<color=#00DB00>{0:0.00}%</color>機率不受負面狀態影響。,有额外<color=#00DB00>{0:0.00}%</color>机率不受负面状态影响。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_ALL7_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "有額外<color=#00DB00>{0:0.00}%</color>機率不受負面狀態影響。",
+      "c": "有額外<0:0.00>%機率不受負面狀態影響。",
+      "rq": true,
+      "it": null,
+      "mt": "Has an additional <0:0.00>% chance of not being affected by negative status.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "有额外<color=#00DB00>{0:0.00}%</color>机率不受负面状态影响。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

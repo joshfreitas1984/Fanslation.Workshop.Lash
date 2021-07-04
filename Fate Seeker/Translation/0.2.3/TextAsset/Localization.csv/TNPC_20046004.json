@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20046004",
+  "RawLine": "TNPC_20046004,噓～你太大聲了，{p}我當然是靠著我這身功夫，才全身而退的啊！,嘘～你太大声了，{p}我当然是靠着我这身功夫，才全身而退的啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20046004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "噓～你太大聲了，{p}我當然是靠著我這身功夫，才全身而退的啊！",
+      "c": "噓～你太大聲了,我當然是靠著我這身功夫,才全身而退的啊！",
+      "rq": true,
+      "it": null,
+      "mt": "Shh, you're too loud, of course I relied on my kung fu to get out of there!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嘘～你太大声了，{p}我当然是靠着我这身功夫，才全身而退的啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

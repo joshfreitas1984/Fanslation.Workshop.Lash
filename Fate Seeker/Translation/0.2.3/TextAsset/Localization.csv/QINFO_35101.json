@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_35101",
+  "RawLine": "QINFO_35101,給予村子東南方的飢餓老人{color=#cc0000}飯團{/color}。（小溪村）,给予村子东南方的饥饿老人{color=#cc0000}饭团{/color}。（小溪村）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_35101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "給予村子東南方的飢餓老人{color=#cc0000}飯團{/color}。（小溪村）",
+      "c": "給予村子東南方的飢餓老人飯團。（小溪村）",
+      "rq": true,
+      "it": null,
+      "mt": "Give the hungry old man's rice group in the southeast of the village. (Xiao Xi Village)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "给予村子东南方的饥饿老人{color=#cc0000}饭团{/color}。（小溪村）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

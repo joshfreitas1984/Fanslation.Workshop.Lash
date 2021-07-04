@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20007057",
+  "RawLine": "TNPC_20007057,{s=8}【見母子倆相擁許久，泣不成聲……然後又相談了一陣子……】{/s},{s=8}【见母子俩相拥许久，泣不成声……然后又相谈了一阵子……】{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20007057",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=8}【見母子倆相擁許久，泣不成聲……然後又相談了一陣子……】{/s}",
+      "c": "<[>見母子倆相擁許久,泣不成聲......然後又相談了一陣子......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>See mother and son embracing each other for a long time and sobbing ...... And then we talked for a while ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=8}【见母子俩相拥许久，泣不成声……然后又相谈了一阵子……】{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

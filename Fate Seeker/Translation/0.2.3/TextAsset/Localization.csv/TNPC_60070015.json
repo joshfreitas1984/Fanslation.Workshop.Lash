@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070015",
+  "RawLine": "TNPC_60070015,{name}在門口處就看到家裡頭凌亂不堪，裡頭還走出了一群蒙面人{s=6}……{/s},{name}在门口处就看到家里头凌乱不堪，里头还走出了一群蒙面人{s=6}……{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}在門口處就看到家裡頭凌亂不堪，裡頭還走出了一群蒙面人{s=6}……{/s}",
+      "c": "<name>在門口處就看到家裡頭凌亂不堪,裡頭還走出了一群蒙面人......",
+      "rq": true,
+      "it": null,
+      "mt": "<name>At the door, I saw a messy house and a group of masked men came out ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}在门口处就看到家里头凌乱不堪，里头还走出了一群蒙面人{s=6}……{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

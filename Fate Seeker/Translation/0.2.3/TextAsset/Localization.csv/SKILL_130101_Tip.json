@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130101_Tip",
+  "RawLine": "SKILL_130101_Tip,【{color=#FFD700}前置{/color}】\\n做為起手勢的近身攻擊。,【{color=#FFD700}前置{/color}】\\n做为起手势的近身攻击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130101_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n做為起手勢的近身攻擊。",
+      "c": "<[>前置<]><<\\n>>做為起手勢的近身攻擊。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>> as a starting melee attack.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n做为起手势的近身攻击。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

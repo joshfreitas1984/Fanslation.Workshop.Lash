@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60077291",
+  "RawLine": "TNPC_60077291,【先去問問那位『丹藥房那個姓華的』傢伙，竟是怎麼一回事。】,【先去问问那位『丹药房那个姓华的』家伙，竟是怎么一回事。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60077291",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【先去問問那位『丹藥房那個姓華的』傢伙，竟是怎麼一回事。】",
+      "c": "<[>先去問問那位『丹藥房那個姓華的』傢伙,竟是怎麼一回事。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Go and ask the guy named Hua in the elixir room what's going on first. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【先去问问那位『丹药房那个姓华的』家伙，竟是怎么一回事。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

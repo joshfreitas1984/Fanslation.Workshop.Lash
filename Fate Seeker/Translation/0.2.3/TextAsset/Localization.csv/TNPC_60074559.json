@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074559",
+  "RawLine": "TNPC_60074559,說你是石頭腦袋，你還不信。這{name}和摩尼教有所糾葛，跟著他，必定能挖掘出內幕，說不定還能找到我尋尋覓覓的東西。,说你是石头脑袋，你还不信。这{name}和摩尼教有所纠葛，跟着他，必定能挖掘出内幕，说不定还能找到我寻寻觅觅的东西。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074559",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "說你是石頭腦袋，你還不信。這{name}和摩尼教有所糾葛，跟著他，必定能挖掘出內幕，說不定還能找到我尋尋覓覓的東西。",
+      "c": "說你是石頭腦袋,你還不信。這<name>和摩尼教有所糾葛,跟著他,必定能挖掘出內幕,說不定還能找到我尋尋覓覓的東西。",
+      "rq": true,
+      "it": null,
+      "mt": "I told you that you are a stone head and you still don't believe me. This <name> has something to do with Manichaeism. If we follow him, we will definitely be able to dig out the inside story and maybe find what I am looking for.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "说你是石头脑袋，你还不信。这{name}和摩尼教有所纠葛，跟着他，必定能挖掘出内幕，说不定还能找到我寻寻觅觅的东西。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

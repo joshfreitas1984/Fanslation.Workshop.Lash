@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700102_Tip",
+  "RawLine": "ITEM_700102_Tip,在密室中尋獲，是<color=#FF0000>離開密室</color>的關鍵。,在密室中寻获，是<color=#FF0000>离开密室</color>的关键。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700102_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "在密室中尋獲，是<color=#FF0000>離開密室</color>的關鍵。",
+      "c": "在密室中尋獲,是離開密室的關鍵。",
+      "rq": true,
+      "it": null,
+      "mt": "Found in the chamber, the key to leave the chamber.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "在密室中寻获，是<color=#FF0000>离开密室</color>的关键。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

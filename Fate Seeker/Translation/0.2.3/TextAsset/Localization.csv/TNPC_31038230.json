@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31038230",
+  "RawLine": "TNPC_31038230,{s=50}現在的年輕人真是，連雞都不知道要怎麼養，是要怎麼養活自己？{/s}{x},{s=50}现在的年轻人真是，连鸡都不知道要怎么养，是要怎么养活自己？{/s}{x}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31038230",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=50}現在的年輕人真是，連雞都不知道要怎麼養，是要怎麼養活自己？{/s}{x}",
+      "c": "現在的年輕人真是,連雞都不知道要怎麼養,是要怎麼養活自己？<x>",
+      "rq": true,
+      "it": null,
+      "mt": "The young people nowadays really don't even know how to raise chickens, how are they going to feed themselves? <x",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=50}现在的年轻人真是，连鸡都不知道要怎么养，是要怎么养活自己？{/s}{x}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

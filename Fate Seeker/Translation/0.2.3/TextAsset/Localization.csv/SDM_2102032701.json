@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102032701",
+  "RawLine": "SDM_2102032701,各位！這一場，是由{ln}少俠獲勝！恭喜他第二關闖關成功！,各位！这一场，是由{ln}少侠获胜！恭喜他第二关闯关成功！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102032701",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "各位！這一場，是由{ln}少俠獲勝！恭喜他第二關闖關成功！",
+      "c": "各位！這一場,是由<ln>少俠獲勝！恭喜他第二關闖關成功！",
+      "rq": true,
+      "it": null,
+      "mt": "Everyone! So this one goes to <ln>! Congratulations on his second level!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "各位！这一场，是由{ln}少侠获胜！恭喜他第二关闯关成功！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

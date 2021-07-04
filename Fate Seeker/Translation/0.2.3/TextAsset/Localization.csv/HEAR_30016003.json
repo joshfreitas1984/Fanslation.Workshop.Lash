@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEAR_30016003",
+  "RawLine": "HEAR_30016003,小蒼蒼是摩尼教第一使者，你嬸娘死定囉～,小苍苍是摩尼教第一使者，你婶娘死定啰～",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEAR_30016003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小蒼蒼是摩尼教第一使者，你嬸娘死定囉～",
+      "c": "小蒼蒼是摩尼教第一使者,你嬸娘死定囉～",
+      "rq": true,
+      "it": null,
+      "mt": "Candidate is the first messenger of Manichaeism, your aunt will die for sure!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小苍苍是摩尼教第一使者，你婶娘死定啰～",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

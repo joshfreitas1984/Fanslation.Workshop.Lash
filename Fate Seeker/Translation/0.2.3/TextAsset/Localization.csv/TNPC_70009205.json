@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009205",
+  "RawLine": "TNPC_70009205,【這橋前的第一題沒解開的話是不會知道還有後續題目的，他會特意告訴我「連第一題都解不開」，代表著……】,【这桥前的第一题没解开的话是不会知道还有后续题目的，他会特意告诉我「连第一题都解不开」，代表着……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009205",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這橋前的第一題沒解開的話是不會知道還有後續題目的，他會特意告訴我「連第一題都解不開」，代表著……】",
+      "c": "<[>這橋前的第一題沒解開的話是不會知道還有後續題目的,他會特意告訴我「連第一題都解不開」,代表著......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>If you don't solve the first question before this bridge, you won't know that there is a follow-up question. He will specifically tell me that \"I can't even solve the first question\", which means ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这桥前的第一题没解开的话是不会知道还有后续题目的，他会特意告诉我「连第一题都解不开」，代表着……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

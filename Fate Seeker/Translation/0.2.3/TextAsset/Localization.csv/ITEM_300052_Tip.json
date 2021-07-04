@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_300052_Tip",
+  "RawLine": "ITEM_300052_Tip,以美味的大白菜製成的醃菜，好吃得都能參加比賽了。,以美味的大白菜制成的腌菜，好吃得都能参加比赛了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_300052_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "以美味的大白菜製成的醃菜，好吃得都能參加比賽了。",
+      "c": "以美味的大白菜製成的醃菜,好吃得都能參加比賽了。",
+      "rq": true,
+      "it": null,
+      "mt": "The pickles made from the delicious cabbage are so good that they could be entered into a contest.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "以美味的大白菜制成的腌菜，好吃得都能参加比赛了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

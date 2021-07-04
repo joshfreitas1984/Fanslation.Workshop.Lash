@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16001215",
+  "RawLine": "TNPC_16001215,【摩尼教要煉製三生三死飲，不只需要小櫻的血，還需要一品紅和赤緒石。】,【摩尼教要炼制三生三死饮，不只需要小樱的血，还需要一品红和赤绪石。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16001215",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【摩尼教要煉製三生三死飲，不只需要小櫻的血，還需要一品紅和赤緒石。】",
+      "c": "<[>摩尼教要煉製三生三死飲,不只需要小櫻的血,還需要一品紅和赤緒石。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The Manichean Church needs not only Sakura's blood, but also a red pearl and an Akio stone to make the Three Lives and Three Deaths drink. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【摩尼教要炼制三生三死饮，不只需要小樱的血，还需要一品红和赤绪石。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

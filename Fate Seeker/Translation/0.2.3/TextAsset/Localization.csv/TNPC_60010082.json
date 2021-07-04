@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010082",
+  "RawLine": "TNPC_60010082,【這是甚麼東西？難道是瘋乞丐在吃的藥嗎？去問問看他吧！】,【这是什么东西？难道是疯乞丐在吃的药吗？去问问看他吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010082",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這是甚麼東西？難道是瘋乞丐在吃的藥嗎？去問問看他吧！】",
+      "c": "<[>這是甚麼東西？難道是瘋乞丐在吃的藥嗎？去問問看他吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What is this? Is it the medicine that the mad beggar is taking? Go ask him! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这是什么东西？难道是疯乞丐在吃的药吗？去问问看他吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

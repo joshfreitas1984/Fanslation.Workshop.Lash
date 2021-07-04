@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004858",
+  "RawLine": "TNPC_70004858,【把在{color=#FF0000}御蒼派書房內{/color}找到的{color=#FF0000}那封信{/color}拿給師父看一下。】,【把在{color=#FF0000}御苍派书房内{/color}找到的{color=#FF0000}那封信{/color}拿给师父看一下。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004858",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【把在{color=#FF0000}御蒼派書房內{/color}找到的{color=#FF0000}那封信{/color}拿給師父看一下。】",
+      "c": "<[>把在御蒼派書房內找到的那封信拿給師父看一下。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Take the letter that you found in the study of the Ocong School and show it to Master. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【把在{color=#FF0000}御苍派书房内{/color}找到的{color=#FF0000}那封信{/color}拿给师父看一下。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

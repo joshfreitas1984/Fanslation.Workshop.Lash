@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120203_Tip",
+  "RawLine": "SKILL_120203_Tip,【{color=#FFD700}特殊{/color}】\\n向後跳躍一段距離，原地留下沙人分身，具攻擊效果。\\n沙人持續存在{color=#00DB00}20{/color}秒。\\n場上最多同時存在{color=#00DB00}5{/color}個沙人。,【{color=#FFD700}特殊{/color}】\\n向后跳跃一段距离，原地留下沙人分身，具攻击效果。\\n沙人持续存在{color=#00DB00}20{/color}秒。\\n场上最多同时存在{color=#00DB00}5{/color}个沙人。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120203_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}特殊{/color}】\\n向後跳躍一段距離，原地留下沙人分身，具攻擊效果。\\n沙人持續存在{color=#00DB00}20{/color}秒。\\n場上最多同時存在{color=#00DB00}5{/color}個沙人。",
+      "c": "<[>特殊<]><<\\n>>向後跳躍一段距離,原地留下沙人分身,具攻擊效果。<<\\n>>沙人持續存在20秒。<<\\n>>場上最多同時存在5個沙人。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Special<]><<\\n>>Jump backwards for a distance, leaving a sand doppelganger in place with an attack effect. <<\\n>>Sand Man lasts for 20 seconds. <<\\n>>There are up to 5 Sandpeople on the field at the same time.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}特殊{/color}】\\n向后跳跃一段距离，原地留下沙人分身，具攻击效果。\\n沙人持续存在{color=#00DB00}20{/color}秒。\\n场上最多同时存在{color=#00DB00}5{/color}个沙人。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

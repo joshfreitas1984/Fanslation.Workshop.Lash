@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002173",
+  "RawLine": "TNPC_70002173,嗚{w=1}，{fn}哥哥怎麼辦，娘一定在生我的氣，再也不會疼康兒了，都是康兒的錯，嗚嗚嗚……{w=1}……{w=1},呜{w=1}，{fn}哥哥怎么办，娘一定在生我的气，再也不会疼康儿了，都是康儿的错，呜呜呜……{w=1}……{w=1}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002173",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗚{w=1}，{fn}哥哥怎麼辦，娘一定在生我的氣，再也不會疼康兒了，都是康兒的錯，嗚嗚嗚……{w=1}……{w=1}",
+      "c": "嗚,<fn>哥哥怎麼辦,娘一定在生我的氣,再也不會疼康兒了,都是康兒的錯,嗚嗚嗚............",
+      "rq": true,
+      "it": null,
+      "mt": "Wow,<fn>What should I do? Mother must be angry with me and will never love Kang anymore. It's all Kang's fault. ............",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呜{w=1}，{fn}哥哥怎么办，娘一定在生我的气，再也不会疼康儿了，都是康儿的错，呜呜呜……{w=1}……{w=1}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

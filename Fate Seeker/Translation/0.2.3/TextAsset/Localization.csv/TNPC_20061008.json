@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20061008",
+  "RawLine": "TNPC_20061008,不如這樣好了，我正好有事需要游走大江南北。{p}可以順便幫你打聽前朝寶藏之事，得知再飛鴿傳書給你，{p}但，要先將你所知的都告訴我才行。,不如这样好了，我正好有事需要游走大江南北。{p}可以顺便帮你打听前朝宝藏之事，得知再飞鸽传书给你，{p}但，要先将你所知的都告诉我才行。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20061008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "不如這樣好了，我正好有事需要游走大江南北。{p}可以順便幫你打聽前朝寶藏之事，得知再飛鴿傳書給你，{p}但，要先將你所知的都告訴我才行。",
+      "c": "不如這樣好了,我正好有事需要游走大江南北。可以順便幫你打聽前朝寶藏之事,得知再飛鴿傳書給你,但,要先將你所知的都告訴我才行。",
+      "rq": true,
+      "it": null,
+      "mt": "How about this, I have something to do, I need to travel north and south. I can help you inquire about the treasures of the former dynasty, and then I can send you a letter by pigeon, but first, you have to tell me everything you know.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "不如这样好了，我正好有事需要游走大江南北。{p}可以顺便帮你打听前朝宝藏之事，得知再飞鸽传书给你，{p}但，要先将你所知的都告诉我才行。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

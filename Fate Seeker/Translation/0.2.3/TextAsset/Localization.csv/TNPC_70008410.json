@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70008410",
+  "RawLine": "TNPC_70008410,應該是要在這{color=#FF0000}桌面的四格{/color}之中，分別放入某樣{color=#FF0000}物品後，就能開啟機關從這離開。,应该是要在这{color=#FF0000}桌面的四格{/color}之中，分别放入某样{color=#FF0000}物品后，就能开启机关从这离开。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70008410",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "應該是要在這{color=#FF0000}桌面的四格{/color}之中，分別放入某樣{color=#FF0000}物品後，就能開啟機關從這離開。",
+      "c": "應該是要在這桌面的四格之中,分別放入某樣物品後,就能開啟機關從這離開。",
+      "rq": true,
+      "it": null,
+      "mt": "I think you have to put a certain item in each of the four compartments of this desk to open the mechanism and leave from here.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "应该是要在这{color=#FF0000}桌面的四格{/color}之中，分别放入某样{color=#FF0000}物品后，就能开启机关从这离开。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60076351",
+  "RawLine": "TNPC_60076351,【赤緒石是摩尼教煉禁藥的一種成分，而它是屬於{color=#FF0000}礦物{/color}的一種，或許可以先跑一趟去{color=#FF0000}鐵匠鋪{/color}問問看。】,【赤绪石是摩尼教炼禁药的一种成分，而它是属于{color=#FF0000}矿物{/color}的一种，或许可以先跑一趟去{color=#FF0000}铁匠铺{/color}问问看。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60076351",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【赤緒石是摩尼教煉禁藥的一種成分，而它是屬於{color=#FF0000}礦物{/color}的一種，或許可以先跑一趟去{color=#FF0000}鐵匠鋪{/color}問問看。】",
+      "c": "<[>赤緒石是摩尼教煉禁藥的一種成分,而它是屬於礦物的一種,或許可以先跑一趟去鐵匠鋪問問看。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The red thread stone is an ingredient of the forbidden medicine of Manichaeism, and it is a kind of mineral, so maybe you can go to the blacksmith shop and ask about it first. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【赤绪石是摩尼教炼禁药的一种成分，而它是属于{color=#FF0000}矿物{/color}的一种，或许可以先跑一趟去{color=#FF0000}铁匠铺{/color}问问看。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104708209",
+  "RawLine": "SDM_1104708209,小子們，還不到後面去取幾罈好酒，擺桌好菜，好生款待{name}大俠！,小子们，还不到后面去取几坛好酒，摆桌好菜，好生款待{name}大侠！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104708209",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小子們，還不到後面去取幾罈好酒，擺桌好菜，好生款待{name}大俠！",
+      "c": "小子們,還不到後面去取幾罈好酒,擺桌好菜,好生款待<name>大俠！",
+      "rq": true,
+      "it": null,
+      "mt": "Go to the back and get some good wine, set a good table, and treat <name>the great knight well!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小子们，还不到后面去取几坛好酒，摆桌好菜，好生款待{name}大侠！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_02002_Tip3",
+  "RawLine": "HEART_02002_Tip3,<color=#EFD8B0>累積受到傷害達最大生命的 <color=#33ff33>{0:0}%</color> 後恢復 <color=#33ff33>{1:0}%</color> 生命。</color>,<color=#EFD8B0>累积受到伤害达最大生命的 <color=#33ff33>{0:0}%</color> 后恢复 <color=#33ff33>{1:0}%</color> 生命。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_02002_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0>累積受到傷害達最大生命的 <color=#33ff33>{0:0}%</color> 後恢復 <color=#33ff33>{1:0}%</color> 生命。</color>",
+      "c": "累積受到傷害達最大生命的 <0:0>% 後恢復 <1:0>% 生命。",
+      "rq": true,
+      "it": null,
+      "mt": " Restores <1:0% of life after accumulating <0:0% of maximum life from damage.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0>累积受到伤害达最大生命的 <color=#33ff33>{0:0}%</color> 后恢复 <color=#33ff33>{1:0}%</color> 生命。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

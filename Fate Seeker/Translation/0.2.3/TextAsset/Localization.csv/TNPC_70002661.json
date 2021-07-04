@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002661",
+  "RawLine": "TNPC_70002661,程總鏢頭，我們從開封大老遠趕來洛陽，{fn}他一路都沒好好休息，太過勞心才會認錯人。方便向您借間房間，略做休息嗎？,程总镖头，我们从开封大老远赶来洛阳，{fn}他一路都没好好休息，太过劳心才会认错人。方便向您借间房间，略做休息吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002661",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "程總鏢頭，我們從開封大老遠趕來洛陽，{fn}他一路都沒好好休息，太過勞心才會認錯人。方便向您借間房間，略做休息嗎？",
+      "c": "程總鏢頭,我們從開封大老遠趕來洛陽,<fn>他一路都沒好好休息,太過勞心才會認錯人。方便向您借間房間,略做休息嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "We came all the way from Kaifeng to Luoyang, <fn>he didn't have a good rest all the way, so he was too tired to recognize the wrong person. Can I borrow a room from you for a short rest?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "程总镖头，我们从开封大老远赶来洛阳，{fn}他一路都没好好休息，太过劳心才会认错人。方便向您借间房间，略做休息吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

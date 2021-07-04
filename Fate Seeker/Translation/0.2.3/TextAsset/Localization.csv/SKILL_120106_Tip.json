@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120106_Tip",
+  "RawLine": "SKILL_120106_Tip,【{color=#FFD700}增益{/color}】\\n恢復{color=#00DB00}10%{/color}生命。,【{color=#FFD700}增益{/color}】\\n恢复{color=#00DB00}10%{/color}生命。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120106_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}增益{/color}】\\n恢復{color=#00DB00}10%{/color}生命。",
+      "c": "<[>增益<]><<\\n>>恢復10%生命。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Gain<]><<\\n>> Restores 10% life.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}增益{/color}】\\n恢复{color=#00DB00}10%{/color}生命。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

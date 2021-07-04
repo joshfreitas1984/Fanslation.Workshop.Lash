@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070507",
+  "RawLine": "TNPC_60070507,此時在熱鬧的客棧中，傳來一陣陣細微的聲音{s=5}……{/s},此时在热闹的客栈中，传来一阵阵细微的声音{s=5}……{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070507",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "此時在熱鬧的客棧中，傳來一陣陣細微的聲音{s=5}……{/s}",
+      "c": "此時在熱鬧的客棧中,傳來一陣陣細微的聲音......",
+      "rq": true,
+      "it": null,
+      "mt": "At this moment, in the bustling inn, a small voice came ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "此时在热闹的客栈中，传来一阵阵细微的声音{s=5}……{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

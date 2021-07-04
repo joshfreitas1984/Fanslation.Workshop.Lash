@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009125",
+  "RawLine": "TNPC_70009125,這橋上的迷霧不僅會阻礙視線，更會讓人產生幻覺，誘使擅闖者摔下山谷。,这桥上的迷雾不仅会阻碍视线，更会让人产生幻觉，诱使擅闯者摔下山谷。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009125",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這橋上的迷霧不僅會阻礙視線，更會讓人產生幻覺，誘使擅闖者摔下山谷。",
+      "c": "這橋上的迷霧不僅會阻礙視線,更會讓人產生幻覺,誘使擅闖者摔下山谷。",
+      "rq": true,
+      "it": null,
+      "mt": "The fog on this bridge will not only block your vision, but also give you hallucinations that will tempt you to fall down the valley.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这桥上的迷雾不仅会阻碍视线，更会让人产生幻觉，诱使擅闯者摔下山谷。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05102_Tip",
+  "RawLine": "ITEM_05102_Tip,製藥藥材，取自烏鰂內殼，又名默魚蓋。止血良方，常用於潰傷、便血亦可用於補氣攝血、性熱。{p}{p}合成難度：{color=#ff0000}3{/color}。,制药药材，取自乌鰂内壳，又名默鱼盖。止血良方，常用于溃伤、便血亦可用于补气摄血、性热。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05102_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，取自烏鰂內殼，又名默魚蓋。止血良方，常用於潰傷、便血亦可用於補氣攝血、性熱。{p}{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "製藥藥材,取自烏鰂內殼,又名默魚蓋。止血良方,常用於潰傷、便血亦可用於補氣攝血、性熱。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": "Taken from the inner shell of Quarry, also known as Merugui. It is a good remedy for stopping bleeding, often used for ulcers, blood in stool and also for tonifying qi and regulating blood, and is hot in nature. Synthesis difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，取自乌鰂内壳，又名默鱼盖。止血良方，常用于溃伤、便血亦可用于补气摄血、性热。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

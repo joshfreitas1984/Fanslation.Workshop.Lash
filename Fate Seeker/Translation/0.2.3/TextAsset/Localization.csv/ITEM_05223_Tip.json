@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05223_Tip",
+  "RawLine": "ITEM_05223_Tip,釀酒用料，取自犀牛鼻上的角，可治眼紅腫、下痢鲜血。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}藥酒{/color}。{p}合成難度：{color=#ff0000}5{/color}。,酿酒用料，取自犀牛鼻上的角，可治眼红肿、下痢鲜血。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}药酒{/color}。{p}合成难度：{color=#ff0000}5{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05223_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "釀酒用料，取自犀牛鼻上的角，可治眼紅腫、下痢鲜血。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}藥酒{/color}。{p}合成難度：{color=#ff0000}5{/color}。",
+      "c": "釀酒用料,取自犀牛鼻上的角,可治眼紅腫、下痢鲜血。用途：適合釀造藥酒。合成難度：5。",
+      "rq": true,
+      "it": null,
+      "mt": "The horn from the nose of rhinoceros is used to treat swollen eyes and blood in dysentery. Use: Suitable for brewing medicinal wine. Synthesis Difficulty: 5.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酿酒用料，取自犀牛鼻上的角，可治眼红肿、下痢鲜血。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}药酒{/color}。{p}合成难度：{color=#ff0000}5{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

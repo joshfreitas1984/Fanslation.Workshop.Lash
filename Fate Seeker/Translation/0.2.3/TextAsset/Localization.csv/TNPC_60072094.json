@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072094",
+  "RawLine": "TNPC_60072094,是{color=#FF0000}肚子餓{/color}了嗎？還是怎麼了嗎？,是{color=#FF0000}肚子饿{/color}了吗？还是怎么了吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072094",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是{color=#FF0000}肚子餓{/color}了嗎？還是怎麼了嗎？",
+      "c": "是肚子餓了嗎？還是怎麼了嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Is it a hungry stomach? Or is something wrong?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "是{color=#FF0000}肚子饿{/color}了吗？还是怎么了吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Forge.SP.Coal",
+  "RawLine": "System.Forge.SP.Coal,當次容錯率<color=#33ff33>+ {0:0} </color> 次,当次容错率<color=#33ff33>+ {0:0} </color> 次",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Forge.SP.Coal",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "當次容錯率<color=#33ff33>+ {0:0} </color> 次",
+      "c": "當次容錯率+ <0:0>  次",
+      "rq": true,
+      "it": null,
+      "mt": "Time-tolerance + <0:0> times",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "当次容错率<color=#33ff33>+ {0:0} </color> 次",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

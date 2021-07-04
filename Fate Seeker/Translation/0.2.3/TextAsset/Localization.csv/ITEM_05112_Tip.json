@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05112_Tip",
+  "RawLine": "ITEM_05112_Tip,製藥藥材，取其根莖，常於冬季採挖，煮透後曬乾切片使用，常用於產後腹痛、跌打損傷，性溫。{p}{p}合成難度：{color=#ff0000}3{/color}。,制药药材，取其根茎，常于冬季采挖，煮透后晒干切片使用，常用于产后腹痛、跌打损伤，性温。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05112_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，取其根莖，常於冬季採挖，煮透後曬乾切片使用，常用於產後腹痛、跌打損傷，性溫。{p}{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "製藥藥材,取其根莖,常於冬季採挖,煮透後曬乾切片使用,常用於產後腹痛、跌打損傷,性溫。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": "Taken from its rhizome, often dug in winter, boiled and dried and sliced for use in postpartum abdominal pain, bruises and injuries, warm in nature. Synthesis difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，取其根茎，常于冬季采挖，煮透后晒干切片使用，常用于产后腹痛、跌打损伤，性温。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

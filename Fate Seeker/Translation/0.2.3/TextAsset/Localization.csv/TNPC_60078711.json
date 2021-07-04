@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078711",
+  "RawLine": "TNPC_60078711,【這李饅頭的哥哥已經失蹤許多年，但東陽村最近才謠傳出鬧鬼事件，看來這兩件事情的關聯性非常小，若要找回他哥哥的可能性也不大。】,【这李馒头的哥哥已经失踪许多年，但东阳村最近才谣传出闹鬼事件，看来这两件事情的关联性非常小，若要找回他哥哥的可能性也不大。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078711",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這李饅頭的哥哥已經失蹤許多年，但東陽村最近才謠傳出鬧鬼事件，看來這兩件事情的關聯性非常小，若要找回他哥哥的可能性也不大。】",
+      "c": "<[>這李饅頭的哥哥已經失蹤許多年,但東陽村最近才謠傳出鬧鬼事件,看來這兩件事情的關聯性非常小,若要找回他哥哥的可能性也不大。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The brother of this Li bun has been missing for many years, but with the recent rumors of a haunting in Dongyang Village, it seems that the two things are very unrelated, and it is unlikely that his brother will be found. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这李馒头的哥哥已经失踪许多年，但东阳村最近才谣传出闹鬼事件，看来这两件事情的关联性非常小，若要找回他哥哥的可能性也不大。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

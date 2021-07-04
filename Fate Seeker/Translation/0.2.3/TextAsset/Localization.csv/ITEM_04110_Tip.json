@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04110_Tip",
+  "RawLine": "ITEM_04110_Tip,以大米釀造的三熬酒，酒面晃動時會泛起酒花，因此又名三花酒，酒香清柔、入口綿密。{p}{p}種類：{color=#ff0000}白酒{/color}{p}合成難度：{color=#ff0000}6{/color}。{p}{p}特殊功能：清除{color=#00DB00}內傷{/color}。,以大米酿造的三熬酒，酒面晃动时会泛起酒花，因此又名三花酒，酒香清柔、入口绵密。{p}{p}种类：{color=#ff0000}白酒{/color}{p}合成难度：{color=#ff0000}6{/color}。{p}{p}特殊功能：清除{color=#00DB00}内伤{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04110_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "以大米釀造的三熬酒，酒面晃動時會泛起酒花，因此又名三花酒，酒香清柔、入口綿密。{p}{p}種類：{color=#ff0000}白酒{/color}{p}合成難度：{color=#ff0000}6{/color}。{p}{p}特殊功能：清除{color=#00DB00}內傷{/color}。",
+      "c": "以大米釀造的三熬酒,酒面晃動時會泛起酒花,因此又名三花酒,酒香清柔、入口綿密。種類：白酒合成難度：6。特殊功能：清除內傷。",
+      "rq": true,
+      "it": null,
+      "mt": "This rice brewed Sanboo is also known as Sanghwa Sake because of the hops that appear when the sake is shaken. The wine's aroma is soft and dense, and the difficulty of synthesis is 6. Special function: to remove internal injuries.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "以大米酿造的三熬酒，酒面晃动时会泛起酒花，因此又名三花酒，酒香清柔、入口绵密。{p}{p}种类：{color=#ff0000}白酒{/color}{p}合成难度：{color=#ff0000}6{/color}。{p}{p}特殊功能：清除{color=#00DB00}内伤{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

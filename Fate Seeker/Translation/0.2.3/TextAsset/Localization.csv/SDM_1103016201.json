@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103016201",
+  "RawLine": "SDM_1103016201,【此人死去已久，異常乾癟，像是被吸乾了血液。】,【此人死去已久，异常干瘪，像是被吸干了血液。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103016201",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【此人死去已久，異常乾癟，像是被吸乾了血液。】",
+      "c": "<[>此人死去已久,異常乾癟,像是被吸乾了血液。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This person has been dead for a long time and is unusually dry, as if drained of blood. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【此人死去已久，异常干瘪，像是被吸干了血液。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

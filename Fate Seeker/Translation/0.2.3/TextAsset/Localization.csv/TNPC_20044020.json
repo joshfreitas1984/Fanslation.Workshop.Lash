@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20044020",
+  "RawLine": "TNPC_20044020,客官，你先隨便坐，{p}抱歉我現在很忙，我晚點再招呼你。,客官，你先随便坐，{p}抱歉我现在很忙，我晚点再招呼你。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20044020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客官，你先隨便坐，{p}抱歉我現在很忙，我晚點再招呼你。",
+      "c": "客官,你先隨便坐,抱歉我現在很忙,我晚點再招呼你。",
+      "rq": true,
+      "it": null,
+      "mt": "Please make yourself comfortable, sorry I'm very busy now, I'll serve you later.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客官，你先随便坐，{p}抱歉我现在很忙，我晚点再招呼你。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

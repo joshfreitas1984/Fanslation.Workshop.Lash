@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070623",
+  "RawLine": "TNPC_60070623,【這是……泛黃的紙片，打開裡面沒有內容。會是這個東西嗎？】,【这是……泛黄的纸片，打开里面没有内容。会是这个东西吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070623",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這是……泛黃的紙片，打開裡面沒有內容。會是這個東西嗎？】",
+      "c": "<[>這是......泛黃的紙片,打開裡面沒有內容。會是這個東西嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is ...... A yellowish piece of paper, opened with no content inside. Could it be this thing? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这是……泛黄的纸片，打开里面没有内容。会是这个东西吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120202_Tip",
+  "RawLine": "SKILL_120202_Tip,【{color=#FFD700}暗勁{/color}】\\n相當容易中斷敵人動作，若以此招中斷敵人動作，會將敵人擊飛一段距離。傷害較低。,【{color=#FFD700}暗劲{/color}】\\n相当容易中断敌人动作，若以此招中断敌人动作，会将敌人击飞一段距离。伤害较低。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120202_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}暗勁{/color}】\\n相當容易中斷敵人動作，若以此招中斷敵人動作，會將敵人擊飛一段距離。傷害較低。",
+      "c": "<[>暗勁<]><<\\n>>相當容易中斷敵人動作,若以此招中斷敵人動作,會將敵人擊飛一段距離。傷害較低。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Dark Gust<]><<\\n>>It is very easy to interrupt enemy movement, and if you interrupt enemy movement with this move, it will send them flying for a distance. Damage is low.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}暗劲{/color}】\\n相当容易中断敌人动作，若以此招中断敌人动作，会将敌人击飞一段距离。伤害较低。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

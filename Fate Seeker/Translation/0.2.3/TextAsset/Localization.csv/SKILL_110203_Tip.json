@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110203_Tip",
+  "RawLine": "SKILL_110203_Tip,【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}電光急逝{/color}、{color=#FF0000}風掣雷行{/color}後，增傷{color=#00DB00}20%{/color}。\\n最遠距離時造成額外傷害。,【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}电光急逝{/color}、{color=#FF0000}风掣雷行{/color}后，增伤{color=#00DB00}20%{/color}。\\n最远距离时造成额外伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110203_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}電光急逝{/color}、{color=#FF0000}風掣雷行{/color}後，增傷{color=#00DB00}20%{/color}。\\n最遠距離時造成額外傷害。",
+      "c": "<[>強力<]><<\\n>>依序使用電光急逝、風掣雷行後,增傷20%。<<\\n>>最遠距離時造成額外傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>>Add 20% more damage after using Lightning Rush and Wind and Thunder in that order. <<\\n>>Add extra damage at the longest distance.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}电光急逝{/color}、{color=#FF0000}风掣雷行{/color}后，增伤{color=#00DB00}20%{/color}。\\n最远距离时造成额外伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

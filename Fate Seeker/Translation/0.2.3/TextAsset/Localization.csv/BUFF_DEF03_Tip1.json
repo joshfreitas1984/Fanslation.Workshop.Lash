@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_DEF03_Tip1",
+  "RawLine": "BUFF_DEF03_Tip1,一段時間內防禦上升<color=#00FF00>50</color>點。<color=#33ff33>\\n持續時間增加50%。</color>,一段时间内防御上升<color=#00FF00>50</color>点。<color=#33ff33>\\n持续时间增加50%。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_DEF03_Tip1",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一段時間內防禦上升<color=#00FF00>50</color>點。<color=#33ff33>\\n持續時間增加50%。</color>",
+      "c": "一段時間內防禦上升50點。<<\\n>>持續時間增加50%。",
+      "rq": true,
+      "it": null,
+      "mt": "Defense goes up by 50 points for a period of time. <<\\n>>Durations increase by 50%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一段时间内防御上升<color=#00FF00>50</color>点。<color=#33ff33>\\n持续时间增加50%。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

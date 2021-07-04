@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120108_Tip",
+  "RawLine": "SKILL_120108_Tip,【{color=#FFD700}絕學{/color}】\\n原地持續的反擊技巧，使用期間無敵，能反彈敵人的攻擊並彈飛，同時給予更強力的寒毒效果造成大量傷害。,【{color=#FFD700}绝学{/color}】\\n原地持续的反击技巧，使用期间无敌，能反弹敌人的攻击并弹飞，同时给予更强力的寒毒效果造成大量伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120108_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】\\n原地持續的反擊技巧，使用期間無敵，能反彈敵人的攻擊並彈飛，同時給予更強力的寒毒效果造成大量傷害。",
+      "c": "<[>絕學<]><<\\n>>原地持續的反擊技巧,使用期間無敵,能反彈敵人的攻擊並彈飛,同時給予更強力的寒毒效果造成大量傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Jedi<]><<\\n>>A continuous in-situ counterattack technique that is invincible while in use, rebounding enemy attacks and bouncing off the ground, while giving a more powerful cold poison effect that deals a lot of damage.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】\\n原地持续的反击技巧，使用期间无敌，能反弹敌人的攻击并弹飞，同时给予更强力的寒毒效果造成大量伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

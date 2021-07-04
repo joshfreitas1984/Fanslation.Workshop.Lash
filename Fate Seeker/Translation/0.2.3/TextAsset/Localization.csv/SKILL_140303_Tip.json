@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140303_Tip",
+  "RawLine": "SKILL_140303_Tip,【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}虎嘯沖天{/color}、{color=#FF0000}天雷地火{/color}後使用本招、攻擊力增加{color=#00DB00}20%{/color}。\\n往前方突刺後，將棍棒由地板大幅度往上揮動攻擊，暗勁較高。,【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}虎啸冲天{/color}、{color=#FF0000}天雷地火{/color}后使用本招、攻击力增加{color=#00DB00}20%{/color}。\\n往前方突刺后，将棍棒由地板大幅度往上挥动攻击，暗劲较高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140303_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}虎嘯沖天{/color}、{color=#FF0000}天雷地火{/color}後使用本招、攻擊力增加{color=#00DB00}20%{/color}。\\n往前方突刺後，將棍棒由地板大幅度往上揮動攻擊，暗勁較高。",
+      "c": "<[>強力<]><<\\n>>依序使用虎嘯沖天、天雷地火後使用本招、攻擊力增加20%。<<\\n>>往前方突刺後,將棍棒由地板大幅度往上揮動攻擊,暗勁較高。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>>Use this move after using Tiger Tsunami and Heavenly Thunder and Earthly Fire in that order to increase attack power by 20%. <<\\n>>After jabbing forward, swing the stick upwards from the floor for a higher dark power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}虎啸冲天{/color}、{color=#FF0000}天雷地火{/color}后使用本招、攻击力增加{color=#00DB00}20%{/color}。\\n往前方突刺后，将棍棒由地板大幅度往上挥动攻击，暗劲较高。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

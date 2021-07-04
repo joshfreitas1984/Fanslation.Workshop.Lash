@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004453",
+  "RawLine": "TNPC_70004453,【應該就是跟{color=#FF0000}張伯的信放在一起的畫吧{/color}，把畫拿給張伯看看{s=6}……{/s}】,【应该就是跟{color=#FF0000}张伯的信放在一起的画吧{/color}，把画拿给张伯看看{s=6}……{/s}】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004453",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【應該就是跟{color=#FF0000}張伯的信放在一起的畫吧{/color}，把畫拿給張伯看看{s=6}……{/s}】",
+      "c": "<[>應該就是跟張伯的信放在一起的畫吧,把畫拿給張伯看看......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It should be the painting that was put together with the letter from uncle Zhang, show the painting to uncle Zhang ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【应该就是跟{color=#FF0000}张伯的信放在一起的画吧{/color}，把画拿给张伯看看{s=6}……{/s}】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

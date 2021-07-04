@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_1202093",
+  "RawLine": "READ_1202093,陷阱材料：絲緞，古矛，麻繩網。\\n網子，鏢局裡多半有。\\n絲緞，古矛，杭州鐵舖也有賣。,陷阱材料：丝缎，古矛，麻绳网。\\n网子，镖局里多半有。\\n丝缎，古矛，杭州铁铺也有卖。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_1202093",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "陷阱材料：絲緞，古矛，麻繩網。\\n網子，鏢局裡多半有。\\n絲緞，古矛，杭州鐵舖也有賣。",
+      "c": "陷阱材料：絲緞,古矛,麻繩網。<<\\n>>網子,鏢局裡多半有。<<\\n>>絲緞,古矛,杭州鐵舖也有賣。",
+      "rq": true,
+      "it": null,
+      "mt": "Trap materials: silk satin, ancient spear, hemp rope net. <<\\n>>The net is mostly found in the dart board. <<\\n>>Silk satin and ancient spear are also sold in Hangzhou Iron Shop.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "陷阱材料：丝缎，古矛，麻绳网。\\n网子，镖局里多半有。\\n丝缎，古矛，杭州铁铺也有卖。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

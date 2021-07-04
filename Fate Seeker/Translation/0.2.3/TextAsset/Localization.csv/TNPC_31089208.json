@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31089208",
+  "RawLine": "TNPC_31089208,【這小貓到底是喜歡還是不喜歡啊？我都被繞糊塗了。】,【这小猫到底是喜欢还是不喜欢啊？我都被绕糊涂了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31089208",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這小貓到底是喜歡還是不喜歡啊？我都被繞糊塗了。】",
+      "c": "<[>這小貓到底是喜歡還是不喜歡啊？我都被繞糊塗了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Does this kitten like it or not? I'm confused. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这小猫到底是喜欢还是不喜欢啊？我都被绕糊涂了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

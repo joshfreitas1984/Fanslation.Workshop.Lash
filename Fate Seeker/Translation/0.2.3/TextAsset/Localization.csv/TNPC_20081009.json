@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20081009",
+  "RawLine": "TNPC_20081009,{fn}兄弟，這你就不懂啦，此人不回應鏢號，雖然不代表是敵人，但肯定不是朋友。既然不是朋友，多小心總是好的。,{fn}兄弟，这你就不懂啦，此人不回应镖号，虽然不代表是敌人，但肯定不是朋友。既然不是朋友，多小心总是好的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20081009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄弟，這你就不懂啦，此人不回應鏢號，雖然不代表是敵人，但肯定不是朋友。既然不是朋友，多小心總是好的。",
+      "c": "<fn>兄弟,這你就不懂啦,此人不回應鏢號,雖然不代表是敵人,但肯定不是朋友。既然不是朋友,多小心總是好的。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Brother, you don't understand, this person doesn't respond to darts, it doesn't mean he is an enemy, but he is certainly not a friend. Since he is not a friend, it is always good to be more careful.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄弟，这你就不懂啦，此人不回应镖号，虽然不代表是敌人，但肯定不是朋友。既然不是朋友，多小心总是好的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

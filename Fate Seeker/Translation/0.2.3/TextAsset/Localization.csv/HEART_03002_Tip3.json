@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_03002_Tip3",
+  "RawLine": "HEART_03002_Tip3,<color=#EFD8B0>從敵人正面攻擊時提高 <color=#33ff33>{0:0}%</color> 傷害，正面受擊時受到傷害降低 <color=#33ff33>{0:0}%</color> 傷害。</color>,<color=#EFD8B0>从敌人正面攻击时提高 <color=#33ff33>{0:0}%</color> 伤害，正面受击时受到伤害降低 <color=#33ff33>{0:0}%</color> 伤害。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_03002_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0>從敵人正面攻擊時提高 <color=#33ff33>{0:0}%</color> 傷害，正面受擊時受到傷害降低 <color=#33ff33>{0:0}%</color> 傷害。</color>",
+      "c": "從敵人正面攻擊時提高 <0:0>% 傷害,正面受擊時受到傷害降低 <0:0>% 傷害。",
+      "rq": true,
+      "it": null,
+      "mt": " Increases damage by <0:0>% when attacking from the enemy's front, and decreases damage by <0:0>% when hit from the front.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0>从敌人正面攻击时提高 <color=#33ff33>{0:0}%</color> 伤害，正面受击时受到伤害降低 <color=#33ff33>{0:0}%</color> 伤害。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEAR_50001041",
+  "RawLine": "HEAR_50001041,一斤二十，三斤五十，這位太太，來把青江菜嗎？,一斤二十，三斤五十，这位太太，来把青江菜吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEAR_50001041",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一斤二十，三斤五十，這位太太，來把青江菜嗎？",
+      "c": "一斤二十,三斤五十,這位太太,來把青江菜嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "20 for one catty, 50 for three catties, this lady, would you like a handful of green river vegetables?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一斤二十，三斤五十，这位太太，来把青江菜吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

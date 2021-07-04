@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104006831",
+  "RawLine": "SDM_1104006831,那你也別再叫我無賴，我可是有個響噹噹的大名，叫做{name}！,那你也别再叫我无赖，我可是有个响当当的大名，叫做{name}！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104006831",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "那你也別再叫我無賴，我可是有個響噹噹的大名，叫做{name}！",
+      "c": "那你也別再叫我無賴,我可是有個響噹噹的大名,叫做<name>！",
+      "rq": true,
+      "it": null,
+      "mt": " Then don't call me a scoundrel, I have a big name, <name>!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "那你也别再叫我无赖，我可是有个响当当的大名，叫做{name}！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

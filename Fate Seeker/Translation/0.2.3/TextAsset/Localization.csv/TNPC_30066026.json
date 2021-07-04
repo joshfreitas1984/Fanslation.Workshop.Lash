@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30066026",
+  "RawLine": "TNPC_30066026,這也講得太難聽了，他鄉遇故知，{fn}小弟你就幫我個忙吧！大福叔不會虧待你的！,这也讲得太难听了，他乡遇故知，{fn}小弟你就帮我个忙吧！大福叔不会亏待你的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30066026",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這也講得太難聽了，他鄉遇故知，{fn}小弟你就幫我個忙吧！大福叔不會虧待你的！",
+      "c": "這也講得太難聽了,他鄉遇故知,<fn>小弟你就幫我個忙吧！大福叔不會虧待你的！",
+      "rq": true,
+      "it": null,
+      "mt": "This is too hard to hear, <fn>You will do me a favor! Uncle Dafu will not treat you badly!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这也讲得太难听了，他乡遇故知，{fn}小弟你就帮我个忙吧！大福叔不会亏待你的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

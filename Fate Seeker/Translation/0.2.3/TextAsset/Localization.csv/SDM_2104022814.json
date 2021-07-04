@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2104022814",
+  "RawLine": "SDM_2104022814,【鑰匙上，{color=#ff0000}刻著小小的春字。{/color}】,【钥匙上，{color=#ff0000}刻着小小的春字。{/color}】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2104022814",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【鑰匙上，{color=#ff0000}刻著小小的春字。{/color}】",
+      "c": "<[>鑰匙上,刻著小小的春字。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>On the key, there is a small inscription of spring. <]> The key is engraved with a small spring character.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【钥匙上，{color=#ff0000}刻着小小的春字。{/color}】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

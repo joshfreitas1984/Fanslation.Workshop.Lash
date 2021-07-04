@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20028012",
+  "RawLine": "TNPC_20028012,【這堆木桶裡面看來都空無一物，{p}這附近還有木桶成堆，再來找找看吧……】,【这堆木桶里面看来都空无一物，{p}这附近还有木桶成堆，再来找找看吧……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20028012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這堆木桶裡面看來都空無一物，{p}這附近還有木桶成堆，再來找找看吧……】",
+      "c": "<[>這堆木桶裡面看來都空無一物,這附近還有木桶成堆,再來找找看吧......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This pile of barrels looks empty, there are still piles of barrels around here, let's look for them again ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这堆木桶里面看来都空无一物，{p}这附近还有木桶成堆，再来找找看吧……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

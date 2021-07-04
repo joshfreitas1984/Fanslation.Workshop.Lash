@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006182",
+  "RawLine": "TNPC_70006182,草民{name}，參見皇上，草民粗野慣了，宮廷禮儀一概不知，如有不妥之處……,草民{name}，参见皇上，草民粗野惯了，宫廷礼仪一概不知，如有不妥之处……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006182",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "草民{name}，參見皇上，草民粗野慣了，宮廷禮儀一概不知，如有不妥之處……",
+      "c": "草民<name>,參見皇上,草民粗野慣了,宮廷禮儀一概不知,如有不妥之處......",
+      "rq": true,
+      "it": null,
+      "mt": "I am <name>, I am here to see Your Majesty, I am used to being rough, I don't know anything about court etiquette, if there is anything wrong ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "草民{name}，参见皇上，草民粗野惯了，宫廷礼仪一概不知，如有不妥之处……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

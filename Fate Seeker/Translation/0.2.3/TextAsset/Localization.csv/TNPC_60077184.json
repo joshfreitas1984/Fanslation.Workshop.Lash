@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60077184",
+  "RawLine": "TNPC_60077184,師父每次都會調整藥方，所以師娘服用的湯藥都不一定，但主要都是些{color=#FF0000}陰性{/color}的藥材。,师父每次都会调整药方，所以师娘服用的汤药都不一定，但主要都是些{color=#FF0000}阴性{/color}的药材。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60077184",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "師父每次都會調整藥方，所以師娘服用的湯藥都不一定，但主要都是些{color=#FF0000}陰性{/color}的藥材。",
+      "c": "師父每次都會調整藥方,所以師娘服用的湯藥都不一定,但主要都是些陰性的藥材。",
+      "rq": true,
+      "it": null,
+      "mt": "Shiji will adjust the prescription every time, so the soup that Shi Niang takes is not always the same, but it is mainly some yin herbs.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "师父每次都会调整药方，所以师娘服用的汤药都不一定，但主要都是些{color=#FF0000}阴性{/color}的药材。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

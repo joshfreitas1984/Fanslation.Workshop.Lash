@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_300010001",
+  "RawLine": "TNPC_300010001,小僧也不知那人姓名，只知道是名男性，有些歲數，{color=#FF0000}好飲酒{/color}、{color=#FF0000}善使劍{/color}，身上有塊精緻的{color=#FF0000}玉珮{/color}。,小僧也不知那人姓名，只知道是名男性，有些岁数，{color=#FF0000}好饮酒{/color}、{color=#FF0000}善使剑{/color}，身上有块精致的{color=#FF0000}玉珮{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_300010001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小僧也不知那人姓名，只知道是名男性，有些歲數，{color=#FF0000}好飲酒{/color}、{color=#FF0000}善使劍{/color}，身上有塊精緻的{color=#FF0000}玉珮{/color}。",
+      "c": "小僧也不知那人姓名,只知道是名男性,有些歲數,好飲酒、善使劍,身上有塊精緻的玉珮。",
+      "rq": true,
+      "it": null,
+      "mt": "I don't know the name of that person, but I only know that he is a male, some years old, good at drinking, good at using the sword, and has a delicate jade palace on his body.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小僧也不知那人姓名，只知道是名男性，有些岁数，{color=#FF0000}好饮酒{/color}、{color=#FF0000}善使剑{/color}，身上有块精致的{color=#FF0000}玉珮{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

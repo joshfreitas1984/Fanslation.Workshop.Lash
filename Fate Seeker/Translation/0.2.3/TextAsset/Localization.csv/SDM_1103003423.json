@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103003423",
+  "RawLine": "SDM_1103003423,【這條魚十分新鮮，魚身卻異常僵直，原來是吞下了一整把短劍的緣故。】,【这条鱼十分新鲜，鱼身却异常僵直，原来是吞下了一整把短剑的缘故。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103003423",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這條魚十分新鮮，魚身卻異常僵直，原來是吞下了一整把短劍的緣故。】",
+      "c": "<[>這條魚十分新鮮,魚身卻異常僵直,原來是吞下了一整把短劍的緣故。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This fish was very fresh, but its body was unusually stiff, because it had swallowed a whole short sword. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这条鱼十分新鲜，鱼身却异常僵直，原来是吞下了一整把短剑的缘故。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

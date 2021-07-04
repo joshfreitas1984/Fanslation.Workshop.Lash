@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_19005",
+  "RawLine": "QINFO_19005,知道如何去少林寺後，前去詢問少林寺的東陽村民。（少林寺）,知道如何去少林寺后，前去询问少林寺的东阳村民。（少林寺）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_19005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "知道如何去少林寺後，前去詢問少林寺的東陽村民。（少林寺）",
+      "c": "知道如何去少林寺後,前去詢問少林寺的東陽村民。（少林寺）",
+      "rq": true,
+      "it": null,
+      "mt": "After knowing how to get to Shaolin Temple, go and ask the villagers of Shaolin Temple in Dongyang. (Shaolin Temple)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "知道如何去少林寺后，前去询问少林寺的东阳村民。（少林寺）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

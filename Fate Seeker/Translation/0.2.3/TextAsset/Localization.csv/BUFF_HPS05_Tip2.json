@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_HPS05_Tip2",
+  "RawLine": "BUFF_HPS05_Tip2,逐漸恢復<color=#33FF33>75%</color>生命。<color=#33ff33>\\n恢復速度增加50%。</color>,逐渐恢复<color=#33FF33>75%</color>生命。<color=#33ff33>\\n恢复速度增加50%。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_HPS05_Tip2",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "逐漸恢復<color=#33FF33>75%</color>生命。<color=#33ff33>\\n恢復速度增加50%。</color>",
+      "c": "逐漸恢復75%生命。<<\\n>>恢復速度增加50%。",
+      "rq": true,
+      "it": null,
+      "mt": "Progressively recovers 75% life. <<\\n>>Restoration speed increased by 50%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "逐渐恢复<color=#33FF33>75%</color>生命。<color=#33ff33>\\n恢复速度增加50%。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

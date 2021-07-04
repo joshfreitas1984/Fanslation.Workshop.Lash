@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31056122",
+  "RawLine": "TNPC_31056122,（小聲的說）不要講出來！那個大姐姐就在{fn}後面，等下{fn}眼紅造成大姐姐困擾怎麼辦？,（小声的说）不要讲出来！那个大姐姐就在{fn}后面，等下{fn}眼红造成大姐姐困扰怎么办？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31056122",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "（小聲的說）不要講出來！那個大姐姐就在{fn}後面，等下{fn}眼紅造成大姐姐困擾怎麼辦？",
+      "c": "（小聲的說）不要講出來！那個大姐姐就在<fn>後面,等下<fn>眼紅造成大姐姐困擾怎麼辦？",
+      "rq": true,
+      "it": null,
+      "mt": "(whispering) Don't say it out loud! That big sister is right behind <fn>, what if <fn>eyes are red and the big sister is disturbed?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "（小声的说）不要讲出来！那个大姐姐就在{fn}后面，等下{fn}眼红造成大姐姐困扰怎么办？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31070622",
+  "RawLine": "TNPC_31070622,{fn}啊～你哪天要練長兵器了，架上的長槍直接送你吧。,{fn}啊～你哪天要练长兵器了，架上的长枪直接送你吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31070622",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}啊～你哪天要練長兵器了，架上的長槍直接送你吧。",
+      "c": "<fn>啊～你哪天要練長兵器了,架上的長槍直接送你吧。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Ah, if you want to practice long weapons someday, you can have the spear on the shelf.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}啊～你哪天要练长兵器了，架上的长枪直接送你吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

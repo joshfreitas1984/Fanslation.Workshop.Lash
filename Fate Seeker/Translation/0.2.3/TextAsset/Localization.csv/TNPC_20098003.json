@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20098003",
+  "RawLine": "TNPC_20098003,我瞧這附近挺眼熟的，原來就是我上次誤抓了你的麵攤。不如我請你去那吃一頓，算是我對你的賠罪。,我瞧这附近挺眼熟的，原来就是我上次误抓了你的面摊。不如我请你去那吃一顿，算是我对你的赔罪。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20098003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我瞧這附近挺眼熟的，原來就是我上次誤抓了你的麵攤。不如我請你去那吃一頓，算是我對你的賠罪。",
+      "c": "我瞧這附近挺眼熟的,原來就是我上次誤抓了你的麵攤。不如我請你去那吃一頓,算是我對你的賠罪。",
+      "rq": true,
+      "it": null,
+      "mt": "I see that this neighborhood looks familiar, it's the noodle stall where I caught you by mistake last time. Why don't I treat you to a meal there as my compensation to you?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我瞧这附近挺眼熟的，原来就是我上次误抓了你的面摊。不如我请你去那吃一顿，算是我对你的赔罪。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04024_Tip",
+  "RawLine": "ITEM_04024_Tip,就連一吋長的蟲服了都能飛升的仙藥，傳聞此藥根本不該出現在人間。{p}{p}合成難度：{color=#ff0000}10{/color}。,就连一寸长的虫服了都能飞升的仙药，传闻此药根本不该出现在人间。{p}{p}合成难度：{color=#ff0000}10{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04024_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "就連一吋長的蟲服了都能飛升的仙藥，傳聞此藥根本不該出現在人間。{p}{p}合成難度：{color=#ff0000}10{/color}。",
+      "c": "就連一吋長的蟲服了都能飛升的仙藥,傳聞此藥根本不該出現在人間。合成難度：10。",
+      "rq": true,
+      "it": null,
+      "mt": "The medicine that even an inch-long worm can ascend. Synthesis difficulty: 10.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "就连一寸长的虫服了都能飞升的仙药，传闻此药根本不该出现在人间。{p}{p}合成难度：{color=#ff0000}10{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

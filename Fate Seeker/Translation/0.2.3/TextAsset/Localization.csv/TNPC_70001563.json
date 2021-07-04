@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001563",
+  "RawLine": "TNPC_70001563,你們也跑真快！{p}【只是玩個遊戲而已，如果傷害到他們那可不好。】,你们也跑真快！{p}【只是玩个游戏而已，如果伤害到他们那可不好。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001563",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你們也跑真快！{p}【只是玩個遊戲而已，如果傷害到他們那可不好。】",
+      "c": "你們也跑真快！<[>只是玩個遊戲而已,如果傷害到他們那可不好。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "You guys are fast too! <[>It's just a game, it's not good if you hurt them. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你们也跑真快！{p}【只是玩个游戏而已，如果伤害到他们那可不好。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

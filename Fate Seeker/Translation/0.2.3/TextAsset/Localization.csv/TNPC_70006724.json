@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006724",
+  "RawLine": "TNPC_70006724,{name}，不知道是不是我的錯覺，我從剛剛就感覺好像有人在觀察我們。,{name}，不知道是不是我的错觉，我从刚刚就感觉好像有人在观察我们。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006724",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，不知道是不是我的錯覺，我從剛剛就感覺好像有人在觀察我們。",
+      "c": "<name>,不知道是不是我的錯覺,我從剛剛就感覺好像有人在觀察我們。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, I don't know if it's just me, but I feel like someone is watching us since just now.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，不知道是不是我的错觉，我从刚刚就感觉好像有人在观察我们。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

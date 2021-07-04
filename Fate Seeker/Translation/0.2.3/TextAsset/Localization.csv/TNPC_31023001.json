@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31023001",
+  "RawLine": "TNPC_31023001,眼下似乎也沒有其他辦法了，前往{color=#cc0000}虹橋麵攤{/color}與趙妽會合吧。,眼下似乎也没有其他办法了，前往{color=#cc0000}虹桥面摊{/color}与赵妽会合吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31023001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "眼下似乎也沒有其他辦法了，前往{color=#cc0000}虹橋麵攤{/color}與趙妽會合吧。",
+      "c": "眼下似乎也沒有其他辦法了,前往虹橋麵攤與趙妽會合吧。",
+      "rq": true,
+      "it": null,
+      "mt": "There seems to be no other way now, let's go to Hongqiao noodle stall and meet up with Zhao Qi.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "眼下似乎也没有其他办法了，前往{color=#cc0000}虹桥面摊{/color}与赵妽会合吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

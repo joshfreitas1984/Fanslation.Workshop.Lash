@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103003901",
+  "RawLine": "SDM_2103003901,{color=#ff0000}酒香非食飽，酒後吐真言，酒場不釀酒，{/color}應該就是這木桶裡了。,{color=#ff0000}酒香非食饱，酒后吐真言，酒场不酿酒，{/color}应该就是这木桶里了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103003901",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}酒香非食飽，酒後吐真言，酒場不釀酒，{/color}應該就是這木桶裡了。",
+      "c": "酒香非食飽,酒後吐真言,酒場不釀酒,應該就是這木桶裡了。",
+      "rq": true,
+      "it": null,
+      "mt": "The smell of wine is not food, and the truth comes out after the wine, and the wine farm is not brewing wine, so it should be in this barrel.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}酒香非食饱，酒后吐真言，酒场不酿酒，{/color}应该就是这木桶里了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002556",
+  "RawLine": "TNPC_70002556,你少說嘴，大仙，那我們這位{ln}大俠的命又如何呢？,你少说嘴，大仙，那我们这位{ln}大侠的命又如何呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002556",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你少說嘴，大仙，那我們這位{ln}大俠的命又如何呢？",
+      "c": "你少說嘴,大仙,那我們這位<ln>大俠的命又如何呢？",
+      "rq": true,
+      "it": null,
+      "mt": "You stop talking, Daxian, what about the life of our <ln>soldier?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你少说嘴，大仙，那我们这位{ln}大侠的命又如何呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

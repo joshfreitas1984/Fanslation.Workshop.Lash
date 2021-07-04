@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30084083",
+  "RawLine": "TNPC_30084083,若{ln}兄不急的話，待我將事情辦完便帶{ln}兄上山見我師父。,若{ln}兄不急的话，待我将事情办完便带{ln}兄上山见我师父。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30084083",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "若{ln}兄不急的話，待我將事情辦完便帶{ln}兄上山見我師父。",
+      "c": "若<ln>兄不急的話,待我將事情辦完便帶<ln>兄上山見我師父。",
+      "rq": true,
+      "it": null,
+      "mt": "If you are not in a hurry, I will bring you up to the mountain to see my master after I finish my business.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "若{ln}兄不急的话，待我将事情办完便带{ln}兄上山见我师父。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

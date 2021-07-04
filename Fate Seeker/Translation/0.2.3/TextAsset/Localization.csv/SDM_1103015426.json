@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103015426",
+  "RawLine": "SDM_1103015426,【這座日晷除了不見指針，和尋常日晷沒什麼區別，都是以{color=#FF0000}十二地支{/color}標示{color=#FF0000}時辰{/color}。】,【这座日晷除了不见指针，和寻常日晷没什么区别，都是以{color=#FF0000}十二地支{/color}标示{color=#FF0000}时辰{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103015426",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這座日晷除了不見指針，和尋常日晷沒什麼區別，都是以{color=#FF0000}十二地支{/color}標示{color=#FF0000}時辰{/color}。】",
+      "c": "<[>這座日晷除了不見指針,和尋常日晷沒什麼區別,都是以十二地支標示時辰。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This sundial is no different from the normal sundial except that it doesn't have a hand, but it is marked by the twelve earthly branches. <]>The sundial is not different from the regular sundial, both are marked by the twelve earthly branches.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这座日晷除了不见指针，和寻常日晷没什么区别，都是以{color=#FF0000}十二地支{/color}标示{color=#FF0000}时辰{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

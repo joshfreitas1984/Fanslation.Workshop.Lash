@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120107_Tip",
+  "RawLine": "SKILL_120107_Tip,【{color=#FFD700}破防功能{/color}】\\n每次受到傷害都會累積攻擊力，並會在放出後歸0，最多可累積3階段。高機率造成寒毒，消耗內力甚巨。,【{color=#FFD700}破防功能{/color}】\\n每次受到伤害都会累积攻击力，并会在放出后归0，最多可累积3阶段。高机率造成寒毒，消耗内力甚巨。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120107_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n每次受到傷害都會累積攻擊力，並會在放出後歸0，最多可累積3階段。高機率造成寒毒，消耗內力甚巨。",
+      "c": "<[>破防功能<]><<\\n>>每次受到傷害都會累積攻擊力,並會在放出後歸0,最多可累積3階段。高機率造成寒毒,消耗內力甚巨。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Defense Break<]><<\\n>> Accumulates attack power each time damage is dealt, and will return to 0 after being released, up to 3 stages. It has a high chance of causing cold poison and consumes a lot of internal power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n每次受到伤害都会累积攻击力，并会在放出后归0，最多可累积3阶段。高机率造成寒毒，消耗内力甚巨。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

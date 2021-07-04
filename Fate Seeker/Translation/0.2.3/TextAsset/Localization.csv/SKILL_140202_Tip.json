@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140202_Tip",
+  "RawLine": "SKILL_140202_Tip,【{color=#FFD700}前置{/color}】\\n近距離連段攻擊，連續命中易使敵人暈眩。,【{color=#FFD700}前置{/color}】\\n近距离连段攻击，连续命中易使敌人晕眩。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140202_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n近距離連段攻擊，連續命中易使敵人暈眩。",
+      "c": "<[>前置<]><<\\n>>近距離連段攻擊,連續命中易使敵人暈眩。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Frontal<]><<\\n>> A close-range, continuous attack that dazzles enemies with consecutive hits.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n近距离连段攻击，连续命中易使敌人晕眩。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

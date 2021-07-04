@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31068001",
+  "RawLine": "TNPC_31068001,我朋友說這麵可以再鹹一些、蒜少點，再放點豬油跟糖會更好。,我朋友说这面可以再咸一些、蒜少点，再放点猪油跟糖会更好。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31068001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我朋友說這麵可以再鹹一些、蒜少點，再放點豬油跟糖會更好。",
+      "c": "我朋友說這麵可以再鹹一些、蒜少點,再放點豬油跟糖會更好。",
+      "rq": true,
+      "it": null,
+      "mt": "My friend said the noodles could be more salty, less garlic, and a little lard and sugar would be better.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我朋友说这面可以再咸一些、蒜少点，再放点猪油跟糖会更好。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

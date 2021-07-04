@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30064331",
+  "RawLine": "TNPC_30064331,師父房間撿到的死老鼠，說不定可以拿來餵大老鷹。,师父房间捡到的死老鼠，说不定可以拿来喂大老鹰。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30064331",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "師父房間撿到的死老鼠，說不定可以拿來餵大老鷹。",
+      "c": "師父房間撿到的死老鼠,說不定可以拿來餵大老鷹。",
+      "rq": true,
+      "it": null,
+      "mt": "The dead mouse I found in the master's room, maybe I can feed it to the big eagle.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "师父房间捡到的死老鼠，说不定可以拿来喂大老鹰。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

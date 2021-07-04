@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070209",
+  "RawLine": "TNPC_60070209,此時眼前突然出現一團濃密的煙幕，燻的{name}一時睜不開眼，完全看不清楚周圍。,此时眼前突然出现一团浓密的烟幕，燻的{name}一时睁不开眼，完全看不清楚周围。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070209",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "此時眼前突然出現一團濃密的煙幕，燻的{name}一時睜不開眼，完全看不清楚周圍。",
+      "c": "此時眼前突然出現一團濃密的煙幕,燻的<name>一時睜不開眼,完全看不清楚周圍。",
+      "rq": true,
+      "it": null,
+      "mt": "Then a dense smoke screen suddenly appeared in front of my eyes, which made <name>I couldn't open my eyes and couldn't see the surroundings clearly.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "此时眼前突然出现一团浓密的烟幕，燻的{name}一时睁不开眼，完全看不清楚周围。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

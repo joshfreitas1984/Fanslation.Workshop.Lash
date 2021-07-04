@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002759",
+  "RawLine": "TNPC_70002759,表哥，你怎麼大老遠跑來了？我不是說過我不需要保護了嗎？{name}別怕，讓我解釋清楚就沒事了。,表哥，你怎么大老远跑来了？我不是说过我不需要保护了吗？{name}别怕，让我解释清楚就没事了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002759",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "表哥，你怎麼大老遠跑來了？我不是說過我不需要保護了嗎？{name}別怕，讓我解釋清楚就沒事了。",
+      "c": "表哥,你怎麼大老遠跑來了？我不是說過我不需要保護了嗎？<name>別怕,讓我解釋清楚就沒事了。",
+      "rq": true,
+      "it": null,
+      "mt": "Cousin, why did you come all the way here? Didn't I say I don't need protection anymore? <name>Don't be afraid, let me explain and it will be fine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "表哥，你怎么大老远跑来了？我不是说过我不需要保护了吗？{name}别怕，让我解释清楚就没事了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

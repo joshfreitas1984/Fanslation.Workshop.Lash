@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20013013",
+  "RawLine": "TNPC_20013013,{s=6}團聚嗎……？{/s}{p}母親，我真的是你親生的嗎？,{s=6}团聚吗……？{/s}{p}母亲，我真的是你亲生的吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20013013",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}團聚嗎……？{/s}{p}母親，我真的是你親生的嗎？",
+      "c": "團聚嗎......？母親,我真的是你親生的嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Reunion? ......? Mother, am I really your biological child?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}团聚吗……？{/s}{p}母亲，我真的是你亲生的吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

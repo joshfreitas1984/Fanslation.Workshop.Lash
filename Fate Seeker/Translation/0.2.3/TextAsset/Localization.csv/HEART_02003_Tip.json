@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_02003_Tip",
+  "RawLine": "HEART_02003_Tip,{color=#EFD8B0}一定時間不攻擊且不遭受攻擊，恢復生命。 {/color},{color=#EFD8B0}一定时间不攻击且不遭受攻击，恢复生命。 {/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_02003_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#EFD8B0}一定時間不攻擊且不遭受攻擊，恢復生命。 {/color}",
+      "c": "一定時間不攻擊且不遭受攻擊,恢復生命。 ",
+      "rq": true,
+      "it": null,
+      "mt": "Restores life after not attacking for a certain amount of time and not being attacked. ",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#EFD8B0}一定时间不攻击且不遭受攻击，恢复生命。 {/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

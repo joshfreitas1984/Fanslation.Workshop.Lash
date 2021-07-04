@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20034013",
+  "RawLine": "TNPC_20034013,【正好，就去看是誰在此稱王，也免得打鬥，{p}但這樣一來他們會提防我，會先把寶物藏起來，{p}但至少不會運走，搞不好還能問出寶藏的下落。】,【正好，就去看是谁在此称王，也免得打斗，{p}但这样一来他们会提防我，会先把宝物藏起来，{p}但至少不会运走，搞不好还能问出宝藏的下落。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20034013",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【正好，就去看是誰在此稱王，也免得打鬥，{p}但這樣一來他們會提防我，會先把寶物藏起來，{p}但至少不會運走，搞不好還能問出寶藏的下落。】",
+      "c": "<[>正好,就去看是誰在此稱王,也免得打鬥,但這樣一來他們會提防我,會先把寶物藏起來,但至少不會運走,搞不好還能問出寶藏的下落。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It's a good idea to go and see who is the king here and avoid fighting, but then they will be wary of me and will hide the treasure first, but at least it won't be carried away and maybe they can even ask where the treasure is. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【正好，就去看是谁在此称王，也免得打斗，{p}但这样一来他们会提防我，会先把宝物藏起来，{p}但至少不会运走，搞不好还能问出宝藏的下落。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

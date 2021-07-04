@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60076567",
+  "RawLine": "TNPC_60076567,【這些人是吃飽沒事幹嗎？都跑來湊熱鬧，看來得先繞過他們才行。】,【这些人是吃饱没事干吗？都跑来凑热闹，看来得先绕过他们才行。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60076567",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這些人是吃飽沒事幹嗎？都跑來湊熱鬧，看來得先繞過他們才行。】",
+      "c": "<[>這些人是吃飽沒事幹嗎？都跑來湊熱鬧,看來得先繞過他們才行。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What are these people doing with nothing to eat? I have to bypass them first. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这些人是吃饱没事干吗？都跑来凑热闹，看来得先绕过他们才行。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

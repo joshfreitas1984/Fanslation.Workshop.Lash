@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20066027",
+  "RawLine": "TNPC_20066027,你前去{color=#ff0000}窄巷酒攤{/color}，就會看到附近有一桿上，高掛著{color=#ff0000}一對橘色燈籠{/color}，{p}那戶人家{color=#ff0000}門口還有二個盆栽{/color}，那間就是水井坊。,你前去{color=#ff0000}窄巷酒摊{/color}，就会看到附近有一杆上，高挂着{color=#ff0000}一对橘色灯笼{/color}，{p}那户人家{color=#ff0000}门口还有二个盆栽{/color}，那间就是水井坊。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20066027",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你前去{color=#ff0000}窄巷酒攤{/color}，就會看到附近有一桿上，高掛著{color=#ff0000}一對橘色燈籠{/color}，{p}那戶人家{color=#ff0000}門口還有二個盆栽{/color}，那間就是水井坊。",
+      "c": "你前去窄巷酒攤,就會看到附近有一桿上,高掛著一對橘色燈籠,那戶人家門口還有二個盆栽,那間就是水井坊。",
+      "rq": true,
+      "it": null,
+      "mt": "You will see a pair of orange lanterns hanging on a pole nearby and two potted plants at the entrance of the house, which is Shuijingfang.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你前去{color=#ff0000}窄巷酒摊{/color}，就会看到附近有一杆上，高挂着{color=#ff0000}一对橘色灯笼{/color}，{p}那户人家{color=#ff0000}门口还有二个盆栽{/color}，那间就是水井坊。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

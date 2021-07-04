@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20029004",
+  "RawLine": "TNPC_20029004,嗯？你們是住在這的人家嗎？{p}抱歉、我只是想找東西，能借過一下嗎？,嗯？你们是住在这的人家吗？{p}抱歉、我只是想找东西，能借过一下吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20029004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯？你們是住在這的人家嗎？{p}抱歉、我只是想找東西，能借過一下嗎？",
+      "c": "嗯？你們是住在這的人家嗎？抱歉、我只是想找東西,能借過一下嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Huh? Are you the people who live here? Sorry, I'm just looking for something, can I borrow it?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯？你们是住在这的人家吗？{p}抱歉、我只是想找东西，能借过一下吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

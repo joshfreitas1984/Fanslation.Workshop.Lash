@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110107_Tip",
+  "RawLine": "SKILL_110107_Tip,【{color=#FFD700}強力{/color}】\\n大範圍攻擊招式，內力消耗甚巨需謹慎使用。,【{color=#FFD700}强力{/color}】\\n大范围攻击招式，内力消耗甚巨需谨慎使用。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110107_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n大範圍攻擊招式，內力消耗甚巨需謹慎使用。",
+      "c": "<[>強力<]><<\\n>>大範圍攻擊招式,內力消耗甚巨需謹慎使用。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>>>A wide range of attacking moves, internal power consumption is very high, need to be used with caution.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n大范围攻击招式，内力消耗甚巨需谨慎使用。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

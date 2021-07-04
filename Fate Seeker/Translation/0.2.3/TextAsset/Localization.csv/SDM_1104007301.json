@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104007301",
+  "RawLine": "SDM_1104007301,這箱中放了本{color=#FF0000}書{/color}，還有一瓶{color=#FF0000}藥散{/color}，此外就沒有其他藥物了。,这箱中放了本{color=#FF0000}书{/color}，还有一瓶{color=#FF0000}药散{/color}，此外就没有其他药物了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104007301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這箱中放了本{color=#FF0000}書{/color}，還有一瓶{color=#FF0000}藥散{/color}，此外就沒有其他藥物了。",
+      "c": "這箱中放了本書,還有一瓶藥散,此外就沒有其他藥物了。",
+      "rq": true,
+      "it": null,
+      "mt": "This box contains a book, a bottle of medicine, and no other medicine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这箱中放了本{color=#FF0000}书{/color}，还有一瓶{color=#FF0000}药散{/color}，此外就没有其他药物了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

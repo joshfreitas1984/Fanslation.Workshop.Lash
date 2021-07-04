@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130208_Tip",
+  "RawLine": "SKILL_130208_Tip,【{color=#FFD700}絕學{/color}】反擊技，躺在地上睡覺{color=#00DB00}5{/color}秒鐘，期間遭受攻擊敵人會被反擊，動作期間無敵。,【{color=#FFD700}绝学{/color}】反击技，躺在地上睡觉{color=#00DB00}5{/color}秒钟，期间遭受攻击敌人会被反击，动作期间无敌。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130208_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】反擊技，躺在地上睡覺{color=#00DB00}5{/color}秒鐘，期間遭受攻擊敵人會被反擊，動作期間無敵。",
+      "c": "<[>絕學<]>反擊技,躺在地上睡覺5秒鐘,期間遭受攻擊敵人會被反擊,動作期間無敵。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Jedi<]>Counter Strike, lying on the ground and sleeping for 5 seconds, during which time the enemy will be counterattacked and invincible during the action.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】反击技，躺在地上睡觉{color=#00DB00}5{/color}秒钟，期间遭受攻击敌人会被反击，动作期间无敌。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102010135",
+  "RawLine": "SDM_2102010135,【好險有請老闆幫忙，不然只怕我一下子也煉不成這藥膏。】,【好险有请老板帮忙，不然只怕我一下子也炼不成这药膏。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102010135",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【好險有請老闆幫忙，不然只怕我一下子也煉不成這藥膏。】",
+      "c": "<[>好險有請老闆幫忙,不然只怕我一下子也煉不成這藥膏。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It's a good thing I asked my boss for help, otherwise I wouldn't have been able to make this ointment all at once. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【好险有请老板帮忙，不然只怕我一下子也炼不成这药膏。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

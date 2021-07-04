@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20033002",
+  "RawLine": "TNPC_20033002,【這烤豬肉聞起來真香味誘人，取一些帶著吃好了，{p}怎都不見居民？難不成正好去打水嗎？{p}等人回來，我倒是想看看是誰敢住此不祥之地。】,【这烤猪肉闻起来真香味诱人，取一些带着吃好了，{p}怎都不见居民？难不成正好去打水吗？{p}等人回来，我倒是想看看是谁敢住此不祥之地。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20033002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這烤豬肉聞起來真香味誘人，取一些帶著吃好了，{p}怎都不見居民？難不成正好去打水嗎？{p}等人回來，我倒是想看看是誰敢住此不祥之地。】",
+      "c": "<[>這烤豬肉聞起來真香味誘人,取一些帶著吃好了,怎都不見居民？難不成正好去打水嗎？等人回來,我倒是想看看是誰敢住此不祥之地。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This roast pork smells really tempting, let's take some to eat, why are there no residents? It does not happen to go to fetch water? I would like to see who dares to live in this ominous place when people come back. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这烤猪肉闻起来真香味诱人，取一些带着吃好了，{p}怎都不见居民？难不成正好去打水吗？{p}等人回来，我倒是想看看是谁敢住此不祥之地。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20007004",
+  "RawLine": "TNPC_20007004,{s=10}【於是不消半個時辰，就已將三位婆婆找來一聚……】{/s},{s=10}【于是不消半个时辰，就已将三位婆婆找来一聚……】{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20007004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=10}【於是不消半個時辰，就已將三位婆婆找來一聚……】{/s}",
+      "c": "<[>於是不消半個時辰,就已將三位婆婆找來一聚......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>So in less than half an hour, the three grannies came here for a get-together ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=10}【于是不消半个时辰，就已将三位婆婆找来一聚……】{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

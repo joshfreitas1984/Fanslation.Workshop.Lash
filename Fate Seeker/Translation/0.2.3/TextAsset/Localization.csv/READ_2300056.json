@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_2300056",
+  "RawLine": "READ_2300056,若想拿回你的寶物\\n就前往你這寶物的發源地與我交涉\\n\\n昀,若想拿回你的宝物\\n就前往你这宝物的发源地与我交涉\\n\\n昀",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_2300056",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "若想拿回你的寶物\\n就前往你這寶物的發源地與我交涉\\n\\n昀",
+      "c": "若想拿回你的寶物<<\\n>>就前往你這寶物的發源地與我交涉<<\\n>><<\\n>>昀",
+      "rq": true,
+      "it": null,
+      "mt": "If you want to get your treasure back, go to the place where your treasure originated and negotiate with me <<\\n>><\\n>> Yun",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "若想拿回你的宝物\\n就前往你这宝物的发源地与我交涉\\n\\n昀",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

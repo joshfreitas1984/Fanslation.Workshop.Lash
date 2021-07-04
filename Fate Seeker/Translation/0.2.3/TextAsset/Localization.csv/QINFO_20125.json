@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_20125",
+  "RawLine": "QINFO_20125,去杭州李氏雜貨舖旁邊的一客茶館買烏龍茶，來請張守美喝。,去杭州李氏杂货铺旁边的一客茶馆买乌龙茶，来请张守美喝。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_20125",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "去杭州李氏雜貨舖旁邊的一客茶館買烏龍茶，來請張守美喝。",
+      "c": "去杭州李氏雜貨舖旁邊的一客茶館買烏龍茶,來請張守美喝。",
+      "rq": true,
+      "it": null,
+      "mt": "Go to Yike tea house next to Li's grocery store in Hangzhou and buy oolong tea for Zhang Shoumei.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "去杭州李氏杂货铺旁边的一客茶馆买乌龙茶，来请张守美喝。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

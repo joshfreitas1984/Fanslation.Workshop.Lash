@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20011001",
+  "RawLine": "TNPC_20011001,{s=6}嗯……？{/s}{p}對不起，最近我婆婆往生，希望外人沒事別來打攪。,{s=6}嗯……？{/s}{p}对不起，最近我婆婆往生，希望外人没事别来打搅。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20011001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}嗯……？{/s}{p}對不起，最近我婆婆往生，希望外人沒事別來打攪。",
+      "c": "嗯......？對不起,最近我婆婆往生,希望外人沒事別來打攪。",
+      "rq": true,
+      "it": null,
+      "mt": "Huh ......? I'm sorry, my mother-in-law passed away recently, I hope outsiders don't come and disturb.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}嗯……？{/s}{p}对不起，最近我婆婆往生，希望外人没事别来打搅。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

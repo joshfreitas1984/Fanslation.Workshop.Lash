@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_35112",
+  "RawLine": "QINFO_35112,找到龍泉劍的材料{color=#cc0000}冷凝鋼{/color}，出示給{color=#cc0000}大福鐵舖{/color}的蘇大福。（小溪村）,找到龙泉剑的材料{color=#cc0000}冷凝钢{/color}，出示给{color=#cc0000}大福铁铺{/color}的苏大福。（小溪村）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_35112",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "找到龍泉劍的材料{color=#cc0000}冷凝鋼{/color}，出示給{color=#cc0000}大福鐵舖{/color}的蘇大福。（小溪村）",
+      "c": "找到龍泉劍的材料冷凝鋼,出示給大福鐵舖的蘇大福。（小溪村）",
+      "rq": true,
+      "it": null,
+      "mt": " Find the condensed steel for the Dragon Spring Sword and present it to Su Daifu at the Daifu Iron Shop. (Xiao Xi Village)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "找到龙泉剑的材料{color=#cc0000}冷凝钢{/color}，出示给{color=#cc0000}大福铁铺{/color}的苏大福。（小溪村）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

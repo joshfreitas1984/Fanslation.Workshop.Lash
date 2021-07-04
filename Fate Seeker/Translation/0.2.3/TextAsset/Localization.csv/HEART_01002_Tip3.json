@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_01002_Tip3",
+  "RawLine": "HEART_01002_Tip3,<color=#EFD8B0><color=#33ff33>2.5%</color> 機率使敵人中毒，在 10 秒內共扣除敵人現在生命的<color=#33ff33>{1:0.0}%</color>。</color>,<color=#EFD8B0><color=#33ff33>2.5%</color> 机率使敌人中毒，在 10 秒内共扣除敌人现在生命的<color=#33ff33>{1:0.0}%</color>。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_01002_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0><color=#33ff33>2.5%</color> 機率使敵人中毒，在 10 秒內共扣除敵人現在生命的<color=#33ff33>{1:0.0}%</color>。</color>",
+      "c": "2.5% 機率使敵人中毒,在 10 秒內共扣除敵人現在生命的<1:0.0>%。",
+      "rq": true,
+      "it": null,
+      "mt": "2.5% chance to poison enemy, deducting a total of <1:0.0>% of enemy's current life over 10 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0><color=#33ff33>2.5%</color> 机率使敌人中毒，在 10 秒内共扣除敌人现在生命的<color=#33ff33>{1:0.0}%</color>。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

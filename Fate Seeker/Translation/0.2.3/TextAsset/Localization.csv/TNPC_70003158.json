@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003158",
+  "RawLine": "TNPC_70003158,小櫻，我要去少林寺，你要一起去嗎？我需要你的幫忙。,小樱，我要去少林寺，你要一起去吗？我需要你的帮忙。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003158",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小櫻，我要去少林寺，你要一起去嗎？我需要你的幫忙。",
+      "c": "小櫻,我要去少林寺,你要一起去嗎？我需要你的幫忙。",
+      "rq": true,
+      "it": null,
+      "mt": "Sakura, I'm going to Shaolin Temple, do you want to go with me? I need your help.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小樱，我要去少林寺，你要一起去吗？我需要你的帮忙。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

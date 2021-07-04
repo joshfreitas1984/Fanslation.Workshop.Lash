@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60006008",
+  "RawLine": "TNPC_60006008,{fn}兄，所言即是，我還是收拾一下準備離開吧。{p}另外，謝謝你之前救了我，這個你拿著，一點薄禮不成敬意。,{fn}兄，所言即是，我还是收拾一下准备离开吧。{p}另外，谢谢你之前救了我，这个你拿着，一点薄礼不成敬意。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60006008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄，所言即是，我還是收拾一下準備離開吧。{p}另外，謝謝你之前救了我，這個你拿著，一點薄禮不成敬意。",
+      "c": "<fn>兄,所言即是,我還是收拾一下準備離開吧。另外,謝謝你之前救了我,這個你拿著,一點薄禮不成敬意。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Bro, that's right, I'd better pack up and get ready to leave. Thank you for saving me before. Take this.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄，所言即是，我还是收拾一下准备离开吧。{p}另外，谢谢你之前救了我，这个你拿着，一点薄礼不成敬意。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

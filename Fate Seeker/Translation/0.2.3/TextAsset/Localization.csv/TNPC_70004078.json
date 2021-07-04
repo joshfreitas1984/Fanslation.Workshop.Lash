@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004078",
+  "RawLine": "TNPC_70004078,【這骰子不知是誰做的，仔細一看竟會浮現一隻{color=#FF0000}活靈活現的金色孔雀{/color}。】,【这骰子不知是谁做的，仔细一看竟会浮现一只{color=#FF0000}活灵活现的金色孔雀{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004078",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這骰子不知是誰做的，仔細一看竟會浮現一隻{color=#FF0000}活靈活現的金色孔雀{/color}。】",
+      "c": "<[>這骰子不知是誰做的,仔細一看竟會浮現一隻活靈活現的金色孔雀。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This dice is made by someone, and a golden peacock will appear when you look closely. <]>The dice are made by someone.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这骰子不知是谁做的，仔细一看竟会浮现一只{color=#FF0000}活灵活现的金色孔雀{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

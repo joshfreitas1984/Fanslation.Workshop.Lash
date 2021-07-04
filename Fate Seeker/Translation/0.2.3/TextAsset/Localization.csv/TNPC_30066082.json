@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30066082",
+  "RawLine": "TNPC_30066082,{fn}小弟，有空也幫忙光顧一下生意啊，我這兒貨的品質你是曉得的。,{fn}小弟，有空也帮忙光顾一下生意啊，我这儿货的品质你是晓得的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30066082",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}小弟，有空也幫忙光顧一下生意啊，我這兒貨的品質你是曉得的。",
+      "c": "<fn>小弟,有空也幫忙光顧一下生意啊,我這兒貨的品質你是曉得的。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>You know the quality of my goods.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}小弟，有空也帮忙光顾一下生意啊，我这儿货的品质你是晓得的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

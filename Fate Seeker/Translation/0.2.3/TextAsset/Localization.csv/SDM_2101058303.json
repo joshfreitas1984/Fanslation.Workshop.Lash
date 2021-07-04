@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101058303",
+  "RawLine": "SDM_2101058303,{color=#ff0000}客官你想找三不欺藥舖的話，就在上虹橋處的附近。{/color},{color=#ff0000}客官你想找三不欺药铺的话，就在上虹桥处的附近。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101058303",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}客官你想找三不欺藥舖的話，就在上虹橋處的附近。{/color}",
+      "c": "客官你想找三不欺藥舖的話,就在上虹橋處的附近。",
+      "rq": true,
+      "it": null,
+      "mt": "If you are looking for San Bu Bu De Medicine Shop, it is near Shang Hong Qiao.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}客官你想找三不欺药铺的话，就在上虹桥处的附近。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

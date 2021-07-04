@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102041323",
+  "RawLine": "SDM_2102041323,【這裡就是釀酒舖，這乞丐渾身酒臭，應該就是教徒說的那位。】,【这里就是酿酒铺，这乞丐浑身酒臭，应该就是教徒说的那位。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102041323",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這裡就是釀酒舖，這乞丐渾身酒臭，應該就是教徒說的那位。】",
+      "c": "<[>這裡就是釀酒舖,這乞丐渾身酒臭,應該就是教徒說的那位。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is the brewery, and this beggar stinks of wine, so he should be the one who is talking about. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这里就是酿酒铺，这乞丐浑身酒臭，应该就是教徒说的那位。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_02003_Tip3",
+  "RawLine": "HEART_02003_Tip3,<color=#EFD8B0> <color=#33ff33>{0:0}</color> 秒內不攻擊且不遭受攻擊，恢復 <color=#33ff33>{1:0}%</color>生命。</color>,<color=#EFD8B0> <color=#33ff33>{0:0}</color> 秒内不攻击且不遭受攻击，恢复 <color=#33ff33>{1:0}%</color>生命。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_02003_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0> <color=#33ff33>{0:0}</color> 秒內不攻擊且不遭受攻擊，恢復 <color=#33ff33>{1:0}%</color>生命。</color>",
+      "c": " <0:0> 秒內不攻擊且不遭受攻擊,恢復 <1:0>%生命。",
+      "rq": true,
+      "it": null,
+      "mt": " <0:0> No attacks and no attacks for <1:0>% of life restored for <0:0> seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0> <color=#33ff33>{0:0}</color> 秒内不攻击且不遭受攻击，恢复 <color=#33ff33>{1:0}%</color>生命。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

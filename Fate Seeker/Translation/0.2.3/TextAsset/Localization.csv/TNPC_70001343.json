@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001343",
+  "RawLine": "TNPC_70001343,喂，你也小心點！這裡的氣氛那麼詭異！{p}剛剛要不是我，你早就死在那山賊手中。,喂，你也小心点！这里的气氛那么诡异！{p}刚刚要不是我，你早就死在那山贼手中。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001343",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "喂，你也小心點！這裡的氣氛那麼詭異！{p}剛剛要不是我，你早就死在那山賊手中。",
+      "c": "喂,你也小心點！這裡的氣氛那麼詭異！剛剛要不是我,你早就死在那山賊手中。",
+      "rq": true,
+      "it": null,
+      "mt": "Hey, you be careful too! The atmosphere here is so weird! If it wasn't for me, you would have died at the hands of that bandit.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "喂，你也小心点！这里的气氛那么诡异！{p}刚刚要不是我，你早就死在那山贼手中。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

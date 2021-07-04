@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001555",
+  "RawLine": "TNPC_70001555,【這幾個小孩怎麼那警惕，{color=#FF0000}必須想個辦法{/color}才從他們口中套出話來。】,【这几个小孩怎么那警惕，{color=#FF0000}必须想个办法{/color}才从他们口中套出话来。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001555",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這幾個小孩怎麼那警惕，{color=#FF0000}必須想個辦法{/color}才從他們口中套出話來。】",
+      "c": "<[>這幾個小孩怎麼那警惕,必須想個辦法才從他們口中套出話來。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>These kids are so alert, we have to find a way to get words out of them. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这几个小孩怎么那警惕，{color=#FF0000}必须想个办法{/color}才从他们口中套出话来。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

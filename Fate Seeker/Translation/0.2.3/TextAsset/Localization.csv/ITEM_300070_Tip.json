@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_300070_Tip",
+  "RawLine": "ITEM_300070_Tip,飄散著果香的棗子，釣魚聖品，不宜拿來食用。,飘散着果香的枣子，钓鱼圣品，不宜拿来食用。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_300070_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "飄散著果香的棗子，釣魚聖品，不宜拿來食用。",
+      "c": "飄散著果香的棗子,釣魚聖品,不宜拿來食用。",
+      "rq": true,
+      "it": null,
+      "mt": "Fruity jujube, sacred to fishing, not to be eaten.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "飘散着果香的枣子，钓鱼圣品，不宜拿来食用。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

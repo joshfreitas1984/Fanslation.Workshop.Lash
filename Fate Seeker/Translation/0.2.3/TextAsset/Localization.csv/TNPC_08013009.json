@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08013009",
+  "RawLine": "TNPC_08013009,【有個神智不清的瘋老頭跟在身邊我可什麼都不用幹了……】,【有个神智不清的疯老头跟在身边我可什么都不用干了……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08013009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【有個神智不清的瘋老頭跟在身邊我可什麼都不用幹了……】",
+      "c": "<[>有個神智不清的瘋老頭跟在身邊我可什麼都不用幹了......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I don't have to do anything with a crazy old man who is not in his right mind following me around ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【有个神智不清的疯老头跟在身边我可什么都不用干了……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

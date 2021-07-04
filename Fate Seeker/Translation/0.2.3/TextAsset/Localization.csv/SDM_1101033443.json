@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101033443",
+  "RawLine": "SDM_1101033443,【他雖發了毒誓，卻閃避了{color=#FF0000}最重要的訊息{/color}，那就是...】,【他虽发了毒誓，却闪避了{color=#FF0000}最重要的讯息{/color}，那就是...】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101033443",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【他雖發了毒誓，卻閃避了{color=#FF0000}最重要的訊息{/color}，那就是...】",
+      "c": "<[>他雖發了毒誓,卻閃避了最重要的訊息,那就是...<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>He swore an oath, but he dodged the most important message, which was... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【他虽发了毒誓，却闪避了{color=#FF0000}最重要的讯息{/color}，那就是...】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

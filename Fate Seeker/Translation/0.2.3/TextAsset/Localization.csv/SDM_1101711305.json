@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101711305",
+  "RawLine": "SDM_1101711305,【嘿，這次是{color=#FF0000}縱向一刀{/color}切開了空中的兩個水梨，不過水梨個頭也不小，換了個熟練的主婦，拿著菜刀一樣能辦到。】,【嘿，这次是{color=#FF0000}纵向一刀{/color}切开了空中的两个水梨，不过水梨个头也不小，换了个熟练的主妇，拿着菜刀一样能办到。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101711305",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嘿，這次是{color=#FF0000}縱向一刀{/color}切開了空中的兩個水梨，不過水梨個頭也不小，換了個熟練的主婦，拿著菜刀一樣能辦到。】",
+      "c": "<[>嘿,這次是縱向一刀切開了空中的兩個水梨,不過水梨個頭也不小,換了個熟練的主婦,拿著菜刀一樣能辦到。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, this time it was a vertical slice through the two pears in the air, but the pears were not small, and a skilled housewife with a kitchen knife could have done the same. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嘿，这次是{color=#FF0000}纵向一刀{/color}切开了空中的两个水梨，不过水梨个头也不小，换了个熟练的主妇，拿着菜刀一样能办到。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

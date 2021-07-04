@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60020060",
+  "RawLine": "TNPC_60020060,【回去找瘋乞丐，看看他還可以說出些甚麼事情吧！】,【回去找疯乞丐，看看他还可以说出些什么事情吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60020060",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【回去找瘋乞丐，看看他還可以說出些甚麼事情吧！】",
+      "c": "<[>回去找瘋乞丐,看看他還可以說出些甚麼事情吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Go back to the mad beggar and see what else he can say! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【回去找疯乞丐，看看他还可以说出些什么事情吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

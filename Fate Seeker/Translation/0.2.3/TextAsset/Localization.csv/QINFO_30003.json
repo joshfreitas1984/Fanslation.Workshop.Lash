@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_30003",
+  "RawLine": "QINFO_30003,向村民打聽一個人的蹤跡，該人似乎帶著{color=#00FF00}玉珮{/color}、{color=#00FF00}會使劍{/color}、{color=#00FF00}有一點年紀{/color}。,向村民打听一个人的踪迹，该人似乎带着{color=#00FF00}玉珮{/color}、{color=#00FF00}会使剑{/color}、{color=#00FF00}有一点年纪{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_30003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "向村民打聽一個人的蹤跡，該人似乎帶著{color=#00FF00}玉珮{/color}、{color=#00FF00}會使劍{/color}、{color=#00FF00}有一點年紀{/color}。",
+      "c": "向村民打聽一個人的蹤跡,該人似乎帶著玉珮、會使劍、有一點年紀。",
+      "rq": true,
+      "it": null,
+      "mt": "I asked the villagers about the whereabouts of a man who seems to be carrying a jade palace, can use a sword, and is a bit old.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "向村民打听一个人的踪迹，该人似乎带着{color=#00FF00}玉珮{/color}、{color=#00FF00}会使剑{/color}、{color=#00FF00}有一点年纪{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

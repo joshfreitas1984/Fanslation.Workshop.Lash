@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_10036",
+  "RawLine": "QINFO_10036,向客棧掌櫃要一間房過夜，準備明日中午赴約,向客栈掌柜要一间房过夜，准备明日中午赴约",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_10036",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "向客棧掌櫃要一間房過夜，準備明日中午赴約",
+      "c": "向客棧掌櫃要一間房過夜,準備明日中午赴約",
+      "rq": true,
+      "it": null,
+      "mt": "ask the innkeeper for a room for the night and prepare for the appointment tomorrow at noon",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "向客栈掌柜要一间房过夜，准备明日中午赴约",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

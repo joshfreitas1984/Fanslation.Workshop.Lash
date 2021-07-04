@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEAR_PLAYER.01",
+  "RawLine": "HEAR_PLAYER.01,光天化日之下，欺負老弱婦孺算什麼好漢，讓我來會會你們。,光天化日之下，欺负老弱妇孺算什么好汉，让我来会会你们。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEAR_PLAYER.01",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "光天化日之下，欺負老弱婦孺算什麼好漢，讓我來會會你們。",
+      "c": "光天化日之下,欺負老弱婦孺算什麼好漢,讓我來會會你們。",
+      "rq": true,
+      "it": null,
+      "mt": "Bullying old and weak women and children in broad daylight is not a good man, let me come to your meeting.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "光天化日之下，欺负老弱妇孺算什么好汉，让我来会会你们。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

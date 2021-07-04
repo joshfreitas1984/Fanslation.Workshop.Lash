@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20067003",
+  "RawLine": "TNPC_20067003,【{color=#ff0000}靠近房門可以偷探情況，但若踏入房門一步，必定會被發現，除非房內無人，才能入房探查，{/color}{p}我得小心為上，切勿節外生枝。】,【{color=#ff0000}靠近房门可以偷探情况，但若踏入房门一步，必定会被发现，除非房内无人，才能入房探查，{/color}{p}我得小心为上，切勿节外生枝。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20067003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#ff0000}靠近房門可以偷探情況，但若踏入房門一步，必定會被發現，除非房內無人，才能入房探查，{/color}{p}我得小心為上，切勿節外生枝。】",
+      "c": "<[>靠近房門可以偷探情況,但若踏入房門一步,必定會被發現,除非房內無人,才能入房探查,我得小心為上,切勿節外生枝。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I can get close to the door to peek into the room, but if I step into the room, I will definitely be discovered, unless the room is empty, I can only enter the room to investigate, I have to be careful, do not cause trouble. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#ff0000}靠近房门可以偷探情况，但若踏入房门一步，必定会被发现，除非房内无人，才能入房探查，{/color}{p}我得小心为上，切勿节外生枝。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

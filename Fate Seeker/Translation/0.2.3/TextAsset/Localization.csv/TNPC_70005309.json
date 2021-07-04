@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005309",
+  "RawLine": "TNPC_70005309,【記得趙妽說過，同一人身上有不同的性格似乎是一種病症。】,【记得赵妽说过，同一人身上有不同的性格似乎是一种病症。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005309",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【記得趙妽說過，同一人身上有不同的性格似乎是一種病症。】",
+      "c": "<[>記得趙妽說過,同一人身上有不同的性格似乎是一種病症。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Remember Zhao Qi said that having different personalities in the same person seems to be a disease. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【记得赵妽说过，同一人身上有不同的性格似乎是一种病症。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

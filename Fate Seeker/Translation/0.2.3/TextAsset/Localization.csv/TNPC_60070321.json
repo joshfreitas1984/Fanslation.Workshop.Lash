@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070321",
+  "RawLine": "TNPC_60070321,可惡{s=6}……{/s}這些小賊也太厲害了吧{s=6}……{/s}難道我要死在這了嗎？,可恶{s=6}……{/s}这些小贼也太厉害了吧{s=6}……{/s}难道我要死在这了吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070321",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "可惡{s=6}……{/s}這些小賊也太厲害了吧{s=6}……{/s}難道我要死在這了嗎？",
+      "c": "可惡......這些小賊也太厲害了吧......難道我要死在這了嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Damn it ...... These little thieves are too good ...... Am I going to die here?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "可恶{s=6}……{/s}这些小贼也太厉害了吧{s=6}……{/s}难道我要死在这了吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20071011",
+  "RawLine": "TNPC_20071011,這附近的商家{color=#ff0000}窄巷酒攤{/color}離這最近了，去問{color=#ff0000}店小二{/color}有沒有看到。,这附近的商家{color=#ff0000}窄巷酒摊{/color}离这最近了，去问{color=#ff0000}店小二{/color}有没有看到。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20071011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這附近的商家{color=#ff0000}窄巷酒攤{/color}離這最近了，去問{color=#ff0000}店小二{/color}有沒有看到。",
+      "c": "這附近的商家窄巷酒攤離這最近了,去問店小二有沒有看到。",
+      "rq": true,
+      "it": null,
+      "mt": "This is the closest merchant to the narrow alley wine stall, go ask the shopkeeper if he has seen it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这附近的商家{color=#ff0000}窄巷酒摊{/color}离这最近了，去问{color=#ff0000}店小二{/color}有没有看到。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

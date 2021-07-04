@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079540",
+  "RawLine": "TNPC_60079540,{name}，你回來的正好，方才接獲消息，那位通緝犯已經被官衙的人抓到了！,{name}，你回来的正好，方才接获消息，那位通缉犯已经被官衙的人抓到了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079540",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，你回來的正好，方才接獲消息，那位通緝犯已經被官衙的人抓到了！",
+      "c": "<name>,你回來的正好,方才接獲消息,那位通緝犯已經被官衙的人抓到了！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, you're back just in time, I just got the news that the wanted criminal has been caught by the officials!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，你回来的正好，方才接获消息，那位通缉犯已经被官衙的人抓到了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

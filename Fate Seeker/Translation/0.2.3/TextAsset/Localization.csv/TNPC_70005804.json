@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005804",
+  "RawLine": "TNPC_70005804,你們推舉的這些人武功雖高，但經驗卻不夠。依我所見，應該請方丈大師當盟主才是。,你们推举的这些人武功虽高，但经验却不够。依我所见，应该请方丈大师当盟主才是。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005804",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你們推舉的這些人武功雖高，但經驗卻不夠。依我所見，應該請方丈大師當盟主才是。",
+      "c": "你們推舉的這些人武功雖高,但經驗卻不夠。依我所見,應該請方丈大師當盟主才是。",
+      "rq": true,
+      "it": null,
+      "mt": "The people you have nominated are highly skilled in martial arts, but not experienced enough. In my opinion, we should ask the abbot to be the leader of the alliance.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你们推举的这些人武功虽高，但经验却不够。依我所见，应该请方丈大师当盟主才是。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

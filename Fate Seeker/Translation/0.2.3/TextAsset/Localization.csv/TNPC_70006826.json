@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006826",
+  "RawLine": "TNPC_70006826,呵呵，{ln}少俠過謙了。如此一來，應該無人再有異議了吧？那麼武林盟主，就確定是{name}了！我們請盟主說句話！,呵呵，{ln}少侠过谦了。如此一来，应该无人再有异议了吧？那么武林盟主，就确定是{name}了！我们请盟主说句话！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006826",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呵呵，{ln}少俠過謙了。如此一來，應該無人再有異議了吧？那麼武林盟主，就確定是{name}了！我們請盟主說句話！",
+      "c": "呵呵,<ln>少俠過謙了。如此一來,應該無人再有異議了吧？那麼武林盟主,就確定是<name>了！我們請盟主說句話！",
+      "rq": true,
+      "it": null,
+      "mt": "Ha, <ln>You are too modest. The first time I saw you, I was a little bit of a jerk. Then, the martial arts leader is <name> for sure! Let's have a word from the alliance master!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呵呵，{ln}少侠过谦了。如此一来，应该无人再有异议了吧？那么武林盟主，就确定是{name}了！我们请盟主说句话！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30066003",
+  "RawLine": "TNPC_30066003,這不是{fn}小弟嗎？什麼風把你吹來杭州啦？,这不是{fn}小弟吗？什么风把你吹来杭州啦？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30066003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這不是{fn}小弟嗎？什麼風把你吹來杭州啦？",
+      "c": "這不是<fn>小弟嗎？什麼風把你吹來杭州啦？",
+      "rq": true,
+      "it": null,
+      "mt": "Isn't this <fn>my little brother? What brings you to Hangzhou?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这不是{fn}小弟吗？什么风把你吹来杭州啦？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

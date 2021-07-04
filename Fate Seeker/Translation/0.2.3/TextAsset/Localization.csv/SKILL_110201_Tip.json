@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110201_Tip",
+  "RawLine": "SKILL_110201_Tip,【{color=#FFD700}前置{/color}】\\n往前方半圓範圍踢出帶電的迴旋踢。\\n最遠距離時造成額外傷害。,【{color=#FFD700}前置{/color}】\\n往前方半圆范围踢出带电的回旋踢。\\n最远距离时造成额外伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110201_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n往前方半圓範圍踢出帶電的迴旋踢。\\n最遠距離時造成額外傷害。",
+      "c": "<[>前置<]><<\\n>>往前方半圓範圍踢出帶電的迴旋踢。<<\\n>>最遠距離時造成額外傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>>Kicks an electrifying roundhouse kick in a semicircle in front of you. <<\\n>> Deals extra damage at the longest distance.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n往前方半圆范围踢出带电的回旋踢。\\n最远距离时造成额外伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

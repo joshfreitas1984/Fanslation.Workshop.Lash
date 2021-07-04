@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04119_Tip",
+  "RawLine": "ITEM_04119_Tip,以枸杞釀造的酒，比起聰目的療效，其特殊的甘甜味更為吸引人。{p}{p}種類：{color=#ff0000}果酒{/color}{p}合成難度：{color=#ff0000}0{/color}。,以枸杞酿造的酒，比起聪目的疗效，其特殊的甘甜味更为吸引人。{p}{p}种类：{color=#ff0000}果酒{/color}{p}合成难度：{color=#ff0000}0{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04119_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "以枸杞釀造的酒，比起聰目的療效，其特殊的甘甜味更為吸引人。{p}{p}種類：{color=#ff0000}果酒{/color}{p}合成難度：{color=#ff0000}0{/color}。",
+      "c": "以枸杞釀造的酒,比起聰目的療效,其特殊的甘甜味更為吸引人。種類：果酒合成難度：0。",
+      "rq": true,
+      "it": null,
+      "mt": "A liquor made from wolfberries, whose special sweetness is more appealing than its healing properties. Type: Fruit Wine Synthesis Difficulty: 0.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "以枸杞酿造的酒，比起聪目的疗效，其特殊的甘甜味更为吸引人。{p}{p}种类：{color=#ff0000}果酒{/color}{p}合成难度：{color=#ff0000}0{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

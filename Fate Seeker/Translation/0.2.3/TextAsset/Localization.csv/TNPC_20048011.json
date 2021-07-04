@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20048011",
+  "RawLine": "TNPC_20048011,正當{name}要出手阻止之時，{p}有一旁觀者先一箭步衝了出來，硬是擋在算命師和江帛會成員之間。,正当{name}要出手阻止之时，{p}有一旁观者先一箭步冲了出来，硬是挡在算命师和江帛会成员之间。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20048011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "正當{name}要出手阻止之時，{p}有一旁觀者先一箭步衝了出來，硬是擋在算命師和江帛會成員之間。",
+      "c": "正當<name>要出手阻止之時,有一旁觀者先一箭步衝了出來,硬是擋在算命師和江帛會成員之間。",
+      "rq": true,
+      "it": null,
+      "mt": "When <name>was about to stop it, a bystander rushed out first and stood between the fortune-teller and the members of the Jiangpai Club.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "正当{name}要出手阻止之时，{p}有一旁观者先一箭步冲了出来，硬是挡在算命师和江帛会成员之间。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

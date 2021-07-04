@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101042107",
+  "RawLine": "SDM_1101042107,沒多久時日，江湖中「狂虎」之名便不脛而走。\\n,没多久时日，江湖中「狂虎」之名便不胫而走。\\n",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101042107",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "沒多久時日，江湖中「狂虎」之名便不脛而走。\\n",
+      "c": "沒多久時日,江湖中「狂虎」之名便不脛而走。<<\\n>>",
+      "rq": true,
+      "it": null,
+      "mt": "It didn't take long for the name \"Crazy Tiger\" to spread in the jungle. <<n",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "没多久时日，江湖中「狂虎」之名便不胫而走。\\n",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

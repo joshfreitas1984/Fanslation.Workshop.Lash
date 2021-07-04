@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003409",
+  "RawLine": "TNPC_70003409,最近並沒有什麼事，多謝{name}的關心。(好感度任務尚缺，這裡自動增加好感度),最近并没有什么事，多谢{name}的关心。(好感度任务尚缺，这里自动增加好感度)",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003409",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "最近並沒有什麼事，多謝{name}的關心。(好感度任務尚缺，這裡自動增加好感度)",
+      "c": "最近並沒有什麼事,多謝<name>的關心。(好感度任務尚缺,這裡自動增加好感度)",
+      "rq": true,
+      "it": null,
+      "mt": "Nothing much has happened recently, thanks to <name>'s concern. (There is still a shortage of good feeling tasks, here is the automatic increase of good feeling)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "最近并没有什么事，多谢{name}的关心。(好感度任务尚缺，这里自动增加好感度)",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

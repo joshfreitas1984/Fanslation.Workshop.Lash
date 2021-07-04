@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001227",
+  "RawLine": "TNPC_70001227,秦鷹因為身受中傷，又中毒已深，所以不敵王光明。跟{name}慘死在王光明手裡。,秦鹰因为身受中伤，又中毒已深，所以不敌王光明。跟{name}惨死在王光明手里。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001227",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "秦鷹因為身受中傷，又中毒已深，所以不敵王光明。跟{name}慘死在王光明手裡。",
+      "c": "秦鷹因為身受中傷,又中毒已深,所以不敵王光明。跟<name>慘死在王光明手裡。",
+      "rq": true,
+      "it": null,
+      "mt": "Qin Ying was wounded and poisoned, so he was no match for Wang Guangming. He died in the hands of Wang Guangming.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "秦鹰因为身受中伤，又中毒已深，所以不敌王光明。跟{name}惨死在王光明手里。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

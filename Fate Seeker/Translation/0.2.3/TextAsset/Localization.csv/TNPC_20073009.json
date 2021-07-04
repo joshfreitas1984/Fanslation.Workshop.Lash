@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20073009",
+  "RawLine": "TNPC_20073009,【糟糕！這些官爺們也追的太勤，這下被圍住了！{p}只好先躲到酒攤避避！】,【糟糕！这些官爷们也追的太勤，这下被围住了！{p}只好先躲到酒摊避避！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20073009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【糟糕！這些官爺們也追的太勤，這下被圍住了！{p}只好先躲到酒攤避避！】",
+      "c": "<[>糟糕！這些官爺們也追的太勤,這下被圍住了！只好先躲到酒攤避避！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Oh no! These officials have been chasing us too hard, and now we are surrounded! We have to hide in the wine stall first! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【糟糕！这些官爷们也追的太勤，这下被围住了！{p}只好先躲到酒摊避避！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

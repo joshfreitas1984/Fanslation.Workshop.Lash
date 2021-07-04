@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_31041515056",
+  "RawLine": "SDM_31041515056,這隻鷹是我朋友。牠前些日子出現在酒館門口，還受了重傷。,这只鹰是我朋友。它前些日子出现在酒馆门口，还受了重伤。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_31041515056",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這隻鷹是我朋友。牠前些日子出現在酒館門口，還受了重傷。",
+      "c": "這隻鷹是我朋友。牠前些日子出現在酒館門口,還受了重傷。",
+      "rq": true,
+      "it": null,
+      "mt": "This eagle is my friend. It appeared in front of the pub the other day and was seriously injured.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这只鹰是我朋友。它前些日子出现在酒馆门口，还受了重伤。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

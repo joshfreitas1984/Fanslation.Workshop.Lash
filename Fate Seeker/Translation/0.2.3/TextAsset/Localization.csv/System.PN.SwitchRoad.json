@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.PN.SwitchRoad",
+  "RawLine": "System.PN.SwitchRoad,在戰鬥中可以快速切換同裝備類型的套路，切換後會有一段冷卻時間。,在战斗中可以快速切换同装备类型的套路，切换后会有一段冷却时间。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.PN.SwitchRoad",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "在戰鬥中可以快速切換同裝備類型的套路，切換後會有一段冷卻時間。",
+      "c": "在戰鬥中可以快速切換同裝備類型的套路,切換後會有一段冷卻時間。",
+      "rq": true,
+      "it": null,
+      "mt": "Switch between sets of the same equipment type quickly in battle, with a cooldown period after switching.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "在战斗中可以快速切换同装备类型的套路，切换后会有一段冷却时间。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

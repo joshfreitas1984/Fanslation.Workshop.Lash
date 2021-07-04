@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20003021",
+  "RawLine": "TNPC_20003021,客官抱歉，這種酒我不愛喝，就謝謝客官的好意了。{p}而且我還在工作中，最好是不要喝。,客官抱歉，这种酒我不爱喝，就谢谢客官的好意了。{p}而且我还在工作中，最好是不要喝。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20003021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客官抱歉，這種酒我不愛喝，就謝謝客官的好意了。{p}而且我還在工作中，最好是不要喝。",
+      "c": "客官抱歉,這種酒我不愛喝,就謝謝客官的好意了。而且我還在工作中,最好是不要喝。",
+      "rq": true,
+      "it": null,
+      "mt": "I'm sorry, I don't like this kind of wine, so thank you for your kindness. And I'm still working, so it's better not to drink it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客官抱歉，这种酒我不爱喝，就谢谢客官的好意了。{p}而且我还在工作中，最好是不要喝。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

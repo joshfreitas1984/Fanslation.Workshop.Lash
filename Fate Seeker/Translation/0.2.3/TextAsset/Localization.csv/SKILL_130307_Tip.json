@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130307_Tip",
+  "RawLine": "SKILL_130307_Tip,【{color=#FFD700}強力{/color}】\\n近身範圍攻擊技，傷害高但無暗勁。,【{color=#FFD700}强力{/color}】\\n近身范围攻击技，伤害高但无暗劲。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130307_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n近身範圍攻擊技，傷害高但無暗勁。",
+      "c": "<[>強力<]><<\\n>>近身範圍攻擊技,傷害高但無暗勁。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>> Close range attack technique, high damage but no dark power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n近身范围攻击技，伤害高但无暗劲。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

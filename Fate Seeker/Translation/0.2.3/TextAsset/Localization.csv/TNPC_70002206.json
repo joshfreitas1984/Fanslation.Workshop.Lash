@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002206",
+  "RawLine": "TNPC_70002206,哎呦，{fn}兄弟是你啊，嚇死我了！你沒事跑來這裡做什麼？,哎呦，{fn}兄弟是你啊，吓死我了！你没事跑来这里做什么？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002206",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "哎呦，{fn}兄弟是你啊，嚇死我了！你沒事跑來這裡做什麼？",
+      "c": "哎呦,<fn>兄弟是你啊,嚇死我了！你沒事跑來這裡做什麼？",
+      "rq": true,
+      "it": null,
+      "mt": "Oh, <fn>brother, it's you, I'm scared! What are you doing here?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "哎呦，{fn}兄弟是你啊，吓死我了！你没事跑来这里做什么？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60002005",
+  "RawLine": "TNPC_60002005,啊！你醒啦？是呀，小兄弟你話說一半可就暈倒在這了。{p}你家住哪？我扶你回去休息吧！,啊！你醒啦？是呀，小兄弟你话说一半可就晕倒在这了。{p}你家住哪？我扶你回去休息吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60002005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "啊！你醒啦？是呀，小兄弟你話說一半可就暈倒在這了。{p}你家住哪？我扶你回去休息吧！",
+      "c": "啊！你醒啦？是呀,小兄弟你話說一半可就暈倒在這了。你家住哪？我扶你回去休息吧！",
+      "rq": true,
+      "it": null,
+      "mt": " Ah! Are you awake? Yes, you fainted in the middle of your sentence. Where do you live? Let me help you go back to rest!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "啊！你醒啦？是呀，小兄弟你话说一半可就晕倒在这了。{p}你家住哪？我扶你回去休息吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

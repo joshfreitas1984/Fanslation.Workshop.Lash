@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30032004",
+  "RawLine": "TNPC_30032004,{ln}老弟，你對時辰不熟，但你師父可熟的啊！他一早就托我幫你加些差事，免得你貪睡。,{ln}老弟，你对时辰不熟，但你师父可熟的啊！他一早就托我帮你加些差事，免得你贪睡。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30032004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{ln}老弟，你對時辰不熟，但你師父可熟的啊！他一早就托我幫你加些差事，免得你貪睡。",
+      "c": "<ln>老弟,你對時辰不熟,但你師父可熟的啊！他一早就托我幫你加些差事,免得你貪睡。",
+      "rq": true,
+      "it": null,
+      "mt": "<ln>You are not familiar with the hour, but your master is! He asked me to add some errands for you in the morning, so that you won't be sleepy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{ln}老弟，你对时辰不熟，但你师父可熟的啊！他一早就托我帮你加些差事，免得你贪睡。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

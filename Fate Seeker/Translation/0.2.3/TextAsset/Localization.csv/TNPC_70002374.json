@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002374",
+  "RawLine": "TNPC_70002374,(小聲地說){p}{size=25}對不住啦，我看你就老老實實地去衙門吧。{size},(小声地说){p}{size=25}对不住啦，我看你就老老实实地去衙门吧。{size}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002374",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "(小聲地說){p}{size=25}對不住啦，我看你就老老實實地去衙門吧。{size}",
+      "c": "(小聲地說)對不住啦,我看你就老老實實地去衙門吧。",
+      "rq": true,
+      "it": null,
+      "mt": "(whispering) Sorry, I think you should go to the court honestly.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "(小声地说){p}{size=25}对不住啦，我看你就老老实实地去衙门吧。{size}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

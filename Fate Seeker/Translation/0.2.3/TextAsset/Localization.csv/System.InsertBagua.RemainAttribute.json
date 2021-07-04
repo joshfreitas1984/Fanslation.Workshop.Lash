@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.InsertBagua.RemainAttribute",
+  "RawLine": "System.InsertBagua.RemainAttribute,剩餘 <color=red>{0}</color> 個天賦尚未配點。,剩余 <color=red>{0}</color> 个天赋尚未配点。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.InsertBagua.RemainAttribute",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "剩餘 <color=red>{0}</color> 個天賦尚未配點。",
+      "c": "剩餘 <0> 個天賦尚未配點。",
+      "rq": true,
+      "it": null,
+      "mt": " Remaining <0> A talent has not yet been assigned.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "剩余 <color=red>{0}</color> 个天赋尚未配点。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

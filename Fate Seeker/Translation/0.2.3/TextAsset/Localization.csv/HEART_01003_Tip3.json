@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_01003_Tip3",
+  "RawLine": "HEART_01003_Tip3,<color=#EFD8B0>擊中敵人 <color=#33ff33>{0:0}</color> 次後造成敵人暈眩。</color>,<color=#EFD8B0>击中敌人 <color=#33ff33>{0:0}</color> 次后造成敌人晕眩。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_01003_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0>擊中敵人 <color=#33ff33>{0:0}</color> 次後造成敵人暈眩。</color>",
+      "c": "擊中敵人 <0:0> 次後造成敵人暈眩。",
+      "rq": true,
+      "it": null,
+      "mt": " Strikes an enemy <0:0> times and causes them to be stunned.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0>击中敌人 <color=#33ff33>{0:0}</color> 次后造成敌人晕眩。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

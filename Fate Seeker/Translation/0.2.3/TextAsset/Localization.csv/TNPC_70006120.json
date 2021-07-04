@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006120",
+  "RawLine": "TNPC_70006120,小玥，我需要一個可以信任的人守在我身後。{w=1}你願意嗎？,小玥，我需要一个可以信任的人守在我身后。{w=1}你愿意吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006120",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小玥，我需要一個可以信任的人守在我身後。{w=1}你願意嗎？",
+      "c": "小玥,我需要一個可以信任的人守在我身後。你願意嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Xiao Yue, I need someone I can trust to stand behind me. Are you willing to do so?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小玥，我需要一个可以信任的人守在我身后。{w=1}你愿意吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

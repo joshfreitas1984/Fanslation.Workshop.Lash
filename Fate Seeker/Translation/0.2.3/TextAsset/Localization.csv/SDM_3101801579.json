@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101801579",
+  "RawLine": "SDM_3101801579,唉唷，我崴了腳，{fn}老弟走慢點，等等我欸。,唉唷，我崴了脚，{fn}老弟走慢点，等等我欸。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101801579",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唉唷，我崴了腳，{fn}老弟走慢點，等等我欸。",
+      "c": "唉唷,我崴了腳,<fn>老弟走慢點,等等我欸。",
+      "rq": true,
+      "it": null,
+      "mt": "Oh, I've broken my leg, <fn>Walk slowly, wait for me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唉唷，我崴了脚，{fn}老弟走慢点，等等我欸。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

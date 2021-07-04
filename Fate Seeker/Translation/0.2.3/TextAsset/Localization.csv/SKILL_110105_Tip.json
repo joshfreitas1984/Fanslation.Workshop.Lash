@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110105_Tip",
+  "RawLine": "SKILL_110105_Tip,【{color=#FFD700}破防功能{/color}】\\n傷害、暗勁都不凡的招式，但是冷卻時間較久。,【{color=#FFD700}破防功能{/color}】\\n伤害、暗劲都不凡的招式，但是冷却时间较久。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110105_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n傷害、暗勁都不凡的招式，但是冷卻時間較久。",
+      "c": "<[>破防功能<]><<\\n>>傷害、暗勁都不凡的招式,但是冷卻時間較久。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Break Defenses<]><<\\n>> A move with good damage and dark power, but it takes a long time to cool down.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n伤害、暗劲都不凡的招式，但是冷却时间较久。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

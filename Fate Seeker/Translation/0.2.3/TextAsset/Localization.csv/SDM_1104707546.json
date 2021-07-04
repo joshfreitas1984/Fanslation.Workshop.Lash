@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104707546",
+  "RawLine": "SDM_1104707546,{name}，多謝你這段時間的幫忙，但我已經沒事了，之後的事，不用你操心。,{name}，多谢你这段时间的帮忙，但我已经没事了，之后的事，不用你操心。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104707546",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，多謝你這段時間的幫忙，但我已經沒事了，之後的事，不用你操心。",
+      "c": "<name>,多謝你這段時間的幫忙,但我已經沒事了,之後的事,不用你操心。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, thanks for your help during this time, but I'm fine now, don't worry about what happens afterwards.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，多谢你这段时间的帮忙，但我已经没事了，之后的事，不用你操心。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

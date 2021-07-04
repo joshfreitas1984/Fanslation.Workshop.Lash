@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31093701",
+  "RawLine": "TNPC_31093701,這張紙挺工整的，拿來{color=#FF0000}摺紙{/color}應該很合適。,这张纸挺工整的，拿来{color=#FF0000}摺纸{/color}应该很合适。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31093701",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這張紙挺工整的，拿來{color=#FF0000}摺紙{/color}應該很合適。",
+      "c": "這張紙挺工整的,拿來摺紙應該很合適。",
+      "rq": true,
+      "it": null,
+      "mt": "This paper is quite neat, it should be suitable for folding paper.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这张纸挺工整的，拿来{color=#FF0000}摺纸{/color}应该很合适。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

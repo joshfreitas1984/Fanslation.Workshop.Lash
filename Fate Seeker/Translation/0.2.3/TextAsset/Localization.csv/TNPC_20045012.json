@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20045012",
+  "RawLine": "TNPC_20045012,等等，小二、我這有封信，你能否先幫我送去？{p}我們失約已久，如果那人還在約定之處，希望能連絡到人。,等等，小二、我这有封信，你能否先帮我送去？{p}我们失约已久，如果那人还在约定之处，希望能连络到人。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20045012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "等等，小二、我這有封信，你能否先幫我送去？{p}我們失約已久，如果那人還在約定之處，希望能連絡到人。",
+      "c": "等等,小二、我這有封信,你能否先幫我送去？我們失約已久,如果那人還在約定之處,希望能連絡到人。",
+      "rq": true,
+      "it": null,
+      "mt": "Wait, I have a letter here, can you deliver it for me first? We've been out of touch for a long time, so if that person is still at the appointment, I hope I can get in touch with them.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "等等，小二、我这有封信，你能否先帮我送去？{p}我们失约已久，如果那人还在约定之处，希望能连络到人。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70010342",
+  "RawLine": "TNPC_70010342,【鎖上的木櫃……櫃子上的老虎，這櫃子莫非就是白虎令上所指的木櫃。】,【锁上的木柜……柜子上的老虎，这柜子莫非就是白虎令上所指的木柜。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70010342",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【鎖上的木櫃……櫃子上的老虎，這櫃子莫非就是白虎令上所指的木櫃。】",
+      "c": "<[>鎖上的木櫃......櫃子上的老虎,這櫃子莫非就是白虎令上所指的木櫃。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The locked wooden cabinet ...... The tiger on the cabinet, this cabinet is probably the wooden cabinet referred to in the white tiger order. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【锁上的木柜……柜子上的老虎，这柜子莫非就是白虎令上所指的木柜。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

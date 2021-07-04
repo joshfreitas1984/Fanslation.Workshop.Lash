@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130306_Tip",
+  "RawLine": "SKILL_130306_Tip,【{color=#FFD700}強力{/color}】\\n時效性陷阱攻擊。最多放四個，放第五個的時候第一個會消失。\\n場上滯留{color=#00DB00}20{/color}秒後消失。,【{color=#FFD700}强力{/color}】\\n时效性陷阱攻击。最多放四个，放第五个的时候第一个会消失。\\n场上滞留{color=#00DB00}20{/color}秒后消失。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130306_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n時效性陷阱攻擊。最多放四個，放第五個的時候第一個會消失。\\n場上滯留{color=#00DB00}20{/color}秒後消失。",
+      "c": "<[>強力<]><<\\n>>時效性陷阱攻擊。最多放四個,放第五個的時候第一個會消失。<<\\n>>場上滯留20秒後消失。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>> Time-sensitive trap attack. The first one will disappear when the fifth one is placed. <<\\n>>Disappears after staying on the field for 20 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n时效性陷阱攻击。最多放四个，放第五个的时候第一个会消失。\\n场上滞留{color=#00DB00}20{/color}秒后消失。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

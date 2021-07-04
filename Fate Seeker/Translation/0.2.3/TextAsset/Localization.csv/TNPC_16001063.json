@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16001063",
+  "RawLine": "TNPC_16001063,【洛陽物價暴漲？真是應了洛陽紙貴這句話。】,【洛阳物价暴涨？真是应了洛阳纸贵这句话。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16001063",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【洛陽物價暴漲？真是應了洛陽紙貴這句話。】",
+      "c": "<[>洛陽物價暴漲？真是應了洛陽紙貴這句話。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The price of Luoyang is soaring? It is true that Luoyang paper is expensive. <]>The price of paper in Luoyang is soaring.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【洛阳物价暴涨？真是应了洛阳纸贵这句话。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

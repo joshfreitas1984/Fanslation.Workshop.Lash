@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002613",
+  "RawLine": "TNPC_70002613,師父，{name}兄弟先前被官府誤認為山賊同夥，現案情已釐清，已還他清白。,师父，{name}兄弟先前被官府误认为山贼同伙，现案情已厘清，已还他清白。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002613",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "師父，{name}兄弟先前被官府誤認為山賊同夥，現案情已釐清，已還他清白。",
+      "c": "師父,<name>兄弟先前被官府誤認為山賊同夥,現案情已釐清,已還他清白。",
+      "rq": true,
+      "it": null,
+      "mt": "Master, <name>brother was mistakenly identified by the government as a partner of the bandits, but now the case has been clarified and he has been cleared.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "师父，{name}兄弟先前被官府误认为山贼同伙，现案情已厘清，已还他清白。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

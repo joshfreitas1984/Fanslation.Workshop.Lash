@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004314",
+  "RawLine": "TNPC_70004314,這紙條上寫著：『山中稱大王，寅年它當家。』這一看就知道是指生肖中的……,这纸条上写着：『山中称大王，寅年它当家。』这一看就知道是指生肖中的……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004314",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這紙條上寫著：『山中稱大王，寅年它當家。』這一看就知道是指生肖中的……",
+      "c": "這紙條上寫著：『山中稱大王,寅年它當家。』這一看就知道是指生肖中的......",
+      "rq": true,
+      "it": null,
+      "mt": "The note reads, \"The king of the mountain is the king of the year Yin. This is a reference to ...... in the Chinese zodiac.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这纸条上写着：『山中称大王，寅年它当家。』这一看就知道是指生肖中的……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

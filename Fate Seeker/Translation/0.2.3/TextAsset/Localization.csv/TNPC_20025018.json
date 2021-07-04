@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20025018",
+  "RawLine": "TNPC_20025018,既然已知一人為假，又見答題順序固定，{p}肯定是學先答者之答案，於是改讓她先答，{p}她果然不知道答案，只能亂答。,既然已知一人为假，又见答题顺序固定，{p}肯定是学先答者之答案，于是改让她先答，{p}她果然不知道答案，只能乱答。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20025018",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "既然已知一人為假，又見答題順序固定，{p}肯定是學先答者之答案，於是改讓她先答，{p}她果然不知道答案，只能亂答。",
+      "c": "既然已知一人為假,又見答題順序固定,肯定是學先答者之答案,於是改讓她先答,她果然不知道答案,只能亂答。",
+      "rq": true,
+      "it": null,
+      "mt": "Since one person was known to be false and the order of the answers was fixed, she must have learned the answer from the first answerer, so she was allowed to answer first.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "既然已知一人为假，又见答题顺序固定，{p}肯定是学先答者之答案，于是改让她先答，{p}她果然不知道答案，只能乱答。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

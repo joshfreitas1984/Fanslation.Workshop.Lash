@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072003",
+  "RawLine": "TNPC_60072003,【{s=6}……………………{/s}嗯？都沒人回應，是還在睡嗎？】,【{s=6}……………………{/s}嗯？都没人回应，是还在睡吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{s=6}……………………{/s}嗯？都沒人回應，是還在睡嗎？】",
+      "c": "<[>........................嗯？都沒人回應,是還在睡嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>........................ What? No one is responding, are they still sleeping? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{s=6}……………………{/s}嗯？都没人回应，是还在睡吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

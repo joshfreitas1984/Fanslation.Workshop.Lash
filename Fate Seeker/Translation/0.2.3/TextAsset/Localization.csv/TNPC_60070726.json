@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070726",
+  "RawLine": "TNPC_60070726,唉呀，那可就糟糕了。他母親李嬸就住在咱{color=#FF0000}隔壁{/color}那房子，你趕緊去告知他此事啊！,唉呀，那可就糟糕了。他母亲李婶就住在咱{color=#FF0000}隔壁{/color}那房子，你赶紧去告知他此事啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070726",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唉呀，那可就糟糕了。他母親李嬸就住在咱{color=#FF0000}隔壁{/color}那房子，你趕緊去告知他此事啊！",
+      "c": "唉呀,那可就糟糕了。他母親李嬸就住在咱隔壁那房子,你趕緊去告知他此事啊！",
+      "rq": true,
+      "it": null,
+      "mt": "Oh, that's terrible. His mother, Auntie Li, lives in the house next door to us.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唉呀，那可就糟糕了。他母亲李婶就住在咱{color=#FF0000}隔壁{/color}那房子，你赶紧去告知他此事啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

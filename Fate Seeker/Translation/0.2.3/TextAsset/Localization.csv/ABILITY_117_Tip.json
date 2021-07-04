@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_117_Tip",
+  "RawLine": "ABILITY_117_Tip,使用刀類武器時，面對敵人使傷害下降<color=#00DB00>10%</color>。,使用刀类武器时，面对敌人使伤害下降<color=#00DB00>10%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_117_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "使用刀類武器時，面對敵人使傷害下降<color=#00DB00>10%</color>。",
+      "c": "使用刀類武器時,面對敵人使傷害下降10%。",
+      "rq": true,
+      "it": null,
+      "mt": "When using a sword-like weapon, it reduces damage by 10% when facing an enemy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "使用刀类武器时，面对敌人使伤害下降<color=#00DB00>10%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

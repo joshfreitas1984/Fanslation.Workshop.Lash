@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Achievement.ReleaseDate",
+  "RawLine": "System.Achievement.ReleaseDate,解鎖於{0}年{1}月{2}日@{3}{4}時{5}分,解锁于{0}年{1}月{2}日@{3}{4}时{5}分",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Achievement.ReleaseDate",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "解鎖於{0}年{1}月{2}日@{3}{4}時{5}分",
+      "c": "解鎖於<0>年<1>月<2>日@<3><4>時<5>分",
+      "rq": true,
+      "it": null,
+      "mt": "unlocked on <0>year<1>month<2>day@<3><4>hour<5>min",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "解锁于{0}年{1}月{2}日@{3}{4}时{5}分",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31057302",
+  "RawLine": "TNPC_31057302,{fn}哥，我聽說你退出小溪三俠了，你要不要考慮加入妤{ln}盟啊？,{fn}哥，我听说你退出小溪三侠了，你要不要考虑加入妤{ln}盟啊？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31057302",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}哥，我聽說你退出小溪三俠了，你要不要考慮加入妤{ln}盟啊？",
+      "c": "<fn>哥,我聽說你退出小溪三俠了,你要不要考慮加入妤<ln>盟啊？",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Bro, I heard that you quit the Three Heroes of Xiao Xi, do you want to consider joining the Yu<ln> League?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}哥，我听说你退出小溪三侠了，你要不要考虑加入妤{ln}盟啊？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

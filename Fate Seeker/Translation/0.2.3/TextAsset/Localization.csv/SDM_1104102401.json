@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104102401",
+  "RawLine": "SDM_1104102401,【嗯...？這首飾攤上賣的{color=#FF0000}髮簪樣式{/color}和我手中的一樣！】,【嗯...？这首饰摊上卖的{color=#FF0000}发簪样式{/color}和我手中的一样！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104102401",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嗯...？這首飾攤上賣的{color=#FF0000}髮簪樣式{/color}和我手中的一樣！】",
+      "c": "<[>嗯...？這首飾攤上賣的髮簪樣式和我手中的一樣！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Huh...? The hairpin sold at this jewelry stand looks just like the one I'm holding! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嗯...？这首饰摊上卖的{color=#FF0000}发簪样式{/color}和我手中的一样！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

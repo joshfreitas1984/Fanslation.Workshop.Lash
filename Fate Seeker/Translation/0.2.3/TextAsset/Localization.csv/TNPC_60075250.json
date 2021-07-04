@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60075250",
+  "RawLine": "TNPC_60075250,【這間就是李饅頭的家了，人口失蹤的事情調查差不多，就去拜訪他吧。】,【这间就是李馒头的家了，人口失踪的事情调查差不多，就去拜访他吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60075250",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這間就是李饅頭的家了，人口失蹤的事情調查差不多，就去拜訪他吧。】",
+      "c": "<[>這間就是李饅頭的家了,人口失蹤的事情調查差不多,就去拜訪他吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is the home of Li Steamedou, so let's go visit him after the investigation of the missing people. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这间就是李馒头的家了，人口失踪的事情调查差不多，就去拜访他吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

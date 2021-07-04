@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30084080",
+  "RawLine": "TNPC_30084080,多謝{ln}兄援手。在下李見義，師出八法門。,多谢{ln}兄援手。在下李见义，师出八法门。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30084080",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "多謝{ln}兄援手。在下李見義，師出八法門。",
+      "c": "多謝<ln>兄援手。在下李見義,師出八法門。",
+      "rq": true,
+      "it": null,
+      "mt": "Thanks to <ln>you for your help. I am Li Jianyi, a teacher from the Eight Dharma Sects.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "多谢{ln}兄援手。在下李见义，师出八法门。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

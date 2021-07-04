@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_325_Tip",
+  "RawLine": "ABILITY_325_Tip,未暴擊時，下次攻擊的暴擊率變為原先的<color=#00DB00>140%</color>。,未暴击时，下次攻击的暴击率变为原先的<color=#00DB00>140%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_325_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "未暴擊時，下次攻擊的暴擊率變為原先的<color=#00DB00>140%</color>。",
+      "c": "未暴擊時,下次攻擊的暴擊率變為原先的140%。",
+      "rq": true,
+      "it": null,
+      "mt": "If you don't hit, your next attack will have 140% of its original blast rate.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "未暴击时，下次攻击的暴击率变为原先的<color=#00DB00>140%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

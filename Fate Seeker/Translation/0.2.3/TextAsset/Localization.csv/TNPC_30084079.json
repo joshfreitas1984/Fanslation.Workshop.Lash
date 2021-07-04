@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30084079",
+  "RawLine": "TNPC_30084079,我叫{name}，出自蒼江派，方才見你遭到包圍又有口難言，便忍不住出手相救了。,我叫{name}，出自苍江派，方才见你遭到包围又有口难言，便忍不住出手相救了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30084079",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我叫{name}，出自蒼江派，方才見你遭到包圍又有口難言，便忍不住出手相救了。",
+      "c": "我叫<name>,出自蒼江派,方才見你遭到包圍又有口難言,便忍不住出手相救了。",
+      "rq": true,
+      "it": null,
+      "mt": "My name is <name>, I come from Cangjiang school. I saw you were surrounded and had difficulty in speaking, so I couldn't help saving you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我叫{name}，出自苍江派，方才见你遭到包围又有口难言，便忍不住出手相救了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

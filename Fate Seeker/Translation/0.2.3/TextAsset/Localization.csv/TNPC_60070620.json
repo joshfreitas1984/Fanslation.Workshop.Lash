@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070620",
+  "RawLine": "TNPC_60070620,（畫像上頭的一名男子，應該就是大嬸的丈夫吧。）{p}好，那大嬸您就在這休息一會，我在這附近找找看。,（画像上头的一名男子，应该就是大婶的丈夫吧。）{p}好，那大婶您就在这休息一会，我在这附近找找看。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070620",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "（畫像上頭的一名男子，應該就是大嬸的丈夫吧。）{p}好，那大嬸您就在這休息一會，我在這附近找找看。",
+      "c": "（畫像上頭的一名男子,應該就是大嬸的丈夫吧。）好,那大嬸您就在這休息一會,我在這附近找找看。",
+      "rq": true,
+      "it": null,
+      "mt": "(The man on the portrait should be Ahjumma's husband, right?) Okay, then, Ahjumma, you can rest here for a while, and I will look around here.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "（画像上头的一名男子，应该就是大婶的丈夫吧。）{p}好，那大婶您就在这休息一会，我在这附近找找看。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

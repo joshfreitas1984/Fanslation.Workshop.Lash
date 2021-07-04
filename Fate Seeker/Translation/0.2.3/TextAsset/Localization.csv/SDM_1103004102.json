@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103004102",
+  "RawLine": "SDM_1103004102,【如果站在這個位置，低下頭可以看見的，是窗下的這個櫥櫃。】,【如果站在这个位置，低下头可以看见的，是窗下的这个橱柜。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103004102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【如果站在這個位置，低下頭可以看見的，是窗下的這個櫥櫃。】",
+      "c": "<[>如果站在這個位置,低下頭可以看見的,是窗下的這個櫥櫃。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>If you stand in this position, what you can see when you look down is this cabinet under the window. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【如果站在这个位置，低下头可以看见的，是窗下的这个橱柜。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

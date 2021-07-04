@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102029303",
+  "RawLine": "SDM_2102029303,【大家都有離開過大廳的話，就無法縮小內賊範圍了。】,【大家都有离开过大厅的话，就无法缩小内贼范围了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102029303",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【大家都有離開過大廳的話，就無法縮小內賊範圍了。】",
+      "c": "<[>大家都有離開過大廳的話,就無法縮小內賊範圍了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>If everyone has left the hall, there is no way to narrow down the area of internal thieves. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【大家都有离开过大厅的话，就无法缩小内贼范围了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

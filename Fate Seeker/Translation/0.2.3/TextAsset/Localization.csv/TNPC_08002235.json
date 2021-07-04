@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08002235",
+  "RawLine": "TNPC_08002235,【我竟然真為了這丫頭東奔西跑啊，{name}啊…這值得嗎？】,【我竟然真为了这丫头东奔西跑啊，{name}啊…这值得吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08002235",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我竟然真為了這丫頭東奔西跑啊，{name}啊…這值得嗎？】",
+      "c": "<[>我竟然真為了這丫頭東奔西跑啊,<name>啊...這值得嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I'm really running around for this girl,<name> ah... Is it worth it? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我竟然真为了这丫头东奔西跑啊，{name}啊…这值得吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

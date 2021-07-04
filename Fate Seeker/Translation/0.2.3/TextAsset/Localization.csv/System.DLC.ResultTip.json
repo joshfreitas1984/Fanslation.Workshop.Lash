@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.DLC.ResultTip",
+  "RawLine": "System.DLC.ResultTip,【{0}】通關時間：{1}\\t使用補品數量：{2},【{0}】通关时间：{1}\\t使用补品数量：{2}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.DLC.ResultTip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{0}】通關時間：{1}\\t使用補品數量：{2}",
+      "c": "<[><0><]>通關時間：<1><\\t>使用補品數量：<2>",
+      "rq": true,
+      "it": null,
+      "mt": "<[><0><]>Time to Clear: <1><\\t>Number of Supplements Used: <2>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{0}】通关时间：{1}\\t使用补品数量：{2}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

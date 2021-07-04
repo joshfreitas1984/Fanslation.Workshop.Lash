@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60008011",
+  "RawLine": "TNPC_60008011,嗯{s=6}……{/s}聽前輩您這麼說，的確沒可能是小人所為。{p}好吧，先謝過前輩了，晚輩告辭。,嗯{s=6}……{/s}听前辈您这么说，的确没可能是小人所为。{p}好吧，先谢过前辈了，晚辈告辞。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60008011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯{s=6}……{/s}聽前輩您這麼說，的確沒可能是小人所為。{p}好吧，先謝過前輩了，晚輩告辭。",
+      "c": "嗯......聽前輩您這麼說,的確沒可能是小人所為。好吧,先謝過前輩了,晚輩告辭。",
+      "rq": true,
+      "it": null,
+      "mt": " Well ...... I'm not sure what you're talking about, but I'm sure it's not the work of a villain. Okay, thank you, I'll leave now.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯{s=6}……{/s}听前辈您这么说，的确没可能是小人所为。{p}好吧，先谢过前辈了，晚辈告辞。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

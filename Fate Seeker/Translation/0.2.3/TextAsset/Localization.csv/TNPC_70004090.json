@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004090",
+  "RawLine": "TNPC_70004090,【看來這就是{color=#FF0000}神機門遺失的機關{/color}。】,【看来这就是{color=#FF0000}神机门遗失的机关{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004090",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這就是{color=#FF0000}神機門遺失的機關{/color}。】",
+      "c": "<[>看來這就是神機門遺失的機關。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that this is the lost mechanism of the Divine Machine Gate. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这就是{color=#FF0000}神机门遗失的机关{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30038302",
+  "RawLine": "TNPC_30038302,啊，多謝了。{s=20}……{/s}師兄，你也擦一下吧，別遮了，傷口我看到了。,啊，多谢了。{s=20}……{/s}师兄，你也擦一下吧，别遮了，伤口我看到了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30038302",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "啊，多謝了。{s=20}……{/s}師兄，你也擦一下吧，別遮了，傷口我看到了。",
+      "c": "啊,多謝了。......師兄,你也擦一下吧,別遮了,傷口我看到了。",
+      "rq": true,
+      "it": null,
+      "mt": "Ah, thanks. ...... Brother, you should rub it too, don't cover it up, I can see the wound.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "啊，多谢了。{s=20}……{/s}师兄，你也擦一下吧，别遮了，伤口我看到了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

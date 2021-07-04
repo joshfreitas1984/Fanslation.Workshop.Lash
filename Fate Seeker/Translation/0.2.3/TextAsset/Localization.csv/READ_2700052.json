@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_2700052",
+  "RawLine": "READ_2700052,生在樹上，落在肩上，幹活躺下，休息靠牆。\\n第三道題,生在树上，落在肩上，干活躺下，休息靠墙。\\n第三道题",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_2700052",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "生在樹上，落在肩上，幹活躺下，休息靠牆。\\n第三道題",
+      "c": "生在樹上,落在肩上,幹活躺下,休息靠牆。<<\\n>>第三道題",
+      "rq": true,
+      "it": null,
+      "mt": "Born on a tree, fall on the shoulder, work and lie down, rest against the wall. <<\\n>>Third question",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "生在树上，落在肩上，干活躺下，休息靠墙。\\n第三道题",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

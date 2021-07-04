@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002056",
+  "RawLine": "TNPC_70002056,俺不過{w=1}{back=2}就是……{w=1}……{w=1}{back=4}就是……{w=1}……{w=1},俺不过{w=1}{back=2}就是……{w=1}……{w=1}{back=4}就是……{w=1}……{w=1}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002056",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "俺不過{w=1}{back=2}就是……{w=1}……{w=1}{back=4}就是……{w=1}……{w=1}",
+      "c": "俺不過就是............就是............",
+      "rq": true,
+      "it": null,
+      "mt": "I am just ............ It's ............",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "俺不过{w=1}{back=2}就是……{w=1}……{w=1}{back=4}就是……{w=1}……{w=1}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

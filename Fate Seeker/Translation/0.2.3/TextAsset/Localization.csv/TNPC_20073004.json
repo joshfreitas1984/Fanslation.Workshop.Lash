@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20073004",
+  "RawLine": "TNPC_20073004,【看來這輛車{color=#ff0000}在這路口急往右轉了{/color}。】,【看来这辆车{color=#ff0000}在这路口急往右转了{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20073004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這輛車{color=#ff0000}在這路口急往右轉了{/color}。】",
+      "c": "<[>看來這輛車在這路口急往右轉了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It looks like this car is turning right at this intersection. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这辆车{color=#ff0000}在这路口急往右转了{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

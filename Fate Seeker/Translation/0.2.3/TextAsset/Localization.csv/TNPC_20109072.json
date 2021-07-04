@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20109072",
+  "RawLine": "TNPC_20109072,你想釀上等的冬棗酒，{color=#ff0000}最好別用葷的材料，否則會有怪味。{/color},你想酿上等的冬枣酒，{color=#ff0000}最好别用荤的材料，否则会有怪味。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20109072",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你想釀上等的冬棗酒，{color=#ff0000}最好別用葷的材料，否則會有怪味。{/color}",
+      "c": "你想釀上等的冬棗酒,最好別用葷的材料,否則會有怪味。",
+      "rq": true,
+      "it": null,
+      "mt": "You want to make a good date wine, it's better not to use meat ingredients, otherwise it will have a strange smell.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你想酿上等的冬枣酒，{color=#ff0000}最好别用荤的材料，否则会有怪味。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

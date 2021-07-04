@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_70004",
+  "RawLine": "QINFO_70004,李有志知道有人能救治趙妽，去嚴大夫藥鋪找他問清楚。,李有志知道有人能救治赵妽，去严大夫药铺找他问清楚。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_70004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "李有志知道有人能救治趙妽，去嚴大夫藥鋪找他問清楚。",
+      "c": "李有志知道有人能救治趙妽,去嚴大夫藥鋪找他問清楚。",
+      "rq": true,
+      "it": null,
+      "mt": "Li Youzhi knows someone who can cure Zhao Yao, so he goes to Dr. Yan's pharmacy to ask him about it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "李有志知道有人能救治赵妽，去严大夫药铺找他问清楚。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

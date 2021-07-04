@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0100002",
+  "RawLine": "READ_0100002,難度二\\n通血丸：烏賊骨+麻黃+陳皮\\n回春丹：薑黃+麻黃+陳皮\\n\\n通脈露：決明子+麻黃+陳皮\\n通息漿：大黃+麻黃+陳皮,难度二\\n通血丸：乌贼骨+麻黄+陈皮\\n回春丹：姜黄+麻黄+陈皮\\n\\n通脉露：决明子+麻黄+陈皮\\n通息浆：大黄+麻黄+陈皮",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0100002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "難度二\\n通血丸：烏賊骨+麻黃+陳皮\\n回春丹：薑黃+麻黃+陳皮\\n\\n通脈露：決明子+麻黃+陳皮\\n通息漿：大黃+麻黃+陳皮",
+      "c": "難度二<<\\n>>通血丸：烏賊骨+麻黃+陳皮<<\\n>>回春丹：薑黃+麻黃+陳皮<<\\n>><<\\n>>通脈露：決明子+麻黃+陳皮<<\\n>>通息漿：大黃+麻黃+陳皮",
+      "rq": true,
+      "it": null,
+      "mt": "Difficulty 2<<\\n>>Tongbao Blood Pill: Squid Bone + Ma Huang + Chen Pi<<\\n>>Return to Spring: Turmeric + Ma Huang + Chen Pi<<\\n>><<\\n>>Tongmu Dew: Semen Cassia + Ma Huang + Chen Pi<<\\n>>Tonghei Syrup: Da Huang + Ma Huang + Chen Pi",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "难度二\\n通血丸：乌贼骨+麻黄+陈皮\\n回春丹：姜黄+麻黄+陈皮\\n\\n通脉露：决明子+麻黄+陈皮\\n通息浆：大黄+麻黄+陈皮",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

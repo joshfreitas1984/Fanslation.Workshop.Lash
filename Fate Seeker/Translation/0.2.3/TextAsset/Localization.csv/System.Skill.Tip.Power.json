@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Skill.Tip.Power",
+  "RawLine": "System.Skill.Tip.Power,招式的基本傷害，還會受到氣力、武器、心法內勁的影響。,招式的基本伤害，还会受到气力、武器、心法内劲的影响。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Skill.Tip.Power",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "招式的基本傷害，還會受到氣力、武器、心法內勁的影響。",
+      "c": "招式的基本傷害,還會受到氣力、武器、心法內勁的影響。",
+      "rq": true,
+      "it": null,
+      "mt": "The basic damage of a move is also affected by the inner strength of ki, weapons, and mind techniques.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "招式的基本伤害，还会受到气力、武器、心法内劲的影响。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

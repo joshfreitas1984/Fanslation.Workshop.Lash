@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30039102",
+  "RawLine": "TNPC_30039102,【還真有一塊鐵啊，雖然是常見金屬，但還是留著吧，有遇到鐵匠的話，說不定能做點什麼。】,【还真有一块铁啊，虽然是常见金属，但还是留着吧，有遇到铁匠的话，说不定能做点什么。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30039102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【還真有一塊鐵啊，雖然是常見金屬，但還是留著吧，有遇到鐵匠的話，說不定能做點什麼。】",
+      "c": "<[>還真有一塊鐵啊,雖然是常見金屬,但還是留著吧,有遇到鐵匠的話,說不定能做點什麼。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There is really a piece of iron, although it is a common metal, but let's keep it, if we meet a blacksmith, we may be able to do something. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【还真有一块铁啊，虽然是常见金属，但还是留着吧，有遇到铁匠的话，说不定能做点什么。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "fix_3101046512",
+  "RawLine": "fix_3101046512,背字上方為北，而閂字上方為門，合起來便是北門了。,背字上方为北，而闩字上方为门，合起来便是北门了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "fix_3101046512",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "背字上方為北，而閂字上方為門，合起來便是北門了。",
+      "c": "背字上方為北,而閂字上方為門,合起來便是北門了。",
+      "rq": true,
+      "it": null,
+      "mt": "North is above the back, and above the latch is the door, so together we have North Gate.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "背字上方为北，而闩字上方为门，合起来便是北门了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

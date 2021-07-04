@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079511",
+  "RawLine": "TNPC_60079511,【他手上握著一把劍身一半斷裂的劍柄，不就是之前俠士說過的妖刀嗎？】,【他手上握着一把剑身一半断裂的剑柄，不就是之前侠士说过的妖刀吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079511",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【他手上握著一把劍身一半斷裂的劍柄，不就是之前俠士說過的妖刀嗎？】",
+      "c": "<[>他手上握著一把劍身一半斷裂的劍柄,不就是之前俠士說過的妖刀嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>He was holding a half-broken hilt of a sword, wasn't it the demon sword that the knight had mentioned before? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【他手上握着一把剑身一半断裂的剑柄，不就是之前侠士说过的妖刀吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140208_Tip",
+  "RawLine": "SKILL_140208_Tip,【{color=#FFD700}絕學{/color}】\\n在前方敵人周圍快速來回穿梭的範圍攻擊。,【{color=#FFD700}绝学{/color}】\\n在前方敌人周围快速来回穿梭的范围攻击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140208_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】\\n在前方敵人周圍快速來回穿梭的範圍攻擊。",
+      "c": "<[>絕學<]><<\\n>>在前方敵人周圍快速來回穿梭的範圍攻擊。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Jedi<]><<\\n>> A ranged attack that travels back and forth quickly around the enemy in front of you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】\\n在前方敌人周围快速来回穿梭的范围攻击。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070022",
+  "RawLine": "TNPC_60070022,找到水源了！趕緊裝水回去給村民{s=6}……{/s}{s=6}……{/s}{p}嗯？這水裡頭有洋紅色的東西！要拿起來看看嗎？,找到水源了！赶紧装水回去给村民{s=6}……{/s}{s=6}……{/s}{p}嗯？这水里头有洋红色的东西！要拿起来看看吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070022",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "找到水源了！趕緊裝水回去給村民{s=6}……{/s}{s=6}……{/s}{p}嗯？這水裡頭有洋紅色的東西！要拿起來看看嗎？",
+      "c": "找到水源了！趕緊裝水回去給村民............嗯？這水裡頭有洋紅色的東西！要拿起來看看嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "We found the water source! Hurry up to fill water for the villagers ............ What? There's something magenta in this water! Do you want to pick it up and take a look?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "找到水源了！赶紧装水回去给村民{s=6}……{/s}{s=6}……{/s}{p}嗯？这水里头有洋红色的东西！要拿起来看看吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

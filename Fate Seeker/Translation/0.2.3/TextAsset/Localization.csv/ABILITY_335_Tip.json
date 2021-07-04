@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_335_Tip",
+  "RawLine": "ABILITY_335_Tip,暴擊時，下次攻擊的暴擊率變為原先的<color=#00DB00>120%</color>。,暴击时，下次攻击的暴击率变为原先的<color=#00DB00>120%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_335_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "暴擊時，下次攻擊的暴擊率變為原先的<color=#00DB00>120%</color>。",
+      "c": "暴擊時,下次攻擊的暴擊率變為原先的120%。",
+      "rq": true,
+      "it": null,
+      "mt": "When bludgeoning, the next attack's blast rate becomes 120% of the original.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "暴击时，下次攻击的暴击率变为原先的<color=#00DB00>120%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

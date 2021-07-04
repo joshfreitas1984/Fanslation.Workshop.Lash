@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010006",
+  "RawLine": "TNPC_60010006,【方才瘋乞丐提到大娘做的{color=#FF0000}包子{/color}{s=6}……{/s}說不定只要給他包子就不會把我當作是壞人了。】,【方才疯乞丐提到大娘做的{color=#FF0000}包子{/color}{s=6}……{/s}说不定只要给他包子就不会把我当作是坏人了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【方才瘋乞丐提到大娘做的{color=#FF0000}包子{/color}{s=6}……{/s}說不定只要給他包子就不會把我當作是壞人了。】",
+      "c": "<[>方才瘋乞丐提到大娘做的包子......說不定只要給他包子就不會把我當作是壞人了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The crazy beggar mentioned the buns made by the dame ...... Maybe if I give him the buns, he won't think I'm a bad person. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【方才疯乞丐提到大娘做的{color=#FF0000}包子{/color}{s=6}……{/s}说不定只要给他包子就不会把我当作是坏人了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

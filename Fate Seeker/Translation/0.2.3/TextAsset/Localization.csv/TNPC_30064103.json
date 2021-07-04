@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30064103",
+  "RawLine": "TNPC_30064103,「給{fn}的那罐，你讓他吃完後別急著拿去洗。」,「给{fn}的那罐，你让他吃完后别急着拿去洗。」",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30064103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "「給{fn}的那罐，你讓他吃完後別急著拿去洗。」",
+      "c": "「給<fn>的那罐,你讓他吃完後別急著拿去洗。」",
+      "rq": true,
+      "it": null,
+      "mt": "「給<fn>的那罐,你讓他吃完後別急著拿去洗。」",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "「给{fn}的那罐，你让他吃完后别急着拿去洗。」",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

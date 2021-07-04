@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130108_Tip",
+  "RawLine": "SKILL_130108_Tip,【{color=#FFD700}絕學{/color}】開啟條件招式：{color=#FF0000}地流{/color}。\\n對敵人來回進行攻擊，若能全數命中，傷害相當可觀。,【{color=#FFD700}绝学{/color}】开启条件招式：{color=#FF0000}地流{/color}。\\n对敌人来回进行攻击，若能全数命中，伤害相当可观。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130108_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】開啟條件招式：{color=#FF0000}地流{/color}。\\n對敵人來回進行攻擊，若能全數命中，傷害相當可觀。",
+      "c": "<[>絕學<]>開啟條件招式：地流。<<\\n>>對敵人來回進行攻擊,若能全數命中,傷害相當可觀。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Jedi<]> Opens the conditional move: Earth Flow. <<\\n>>Attacks the enemy back and forth, and if it hits all of them, the damage is considerable.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】开启条件招式：{color=#FF0000}地流{/color}。\\n对敌人来回进行攻击，若能全数命中，伤害相当可观。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

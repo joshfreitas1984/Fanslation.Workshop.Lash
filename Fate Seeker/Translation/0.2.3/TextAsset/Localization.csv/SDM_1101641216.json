@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101641216",
+  "RawLine": "SDM_1101641216,【之前在洛陽遇見的少林寺和尚說過，他們方丈被{color=#FF0000}紫衣女子{/color}襲擊了。】,【之前在洛阳遇见的少林寺和尚说过，他们方丈被{color=#FF0000}紫衣女子{/color}袭击了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101641216",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【之前在洛陽遇見的少林寺和尚說過，他們方丈被{color=#FF0000}紫衣女子{/color}襲擊了。】",
+      "c": "<[>之前在洛陽遇見的少林寺和尚說過,他們方丈被紫衣女子襲擊了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The Shaolin monk I met earlier in Luoyang said that their abbot was attacked by the woman in purple. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【之前在洛阳遇见的少林寺和尚说过，他们方丈被{color=#FF0000}紫衣女子{/color}袭击了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

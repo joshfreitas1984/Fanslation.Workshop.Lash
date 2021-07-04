@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110306_Tip",
+  "RawLine": "SKILL_110306_Tip,【{color=#FFD700}絕學{/color}】\\n進入{color=#FF0000}人劍合一{/color}狀態，增加攻擊、防禦{color=#00DB00}20%{/color}，你更容易造成敵人暈眩，並能開啟後續招式。,【{color=#FFD700}绝学{/color}】\\n进入{color=#FF0000}人剑合一{/color}状态，增加攻击、防御{color=#00DB00}20%{/color}，你更容易造成敌人晕眩，并能开启后续招式。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110306_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】\\n進入{color=#FF0000}人劍合一{/color}狀態，增加攻擊、防禦{color=#00DB00}20%{/color}，你更容易造成敵人暈眩，並能開啟後續招式。",
+      "c": "<[>絕學<]><<\\n>>進入人劍合一狀態,增加攻擊、防禦20%,你更容易造成敵人暈眩,並能開啟後續招式。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Mastery<]><<\\n>> Entering a state of unity with your sword increases attack and defense by 20%, making it easier for you to daze enemies and open up subsequent moves.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】\\n进入{color=#FF0000}人剑合一{/color}状态，增加攻击、防御{color=#00DB00}20%{/color}，你更容易造成敌人晕眩，并能开启后续招式。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

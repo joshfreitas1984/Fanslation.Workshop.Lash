@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_300093_Tip",
+  "RawLine": "ITEM_300093_Tip,以特殊技巧烹調的雞肉，能保持鮮嫩的口感與濃郁的香味。,以特殊技巧烹调的鸡肉，能保持鲜嫩的口感与浓郁的香味。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_300093_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "以特殊技巧烹調的雞肉，能保持鮮嫩的口感與濃郁的香味。",
+      "c": "以特殊技巧烹調的雞肉,能保持鮮嫩的口感與濃郁的香味。",
+      "rq": true,
+      "it": null,
+      "mt": "The chicken is cooked with a special technique to maintain its tender taste and rich flavor.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "以特殊技巧烹调的鸡肉，能保持鲜嫩的口感与浓郁的香味。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31048002",
+  "RawLine": "TNPC_31048002,多謝啦，{fn}，我也不好意思白拿你的傷藥，不然當作我跟你買吧。,多谢啦，{fn}，我也不好意思白拿你的伤药，不然当作我跟你买吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31048002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "多謝啦，{fn}，我也不好意思白拿你的傷藥，不然當作我跟你買吧。",
+      "c": "多謝啦,<fn>,我也不好意思白拿你的傷藥,不然當作我跟你買吧。",
+      "rq": true,
+      "it": null,
+      "mt": "Thanks, <fn>I'm too embarrassed to take your medicine for nothing, so I'll buy it from you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "多谢啦，{fn}，我也不好意思白拿你的伤药，不然当作我跟你买吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

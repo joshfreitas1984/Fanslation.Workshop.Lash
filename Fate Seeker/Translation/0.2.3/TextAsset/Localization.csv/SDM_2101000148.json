@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101000148",
+  "RawLine": "SDM_2101000148,嗚嗚，{fn}是貪吃鬼，嗚嗚嗚。,呜呜，{fn}是贪吃鬼，呜呜呜。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101000148",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗚嗚，{fn}是貪吃鬼，嗚嗚嗚。",
+      "c": "嗚嗚,<fn>是貪吃鬼,嗚嗚嗚。",
+      "rq": true,
+      "it": null,
+      "mt": "Wooooo,<fn> it's a glutton, wooooooooo.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呜呜，{fn}是贪吃鬼，呜呜呜。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

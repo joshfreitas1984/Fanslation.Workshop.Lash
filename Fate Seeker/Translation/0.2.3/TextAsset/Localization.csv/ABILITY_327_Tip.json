@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_327_Tip",
+  "RawLine": "ABILITY_327_Tip,被擊中時，獲得等量傷害<color=#00DB00>2%</color>的金錢。,被击中时，获得等量伤害<color=#00DB00>2%</color>的金钱。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_327_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "被擊中時，獲得等量傷害<color=#00DB00>2%</color>的金錢。",
+      "c": "被擊中時,獲得等量傷害2%的金錢。",
+      "rq": true,
+      "it": null,
+      "mt": "Gets 2% money for the same amount of damage when hit.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "被击中时，获得等量伤害<color=#00DB00>2%</color>的金钱。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

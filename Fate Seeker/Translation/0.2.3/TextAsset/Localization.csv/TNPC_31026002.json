@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31026002",
+  "RawLine": "TNPC_31026002,{fn}小弟！你來得正好，{color=#cc0000}杜建{/color}跟{color=#cc0000}龐大娘{/color}又鬧翻了，可以請你幫忙調解一下嗎？,{fn}小弟！你来得正好，{color=#cc0000}杜建{/color}跟{color=#cc0000}庞大娘{/color}又闹翻了，可以请你帮忙调解一下吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31026002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}小弟！你來得正好，{color=#cc0000}杜建{/color}跟{color=#cc0000}龐大娘{/color}又鬧翻了，可以請你幫忙調解一下嗎？",
+      "c": "<fn>小弟！你來得正好,杜建跟龐大娘又鬧翻了,可以請你幫忙調解一下嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Daifu! You've come just in time, Du Jian and Dame Pang have fallen out again, can you help mediate?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}小弟！你来得正好，{color=#cc0000}杜建{/color}跟{color=#cc0000}庞大娘{/color}又闹翻了，可以请你帮忙调解一下吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

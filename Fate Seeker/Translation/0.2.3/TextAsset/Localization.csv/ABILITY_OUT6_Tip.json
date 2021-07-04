@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_OUT6_Tip",
+  "RawLine": "ABILITY_OUT6_Tip,敵人受到異常狀態的機率變為原先的<color=#00DB00>{0:0.00}%</color>。,敌人受到异常状态的机率变为原先的<color=#00DB00>{0:0.00}%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_OUT6_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "敵人受到異常狀態的機率變為原先的<color=#00DB00>{0:0.00}%</color>。",
+      "c": "敵人受到異常狀態的機率變為原先的<0:0.00>%。",
+      "rq": true,
+      "it": null,
+      "mt": "The chance of an enemy receiving an abnormal status becomes <0:0.00>% of the original.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "敌人受到异常状态的机率变为原先的<color=#00DB00>{0:0.00}%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

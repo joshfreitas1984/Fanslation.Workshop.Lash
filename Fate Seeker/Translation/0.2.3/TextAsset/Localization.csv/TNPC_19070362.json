@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_19070362",
+  "RawLine": "TNPC_19070362,【嘿嘿嘿，找到了劍譜也不還給你，急死你。】,【嘿嘿嘿，找到了剑谱也不还给你，急死你。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_19070362",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嘿嘿嘿，找到了劍譜也不還給你，急死你。】",
+      "c": "<[>嘿嘿嘿,找到了劍譜也不還給你,急死你。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, hey, hey, hey, I found the sword score and didn't give it back to you, I'll kill you. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嘿嘿嘿，找到了剑谱也不还给你，急死你。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

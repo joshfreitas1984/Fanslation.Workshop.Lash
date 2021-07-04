@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010032",
+  "RawLine": "TNPC_60010032,這是{s=6}……{/s}娘、娘親！嗚嗚嗚！娘親啊！,这是{s=6}……{/s}娘、娘亲！呜呜呜！娘亲啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010032",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這是{s=6}……{/s}娘、娘親！嗚嗚嗚！娘親啊！",
+      "c": "這是......娘、娘親！嗚嗚嗚！娘親啊！",
+      "rq": true,
+      "it": null,
+      "mt": "This is ...... mother, mother! Awwwwww! Mother!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这是{s=6}……{/s}娘、娘亲！呜呜呜！娘亲啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

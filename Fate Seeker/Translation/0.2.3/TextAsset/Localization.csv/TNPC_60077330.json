@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60077330",
+  "RawLine": "TNPC_60077330,……請問段夫人的湯藥是{color=#FF0000}陰性{/color}的嗎？,……请问段夫人的汤药是{color=#FF0000}阴性{/color}的吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60077330",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "……請問段夫人的湯藥是{color=#FF0000}陰性{/color}的嗎？",
+      "c": "......請問段夫人的湯藥是陰性的嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "...... Is Mrs. Duan's soup yin in nature?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "……请问段夫人的汤药是{color=#FF0000}阴性{/color}的吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

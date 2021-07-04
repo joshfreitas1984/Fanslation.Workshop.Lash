@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20020010",
+  "RawLine": "TNPC_20020010,唉啊，雖說我說這麼多，{p}反正錢你出的，你就隨便決定一種吧。,唉啊，虽说我说这么多，{p}反正钱你出的，你就随便决定一种吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20020010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唉啊，雖說我說這麼多，{p}反正錢你出的，你就隨便決定一種吧。",
+      "c": "唉啊,雖說我說這麼多,反正錢你出的,你就隨便決定一種吧。",
+      "rq": true,
+      "it": null,
+      "mt": "Alas, although I say so much, anyway, the money you pay, you can decide one at will.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唉啊，虽说我说这么多，{p}反正钱你出的，你就随便决定一种吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

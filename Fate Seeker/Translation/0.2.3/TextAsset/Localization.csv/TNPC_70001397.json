@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001397",
+  "RawLine": "TNPC_70001397,他們好像對我們視若無睹，{color=#FF0000}小心點{/color}，這裡有點詭異。,他们好像对我们视若无睹，{color=#FF0000}小心点{/color}，这里有点诡异。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001397",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "他們好像對我們視若無睹，{color=#FF0000}小心點{/color}，這裡有點詭異。",
+      "c": "他們好像對我們視若無睹,小心點,這裡有點詭異。",
+      "rq": true,
+      "it": null,
+      "mt": "They seem to be ignoring us, be careful, something is weird here.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "他们好像对我们视若无睹，{color=#FF0000}小心点{/color}，这里有点诡异。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

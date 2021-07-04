@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003102",
+  "RawLine": "TNPC_70003102,【啊！有了，小櫻的血！可以治療老神醫的傷口，可是我跟她約定好了，該怎麼辦呢……】,【啊！有了，小樱的血！可以治疗老神医的伤口，可是我跟她约定好了，该怎么办呢……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【啊！有了，小櫻的血！可以治療老神醫的傷口，可是我跟她約定好了，該怎麼辦呢……】",
+      "c": "<[>啊！有了,小櫻的血！可以治療老神醫的傷口,可是我跟她約定好了,該怎麼辦呢......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Ah! There it is, Sakura's blood! It can heal the old doctor's wound, but I made an appointment with her, what should I do ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【啊！有了，小樱的血！可以治疗老神医的伤口，可是我跟她约定好了，该怎么办呢……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

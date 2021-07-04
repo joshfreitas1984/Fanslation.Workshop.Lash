@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120201_Tip",
+  "RawLine": "SKILL_120201_Tip,【{color=#FFD700}位移{/color}】\\n向前衝刺一段距離並揮砍一刀，衝刺期間為無敵。,【{color=#FFD700}位移{/color}】\\n向前冲刺一段距离并挥砍一刀，冲刺期间为无敌。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120201_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}位移{/color}】\\n向前衝刺一段距離並揮砍一刀，衝刺期間為無敵。",
+      "c": "<[>位移<]><<\\n>>向前衝刺一段距離並揮砍一刀,衝刺期間為無敵。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Displacement<]><<\\n>>Dash forward a distance and swing a slash, invincible during the dash.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}位移{/color}】\\n向前冲刺一段距离并挥砍一刀，冲刺期间为无敌。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

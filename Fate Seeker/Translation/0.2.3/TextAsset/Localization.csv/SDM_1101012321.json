@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101012321",
+  "RawLine": "SDM_1101012321,{name}兄弟，看你年紀輕輕的，划起酒拳卻不是省油的燈啊！,{name}兄弟，看你年纪轻轻的，划起酒拳却不是省油的灯啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101012321",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，看你年紀輕輕的，划起酒拳卻不是省油的燈啊！",
+      "c": "<name>兄弟,看你年紀輕輕的,划起酒拳卻不是省油的燈啊！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, you look young, but you're not a good fighter!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，看你年纪轻轻的，划起酒拳却不是省油的灯啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

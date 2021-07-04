@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08002411",
+  "RawLine": "TNPC_08002411,【對趙妽的感覺嗎……】{p}（此為關鍵選項請謹慎選擇。）,【对赵妽的感觉吗……】{p}（此为关键选项请谨慎选择。）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08002411",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【對趙妽的感覺嗎……】{p}（此為關鍵選項請謹慎選擇。）",
+      "c": "<[>對趙妽的感覺嗎......<]>（此為關鍵選項請謹慎選擇。）",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Feelings for Zhao Yao ...... <]>(This is a key option, please choose carefully.)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【对赵妽的感觉吗……】{p}（此为关键选项请谨慎选择。）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

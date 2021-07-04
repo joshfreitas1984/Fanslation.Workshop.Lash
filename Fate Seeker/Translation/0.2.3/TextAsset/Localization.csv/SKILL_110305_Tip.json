@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110305_Tip",
+  "RawLine": "SKILL_110305_Tip,【{color=#FFD700}暗勁{/color}】\\n以自身為中心點產生無數的刀劍光影在周遭空揮砍，適合應對大量敵人。,【{color=#FFD700}暗劲{/color}】\\n以自身为中心点产生无数的刀剑光影在周遭空挥砍，适合应对大量敌人。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110305_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}暗勁{/color}】\\n以自身為中心點產生無數的刀劍光影在周遭空揮砍，適合應對大量敵人。",
+      "c": "<[>暗勁<]><<\\n>>以自身為中心點產生無數的刀劍光影在周遭空揮砍,適合應對大量敵人。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Dark Power<]><<\\n>>Generates countless sword shadows around itself as a center point, suitable for dealing with large numbers of enemies.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}暗劲{/color}】\\n以自身为中心点产生无数的刀剑光影在周遭空挥砍，适合应对大量敌人。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60075940",
+  "RawLine": "TNPC_60075940,【這兩本書上內容雖相同，但實質上是不一樣的，若是完全一模一樣的書，那就沒有藏缺頁的意義，再想想吧！】,【这两本书上内容虽相同，但实质上是不一样的，若是完全一模一样的书，那就没有藏缺页的意义，再想想吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60075940",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這兩本書上內容雖相同，但實質上是不一樣的，若是完全一模一樣的書，那就沒有藏缺頁的意義，再想想吧！】",
+      "c": "<[>這兩本書上內容雖相同,但實質上是不一樣的,若是完全一模一樣的書,那就沒有藏缺頁的意義,再想想吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The content of these two books is the same, but they are not the same in substance. If they are exactly the same, then there is no point in hiding the missing pages. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这两本书上内容虽相同，但实质上是不一样的，若是完全一模一样的书，那就没有藏缺页的意义，再想想吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

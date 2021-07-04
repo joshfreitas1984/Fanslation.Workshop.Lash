@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_226_Tip",
+  "RawLine": "ABILITY_226_Tip,離敵人一段距離以上，閃避上升<color=#00DB00>10%</color>。,离敌人一段距离以上，闪避上升<color=#00DB00>10%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_226_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "離敵人一段距離以上，閃避上升<color=#00DB00>10%</color>。",
+      "c": "離敵人一段距離以上,閃避上升10%。",
+      "rq": true,
+      "it": null,
+      "mt": "Increase dodge by 10% when you are more than a distance away from the enemy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "离敌人一段距离以上，闪避上升<color=#00DB00>10%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

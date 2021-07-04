@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007601",
+  "RawLine": "TNPC_70007601,天氣這麼好，不如我們出去走走吧，順道鍛鍊一下小櫻的體力。,天气这么好，不如我们出去走走吧，顺道锻链一下小樱的体力。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "天氣這麼好，不如我們出去走走吧，順道鍛鍊一下小櫻的體力。",
+      "c": "天氣這麼好,不如我們出去走走吧,順道鍛鍊一下小櫻的體力。",
+      "rq": true,
+      "it": null,
+      "mt": "It's such a nice day, why don't we go for a walk and train Sakura's physical strength?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "天气这么好，不如我们出去走走吧，顺道锻链一下小樱的体力。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

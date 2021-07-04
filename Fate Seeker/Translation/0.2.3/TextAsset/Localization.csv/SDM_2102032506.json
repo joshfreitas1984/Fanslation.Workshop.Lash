@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102032506",
+  "RawLine": "SDM_2102032506,各位看倌，這場是由{ln}少俠，來挑戰我們第一關關主，莊玉郎！,各位看倌，这场是由{ln}少侠，来挑战我们第一关关主，庄玉郎！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102032506",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "各位看倌，這場是由{ln}少俠，來挑戰我們第一關關主，莊玉郎！",
+      "c": "各位看倌,這場是由<ln>少俠,來挑戰我們第一關關主,莊玉郎！",
+      "rq": true,
+      "it": null,
+      "mt": "Lookers, this is <ln>Ms.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "各位看倌，这场是由{ln}少侠，来挑战我们第一关关主，庄玉郎！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

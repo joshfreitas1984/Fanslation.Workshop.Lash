@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0700066",
+  "RawLine": "READ_0700066,《金陵圖》\\n誰謂傷心畫不成，畫人心逐世人情。\\n君看六幅南朝事，老木寒雲滿故城。,《金陵图》\\n谁谓伤心画不成，画人心逐世人情。\\n君看六幅南朝事，老木寒云满故城。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0700066",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "《金陵圖》\\n誰謂傷心畫不成，畫人心逐世人情。\\n君看六幅南朝事，老木寒雲滿故城。",
+      "c": "《金陵圖》<<\\n>>誰謂傷心畫不成,畫人心逐世人情。<<\\n>>君看六幅南朝事,老木寒雲滿故城。",
+      "rq": true,
+      "it": null,
+      "mt": "\"The Picture of Jinling\" <<\\n>>Who says that the painting of a broken heart cannot be done? <<\\n>>You see six paintings of the southern dynasty, the old wood and cold clouds fill the old city.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "《金陵图》\\n谁谓伤心画不成，画人心逐世人情。\\n君看六幅南朝事，老木寒云满故城。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

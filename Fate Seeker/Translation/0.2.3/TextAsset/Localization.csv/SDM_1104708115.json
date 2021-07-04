@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104708115",
+  "RawLine": "SDM_1104708115,請{ln}大俠先前往大廳等候，屆時將會有人接應。,请{ln}大侠先前往大厅等候，届时将会有人接应。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104708115",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "請{ln}大俠先前往大廳等候，屆時將會有人接應。",
+      "c": "請<ln>大俠先前往大廳等候,屆時將會有人接應。",
+      "rq": true,
+      "it": null,
+      "mt": "Please, <ln>Major warrior, go to the hall and wait, someone will meet you there.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "请{ln}大侠先前往大厅等候，届时将会有人接应。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

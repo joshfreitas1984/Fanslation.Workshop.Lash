@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20046002",
+  "RawLine": "TNPC_20046002,小二，你知道嗎？{p}結果我此行前去尋寶，可累死我了，{p}那山寨裡面居然滿是山賊，害我多花了一番工夫。,小二，你知道吗？{p}结果我此行前去寻宝，可累死我了，{p}那山寨里面居然满是山贼，害我多花了一番工夫。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20046002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小二，你知道嗎？{p}結果我此行前去尋寶，可累死我了，{p}那山寨裡面居然滿是山賊，害我多花了一番工夫。",
+      "c": "小二,你知道嗎？結果我此行前去尋寶,可累死我了,那山寨裡面居然滿是山賊,害我多花了一番工夫。",
+      "rq": true,
+      "it": null,
+      "mt": "Do you know, Xiao Er? The cottage was full of bandits, so I had to spend a lot of time.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小二，你知道吗？{p}结果我此行前去寻宝，可累死我了，{p}那山寨里面居然满是山贼，害我多花了一番工夫。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

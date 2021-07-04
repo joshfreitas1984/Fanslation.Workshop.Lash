@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20002023",
+  "RawLine": "TNPC_20002023,嗯？你要送我這個空酒甕？{p}雖然我家那老伴剛好用的到，但是拿來當夜壺還是太重了，{p}嗯……還是算了，謝謝你的好意，這我不要。,嗯？你要送我这个空酒瓮？{p}虽然我家那老伴刚好用的到，但是拿来当夜壶还是太重了，{p}嗯……还是算了，谢谢你的好意，这我不要。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20002023",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯？你要送我這個空酒甕？{p}雖然我家那老伴剛好用的到，但是拿來當夜壺還是太重了，{p}嗯……還是算了，謝謝你的好意，這我不要。",
+      "c": "嗯？你要送我這個空酒甕？雖然我家那老伴剛好用的到,但是拿來當夜壺還是太重了,嗯......還是算了,謝謝你的好意,這我不要。",
+      "rq": true,
+      "it": null,
+      "mt": "Huh? You want to give me this empty wine urn? Although my old companion can just use it, but it's too heavy to use as a night jug, eh ...... Thank you for your kindness, I don't want this.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯？你要送我这个空酒瓮？{p}虽然我家那老伴刚好用的到，但是拿来当夜壶还是太重了，{p}嗯……还是算了，谢谢你的好意，这我不要。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

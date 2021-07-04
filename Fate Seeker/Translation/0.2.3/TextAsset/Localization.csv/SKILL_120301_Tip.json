@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120301_Tip",
+  "RawLine": "SKILL_120301_Tip,【{color=#FFD700}位移{/color}】\\n起步較慢的位移攻擊。低機率造成出血使敵人受到大量傷害。,【{color=#FFD700}位移{/color}】\\n起步较慢的位移攻击。低机率造成出血使敌人受到大量伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120301_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}位移{/color}】\\n起步較慢的位移攻擊。低機率造成出血使敵人受到大量傷害。",
+      "c": "<[>位移<]><<\\n>>起步較慢的位移攻擊。低機率造成出血使敵人受到大量傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Displacement<]><<\\n>> A slower starting displacement attack. Low chance to cause bleeding and cause massive damage to enemies.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}位移{/color}】\\n起步较慢的位移攻击。低机率造成出血使敌人受到大量伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

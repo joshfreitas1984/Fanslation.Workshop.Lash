@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140105_Tip",
+  "RawLine": "SKILL_140105_Tip,【{color=#FFD700}特殊{/color}】\\n瞄準遠處的攻擊，不熟練時很容易落空，留下一小塊高傷害火圈在地板上，持續{color=#00DB00}20{/color}秒。低機率造成火毒。,【{color=#FFD700}特殊{/color}】\\n瞄准远处的攻击，不熟练时很容易落空，留下一小块高伤害火圈在地板上，持续{color=#00DB00}20{/color}秒。低机率造成火毒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140105_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}特殊{/color}】\\n瞄準遠處的攻擊，不熟練時很容易落空，留下一小塊高傷害火圈在地板上，持續{color=#00DB00}20{/color}秒。低機率造成火毒。",
+      "c": "<[>特殊<]><<\\n>>瞄準遠處的攻擊,不熟練時很容易落空,留下一小塊高傷害火圈在地板上,持續20秒。低機率造成火毒。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Special<]><<\\n>>Attack aimed at a distance, easily missed if not skilled, leaves a small circle of high damage fire on the floor for 20 seconds. Low chance of causing fire poison.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}特殊{/color}】\\n瞄准远处的攻击，不熟练时很容易落空，留下一小块高伤害火圈在地板上，持续{color=#00DB00}20{/color}秒。低机率造成火毒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

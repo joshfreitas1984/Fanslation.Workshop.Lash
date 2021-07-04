@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102041601",
+  "RawLine": "SDM_2102041601,客官，這我是有耳聞，{color=#ff0000}在虹橋南邊再往右邊走去，好像要開一間釀高級酒的釀酒舖。{/color},客官，这我是有耳闻，{color=#ff0000}在虹桥南边再往右边走去，好像要开一间酿高级酒的酿酒铺。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102041601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客官，這我是有耳聞，{color=#ff0000}在虹橋南邊再往右邊走去，好像要開一間釀高級酒的釀酒舖。{/color}",
+      "c": "客官,這我是有耳聞,在虹橋南邊再往右邊走去,好像要開一間釀高級酒的釀酒舖。",
+      "rq": true,
+      "it": null,
+      "mt": "I've heard that there's a brewery on the right side of Hongqiao, south of the bridge, that's going to open a brewery that makes fine wine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客官，这我是有耳闻，{color=#ff0000}在虹桥南边再往右边走去，好像要开一间酿高级酒的酿酒铺。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

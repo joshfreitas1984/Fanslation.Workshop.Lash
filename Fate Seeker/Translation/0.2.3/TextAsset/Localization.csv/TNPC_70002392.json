@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002392",
+  "RawLine": "TNPC_70002392,我……{w=1}……{w=2}{back=3}我沒有證據……{w=1}……{w=1}各位鄉親父老，你們替我評評理，這錢袋明明是我的。,我……{w=1}……{w=2}{back=3}我没有证据……{w=1}……{w=1}各位乡亲父老，你们替我评评理，这钱袋明明是我的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002392",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我……{w=1}……{w=2}{back=3}我沒有證據……{w=1}……{w=1}各位鄉親父老，你們替我評評理，這錢袋明明是我的。",
+      "c": "我............我沒有證據............各位鄉親父老,你們替我評評理,這錢袋明明是我的。",
+      "rq": true,
+      "it": null,
+      "mt": " I ............ I don't have any evidence ............ You can judge for me. The money bag is obviously mine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我……{w=1}……{w=2}{back=3}我没有证据……{w=1}……{w=1}各位乡亲父老，你们替我评评理，这钱袋明明是我的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

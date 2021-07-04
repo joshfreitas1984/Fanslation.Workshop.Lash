@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70008618",
+  "RawLine": "TNPC_70008618,(小聲地說){p}此地不是說話的地方，跟我到安全的地方，我自會告訴你。,(小声地说){p}此地不是说话的地方，跟我到安全的地方，我自会告诉你。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70008618",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "(小聲地說){p}此地不是說話的地方，跟我到安全的地方，我自會告訴你。",
+      "c": "(小聲地說)此地不是說話的地方,跟我到安全的地方,我自會告訴你。",
+      "rq": true,
+      "it": null,
+      "mt": "(whispering) This is not the place to talk, follow me to a safe place and I will tell you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "(小声地说){p}此地不是说话的地方，跟我到安全的地方，我自会告诉你。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

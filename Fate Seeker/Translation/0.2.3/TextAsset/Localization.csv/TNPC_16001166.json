@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16001166",
+  "RawLine": "TNPC_16001166,【這位兄弟中毒昏了過去，得用{color=#FF0000}古陽堂{/color}的解藥替他解毒。】,【这位兄弟中毒昏了过去，得用{color=#FF0000}古阳堂{/color}的解药替他解毒。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16001166",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這位兄弟中毒昏了過去，得用{color=#FF0000}古陽堂{/color}的解藥替他解毒。】",
+      "c": "<[>這位兄弟中毒昏了過去,得用古陽堂的解藥替他解毒。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This brother has fainted from poisoning, we need to use the antidote from Gu Yang Hall to cure him. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这位兄弟中毒昏了过去，得用{color=#FF0000}古阳堂{/color}的解药替他解毒。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

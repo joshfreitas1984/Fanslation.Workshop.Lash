@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20082024",
+  "RawLine": "TNPC_20082024,{color=#ff0000}咱最愛一口酒一口牛肉了！{/color}儂這麼一說，咱嘴都饞了。,{color=#ff0000}咱最爱一口酒一口牛肉了！{/color}侬这么一说，咱嘴都馋了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20082024",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}咱最愛一口酒一口牛肉了！{/color}儂這麼一說，咱嘴都饞了。",
+      "c": "咱最愛一口酒一口牛肉了！儂這麼一說,咱嘴都饞了。",
+      "rq": true,
+      "it": null,
+      "mt": "We love a mouthful of wine and a mouthful of beef! When Nong said that, our mouths got hungry.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}咱最爱一口酒一口牛肉了！{/color}侬这么一说，咱嘴都馋了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

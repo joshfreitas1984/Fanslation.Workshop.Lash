@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070012",
+  "RawLine": "TNPC_60070012,呼！跑的好喘啊，口也乾了，真想喝杯{color=#FF0000}水{/color}來解解渴。,呼！跑的好喘啊，口也干了，真想喝杯{color=#FF0000}水{/color}来解解渴。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呼！跑的好喘啊，口也乾了，真想喝杯{color=#FF0000}水{/color}來解解渴。",
+      "c": "呼！跑的好喘啊,口也乾了,真想喝杯水來解解渴。",
+      "rq": true,
+      "it": null,
+      "mt": "Whew! My mouth is dry, I really want to drink a glass of water to quench my thirst.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呼！跑的好喘啊，口也干了，真想喝杯{color=#FF0000}水{/color}来解解渴。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

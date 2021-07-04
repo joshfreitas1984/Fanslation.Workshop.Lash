@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_00003101",
+  "RawLine": "TNPC_00003101,{fn}兄，這「春風又__江南岸」，你覺得填入什麼會比較好？,{fn}兄，这「春风又__江南岸」，你觉得填入什么会比较好？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_00003101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄，這「春風又__江南岸」，你覺得填入什麼會比較好？",
+      "c": "<fn>兄,這「春風又__江南岸」,你覺得填入什麼會比較好？",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Bro, what do you think would be better to fill in this \"Spring breeze on the shore of Jiangnan again\"?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄，这「春风又__江南岸」，你觉得填入什么会比较好？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20013004",
+  "RawLine": "TNPC_20013004,{s=10}婦人先是一驚，{p}手抖的拿起玉珮一湊，{/s}果然相合成為一個太極！,{s=10}妇人先是一惊，{p}手抖的拿起玉珮一凑，{/s}果然相合成为一个太极！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20013004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=10}婦人先是一驚，{p}手抖的拿起玉珮一湊，{/s}果然相合成為一個太極！",
+      "c": "婦人先是一驚,手抖的拿起玉珮一湊,果然相合成為一個太極！",
+      "rq": true,
+      "it": null,
+      "mt": "When the woman was shocked, her hands trembled and she picked up the jade ornaments and put them together to form a taiji!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=10}妇人先是一惊，{p}手抖的拿起玉珮一凑，{/s}果然相合成为一个太极！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

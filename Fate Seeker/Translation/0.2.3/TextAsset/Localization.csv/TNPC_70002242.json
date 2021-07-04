@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002242",
+  "RawLine": "TNPC_70002242,正哥，你的臉簡直像隻燙熟的蝦子。你該不會是……{w=1}……,正哥，你的脸简直像只烫熟的虾子。你该不会是……{w=1}……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002242",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "正哥，你的臉簡直像隻燙熟的蝦子。你該不會是……{w=1}……",
+      "c": "正哥,你的臉簡直像隻燙熟的蝦子。你該不會是............",
+      "rq": true,
+      "it": null,
+      "mt": "Zheng, your face is like a boiled shrimp. You are not ............",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "正哥，你的脸简直像只烫熟的虾子。你该不会是……{w=1}……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

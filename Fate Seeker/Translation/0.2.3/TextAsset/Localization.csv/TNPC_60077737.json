@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60077737",
+  "RawLine": "TNPC_60077737,沒錯，以往你都是拿{color=#FF0000}川烏{/color}來調藥。但是{color=#FF0000}兩個月{/color}前不再進貨。所以只好改從{color=#FF0000}雞血藤{color}下手，我說對了吧？,没错，以往你都是拿{color=#FF0000}川乌{/color}来调药。但是{color=#FF0000}两个月{/color}前不再进货。所以只好改从{color=#FF0000}鸡血藤{color}下手，我说对了吧？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60077737",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "沒錯，以往你都是拿{color=#FF0000}川烏{/color}來調藥。但是{color=#FF0000}兩個月{/color}前不再進貨。所以只好改從{color=#FF0000}雞血藤{color}下手，我說對了吧？",
+      "c": "沒錯,以往你都是拿川烏來調藥。但是兩個月前不再進貨。所以只好改從雞血藤下手,我說對了吧？",
+      "rq": true,
+      "it": null,
+      "mt": " Yes, in the past you used to mix the herbs with Chuan Wu. But two months ago they stopped stocking it. So I had to start with chicken blood vine instead, am I right?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "没错，以往你都是拿{color=#FF0000}川乌{/color}来调药。但是{color=#FF0000}两个月{/color}前不再进货。所以只好改从{color=#FF0000}鸡血藤{color}下手，我说对了吧？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

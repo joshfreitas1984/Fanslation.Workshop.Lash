@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700075_Tip",
+  "RawLine": "ITEM_700075_Tip,一種甜品小吃，深受小孩子喜愛。聞起來有一股微弱的清香。,一种甜品小吃，深受小孩子喜爱。闻起来有一股微弱的清香。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700075_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一種甜品小吃，深受小孩子喜愛。聞起來有一股微弱的清香。",
+      "c": "一種甜品小吃,深受小孩子喜愛。聞起來有一股微弱的清香。",
+      "rq": true,
+      "it": null,
+      "mt": "A dessert snack that is popular with children. It smells faintly fragrant.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一种甜品小吃，深受小孩子喜爱。闻起来有一股微弱的清香。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

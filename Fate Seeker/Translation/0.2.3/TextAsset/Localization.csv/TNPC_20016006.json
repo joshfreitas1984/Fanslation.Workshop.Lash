@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20016006",
+  "RawLine": "TNPC_20016006,{s=8}你……你……氣死我了……{/s}{p}你給我滾！我不想再見到你了！,{s=8}你……你……气死我了……{/s}{p}你给我滚！我不想再见到你了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20016006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=8}你……你……氣死我了……{/s}{p}你給我滾！我不想再見到你了！",
+      "c": "你......你......氣死我了......你給我滾！我不想再見到你了！",
+      "rq": true,
+      "it": null,
+      "mt": "You ...... You ...... I'm so mad at you ...... Get out of here! I don't want to see you anymore!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=8}你……你……气死我了……{/s}{p}你给我滚！我不想再见到你了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

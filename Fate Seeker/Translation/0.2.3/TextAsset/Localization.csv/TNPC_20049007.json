@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20049007",
+  "RawLine": "TNPC_20049007,只好教訓教訓這幫人了！{p}{color=#ff0000}無需取人性命，要是他們能聽勸而離去便好。{/color},只好教训教训这帮人了！{p}{color=#ff0000}无需取人性命，要是他们能听劝而离去便好。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20049007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "只好教訓教訓這幫人了！{p}{color=#ff0000}無需取人性命，要是他們能聽勸而離去便好。{/color}",
+      "c": "只好教訓教訓這幫人了！無需取人性命,要是他們能聽勸而離去便好。",
+      "rq": true,
+      "it": null,
+      "mt": "We have to teach these people a lesson! I don't need to take their lives, but if they can listen to the advice and leave, it's good.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "只好教训教训这帮人了！{p}{color=#ff0000}无需取人性命，要是他们能听劝而离去便好。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

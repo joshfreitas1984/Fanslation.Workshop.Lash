@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003907",
+  "RawLine": "TNPC_10003907,【封面寫著{color=#FF0000}玄武卷{/color}，封底寫著一個『{color=#FF0000}陰{/color}』字...裡頭不知寫了些什麼？】,【封面写着{color=#FF0000}玄武卷{/color}，封底写着一个『{color=#FF0000}阴{/color}』字...里头不知写了些什么？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003907",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【封面寫著{color=#FF0000}玄武卷{/color}，封底寫著一個『{color=#FF0000}陰{/color}』字...裡頭不知寫了些什麼？】",
+      "c": "<[>封面寫著玄武卷,封底寫著一個『陰』字...裡頭不知寫了些什麼？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>On the front cover is written the Xuanwu scroll, and on the back cover is written the word 'Yin'... I don't know what is written inside. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【封面写着{color=#FF0000}玄武卷{/color}，封底写着一个『{color=#FF0000}阴{/color}』字...里头不知写了些什么？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005579",
+  "RawLine": "TNPC_70005579,錢包若是被偷了，還是算事小，但要是有人把我的駱駝給牽了，那可要了我老薛的命啊。,钱包若是被偷了，还是算事小，但要是有人把我的骆驼给牵了，那可要了我老薛的命啊。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005579",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "錢包若是被偷了，還是算事小，但要是有人把我的駱駝給牽了，那可要了我老薛的命啊。",
+      "c": "錢包若是被偷了,還是算事小,但要是有人把我的駱駝給牽了,那可要了我老薛的命啊。",
+      "rq": true,
+      "it": null,
+      "mt": "If the wallet is stolen, it's still a small matter, but if someone takes my camel, it's going to kill me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "钱包若是被偷了，还是算事小，但要是有人把我的骆驼给牵了，那可要了我老薛的命啊。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

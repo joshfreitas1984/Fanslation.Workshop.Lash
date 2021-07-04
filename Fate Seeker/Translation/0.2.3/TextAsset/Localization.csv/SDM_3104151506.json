@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3104151506",
+  "RawLine": "SDM_3104151506,【這種行動敏捷的動物，用{color=#cc0000}激流{/color}來限制牠行動，應該會比較輕鬆，試試吧！】,【这种行动敏捷的动物，用{color=#cc0000}激流{/color}来限制它行动，应该会比较轻松，试试吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3104151506",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這種行動敏捷的動物，用{color=#cc0000}激流{/color}來限制牠行動，應該會比較輕鬆，試試吧！】",
+      "c": "<[>這種行動敏捷的動物,用激流來限制牠行動,應該會比較輕鬆,試試吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This kind of agile animal, use the rapids to restrict its movement, it should be easier, try it! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这种行动敏捷的动物，用{color=#cc0000}激流{/color}来限制它行动，应该会比较轻松，试试吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

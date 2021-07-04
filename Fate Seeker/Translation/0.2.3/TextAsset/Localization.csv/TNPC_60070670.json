@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070670",
+  "RawLine": "TNPC_60070670,【身上的錢還沒準備夠，先去攢錢再來麻煩小二吧！】,【身上的钱还没准备够，先去攒钱再来麻烦小二吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070670",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【身上的錢還沒準備夠，先去攢錢再來麻煩小二吧！】",
+      "c": "<[>身上的錢還沒準備夠,先去攢錢再來麻煩小二吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I don't have enough money on me yet, so I'll save up first and then come back to bother Xiao Er! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【身上的钱还没准备够，先去攒钱再来麻烦小二吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

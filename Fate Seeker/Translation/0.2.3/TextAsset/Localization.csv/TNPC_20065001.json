@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20065001",
+  "RawLine": "TNPC_20065001,【這老翁雖然混身酒氣，但看來沒醉，還若有所思的品著酒，一邊讀著手中的書卷，完全不理會我，看來我得{color=#ff0000}出示這堆甕片{/color}來引起他的注意才行。】,【这老翁虽然混身酒气，但看来没醉，还若有所思的品着酒，一边读着手中的书卷，完全不理会我，看来我得{color=#ff0000}出示这堆瓮片{/color}来引起他的注意才行。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20065001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這老翁雖然混身酒氣，但看來沒醉，還若有所思的品著酒，一邊讀著手中的書卷，完全不理會我，看來我得{color=#ff0000}出示這堆甕片{/color}來引起他的注意才行。】",
+      "c": "<[>這老翁雖然混身酒氣,但看來沒醉,還若有所思的品著酒,一邊讀著手中的書卷,完全不理會我,看來我得出示這堆甕片來引起他的注意才行。<]>",
+      "rq": true,
+      "it": null,
+      "mt": " <[>This old man is full of wine, but he doesn't seem to be drunk, he is still sipping his wine thoughtfully while reading the book in his hand, ignoring me completely. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这老翁虽然混身酒气，但看来没醉，还若有所思的品着酒，一边读着手中的书卷，完全不理会我，看来我得{color=#ff0000}出示这堆瓮片{/color}来引起他的注意才行。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

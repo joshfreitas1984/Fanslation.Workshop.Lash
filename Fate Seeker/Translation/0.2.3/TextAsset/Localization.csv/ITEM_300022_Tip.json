@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_300022_Tip",
+  "RawLine": "ITEM_300022_Tip,黏稠度極高的蜂蜜，可當成糖製成甜點，亦可泡水飲用。因黏稠度高，不易生蟲。,黏稠度极高的蜂蜜，可当成糖制成甜点，亦可泡水饮用。因黏稠度高，不易生虫。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_300022_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "黏稠度極高的蜂蜜，可當成糖製成甜點，亦可泡水飲用。因黏稠度高，不易生蟲。",
+      "c": "黏稠度極高的蜂蜜,可當成糖製成甜點,亦可泡水飲用。因黏稠度高,不易生蟲。",
+      "rq": true,
+      "it": null,
+      "mt": "Honey is a very viscous honey that can be used as sugar for dessert or in water. Because of its high viscosity, it is less prone to worm growth.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "黏稠度极高的蜂蜜，可当成糖制成甜点，亦可泡水饮用。因黏稠度高，不易生虫。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

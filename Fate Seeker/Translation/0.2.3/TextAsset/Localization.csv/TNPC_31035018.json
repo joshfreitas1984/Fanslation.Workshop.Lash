@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31035018",
+  "RawLine": "TNPC_31035018,【凡物品上標示{color=#cc0000}可以出示{/color}的，都可以以{color=#cc0000}右鍵{/color}拿給其他人看，有空多試試這功能吧。】,【凡物品上标示{color=#cc0000}可以出示{/color}的，都可以以{color=#cc0000}右键{/color}拿给其他人看，有空多试试这功能吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31035018",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【凡物品上標示{color=#cc0000}可以出示{/color}的，都可以以{color=#cc0000}右鍵{/color}拿給其他人看，有空多試試這功能吧。】",
+      "c": "<[>凡物品上標示可以出示的,都可以以右鍵拿給其他人看,有空多試試這功能吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Whatever is marked as presentable on the item can be shown to others with the right click. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【凡物品上标示{color=#cc0000}可以出示{/color}的，都可以以{color=#cc0000}右键{/color}拿给其他人看，有空多试试这功能吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60081215",
+  "RawLine": "TNPC_60081215,{name}少俠已悟出藏墨劍法，難道你要違背「習得藏墨劍法之人，必為藏墨派繼承人」這三派共同的誓言嗎？,{name}少侠已悟出藏墨剑法，难道你要违背「习得藏墨剑法之人，必为藏墨派继承人」这三派共同的誓言吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60081215",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}少俠已悟出藏墨劍法，難道你要違背「習得藏墨劍法之人，必為藏墨派繼承人」這三派共同的誓言嗎？",
+      "c": "<name>少俠已悟出藏墨劍法,難道你要違背「習得藏墨劍法之人,必為藏墨派繼承人」這三派共同的誓言嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "<name>You have realized the Zangmo Sword Technique, do you want to violate the common oath of the three schools that \"the one who has learned the Zangmo Sword Technique will be the successor of the Zangmo School\"?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}少侠已悟出藏墨剑法，难道你要违背「习得藏墨剑法之人，必为藏墨派继承人」这三派共同的誓言吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

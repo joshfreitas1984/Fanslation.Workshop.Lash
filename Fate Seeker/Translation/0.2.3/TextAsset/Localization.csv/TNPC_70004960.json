@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004960",
+  "RawLine": "TNPC_70004960,【看來是我{name}又要來懲奸除惡的時候了，還這世道一個朗朗乾坤。】,【看来是我{name}又要来惩奸除恶的时候了，还这世道一个朗朗乾坤。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004960",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來是我{name}又要來懲奸除惡的時候了，還這世道一個朗朗乾坤。】",
+      "c": "<[>看來是我<name>又要來懲奸除惡的時候了,還這世道一個朗朗乾坤。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that it is time for me <name> to punish the evil and remove the evil, and return the world to a clear and clean place. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来是我{name}又要来惩奸除恶的时候了，还这世道一个朗朗乾坤。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

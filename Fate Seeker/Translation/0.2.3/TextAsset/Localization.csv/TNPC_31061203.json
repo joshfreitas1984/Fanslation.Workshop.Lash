@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31061203",
+  "RawLine": "TNPC_31061203,你看，我這有罐香油。只要在飯糰上滴上個幾滴……,你看，我这有罐香油。只要在饭团上滴上个几滴……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31061203",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你看，我這有罐香油。只要在飯糰上滴上個幾滴……",
+      "c": "你看,我這有罐香油。只要在飯糰上滴上個幾滴......",
+      "rq": true,
+      "it": null,
+      "mt": "Look, I have a jar of sesame oil here. Just put a few drops on the rice ball ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你看，我这有罐香油。只要在饭团上滴上个几滴……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

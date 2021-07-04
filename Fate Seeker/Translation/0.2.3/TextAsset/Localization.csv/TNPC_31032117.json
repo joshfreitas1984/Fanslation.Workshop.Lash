@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31032117",
+  "RawLine": "TNPC_31032117,【薛婕鶯的家我記得是在村中{color=#cc0000}廣場的邊上{/color}……】,【薛婕莺的家我记得是在村中{color=#cc0000}广场的边上{/color}……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31032117",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【薛婕鶯的家我記得是在村中{color=#cc0000}廣場的邊上{/color}……】",
+      "c": "<[>薛婕鶯的家我記得是在村中廣場的邊上......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Xue Jieying's house I remember is on the edge of the village square ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【薛婕莺的家我记得是在村中{color=#cc0000}广场的边上{/color}……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

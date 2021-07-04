@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_331_Tip",
+  "RawLine": "ABILITY_331_Tip,每擊中<color=#00DB00>30</color>下恢復<color=#00DB00>10%</color>生命。,每击中<color=#00DB00>30</color>下恢复<color=#00DB00>10%</color>生命。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_331_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "每擊中<color=#00DB00>30</color>下恢復<color=#00DB00>10%</color>生命。",
+      "c": "每擊中30下恢復10%生命。",
+      "rq": true,
+      "it": null,
+      "mt": "Restores 10% life for every 30 hits.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "每击中<color=#00DB00>30</color>下恢复<color=#00DB00>10%</color>生命。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

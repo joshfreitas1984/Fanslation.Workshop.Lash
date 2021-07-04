@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04120_Tip",
+  "RawLine": "ITEM_04120_Tip,取山楂的獨特酸甜味入酒，能促進食慾，不易膩口，相當受大眾喜愛。{p}{p}種類：{color=#ff0000}果酒{/color}{p}合成難度：{color=#ff0000}2{/color}。,取山楂的独特酸甜味入酒，能促进食慾，不易腻口，相当受大众喜爱。{p}{p}种类：{color=#ff0000}果酒{/color}{p}合成难度：{color=#ff0000}2{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04120_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "取山楂的獨特酸甜味入酒，能促進食慾，不易膩口，相當受大眾喜愛。{p}{p}種類：{color=#ff0000}果酒{/color}{p}合成難度：{color=#ff0000}2{/color}。",
+      "c": "取山楂的獨特酸甜味入酒,能促進食慾,不易膩口,相當受大眾喜愛。種類：果酒合成難度：2。",
+      "rq": true,
+      "it": null,
+      "mt": "The unique sweet and sour taste of hawthorn is added to the wine, which can promote appetite and is not easily greasy to the palate, making it very popular. Type: Fruit wine Synthesis difficulty: 2.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "取山楂的独特酸甜味入酒，能促进食慾，不易腻口，相当受大众喜爱。{p}{p}种类：{color=#ff0000}果酒{/color}{p}合成难度：{color=#ff0000}2{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

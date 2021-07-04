@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004473",
+  "RawLine": "TNPC_70004473,而{color=#FF0000}桌上的紙條{/color}則是開啟機關的關鍵。,而{color=#FF0000}桌上的纸条{/color}则是开启机关的关键。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004473",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "而{color=#FF0000}桌上的紙條{/color}則是開啟機關的關鍵。",
+      "c": "而桌上的紙條則是開啟機關的關鍵。",
+      "rq": true,
+      "it": null,
+      "mt": "And the note on the table is the key to open the mechanism.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "而{color=#FF0000}桌上的纸条{/color}则是开启机关的关键。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001389",
+  "RawLine": "TNPC_70001389,這是一具屍體。{p}【{color=#FF0000}調查這具屍體{/color}，也許會有額外的發現。】,这是一具尸体。{p}【{color=#FF0000}调查这具尸体{/color}，也许会有额外的发现。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001389",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這是一具屍體。{p}【{color=#FF0000}調查這具屍體{/color}，也許會有額外的發現。】",
+      "c": "這是一具屍體。<[>調查這具屍體,也許會有額外的發現。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "This is a corpse. <[>Investigation of this corpse may lead to additional findings. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这是一具尸体。{p}【{color=#FF0000}调查这具尸体{/color}，也许会有额外的发现。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

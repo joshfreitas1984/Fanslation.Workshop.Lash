@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_202002_Tip",
+  "RawLine": "ITEM_202002_Tip,酒館常見的名酒之一，酒色淡黃偏白，喝起來有荔枝香。{p}{p}合成難度：{color=#ff0000}1{/color}。,酒馆常见的名酒之一，酒色淡黄偏白，喝起来有荔枝香。{p}{p}合成难度：{color=#ff0000}1{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_202002_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "酒館常見的名酒之一，酒色淡黃偏白，喝起來有荔枝香。{p}{p}合成難度：{color=#ff0000}1{/color}。",
+      "c": "酒館常見的名酒之一,酒色淡黃偏白,喝起來有荔枝香。合成難度：1。",
+      "rq": true,
+      "it": null,
+      "mt": "One of the most common sake in the tavern, it has a light yellowish-white color and a lychee aroma. Synthesis difficulty: 1.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酒馆常见的名酒之一，酒色淡黄偏白，喝起来有荔枝香。{p}{p}合成难度：{color=#ff0000}1{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

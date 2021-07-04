@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30071003",
+  "RawLine": "TNPC_30071003,我是說{color=#FF0000}回春藥鋪{/color}的藥應有盡有喔！,我是说{color=#FF0000}回春药铺{/color}的药应有尽有喔！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30071003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我是說{color=#FF0000}回春藥鋪{/color}的藥應有盡有喔！",
+      "c": "我是說回春藥鋪的藥應有盡有喔！",
+      "rq": true,
+      "it": null,
+      "mt": "I mean, there should be all kinds of medicine in the herbal shop!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我是说{color=#FF0000}回春药铺{/color}的药应有尽有喔！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

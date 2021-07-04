@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072322",
+  "RawLine": "TNPC_60072322,我家裡好像有一個，你可以去{color=#cc0000}雜貨鋪{/color}那裡問問看。,我家里好像有一个，你可以去{color=#cc0000}杂货铺{/color}那里问问看。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072322",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我家裡好像有一個，你可以去{color=#cc0000}雜貨鋪{/color}那裡問問看。",
+      "c": "我家裡好像有一個,你可以去雜貨鋪那裡問問看。",
+      "rq": true,
+      "it": null,
+      "mt": "I think there is one in my house, you can go to the grocery store and ask about it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我家里好像有一个，你可以去{color=#cc0000}杂货铺{/color}那里问问看。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

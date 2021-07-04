@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31081503",
+  "RawLine": "TNPC_31081503,【「難得」出來一趟，感覺趙姑娘的家裡管教相當嚴厲啊。】,【「难得」出来一趟，感觉赵姑娘的家里管教相当严厉啊。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31081503",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【「難得」出來一趟，感覺趙姑娘的家裡管教相當嚴厲啊。】",
+      "c": "<[>「難得」出來一趟,感覺趙姑娘的家裡管教相當嚴厲啊。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>\"It's a rare trip\", I feel that Zhao's family is very strict in discipline. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【「难得」出来一趟，感觉赵姑娘的家里管教相当严厉啊。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_222_Tip",
+  "RawLine": "ABILITY_222_Tip,受到傷害時，<color=#00DB00>10%</color>傷害改為扣除內力。,受到伤害时，<color=#00DB00>10%</color>伤害改为扣除内力。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_222_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "受到傷害時，<color=#00DB00>10%</color>傷害改為扣除內力。",
+      "c": "受到傷害時,10%傷害改為扣除內力。",
+      "rq": true,
+      "it": null,
+      "mt": "When taking damage, 10% of the damage is reduced to internal power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "受到伤害时，<color=#00DB00>10%</color>伤害改为扣除内力。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

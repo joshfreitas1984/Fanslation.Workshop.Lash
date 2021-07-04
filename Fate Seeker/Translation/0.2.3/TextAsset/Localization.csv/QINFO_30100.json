@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_30100",
+  "RawLine": "QINFO_30100,向{color=#cc0000}糧倉{/color}旁的黃正買{color=#cc0000}麵粉{/color}再前往{color=#cc0000}酒館{/color}與龐大娘對話。（小溪村）,向{color=#cc0000}粮仓{/color}旁的黄正买{color=#cc0000}面粉{/color}再前往{color=#cc0000}酒馆{/color}与庞大娘对话。（小溪村）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_30100",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "向{color=#cc0000}糧倉{/color}旁的黃正買{color=#cc0000}麵粉{/color}再前往{color=#cc0000}酒館{/color}與龐大娘對話。（小溪村）",
+      "c": "向糧倉旁的黃正買麵粉再前往酒館與龐大娘對話。（小溪村）",
+      "rq": true,
+      "it": null,
+      "mt": " Buy flour from Huang Zheng by the granary and then go to the tavern to talk to Pang Daniang. (Xiao Xi Village)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "向{color=#cc0000}粮仓{/color}旁的黄正买{color=#cc0000}面粉{/color}再前往{color=#cc0000}酒馆{/color}与庞大娘对话。（小溪村）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

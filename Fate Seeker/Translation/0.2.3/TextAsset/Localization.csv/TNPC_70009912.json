@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009912",
+  "RawLine": "TNPC_70009912,一幅普通的山水畫，旁邊還有落款，{color=#cc0000}擊燕{/color}…是這畫的作者嗎？,一幅普通的山水画，旁边还有落款，{color=#cc0000}击燕{/color}…是这画的作者吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009912",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一幅普通的山水畫，旁邊還有落款，{color=#cc0000}擊燕{/color}…是這畫的作者嗎？",
+      "c": "一幅普通的山水畫,旁邊還有落款,擊燕...是這畫的作者嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "An ordinary landscape painting with an inscription next to it, hitting Yan... Is it the author of this painting?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一幅普通的山水画，旁边还有落款，{color=#cc0000}击燕{/color}…是这画的作者吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

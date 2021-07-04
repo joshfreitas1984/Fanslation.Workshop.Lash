@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078151",
+  "RawLine": "TNPC_60078151,斷腸劍？{name}兄弟你……真是抱歉，我無法接受此劍。,断肠剑？{name}兄弟你……真是抱歉，我无法接受此剑。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078151",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "斷腸劍？{name}兄弟你……真是抱歉，我無法接受此劍。",
+      "c": "斷腸劍？<name>兄弟你......真是抱歉,我無法接受此劍。",
+      "rq": true,
+      "it": null,
+      "mt": "Sword of Broken Intestines? <name>Brother you ...... I'm really sorry, I can't accept this sword.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "断肠剑？{name}兄弟你……真是抱歉，我无法接受此剑。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

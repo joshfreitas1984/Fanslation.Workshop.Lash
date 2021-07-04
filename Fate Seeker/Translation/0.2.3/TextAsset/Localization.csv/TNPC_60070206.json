@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070206",
+  "RawLine": "TNPC_60070206,紙條內容：各位兄弟聽令，盡速前往此地搜查玉珮，成功獲取玉珮者將有重金賞賜！,纸条内容：各位兄弟听令，尽速前往此地搜查玉珮，成功获取玉珮者将有重金赏赐！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070206",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "紙條內容：各位兄弟聽令，盡速前往此地搜查玉珮，成功獲取玉珮者將有重金賞賜！",
+      "c": "紙條內容：各位兄弟聽令,盡速前往此地搜查玉珮,成功獲取玉珮者將有重金賞賜！",
+      "rq": true,
+      "it": null,
+      "mt": "The content of the note: All brothers, listen to the order, go to this place to search for the jade pendant, and those who succeed in getting the jade pendant will be rewarded with heavy money!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "纸条内容：各位兄弟听令，尽速前往此地搜查玉珮，成功获取玉珮者将有重金赏赐！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30052002",
+  "RawLine": "TNPC_30052002,婆婆啊，你記得今天之前有去過哪些地方嗎？我說不定能幫你找找遺失的{color=#cc0000}髮簪{/color}。,婆婆啊，你记得今天之前有去过哪些地方吗？我说不定能帮你找找遗失的{color=#cc0000}发簪{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30052002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "婆婆啊，你記得今天之前有去過哪些地方嗎？我說不定能幫你找找遺失的{color=#cc0000}髮簪{/color}。",
+      "c": "婆婆啊,你記得今天之前有去過哪些地方嗎？我說不定能幫你找找遺失的髮簪。",
+      "rq": true,
+      "it": null,
+      "mt": "Granny, do you remember where you have been before today? I might be able to help you find your lost hairpin.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "婆婆啊，你记得今天之前有去过哪些地方吗？我说不定能帮你找找遗失的{color=#cc0000}发簪{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

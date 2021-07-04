@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006813",
+  "RawLine": "TNPC_70006813,{ln}少俠，雖然你化解了開封鏢局的危機，但以結果來說，你的處事能力，無法讓我認可你能統領整個武林。,{ln}少侠，虽然你化解了开封镖局的危机，但以结果来说，你的处事能力，无法让我认可你能统领整个武林。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006813",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{ln}少俠，雖然你化解了開封鏢局的危機，但以結果來說，你的處事能力，無法讓我認可你能統領整個武林。",
+      "c": "<ln>少俠,雖然你化解了開封鏢局的危機,但以結果來說,你的處事能力,無法讓我認可你能統領整個武林。",
+      "rq": true,
+      "it": null,
+      "mt": "<ln>You have solved the crisis of Kaifeng Dart Board, but in terms of the result, your ability to handle the situation is not enough for me to recognize your ability to lead the whole martial world.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{ln}少侠，虽然你化解了开封镖局的危机，但以结果来说，你的处事能力，无法让我认可你能统领整个武林。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

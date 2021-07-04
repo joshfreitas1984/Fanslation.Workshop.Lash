@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005355",
+  "RawLine": "TNPC_70005355,【這麼說，就跟老乞丐的話對上了，她小時候的確慘遭虐待。】,【这么说，就跟老乞丐的话对上了，她小时候的确惨遭虐待。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005355",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這麼說，就跟老乞丐的話對上了，她小時候的確慘遭虐待。】",
+      "c": "<[>這麼說,就跟老乞丐的話對上了,她小時候的確慘遭虐待。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is the same as what the old beggar said, that she was really abused as a child. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这么说，就跟老乞丐的话对上了，她小时候的确惨遭虐待。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

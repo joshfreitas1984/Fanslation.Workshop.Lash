@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001425",
+  "RawLine": "TNPC_70001425,少俠，老朽剛剛又仔細再診一次。{p}這姑娘的脈象本主富貴。可又主大凶實在叫人為難。,少侠，老朽刚刚又仔细再诊一次。{p}这姑娘的脉象本主富贵。可又主大凶实在叫人为难。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001425",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "少俠，老朽剛剛又仔細再診一次。{p}這姑娘的脈象本主富貴。可又主大凶實在叫人為難。",
+      "c": "少俠,老朽剛剛又仔細再診一次。這姑娘的脈象本主富貴。可又主大凶實在叫人為難。",
+      "rq": true,
+      "it": null,
+      "mt": "You are a young warrior, I just had a careful re-examination. The girl's pulse is originally rich and wealthy. The actual fact is that it's a difficult situation.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "少侠，老朽刚刚又仔细再诊一次。{p}这姑娘的脉象本主富贵。可又主大凶实在叫人为难。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

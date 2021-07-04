@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20029012",
+  "RawLine": "TNPC_20029012,唷～看來你們這些賊人還是有點腦子的。{p}若肯被我{color=#ff0000}勸服{/color}者，我能繞你一命。{p}畢竟我不是屠夫，不喜歡砍蠢豬。,唷～看来你们这些贼人还是有点脑子的。{p}若肯被我{color=#ff0000}劝服{/color}者，我能绕你一命。{p}毕竟我不是屠夫，不喜欢砍蠢猪。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20029012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唷～看來你們這些賊人還是有點腦子的。{p}若肯被我{color=#ff0000}勸服{/color}者，我能繞你一命。{p}畢竟我不是屠夫，不喜歡砍蠢豬。",
+      "c": "唷～看來你們這些賊人還是有點腦子的。若肯被我勸服者,我能繞你一命。畢竟我不是屠夫,不喜歡砍蠢豬。",
+      "rq": true,
+      "it": null,
+      "mt": "Yo, it seems that you thieves still have some brains. If you are willing to be persuaded by me, I can spare your life. After all, I'm not a butcher and I don't like to cut down stupid pigs.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唷～看来你们这些贼人还是有点脑子的。{p}若肯被我{color=#ff0000}劝服{/color}者，我能绕你一命。{p}毕竟我不是屠夫，不喜欢砍蠢猪。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

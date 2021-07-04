@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002632",
+  "RawLine": "TNPC_70002632,我也絕不會讓他們得逞！！那摩尼奸賊殘害了我嬸娘，我{name}誓死為他們報仇！,我也绝不会让他们得逞！！那摩尼奸贼残害了我婶娘，我{name}誓死为他们报仇！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002632",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我也絕不會讓他們得逞！！那摩尼奸賊殘害了我嬸娘，我{name}誓死為他們報仇！",
+      "c": "我也絕不會讓他們得逞！！那摩尼奸賊殘害了我嬸娘,我<name>誓死為他們報仇！",
+      "rq": true,
+      "it": null,
+      "mt": "I will never let them succeed either! I <name>will never let them do it! That traitorous Mani murdered my aunt, and I <name>will die to avenge them!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我也绝不会让他们得逞！！那摩尼奸贼残害了我婶娘，我{name}誓死为他们报仇！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

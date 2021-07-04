@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070737",
+  "RawLine": "TNPC_60070737,{s=6}……………{/s}奇怪，怎麼也沒人在家，該不會也外出了吧？不知道有誰知道李嬸去哪了？,{s=6}……………{/s}奇怪，怎么也没人在家，该不会也外出了吧？不知道有谁知道李婶去哪了？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070737",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}……………{/s}奇怪，怎麼也沒人在家，該不會也外出了吧？不知道有誰知道李嬸去哪了？",
+      "c": "...............奇怪,怎麼也沒人在家,該不會也外出了吧？不知道有誰知道李嬸去哪了？",
+      "rq": true,
+      "it": null,
+      "mt": "............... It's strange, no one is at home, they are not out too, right? I wonder if anyone knows where Ahjumma Li has gone?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}……………{/s}奇怪，怎么也没人在家，该不会也外出了吧？不知道有谁知道李婶去哪了？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

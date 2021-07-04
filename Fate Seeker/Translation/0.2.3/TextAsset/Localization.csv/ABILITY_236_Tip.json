@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_236_Tip",
+  "RawLine": "ABILITY_236_Tip,完整施展劍類招式後，移動速度變為原先的<color=#00DB00>110%</color>，持續<color=#00DB00>5</color>秒,完整施展剑类招式后，移动速度变为原先的<color=#00DB00>110%</color>，持续<color=#00DB00>5</color>秒",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_236_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "完整施展劍類招式後，移動速度變為原先的<color=#00DB00>110%</color>，持續<color=#00DB00>5</color>秒",
+      "c": "完整施展劍類招式後,移動速度變為原先的110%,持續5秒",
+      "rq": true,
+      "it": null,
+      "mt": "After performing a full sword type move, the movement speed becomes 110% of the original speed for 5 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "完整施展剑类招式后，移动速度变为原先的<color=#00DB00>110%</color>，持续<color=#00DB00>5</color>秒",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

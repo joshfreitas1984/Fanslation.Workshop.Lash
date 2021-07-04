@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_114_Tip",
+  "RawLine": "ABILITY_114_Tip,若出示得到回應，<color=#00DB00>30</color>分內消耗內力下降<color=#00DB00>5%</color>。,若出示得到回应，<color=#00DB00>30</color>分内消耗内力下降<color=#00DB00>5%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_114_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "若出示得到回應，<color=#00DB00>30</color>分內消耗內力下降<color=#00DB00>5%</color>。",
+      "c": "若出示得到回應,30分內消耗內力下降5%。",
+      "rq": true,
+      "it": null,
+      "mt": "If presented with a response, power consumption decreases by 5% for 30 minutes.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "若出示得到回应，<color=#00DB00>30</color>分内消耗内力下降<color=#00DB00>5%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

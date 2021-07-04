@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31076102",
+  "RawLine": "TNPC_31076102,接著要請你釀造{color=#cc0000}蜜桃酒{/color}，這是難度約為{color=#cc0000}八{/color}的{color=#cc0000}果酒{/color}，當然也是需要高品質的！,接着要请你酿造{color=#cc0000}蜜桃酒{/color}，这是难度约为{color=#cc0000}八{/color}的{color=#cc0000}果酒{/color}，当然也是需要高品质的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31076102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "接著要請你釀造{color=#cc0000}蜜桃酒{/color}，這是難度約為{color=#cc0000}八{/color}的{color=#cc0000}果酒{/color}，當然也是需要高品質的！",
+      "c": "接著要請你釀造蜜桃酒,這是難度約為八的果酒,當然也是需要高品質的！",
+      "rq": true,
+      "it": null,
+      "mt": "Next, we'll ask you to make peach wine, which is about eight times more difficult to make, and of course needs to be of high quality!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "接着要请你酿造{color=#cc0000}蜜桃酒{/color}，这是难度约为{color=#cc0000}八{/color}的{color=#cc0000}果酒{/color}，当然也是需要高品质的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

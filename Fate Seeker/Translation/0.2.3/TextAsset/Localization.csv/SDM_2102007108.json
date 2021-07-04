@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102007108",
+  "RawLine": "SDM_2102007108,好吧，提示就是{color=#ff0000}「綢繆束楚，三星在戶。」{/color},好吧，提示就是{color=#ff0000}「绸缪束楚，三星在户。」{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102007108",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "好吧，提示就是{color=#ff0000}「綢繆束楚，三星在戶。」{/color}",
+      "c": "好吧,提示就是「綢繆束楚,三星在戶。」",
+      "rq": true,
+      "it": null,
+      "mt": "Well, the hint is \"The three stars are in the door.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "好吧，提示就是{color=#ff0000}「绸缪束楚，三星在户。」{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

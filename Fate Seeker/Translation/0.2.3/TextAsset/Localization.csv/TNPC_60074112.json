@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074112",
+  "RawLine": "TNPC_60074112,【這東西看起來可以拿來開鎖，那守衛還真是夠朋友。】,【这东西看起来可以拿来开锁，那守卫还真是够朋友。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074112",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這東西看起來可以拿來開鎖，那守衛還真是夠朋友。】",
+      "c": "<[>這東西看起來可以拿來開鎖,那守衛還真是夠朋友。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This thing looks like it can be used to open locks, the guards are really friends. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这东西看起来可以拿来开锁，那守卫还真是够朋友。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

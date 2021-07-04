@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SystemWindow.Medicine.MaterialNotEnough",
+  "RawLine": "SystemWindow.Medicine.MaterialNotEnough,投入材料不足以製藥，請至少投入三種材料。,投入材料不足以制药，请至少投入三种材料。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SystemWindow.Medicine.MaterialNotEnough",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "投入材料不足以製藥，請至少投入三種材料。",
+      "c": "投入材料不足以製藥,請至少投入三種材料。",
+      "rq": true,
+      "it": null,
+      "mt": "Input material is not enough to make medicine, please input at least three kinds of material.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "投入材料不足以制药，请至少投入三种材料。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

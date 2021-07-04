@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20006006",
+  "RawLine": "TNPC_20006006,{s=6}抱歉……{/s}我還在整理新進的乾貨，{p}你要買東西的話，請改天再過來……,{s=6}抱歉……{/s}我还在整理新进的干货，{p}你要买东西的话，请改天再过来……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20006006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}抱歉……{/s}我還在整理新進的乾貨，{p}你要買東西的話，請改天再過來……",
+      "c": "抱歉......我還在整理新進的乾貨,你要買東西的話,請改天再過來......",
+      "rq": true,
+      "it": null,
+      "mt": "Sorry ...... I'm still sorting out the new dry goods, if you want to buy something, please come back another day ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}抱歉……{/s}我还在整理新进的干货，{p}你要买东西的话，请改天再过来……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

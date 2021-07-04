@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31056031",
+  "RawLine": "TNPC_31056031,【大姐姐現在有求於{fn}，沒辦法幫你們，抱歉囉～】,【大姐姐现在有求于{fn}，没办法帮你们，抱歉啰～】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31056031",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【大姐姐現在有求於{fn}，沒辦法幫你們，抱歉囉～】",
+      "c": "<[>大姐姐現在有求於<fn>,沒辦法幫你們,抱歉囉～<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I can't help you because I'm in need of <fn>, sorry.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【大姐姐现在有求于{fn}，没办法帮你们，抱歉啰～】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

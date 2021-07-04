@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130107_Tip",
+  "RawLine": "SKILL_130107_Tip,【{color=#FFD700}增益{/color}】\\n依序使用過{color=#FF0000}蓄流{/color}、{color=#FF0000}長流{/color}、{color=#FF0000}噬流{/color}後可使用本招式。\\n使用此招式可增加{color=#FF0000}25{/color}%的攻擊力一段時間，並能開啟後續招式。,【{color=#FFD700}增益{/color}】\\n依序使用过{color=#FF0000}蓄流{/color}、{color=#FF0000}长流{/color}、{color=#FF0000}噬流{/color}后可使用本招式。\\n使用此招式可增加{color=#FF0000}25{/color}%的攻击力一段时间，并能开启后续招式。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130107_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}增益{/color}】\\n依序使用過{color=#FF0000}蓄流{/color}、{color=#FF0000}長流{/color}、{color=#FF0000}噬流{/color}後可使用本招式。\\n使用此招式可增加{color=#FF0000}25{/color}%的攻擊力一段時間，並能開啟後續招式。",
+      "c": "<[>增益<]><<\\n>>依序使用過蓄流、長流、噬流後可使用本招式。<<\\n>>使用此招式可增加25%的攻擊力一段時間,並能開啟後續招式。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Gain<]><<\\n>> This move can be used after using Ryu, Long Ryu, and Devour Ryu in that order. <<\\n>>Use this move to increase attack power by 25% for a period of time, and to open up subsequent moves.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}增益{/color}】\\n依序使用过{color=#FF0000}蓄流{/color}、{color=#FF0000}长流{/color}、{color=#FF0000}噬流{/color}后可使用本招式。\\n使用此招式可增加{color=#FF0000}25{/color}%的攻击力一段时间，并能开启后续招式。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

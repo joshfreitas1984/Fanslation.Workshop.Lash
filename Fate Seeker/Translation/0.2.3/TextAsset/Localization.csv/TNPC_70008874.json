@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70008874",
+  "RawLine": "TNPC_70008874,想不到{ln}盟主功力如此深厚，修哥居然敗在你手中，這是令牌還請收下。,想不到{ln}盟主功力如此深厚，修哥居然败在你手中，这是令牌还请收下。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70008874",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "想不到{ln}盟主功力如此深厚，修哥居然敗在你手中，這是令牌還請收下。",
+      "c": "想不到<ln>盟主功力如此深厚,修哥居然敗在你手中,這是令牌還請收下。",
+      "rq": true,
+      "it": null,
+      "mt": "I can't believe that <ln>the alliance master is so profound, brother Xiu actually lost in your hands, this is the token, please take it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "想不到{ln}盟主功力如此深厚，修哥居然败在你手中，这是令牌还请收下。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101034436",
+  "RawLine": "SDM_1101034436,【這髮簪上鑲的是代表不幸的{color=#FF0000}磷碧石{/color}，但嬸娘髮簪上的，應該是代表祝福的{color=#FF0000}磷翠石{/color}才對。】,【这发簪上镶的是代表不幸的{color=#FF0000}磷碧石{/color}，但婶娘发簪上的，应该是代表祝福的{color=#FF0000}磷翠石{/color}才对。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101034436",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這髮簪上鑲的是代表不幸的{color=#FF0000}磷碧石{/color}，但嬸娘髮簪上的，應該是代表祝福的{color=#FF0000}磷翠石{/color}才對。】",
+      "c": "<[>這髮簪上鑲的是代表不幸的磷碧石,但嬸娘髮簪上的,應該是代表祝福的磷翠石才對。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This hairpin is set with a phosphorite, which represents misfortune, but the one on the aunt's hairpin should be a phosphorite, which represents blessing. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这发簪上镶的是代表不幸的{color=#FF0000}磷碧石{/color}，但婶娘发簪上的，应该是代表祝福的{color=#FF0000}磷翠石{/color}才对。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

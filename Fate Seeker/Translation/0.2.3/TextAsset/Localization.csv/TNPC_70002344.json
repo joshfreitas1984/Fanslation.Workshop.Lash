@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002344",
+  "RawLine": "TNPC_70002344,我看看……『案犯{name}，山賊黨羽，打家劫舍，十惡不赦。全城通緝』……,我看看……『案犯{name}，山贼党羽，打家劫舍，十恶不赦。全城通缉』……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002344",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我看看……『案犯{name}，山賊黨羽，打家劫舍，十惡不赦。全城通緝』……",
+      "c": "我看看......『案犯<name>,山賊黨羽,打家劫舍,十惡不赦。全城通緝』......",
+      "rq": true,
+      "it": null,
+      "mt": "我看看......『案犯<name>,山賊黨羽,打家劫舍,十惡不赦。全城通緝』......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我看看……『案犯{name}，山贼党羽，打家劫舍，十恶不赦。全城通缉』……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

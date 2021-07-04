@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20047021",
+  "RawLine": "TNPC_20047021,老伯說完這話就斷氣了。{p}搜了一下，身上只有帶著一些銀兩，{p}看來錢都集中在賊王身上了。,老伯说完这话就断气了。{p}搜了一下，身上只有带着一些银两，{p}看来钱都集中在贼王身上了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20047021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老伯說完這話就斷氣了。{p}搜了一下，身上只有帶著一些銀兩，{p}看來錢都集中在賊王身上了。",
+      "c": "老伯說完這話就斷氣了。搜了一下,身上只有帶著一些銀兩,看來錢都集中在賊王身上了。",
+      "rq": true,
+      "it": null,
+      "mt": "The old man died after he said this. The money is all concentrated on the King of Thieves.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老伯说完这话就断气了。{p}搜了一下，身上只有带着一些银两，{p}看来钱都集中在贼王身上了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

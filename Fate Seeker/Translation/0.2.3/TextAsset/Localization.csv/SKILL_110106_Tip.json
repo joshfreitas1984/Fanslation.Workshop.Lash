@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110106_Tip",
+  "RawLine": "SKILL_110106_Tip,【{color=#FFD700}強力{/color}】\\n傷害高的遠距離招式，準備較久不易命中。,【{color=#FFD700}强力{/color}】\\n伤害高的远距离招式，准备较久不易命中。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110106_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n傷害高的遠距離招式，準備較久不易命中。",
+      "c": "<[>強力<]><<\\n>>傷害高的遠距離招式,準備較久不易命中。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>> A long-range move with high damage, but it takes longer to prepare and is harder to hit.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n伤害高的远距离招式，准备较久不易命中。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

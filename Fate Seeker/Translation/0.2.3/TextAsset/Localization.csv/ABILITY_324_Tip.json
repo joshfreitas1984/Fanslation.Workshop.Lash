@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_324_Tip",
+  "RawLine": "ABILITY_324_Tip,被敵人中斷動作時，<color=#00DB00>10%</color>機率讓所有冷卻時間下降<color=#00DB00>20</color>秒。,被敌人中断动作时，<color=#00DB00>10%</color>机率让所有冷却时间下降<color=#00DB00>20</color>秒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_324_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "被敵人中斷動作時，<color=#00DB00>10%</color>機率讓所有冷卻時間下降<color=#00DB00>20</color>秒。",
+      "c": "被敵人中斷動作時,10%機率讓所有冷卻時間下降20秒。",
+      "rq": true,
+      "it": null,
+      "mt": "When interrupted by an enemy, there is a 10% chance that all cooldowns will be reduced by 20 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "被敌人中断动作时，<color=#00DB00>10%</color>机率让所有冷却时间下降<color=#00DB00>20</color>秒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

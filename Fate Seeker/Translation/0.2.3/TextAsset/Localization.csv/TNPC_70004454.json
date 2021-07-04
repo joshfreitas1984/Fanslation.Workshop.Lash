@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004454",
+  "RawLine": "TNPC_70004454,【{color=#FF0000}先回去家裡在寢房、小廳堂跟倉庫{/color}找臭老頭要給張伯的東西，再來找張伯。】,【{color=#FF0000}先回去家里在寝房、小厅堂跟仓库{/color}找臭老头要给张伯的东西，再来找张伯。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004454",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FF0000}先回去家裡在寢房、小廳堂跟倉庫{/color}找臭老頭要給張伯的東西，再來找張伯。】",
+      "c": "<[>先回去家裡在寢房、小廳堂跟倉庫找臭老頭要給張伯的東西,再來找張伯。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Go back to your house and look for the things that the old man wants to give to uncle Zhang in the bedroom, the small hall and the warehouse, then come to uncle Zhang. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FF0000}先回去家里在寝房、小厅堂跟仓库{/color}找臭老头要给张伯的东西，再来找张伯。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

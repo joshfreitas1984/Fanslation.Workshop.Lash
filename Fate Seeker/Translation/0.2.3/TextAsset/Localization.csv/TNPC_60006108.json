@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60006108",
+  "RawLine": "TNPC_60006108,不好意思，打擾一下啊！{p}我從你們教徒的人手上拿到這封信，你們看看。,不好意思，打扰一下啊！{p}我从你们教徒的人手上拿到这封信，你们看看。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60006108",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "不好意思，打擾一下啊！{p}我從你們教徒的人手上拿到這封信，你們看看。",
+      "c": "不好意思,打擾一下啊！我從你們教徒的人手上拿到這封信,你們看看。",
+      "rq": true,
+      "it": null,
+      "mt": " Sorry to interrupt! I got this letter from the people of your congregation, take a look at it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "不好意思，打扰一下啊！{p}我从你们教徒的人手上拿到这封信，你们看看。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

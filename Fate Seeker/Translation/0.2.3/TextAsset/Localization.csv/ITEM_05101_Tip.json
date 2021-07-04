@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05101_Tip",
+  "RawLine": "ITEM_05101_Tip,製藥藥材，發散風寒藥，別名龍沙。味微苦帶辛，可解表寒、消腫、性熱，不宜大量服用。{p}{p}合成難度：{color=#ff0000}2{/color}。,制药药材，发散风寒药，别名龙沙。味微苦带辛，可解表寒、消肿、性热，不宜大量服用。{p}{p}合成难度：{color=#ff0000}2{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05101_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，發散風寒藥，別名龍沙。味微苦帶辛，可解表寒、消腫、性熱，不宜大量服用。{p}{p}合成難度：{color=#ff0000}2{/color}。",
+      "c": "製藥藥材,發散風寒藥,別名龍沙。味微苦帶辛,可解表寒、消腫、性熱,不宜大量服用。合成難度：2。",
+      "rq": true,
+      "it": null,
+      "mt": "Making herbal medicine, dispersing wind and cold, also known as Long Sha. It is slightly bitter with pungent taste and can relieve cold, subdue swelling and is hot in nature, but should not be taken in large quantities. Synthesis difficulty: 2.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，发散风寒药，别名龙沙。味微苦带辛，可解表寒、消肿、性热，不宜大量服用。{p}{p}合成难度：{color=#ff0000}2{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

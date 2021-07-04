@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08029294",
+  "RawLine": "TNPC_08029294,{fn}，好了，她答應陪你說話了，小心別再講錯話囉。,{fn}，好了，她答应陪你说话了，小心别再讲错话啰。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08029294",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}，好了，她答應陪你說話了，小心別再講錯話囉。",
+      "c": "<fn>,好了,她答應陪你說話了,小心別再講錯話囉。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>, okay, she promised to talk to you, be careful not to say the wrong thing again.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}，好了，她答应陪你说话了，小心别再讲错话啰。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

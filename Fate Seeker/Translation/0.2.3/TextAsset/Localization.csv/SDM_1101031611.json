@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101031611",
+  "RawLine": "SDM_1101031611,【谷主老僕的紙條上寫到，{color=#FF0000}紫綬金丹{/color}的藥效可以用{color=#FF0000}茯神木汁液{/color}解除，口服、{color=#FF0000}針術施入{/color}都是可行的方法。】,【谷主老仆的纸条上写到，{color=#FF0000}紫绶金丹{/color}的药效可以用{color=#FF0000}茯神木汁液{/color}解除，口服、{color=#FF0000}针术施入{/color}都是可行的方法。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101031611",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【谷主老僕的紙條上寫到，{color=#FF0000}紫綬金丹{/color}的藥效可以用{color=#FF0000}茯神木汁液{/color}解除，口服、{color=#FF0000}針術施入{/color}都是可行的方法。】",
+      "c": "<[>谷主老僕的紙條上寫到,紫綬金丹的藥效可以用茯神木汁液解除,口服、針術施入都是可行的方法。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The note from the Gu Master's servant said that the effect of the Purple Shou Gold Pill can be lifted with the juice of Porcupine wood, and that oral and needle application are both possible methods. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【谷主老仆的纸条上写到，{color=#FF0000}紫绶金丹{/color}的药效可以用{color=#FF0000}茯神木汁液{/color}解除，口服、{color=#FF0000}针术施入{/color}都是可行的方法。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

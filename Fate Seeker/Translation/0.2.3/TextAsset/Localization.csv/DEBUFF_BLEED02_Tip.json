@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "DEBUFF_BLEED02_Tip",
+  "RawLine": "DEBUFF_BLEED02_Tip,一段時間持續出血效果，期間將會持續扣血，並無法使用任何恢復手段,一段时间持续出血效果，期间将会持续扣血，并无法使用任何恢复手段",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "DEBUFF_BLEED02_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一段時間持續出血效果，期間將會持續扣血，並無法使用任何恢復手段",
+      "c": "一段時間持續出血效果,期間將會持續扣血,並無法使用任何恢復手段",
+      "rq": true,
+      "it": null,
+      "mt": "A continuous bleeding effect for a period of time, during which blood will continue to be deducted and no recovery can be used.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一段时间持续出血效果，期间将会持续扣血，并无法使用任何恢复手段",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

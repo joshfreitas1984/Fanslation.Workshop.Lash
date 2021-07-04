@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101802350",
+  "RawLine": "SDM_3101802350,【對{color=#cc0000}趙妽{/color}點擊{color=#cc0000}右鍵{/color}以進行{color=#cc0000}出示{/color}，給她看看山賊落下的玉石吧！】,【对{color=#cc0000}赵妽{/color}点击{color=#cc0000}右键{/color}以进行{color=#cc0000}出示{/color}，给她看看山贼落下的玉石吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101802350",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【對{color=#cc0000}趙妽{/color}點擊{color=#cc0000}右鍵{/color}以進行{color=#cc0000}出示{/color}，給她看看山賊落下的玉石吧！】",
+      "c": "<[>對趙妽點擊右鍵以進行出示,給她看看山賊落下的玉石吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Right click on Zhao Qi to show her the jade stone that the bandit left behind! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【对{color=#cc0000}赵妽{/color}点击{color=#cc0000}右键{/color}以进行{color=#cc0000}出示{/color}，给她看看山贼落下的玉石吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

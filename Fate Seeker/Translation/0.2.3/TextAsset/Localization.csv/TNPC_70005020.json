@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005020",
+  "RawLine": "TNPC_70005020,【唉，雖然這樣有點殘忍，但還是把{color=#FF0000}他父親昔日的罪證{/color}交給他看看吧。】,【唉，虽然这样有点残忍，但还是把{color=#FF0000}他父亲昔日的罪证{/color}交给他看看吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【唉，雖然這樣有點殘忍，但還是把{color=#FF0000}他父親昔日的罪證{/color}交給他看看吧。】",
+      "c": "<[>唉,雖然這樣有點殘忍,但還是把他父親昔日的罪證交給他看看吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Alas, although this is a bit cruel, let's show him the evidence of his father's past crimes. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【唉，虽然这样有点残忍，但还是把{color=#FF0000}他父亲昔日的罪证{/color}交给他看看吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

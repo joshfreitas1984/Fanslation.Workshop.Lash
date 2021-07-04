@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30029016",
+  "RawLine": "TNPC_30029016,{color=#FF0000}修練點數{/color}可以在{color=#FF0000}招式{/color}介面上使用以提升{color=#FF0000}心法{/color}等級。,{color=#FF0000}修练点数{/color}可以在{color=#FF0000}招式{/color}界面上使用以提升{color=#FF0000}心法{/color}等级。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30029016",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#FF0000}修練點數{/color}可以在{color=#FF0000}招式{/color}介面上使用以提升{color=#FF0000}心法{/color}等級。",
+      "c": "修練點數可以在招式介面上使用以提升心法等級。",
+      "rq": true,
+      "it": null,
+      "mt": "Cultivation points can be used on the stance interface to raise the level of mind techniques.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#FF0000}修练点数{/color}可以在{color=#FF0000}招式{/color}界面上使用以提升{color=#FF0000}心法{/color}等级。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

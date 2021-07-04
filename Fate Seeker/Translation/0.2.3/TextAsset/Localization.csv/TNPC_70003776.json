@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003776",
+  "RawLine": "TNPC_70003776,【嘿嘿，把這拿給臭老頭喝，他一定會嚇一跳。】,【嘿嘿，把这拿给臭老头喝，他一定会吓一跳。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003776",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嘿嘿，把這拿給臭老頭喝，他一定會嚇一跳。】",
+      "c": "<[>嘿嘿,把這拿給臭老頭喝,他一定會嚇一跳。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, if I give this to the old man, he will be shocked. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嘿嘿，把这拿给臭老头喝，他一定会吓一跳。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30071001",
+  "RawLine": "TNPC_30071001,{color=#FF0000}春藥舖{/color}的{color=#FF0000}春藥{/color}應有盡有喔！,{color=#FF0000}春药铺{/color}的{color=#FF0000}春药{/color}应有尽有喔！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30071001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#FF0000}春藥舖{/color}的{color=#FF0000}春藥{/color}應有盡有喔！",
+      "c": "春藥舖的春藥應有盡有喔！",
+      "rq": true,
+      "it": null,
+      "mt": "The aphrodisiac shop has all kinds of aphrodisiacs!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#FF0000}春药铺{/color}的{color=#FF0000}春药{/color}应有尽有喔！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

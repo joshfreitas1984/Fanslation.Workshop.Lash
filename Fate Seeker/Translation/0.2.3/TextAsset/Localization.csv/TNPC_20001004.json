@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20001004",
+  "RawLine": "TNPC_20001004,我叫做{color=#ff0000}朱守長{/color}，為尋生母已走遍大江南北數十載，{p}眼下就剩這洛陽未走遍，就讓你找找看了，反正我就在歇息。,我叫做{color=#ff0000}朱守长{/color}，为寻生母已走遍大江南北数十载，{p}眼下就剩这洛阳未走遍，就让你找找看了，反正我就在歇息。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20001004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我叫做{color=#ff0000}朱守長{/color}，為尋生母已走遍大江南北數十載，{p}眼下就剩這洛陽未走遍，就讓你找找看了，反正我就在歇息。",
+      "c": "我叫做朱守長,為尋生母已走遍大江南北數十載,眼下就剩這洛陽未走遍,就讓你找找看了,反正我就在歇息。",
+      "rq": true,
+      "it": null,
+      "mt": "My name is Zhu Shou Chang, I have traveled to the north and south of China for dozens of years in search of my birth mother, and now I am left in Luoyang, so I will let you look for me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我叫做{color=#ff0000}朱守长{/color}，为寻生母已走遍大江南北数十载，{p}眼下就剩这洛阳未走遍，就让你找找看了，反正我就在歇息。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_ALL2_Tip",
+  "RawLine": "ABILITY_ALL2_Tip,使用招式時，有<color=#00DB00>{0:0.00}%</color>機會返還內力。,使用招式时，有<color=#00DB00>{0:0.00}%</color>机会返还内力。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_ALL2_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "使用招式時，有<color=#00DB00>{0:0.00}%</color>機會返還內力。",
+      "c": "使用招式時,有<0:0.00>%機會返還內力。",
+      "rq": true,
+      "it": null,
+      "mt": "When using a move, there is a <0:0.00>% chance to return internal power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "使用招式时，有<color=#00DB00>{0:0.00}%</color>机会返还内力。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

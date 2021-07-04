@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120306_Tip",
+  "RawLine": "SKILL_120306_Tip,【{color=#FFD700}增益{/color}】\\n增加攻擊力{color=#00DB00}65%{/color}，但會持續受到反噬傷害。若氣血值不到最大值的{color=#00DB00}30%{/color}無法使用。,【{color=#FFD700}增益{/color}】\\n增加攻击力{color=#00DB00}65%{/color}，但会持续受到反噬伤害。若气血值不到最大值的{color=#00DB00}30%{/color}无法使用。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120306_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}增益{/color}】\\n增加攻擊力{color=#00DB00}65%{/color}，但會持續受到反噬傷害。若氣血值不到最大值的{color=#00DB00}30%{/color}無法使用。",
+      "c": "<[>增益<]><<\\n>>增加攻擊力65%,但會持續受到反噬傷害。若氣血值不到最大值的30%無法使用。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Gain<]><<\\n>> Increases attack power by 65%, but will continue to take backlash damage. Cannot be used if blood level is less than 30% of maximum.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}增益{/color}】\\n增加攻击力{color=#00DB00}65%{/color}，但会持续受到反噬伤害。若气血值不到最大值的{color=#00DB00}30%{/color}无法使用。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31038218",
+  "RawLine": "TNPC_31038218,【聽說他最近常往{color=#cc0000}觀鷹台{/color}跑，說不定……】,【听说他最近常往{color=#cc0000}观鹰台{/color}跑，说不定……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31038218",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【聽說他最近常往{color=#cc0000}觀鷹台{/color}跑，說不定……】",
+      "c": "<[>聽說他最近常往觀鷹台跑,說不定......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I heard he's been running to Eagle Watch a lot lately, maybe ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【听说他最近常往{color=#cc0000}观鹰台{/color}跑，说不定……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

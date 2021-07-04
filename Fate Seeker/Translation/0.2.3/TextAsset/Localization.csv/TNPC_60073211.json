@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60073211",
+  "RawLine": "TNPC_60073211,我這都是賣武器裝備的，還真沒東西可以給你拿去開鎖。不過……如果你那邊有{color=#cc0000}適合的東西{/color}，拿來給我{color=#cc0000}加工一下{/color}，說不定可以取代鑰匙呢。,我这都是卖武器装备的，还真没东西可以给你拿去开锁。不过……如果你那边有{color=#cc0000}适合的东西{/color}，拿来给我{color=#cc0000}加工一下{/color}，说不定可以取代钥匙呢。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60073211",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我這都是賣武器裝備的，還真沒東西可以給你拿去開鎖。不過……如果你那邊有{color=#cc0000}適合的東西{/color}，拿來給我{color=#cc0000}加工一下{/color}，說不定可以取代鑰匙呢。",
+      "c": "我這都是賣武器裝備的,還真沒東西可以給你拿去開鎖。不過......如果你那邊有適合的東西,拿來給我加工一下,說不定可以取代鑰匙呢。",
+      "rq": true,
+      "it": null,
+      "mt": "I'm selling weapons and equipment, so I don't really have anything to give you to open the lock. But ...... If you have something suitable there, bring it to me for processing, maybe it can replace the key.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我这都是卖武器装备的，还真没东西可以给你拿去开锁。不过……如果你那边有{color=#cc0000}适合的东西{/color}，拿来给我{color=#cc0000}加工一下{/color}，说不定可以取代钥匙呢。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20034012",
+  "RawLine": "TNPC_20034012,蠢豬！這裡又不是你做主，別胡亂就答應他。{p}臭小子，能不能讓你加入，要看我大王的決定，{p}大王就在山寨深處，你去見他吧，他自會定奪。,蠢猪！这里又不是你做主，别胡乱就答应他。{p}臭小子，能不能让你加入，要看我大王的决定，{p}大王就在山寨深处，你去见他吧，他自会定夺。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20034012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "蠢豬！這裡又不是你做主，別胡亂就答應他。{p}臭小子，能不能讓你加入，要看我大王的決定，{p}大王就在山寨深處，你去見他吧，他自會定奪。",
+      "c": "蠢豬！這裡又不是你做主,別胡亂就答應他。臭小子,能不能讓你加入,要看我大王的決定,大王就在山寨深處,你去見他吧,他自會定奪。",
+      "rq": true,
+      "it": null,
+      "mt": "Fool! You're not in charge here, so don't just agree to him. The king is deep in the fortress, go see him and he will decide.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "蠢猪！这里又不是你做主，别胡乱就答应他。{p}臭小子，能不能让你加入，要看我大王的决定，{p}大王就在山寨深处，你去见他吧，他自会定夺。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102019105",
+  "RawLine": "SDM_2102019105,【這人說的頭頭是道，必定對詩詞之事有所見聞。】,【这人说的头头是道，必定对诗词之事有所见闻。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102019105",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這人說的頭頭是道，必定對詩詞之事有所見聞。】",
+      "c": "<[>這人說的頭頭是道,必定對詩詞之事有所見聞。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This man speaks with a clear head, he must have seen something about poetry. <]> The person must have some knowledge of poetry.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这人说的头头是道，必定对诗词之事有所见闻。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

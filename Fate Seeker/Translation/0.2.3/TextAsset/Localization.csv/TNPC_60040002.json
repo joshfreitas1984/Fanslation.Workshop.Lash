@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60040002",
+  "RawLine": "TNPC_60040002,我不要吃藥、我{s=6}……{/s}大娘？大娘救我、大娘救我！,我不要吃药、我{s=6}……{/s}大娘？大娘救我、大娘救我！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60040002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我不要吃藥、我{s=6}……{/s}大娘？大娘救我、大娘救我！",
+      "c": "我不要吃藥、我......大娘？大娘救我、大娘救我！",
+      "rq": true,
+      "it": null,
+      "mt": "I don't want to take medicine, I ...... Damsel? Damsel help me, Damsel help me!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我不要吃药、我{s=6}……{/s}大娘？大娘救我、大娘救我！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

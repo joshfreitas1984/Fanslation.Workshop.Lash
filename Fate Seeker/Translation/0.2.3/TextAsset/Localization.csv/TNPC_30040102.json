@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30040102",
+  "RawLine": "TNPC_30040102,這井水怎麼感覺髒髒的啊，記得昨天看的時候還滿清澈的…是小鬼把髒東西放進去的緣故嗎？我找找{s=10}……{/s},这井水怎么感觉脏脏的啊，记得昨天看的时候还满清澈的…是小鬼把脏东西放进去的缘故吗？我找找{s=10}……{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30040102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這井水怎麼感覺髒髒的啊，記得昨天看的時候還滿清澈的…是小鬼把髒東西放進去的緣故嗎？我找找{s=10}……{/s}",
+      "c": "這井水怎麼感覺髒髒的啊,記得昨天看的時候還滿清澈的...是小鬼把髒東西放進去的緣故嗎？我找找......",
+      "rq": true,
+      "it": null,
+      "mt": "The well water feels dirty, I remember yesterday it was clear... The kid put the dirty things into the reason? I'll look for ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这井水怎么感觉脏脏的啊，记得昨天看的时候还满清澈的…是小鬼把脏东西放进去的缘故吗？我找找{s=10}……{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

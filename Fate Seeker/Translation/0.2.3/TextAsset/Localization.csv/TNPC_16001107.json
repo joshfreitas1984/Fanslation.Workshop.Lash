@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16001107",
+  "RawLine": "TNPC_16001107,{name}，我怎麼能陪你去瞎逛，把小櫻一個人丟在這裡？,{name}，我怎么能陪你去瞎逛，把小樱一个人丢在这里？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16001107",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，我怎麼能陪你去瞎逛，把小櫻一個人丟在這裡？",
+      "c": "<name>,我怎麼能陪你去瞎逛,把小櫻一個人丟在這裡？",
+      "rq": true,
+      "it": null,
+      "mt": "<name>How can I go with you and leave Sakura here alone?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，我怎么能陪你去瞎逛，把小樱一个人丢在这里？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

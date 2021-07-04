@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31027005",
+  "RawLine": "TNPC_31027005,【總之，進入{color=#cc0000}商店{/color}購買{color=#cc0000}麵粉{/color}就得了吧？】,【总之，进入{color=#cc0000}商店{/color}购买{color=#cc0000}面粉{/color}就得了吧？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31027005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【總之，進入{color=#cc0000}商店{/color}購買{color=#cc0000}麵粉{/color}就得了吧？】",
+      "c": "<[>總之,進入商店購買麵粉就得了吧？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Anyway, just go into the store and buy the flour, right? <]>.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【总之，进入{color=#cc0000}商店{/color}购买{color=#cc0000}面粉{/color}就得了吧？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

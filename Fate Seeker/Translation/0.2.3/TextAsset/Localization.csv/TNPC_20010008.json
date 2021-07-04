@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20010008",
+  "RawLine": "TNPC_20010008,{s=6}不，{/s}並非如此。因為她說其實{color=#ff0000}我不是親生的……{/color}{p}母親自幼孤兒，本想終老不嫁，只得流離失所，打工維生。,{s=6}不，{/s}并非如此。因为她说其实{color=#ff0000}我不是亲生的……{/color}{p}母亲自幼孤儿，本想终老不嫁，只得流离失所，打工维生。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20010008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}不，{/s}並非如此。因為她說其實{color=#ff0000}我不是親生的……{/color}{p}母親自幼孤兒，本想終老不嫁，只得流離失所，打工維生。",
+      "c": "不,並非如此。因為她說其實我不是親生的......母親自幼孤兒,本想終老不嫁,只得流離失所,打工維生。",
+      "rq": true,
+      "it": null,
+      "mt": "No, it's not. Because she said I'm actually not the biological one ...... My mother was an orphan since she was young and wanted to stay married for the rest of her life, but she had to live in exile and work for a living.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}不，{/s}并非如此。因为她说其实{color=#ff0000}我不是亲生的……{/color}{p}母亲自幼孤儿，本想终老不嫁，只得流离失所，打工维生。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

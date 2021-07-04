@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_1107854",
+  "RawLine": "READ_1107854,汝之嬸娘為我客，洛雁谷底盼獨來；\\n充耳不聞而置之，莫怨生世不能見。,汝之婶娘为我客，洛雁谷底盼独来；\\n充耳不闻而置之，莫怨生世不能见。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_1107854",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "汝之嬸娘為我客，洛雁谷底盼獨來；\\n充耳不聞而置之，莫怨生世不能見。",
+      "c": "汝之嬸娘為我客,洛雁谷底盼獨來；<<\\n>>充耳不聞而置之,莫怨生世不能見。",
+      "rq": true,
+      "it": null,
+      "mt": "Your aunt is my guest, hoping to come alone at the bottom of Luo Yan valley; <<\\n>>>I have turned a deaf ear to it, not to complain that I cannot see it in my life.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "汝之婶娘为我客，洛雁谷底盼独来；\\n充耳不闻而置之，莫怨生世不能见。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

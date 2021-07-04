@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700064_Tip",
+  "RawLine": "ITEM_700064_Tip,唐代李公佐僕所著。內文：『酒盡君莫沽，壺傾我當發。城市多囂塵，還山弄明月。』,唐代李公佐仆所着。内文：『酒尽君莫沽，壶倾我当发。城市多嚣尘，还山弄明月。』",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700064_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唐代李公佐僕所著。內文：『酒盡君莫沽，壺傾我當發。城市多囂塵，還山弄明月。』",
+      "c": "唐代李公佐僕所著。內文：『酒盡君莫沽,壺傾我當發。城市多囂塵,還山弄明月。』",
+      "rq": true,
+      "it": null,
+      "mt": "Written by Li Gongzuo, a servant of the Tang Dynasty. In the text: 'The wine is not to be sold, the bottle is to be poured out. The city is full of clamorous dust, and the mountain is full of bright moon.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唐代李公佐仆所着。内文：『酒尽君莫沽，壶倾我当发。城市多嚣尘，还山弄明月。』",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

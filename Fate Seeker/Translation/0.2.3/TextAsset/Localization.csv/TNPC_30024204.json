@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30024204",
+  "RawLine": "TNPC_30024204,看來梁爺爺沒白養{ln}哥哥你長大啊，謝謝{ln}哥哥。,看来梁爷爷没白养{ln}哥哥你长大啊，谢谢{ln}哥哥。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30024204",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "看來梁爺爺沒白養{ln}哥哥你長大啊，謝謝{ln}哥哥。",
+      "c": "看來梁爺爺沒白養<ln>哥哥你長大啊,謝謝<ln>哥哥。",
+      "rq": true,
+      "it": null,
+      "mt": "It looks like Grandpa Liang didn't raise <ln>brother you grew up for nothing, thank you <ln>brother.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "看来梁爷爷没白养{ln}哥哥你长大啊，谢谢{ln}哥哥。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

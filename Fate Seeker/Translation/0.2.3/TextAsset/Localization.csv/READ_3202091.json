@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_3202091",
+  "RawLine": "READ_3202091,李白今何在，桃紅已索然。君看赤松子，猶自不長年。,李白今何在，桃红已索然。君看赤松子，犹自不长年。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_3202091",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "李白今何在，桃紅已索然。君看赤松子，猶自不長年。",
+      "c": "李白今何在,桃紅已索然。君看赤松子,猶自不長年。",
+      "rq": true,
+      "it": null,
+      "mt": "李白今何在,桃紅已索然。君看赤松子,猶自不長年。",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "李白今何在，桃红已索然。君看赤松子，犹自不长年。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

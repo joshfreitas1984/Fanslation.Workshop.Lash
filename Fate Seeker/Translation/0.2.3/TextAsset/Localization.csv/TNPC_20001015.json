@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20001015",
+  "RawLine": "TNPC_20001015,我想的方法至少要用掉{color=#ff0000}2000{/color}錢，不過我現在身上沒這麼多錢，{p}如果前輩肯出錢，我就幫你。,我想的方法至少要用掉{color=#ff0000}2000{/color}钱，不过我现在身上没这么多钱，{p}如果前辈肯出钱，我就帮你。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20001015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我想的方法至少要用掉{color=#ff0000}2000{/color}錢，不過我現在身上沒這麼多錢，{p}如果前輩肯出錢，我就幫你。",
+      "c": "我想的方法至少要用掉2000錢,不過我現在身上沒這麼多錢,如果前輩肯出錢,我就幫你。",
+      "rq": true,
+      "it": null,
+      "mt": "The way I want to do it will cost at least 2,000 money, but I don't have that much money on me now, if the seniors are willing to pay, I will help you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我想的方法至少要用掉{color=#ff0000}2000{/color}钱，不过我现在身上没这么多钱，{p}如果前辈肯出钱，我就帮你。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

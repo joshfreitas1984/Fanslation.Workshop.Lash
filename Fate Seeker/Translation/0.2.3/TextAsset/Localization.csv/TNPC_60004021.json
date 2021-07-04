@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60004021",
+  "RawLine": "TNPC_60004021,【我記得村裡有一位算命師，雖然不知道有沒有用，但說不定找他會有解。】,【我记得村里有一位算命师，虽然不知道有没有用，但说不定找他会有解。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60004021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我記得村裡有一位算命師，雖然不知道有沒有用，但說不定找他會有解。】",
+      "c": "<[>我記得村裡有一位算命師,雖然不知道有沒有用,但說不定找他會有解。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I remember there is a fortune teller in the village, although I don't know if it is useful, but maybe I can find a solution from him. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我记得村里有一位算命师，虽然不知道有没有用，但说不定找他会有解。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_326_Tip",
+  "RawLine": "ABILITY_326_Tip,兩倍護體高於內勁時，閃避上升<color=#00DB00>8%</color>。,两倍护体高于内劲时，闪避上升<color=#00DB00>8%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_326_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "兩倍護體高於內勁時，閃避上升<color=#00DB00>8%</color>。",
+      "c": "兩倍護體高於內勁時,閃避上升8%。",
+      "rq": true,
+      "it": null,
+      "mt": "When double shield is higher than inner strength, dodge increases by 8%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "两倍护体高于内劲时，闪避上升<color=#00DB00>8%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

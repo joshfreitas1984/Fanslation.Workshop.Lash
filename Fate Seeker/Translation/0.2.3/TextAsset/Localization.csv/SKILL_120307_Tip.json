@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120307_Tip",
+  "RawLine": "SKILL_120307_Tip,【{color=#FFD700}破防功能{/color}】\\n範圍廣大的攻擊技。機率造成出血。,【{color=#FFD700}破防功能{/color}】\\n范围广大的攻击技。机率造成出血。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120307_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n範圍廣大的攻擊技。機率造成出血。",
+      "c": "<[>破防功能<]><<\\n>>範圍廣大的攻擊技。機率造成出血。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Break Defenses<]><<\\n>> A wide range attack technique. Chance to cause bleeding.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n范围广大的攻击技。机率造成出血。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

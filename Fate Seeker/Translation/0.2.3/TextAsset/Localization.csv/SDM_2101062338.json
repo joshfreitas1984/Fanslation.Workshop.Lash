@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101062338",
+  "RawLine": "SDM_2101062338,【如今有了金蠶繭，{color=#ff0000}得去找布莊老闆，幫我抽絲編到網上才行。{/color}】,【如今有了金蚕茧，{color=#ff0000}得去找布庄老板，帮我抽丝编到网上才行。{/color}】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101062338",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【如今有了金蠶繭，{color=#ff0000}得去找布莊老闆，幫我抽絲編到網上才行。{/color}】",
+      "c": "<[>如今有了金蠶繭,得去找布莊老闆,幫我抽絲編到網上才行。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Now that I have a golden silk cocoon, I need to go to the owner of the cloth shop to help me weave the silk into the web. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【如今有了金蚕茧，{color=#ff0000}得去找布庄老板，帮我抽丝编到网上才行。{/color}】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009484",
+  "RawLine": "TNPC_70009484,【有小孩在此？是神童嗎？還是身份特殊？嗯，值得一探。】,【有小孩在此？是神童吗？还是身份特殊？嗯，值得一探。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009484",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【有小孩在此？是神童嗎？還是身份特殊？嗯，值得一探。】",
+      "c": "<[>有小孩在此？是神童嗎？還是身份特殊？嗯,值得一探。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>A child is here? Is it a child prodigy? The first time I saw it, it was a special occasion. Well, it's worth exploring. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【有小孩在此？是神童吗？还是身份特殊？嗯，值得一探。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

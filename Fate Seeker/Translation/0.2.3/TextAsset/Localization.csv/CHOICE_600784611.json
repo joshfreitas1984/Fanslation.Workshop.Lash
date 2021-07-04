@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "CHOICE_600784611",
+  "RawLine": "CHOICE_600784611,李白乘{color=#FF0000}舟{/color}將欲行，忽聞岸上踏歌聲。,李白乘{color=#FF0000}舟{/color}将欲行，忽闻岸上踏歌声。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "CHOICE_600784611",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "李白乘{color=#FF0000}舟{/color}將欲行，忽聞岸上踏歌聲。",
+      "c": "李白乘舟將欲行,忽聞岸上踏歌聲。",
+      "rq": true,
+      "it": null,
+      "mt": "Li Bai was about to go on a boat when he heard the sound of singing on the shore.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "李白乘{color=#FF0000}舟{/color}将欲行，忽闻岸上踏歌声。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

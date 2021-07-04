@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006223",
+  "RawLine": "TNPC_70006223,呵呵，原來人在這啊，怎麼連{name}大俠你也在這？,呵呵，原来人在这啊，怎么连{name}大侠你也在这？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006223",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呵呵，原來人在這啊，怎麼連{name}大俠你也在這？",
+      "c": "呵呵,原來人在這啊,怎麼連<name>大俠你也在這？",
+      "rq": true,
+      "it": null,
+      "mt": "Huh, so people are here, how come even <name>you are here too?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呵呵，原来人在这啊，怎么连{name}大侠你也在这？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002157",
+  "RawLine": "TNPC_70002157,那我們來比一場，等等{fn}哥哥要是輸了可不許耍賴。,那我们来比一场，等等{fn}哥哥要是输了可不许耍赖。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002157",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "那我們來比一場，等等{fn}哥哥要是輸了可不許耍賴。",
+      "c": "那我們來比一場,等等<fn>哥哥要是輸了可不許耍賴。",
+      "rq": true,
+      "it": null,
+      "mt": "Then let's have a competition, wait <fn>If you lose, you can't cheat.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "那我们来比一场，等等{fn}哥哥要是输了可不许耍赖。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

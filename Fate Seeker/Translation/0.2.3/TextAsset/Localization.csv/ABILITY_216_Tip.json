@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_216_Tip",
+  "RawLine": "ABILITY_216_Tip,一般攻擊後，對敵人的下一次傷害提升<color=#00DB00>10%</color>閃避。,一般攻击后，对敌人的下一次伤害提升<color=#00DB00>10%</color>闪避。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_216_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一般攻擊後，對敵人的下一次傷害提升<color=#00DB00>10%</color>閃避。",
+      "c": "一般攻擊後,對敵人的下一次傷害提升10%閃避。",
+      "rq": true,
+      "it": null,
+      "mt": "After a normal attack, the next damage to the enemy is increased by 10% dodge.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一般攻击后，对敌人的下一次伤害提升<color=#00DB00>10%</color>闪避。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20030010",
+  "RawLine": "TNPC_20030010,啊哈？你怎還在這？{p}快去棺馬寨探查酒櫃啊！{p}如果這麼好找，就不叫寶藏了。,啊哈？你怎还在这？{p}快去棺马寨探查酒柜啊！{p}如果这么好找，就不叫宝藏了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20030010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "啊哈？你怎還在這？{p}快去棺馬寨探查酒櫃啊！{p}如果這麼好找，就不叫寶藏了。",
+      "c": "啊哈？你怎還在這？快去棺馬寨探查酒櫃啊！如果這麼好找,就不叫寶藏了。",
+      "rq": true,
+      "it": null,
+      "mt": "Aha? What are you still doing here? Go to the coffin horse fortress to investigate the wine cabinet! If it's that easy to find, it's not a treasure anymore.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "啊哈？你怎还在这？{p}快去棺马寨探查酒柜啊！{p}如果这么好找，就不叫宝藏了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

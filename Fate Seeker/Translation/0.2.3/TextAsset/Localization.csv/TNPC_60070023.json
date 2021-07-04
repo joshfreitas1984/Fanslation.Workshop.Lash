@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070023",
+  "RawLine": "TNPC_60070023,{s=6}……{/s}這是甚麼東西？{p}算了，先趕緊回去送水給村民吧！,{s=6}……{/s}这是什么东西？{p}算了，先赶紧回去送水给村民吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070023",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}……{/s}這是甚麼東西？{p}算了，先趕緊回去送水給村民吧！",
+      "c": "......這是甚麼東西？算了,先趕緊回去送水給村民吧！",
+      "rq": true,
+      "it": null,
+      "mt": "...... What is it? Forget it, let's go back and deliver water to the villagers!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}……{/s}这是什么东西？{p}算了，先赶紧回去送水给村民吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

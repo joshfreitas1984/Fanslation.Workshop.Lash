@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003628",
+  "RawLine": "TNPC_10003628,【這黑色菇類{color=#FF0000}飽含水分{/color}，還黏的要命…】,【这黑色菇类{color=#FF0000}饱含水分{/color}，还黏的要命…】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003628",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這黑色菇類{color=#FF0000}飽含水分{/color}，還黏的要命…】",
+      "c": "<[>這黑色菇類飽含水分,還黏的要命...<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This black mushroom is full of water and sticky as hell... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这黑色菇类{color=#FF0000}饱含水分{/color}，还黏的要命…】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

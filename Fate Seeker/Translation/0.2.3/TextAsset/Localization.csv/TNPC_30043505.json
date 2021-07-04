@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30043505",
+  "RawLine": "TNPC_30043505,小{ln}你就收下吧，這是上次大夫開給我的風寒藥，我早就痊癒啦。放心～這藥甜甜的一點都不會苦～,小{ln}你就收下吧，这是上次大夫开给我的风寒药，我早就痊愈啦。放心～这药甜甜的一点都不会苦～",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30043505",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小{ln}你就收下吧，這是上次大夫開給我的風寒藥，我早就痊癒啦。放心～這藥甜甜的一點都不會苦～",
+      "c": "小<ln>你就收下吧,這是上次大夫開給我的風寒藥,我早就痊癒啦。放心～這藥甜甜的一點都不會苦～",
+      "rq": true,
+      "it": null,
+      "mt": "Take it, this is the medicine for cold that the doctor gave me last time, I've been cured for a long time. Don't worry, this medicine is sweet and not bitter at all.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小{ln}你就收下吧，这是上次大夫开给我的风寒药，我早就痊愈啦。放心～这药甜甜的一点都不会苦～",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

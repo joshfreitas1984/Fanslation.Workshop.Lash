@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31026062",
+  "RawLine": "TNPC_31026062,【在去酒館前，我得先去{color=#cc0000}糧倉{/color}找黃正買點{color=#cc0000}麵粉{/color}。】,【在去酒馆前，我得先去{color=#cc0000}粮仓{/color}找黄正买点{color=#cc0000}面粉{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31026062",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【在去酒館前，我得先去{color=#cc0000}糧倉{/color}找黃正買點{color=#cc0000}麵粉{/color}。】",
+      "c": "<[>在去酒館前,我得先去糧倉找黃正買點麵粉。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Before I go to the tavern, I have to go to the granary to buy some flour from Huang Zheng. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【在去酒馆前，我得先去{color=#cc0000}粮仓{/color}找黄正买点{color=#cc0000}面粉{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

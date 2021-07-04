@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70010179",
+  "RawLine": "TNPC_70010179,那本{color=#cc0000}拂硯{/color}就在我身上喔，想要嗎？想要嗎？,那本{color=#cc0000}拂砚{/color}就在我身上喔，想要吗？想要吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70010179",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "那本{color=#cc0000}拂硯{/color}就在我身上喔，想要嗎？想要嗎？",
+      "c": "那本拂硯就在我身上喔,想要嗎？想要嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "The ink stone is on me, do you want it? Do you want it?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "那本{color=#cc0000}拂砚{/color}就在我身上喔，想要吗？想要吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

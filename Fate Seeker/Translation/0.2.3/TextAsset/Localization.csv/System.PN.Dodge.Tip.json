@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.PN.Dodge.Tip",
+  "RawLine": "System.PN.Dodge.Tip,可以執行迴避指令，迴避期間可以不受到任何傷害,可以执行回避指令，回避期间可以不受到任何伤害",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.PN.Dodge.Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "可以執行迴避指令，迴避期間可以不受到任何傷害",
+      "c": "可以執行迴避指令,迴避期間可以不受到任何傷害",
+      "rq": true,
+      "it": null,
+      "mt": "Can perform evade commands and take no damage during evade",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "可以执行回避指令，回避期间可以不受到任何伤害",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

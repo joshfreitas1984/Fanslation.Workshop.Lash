@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103023803",
+  "RawLine": "SDM_2103023803,【「凡煉丹爐火純青者，只需用{color=#ff0000}沉香、何首烏、木椒根{/color}便可煉製而成。」】,【「凡炼丹炉火纯青者，只需用{color=#ff0000}沉香、何首乌、木椒根{/color}便可炼制而成。」】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103023803",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【「凡煉丹爐火純青者，只需用{color=#ff0000}沉香、何首烏、木椒根{/color}便可煉製而成。」】",
+      "c": "<[>「凡煉丹爐火純青者,只需用沉香、何首烏、木椒根便可煉製而成。」<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>\"All that is needed to refine the elixir is incense, he shouwu, and wood pepper root. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【「凡炼丹炉火纯青者，只需用{color=#ff0000}沉香、何首乌、木椒根{/color}便可炼制而成。」】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

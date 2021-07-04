@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002262",
+  "RawLine": "TNPC_70002262,{fn}小哥是你啊！歡迎歡迎。上回多虧了你的幫忙，現在康兒和小均感情好得不得了，康兒成天黏著他娘，就怕是只要娘不要爹了呢。,{fn}小哥是你啊！欢迎欢迎。上回多亏了你的帮忙，现在康儿和小均感情好得不得了，康儿成天黏着他娘，就怕是只要娘不要爹了呢。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002262",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}小哥是你啊！歡迎歡迎。上回多虧了你的幫忙，現在康兒和小均感情好得不得了，康兒成天黏著他娘，就怕是只要娘不要爹了呢。",
+      "c": "<fn>小哥是你啊！歡迎歡迎。上回多虧了你的幫忙,現在康兒和小均感情好得不得了,康兒成天黏著他娘,就怕是只要娘不要爹了呢。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>You are the one, little brother! Welcome. Thanks to your help last time, Kang'er and Xiaojun are now very close. Kang'er clings to his mother all the time and is afraid that he only wants his mother but not his father.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}小哥是你啊！欢迎欢迎。上回多亏了你的帮忙，现在康儿和小均感情好得不得了，康儿成天黏着他娘，就怕是只要娘不要爹了呢。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003213",
+  "RawLine": "TNPC_70003213,{color=#FF0000}橘皮、白茅根、麻黃和薄荷{/color}都採到了嗎？這些藥材你可以去在山下豬圈附近，有{color=#FF0000}老朽的藥園{/color}那裏可以採到，或是去{color=#FF0000}各大城市買{/color}。,{color=#FF0000}橘皮、白茅根、麻黄和薄荷{/color}都采到了吗？这些药材你可以去在山下猪圈附近，有{color=#FF0000}老朽的药园{/color}那里可以采到，或是去{color=#FF0000}各大城市买{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003213",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#FF0000}橘皮、白茅根、麻黃和薄荷{/color}都採到了嗎？這些藥材你可以去在山下豬圈附近，有{color=#FF0000}老朽的藥園{/color}那裏可以採到，或是去{color=#FF0000}各大城市買{/color}。",
+      "c": "橘皮、白茅根、麻黃和薄荷都採到了嗎？這些藥材你可以去在山下豬圈附近,有老朽的藥園那裏可以採到,或是去各大城市買。",
+      "rq": true,
+      "it": null,
+      "mt": " Did you get the orange peel, white foxglove, hemp, and mint? You can get these herbs from the old decaying herb garden near the pigsty at the bottom of the hill, or you can buy them from the big cities.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#FF0000}橘皮、白茅根、麻黄和薄荷{/color}都采到了吗？这些药材你可以去在山下猪圈附近，有{color=#FF0000}老朽的药园{/color}那里可以采到，或是去{color=#FF0000}各大城市买{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

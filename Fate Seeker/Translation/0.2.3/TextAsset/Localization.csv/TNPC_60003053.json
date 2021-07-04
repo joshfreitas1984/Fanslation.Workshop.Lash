@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60003053",
+  "RawLine": "TNPC_60003053,你{s=6}……{/s}你說甚麼？呵呵{s=6}……{/s}棉衣怎麼可能是塞蘆花呢？必然是塞著棉花的呀，小兄弟你可是身子過於勞累導致雙眼發暈看走眼了吧？,你{s=6}……{/s}你说什么？呵呵{s=6}……{/s}棉衣怎么可能是塞芦花呢？必然是塞着棉花的呀，小兄弟你可是身子过于劳累导致双眼发晕看走眼了吧？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60003053",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你{s=6}……{/s}你說甚麼？呵呵{s=6}……{/s}棉衣怎麼可能是塞蘆花呢？必然是塞著棉花的呀，小兄弟你可是身子過於勞累導致雙眼發暈看走眼了吧？",
+      "c": "你......你說甚麼？呵呵......棉衣怎麼可能是塞蘆花呢？必然是塞著棉花的呀,小兄弟你可是身子過於勞累導致雙眼發暈看走眼了吧？",
+      "rq": true,
+      "it": null,
+      "mt": "You ...... What did you say? Oh ...... How can a cotton jacket be stuffed with aloe? It must be stuffed with cotton. Little brother, you are too tired and dizzy, right?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你{s=6}……{/s}你说什么？呵呵{s=6}……{/s}棉衣怎么可能是塞芦花呢？必然是塞着棉花的呀，小兄弟你可是身子过于劳累导致双眼发晕看走眼了吧？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20074008",
+  "RawLine": "TNPC_20074008,【這小二真是煩人，你以為我願意以臉就碗啊？{p}快別管我吃相了，快去忙你的。嗯？】,【这小二真是烦人，你以为我愿意以脸就碗啊？{p}快别管我吃相了，快去忙你的。嗯？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20074008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這小二真是煩人，你以為我願意以臉就碗啊？{p}快別管我吃相了，快去忙你的。嗯？】",
+      "c": "<[>這小二真是煩人,你以為我願意以臉就碗啊？快別管我吃相了,快去忙你的。嗯？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This waiter is really annoying, do you think I am willing to use my face for the bowl? I'm not going to be able to get a good deal on my food. The first thing you need to do is to go back to work. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这小二真是烦人，你以为我愿意以脸就碗啊？{p}快别管我吃相了，快去忙你的。嗯？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_30103",
+  "RawLine": "QINFO_30103,向{color=#cc0000}趙妽{/color}出示{color=#cc0000}山賊的玉石{/color}。（小溪村）,向{color=#cc0000}赵妽{/color}出示{color=#cc0000}山贼的玉石{/color}。（小溪村）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_30103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "向{color=#cc0000}趙妽{/color}出示{color=#cc0000}山賊的玉石{/color}。（小溪村）",
+      "c": "向趙妽出示山賊的玉石。（小溪村）",
+      "rq": true,
+      "it": null,
+      "mt": " Show the jade stone of the mountain thief to Zhao Qi. (Xiao Xi Village)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "向{color=#cc0000}赵妽{/color}出示{color=#cc0000}山贼的玉石{/color}。（小溪村）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

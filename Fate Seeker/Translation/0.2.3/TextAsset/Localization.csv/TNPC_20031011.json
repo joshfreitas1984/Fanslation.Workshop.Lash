@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20031011",
+  "RawLine": "TNPC_20031011,蠢豬！你蠢了啊？{p}這臭小子是在拐彎罵我們啊！,蠢猪！你蠢了啊？{p}这臭小子是在拐弯骂我们啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20031011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "蠢豬！你蠢了啊？{p}這臭小子是在拐彎罵我們啊！",
+      "c": "蠢豬！你蠢了啊？這臭小子是在拐彎罵我們啊！",
+      "rq": true,
+      "it": null,
+      "mt": " Stupid pig! Are you stupid? This brat is turning around and scolding us!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "蠢猪！你蠢了啊？{p}这臭小子是在拐弯骂我们啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002303",
+  "RawLine": "TNPC_70002303,【反正我都大老遠被抓來這了，不差這一時半刻……待會拿到酬勞，買些特產回去給嬸娘吧。】,【反正我都大老远被抓来这了，不差这一时半刻……待会拿到酬劳，买些特产回去给婶娘吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002303",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【反正我都大老遠被抓來這了，不差這一時半刻……待會拿到酬勞，買些特產回去給嬸娘吧。】",
+      "c": "<[>反正我都大老遠被抓來這了,不差這一時半刻......待會拿到酬勞,買些特產回去給嬸娘吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I've been caught all the way here anyway, it's not that bad ...... I'll get paid later and buy some special products for my aunt. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【反正我都大老远被抓来这了，不差这一时半刻……待会拿到酬劳，买些特产回去给婶娘吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

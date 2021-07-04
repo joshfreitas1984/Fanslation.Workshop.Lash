@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_02001_Tip",
+  "RawLine": "HEART_02001_Tip,{color=#EFD8B0}對生命值低於一半的敵人額外增傷。 {/color},{color=#EFD8B0}对生命值低于一半的敌人额外增伤。 {/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_02001_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#EFD8B0}對生命值低於一半的敵人額外增傷。 {/color}",
+      "c": "對生命值低於一半的敵人額外增傷。 ",
+      "rq": true,
+      "it": null,
+      "mt": "Add extra damage to enemies with less than half life. ",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#EFD8B0}对生命值低于一半的敌人额外增伤。 {/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

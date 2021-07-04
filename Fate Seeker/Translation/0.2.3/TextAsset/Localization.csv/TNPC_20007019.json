@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20007019",
+  "RawLine": "TNPC_20007019,當時我生了老大，{s=6}來到這……{/s}才生了老二和老三。,当时我生了老大，{s=6}来到这……{/s}才生了老二和老三。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20007019",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "當時我生了老大，{s=6}來到這……{/s}才生了老二和老三。",
+      "c": "當時我生了老大,來到這......才生了老二和老三。",
+      "rq": true,
+      "it": null,
+      "mt": "I had the oldest child and came here ...... I had the second and third children.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "当时我生了老大，{s=6}来到这……{/s}才生了老二和老三。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

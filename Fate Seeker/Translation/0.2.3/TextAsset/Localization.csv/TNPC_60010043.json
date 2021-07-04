@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010043",
+  "RawLine": "TNPC_60010043,呃{s=6}……{/s}平常都是大娘送飯給你嗎？那他人呢？,呃{s=6}……{/s}平常都是大娘送饭给你吗？那他人呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010043",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呃{s=6}……{/s}平常都是大娘送飯給你嗎？那他人呢？",
+      "c": "呃......平常都是大娘送飯給你嗎？那他人呢？",
+      "rq": true,
+      "it": null,
+      "mt": "Uh ...... Do you usually get your food from the lady? Where is he?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呃{s=6}……{/s}平常都是大娘送饭给你吗？那他人呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

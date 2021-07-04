@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10002241",
+  "RawLine": "TNPC_10002241,【裡頭都是駱駝糞…早知道就不要伸手去碰了。】,【里头都是骆驼粪…早知道就不要伸手去碰了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10002241",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【裡頭都是駱駝糞…早知道就不要伸手去碰了。】",
+      "c": "<[>裡頭都是駱駝糞...早知道就不要伸手去碰了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It's full of camel droppings... I should have known better than to reach out and touch it. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【里头都是骆驼粪…早知道就不要伸手去碰了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

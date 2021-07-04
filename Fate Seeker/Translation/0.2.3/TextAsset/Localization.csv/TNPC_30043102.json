@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30043102",
+  "RawLine": "TNPC_30043102,東邊那房是倉庫，裡面擺了不少酒。然後西邊那房……,东边那房是仓库，里面摆了不少酒。然后西边那房……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30043102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "東邊那房是倉庫，裡面擺了不少酒。然後西邊那房……",
+      "c": "東邊那房是倉庫,裡面擺了不少酒。然後西邊那房......",
+      "rq": true,
+      "it": null,
+      "mt": "The east room is a warehouse with a lot of wine in it. Then the west room ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "东边那房是仓库，里面摆了不少酒。然后西边那房……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

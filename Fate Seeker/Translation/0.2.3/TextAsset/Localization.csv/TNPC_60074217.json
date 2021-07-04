@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074217",
+  "RawLine": "TNPC_60074217,（小聲地說）陛下，我把這人給引走，您趁機快逃。我會在{color=#FF0000}開封客棧{/color}等您，暗號是「{color=#FF0000}萬歲萬歲萬萬歲{/color}」。,（小声地说）陛下，我把这人给引走，您趁机快逃。我会在{color=#FF0000}开封客栈{/color}等您，暗号是「{color=#FF0000}万岁万岁万万岁{/color}」。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074217",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "（小聲地說）陛下，我把這人給引走，您趁機快逃。我會在{color=#FF0000}開封客棧{/color}等您，暗號是「{color=#FF0000}萬歲萬歲萬萬歲{/color}」。",
+      "c": "（小聲地說）陛下,我把這人給引走,您趁機快逃。我會在開封客棧等您,暗號是「萬歲萬歲萬萬歲」。",
+      "rq": true,
+      "it": null,
+      "mt": "(whispering) Your Majesty, I will lure this person away, and you can escape while you have the chance. I will wait for you at Kaifeng Inn, the code word is \"Hail Hail Hail Hail\".",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "（小声地说）陛下，我把这人给引走，您趁机快逃。我会在{color=#FF0000}开封客栈{/color}等您，暗号是「{color=#FF0000}万岁万岁万万岁{/color}」。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04020_Tip",
+  "RawLine": "ITEM_04020_Tip,能讓人氣息順暢的藥，曾有人服用此藥後在水中憋了一個時辰的氣，上岸後仍精神奕奕。{p}{p}合成難度：{color=#ff0000}2{/color}。,能让人气息顺畅的药，曾有人服用此药后在水中憋了一个时辰的气，上岸后仍精神奕奕。{p}{p}合成难度：{color=#ff0000}2{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04020_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "能讓人氣息順暢的藥，曾有人服用此藥後在水中憋了一個時辰的氣，上岸後仍精神奕奕。{p}{p}合成難度：{color=#ff0000}2{/color}。",
+      "c": "能讓人氣息順暢的藥,曾有人服用此藥後在水中憋了一個時辰的氣,上岸後仍精神奕奕。合成難度：2。",
+      "rq": true,
+      "it": null,
+      "mt": "It is a medicine that can make people's breath flow smoothly, and some people once took this medicine after holding their breath for an hour in the water, but they were still in good spirits after coming back to shore. Synthesis difficulty: 2.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "能让人气息顺畅的药，曾有人服用此药后在水中憋了一个时辰的气，上岸后仍精神奕奕。{p}{p}合成难度：{color=#ff0000}2{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

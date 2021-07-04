@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005285",
+  "RawLine": "TNPC_70005285,【這香囊雖然老舊，但仍有一股安心定神的香氣，先收著吧，說不定以後用得著。】,【这香囊虽然老旧，但仍有一股安心定神的香气，先收着吧，说不定以后用得着。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005285",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這香囊雖然老舊，但仍有一股安心定神的香氣，先收著吧，說不定以後用得著。】",
+      "c": "<[>這香囊雖然老舊,但仍有一股安心定神的香氣,先收著吧,說不定以後用得著。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This incense bag is old, but it still has a reassuring and calming scent. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这香囊虽然老旧，但仍有一股安心定神的香气，先收着吧，说不定以后用得着。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

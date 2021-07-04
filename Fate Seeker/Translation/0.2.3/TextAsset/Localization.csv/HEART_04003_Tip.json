@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_04003_Tip",
+  "RawLine": "HEART_04003_Tip,{color=#EFD8B0}招式擊中敵人時，降低其他招式的冷卻時間。 {/color},{color=#EFD8B0}招式击中敌人时，降低其他招式的冷却时间。 {/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_04003_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#EFD8B0}招式擊中敵人時，降低其他招式的冷卻時間。 {/color}",
+      "c": "招式擊中敵人時,降低其他招式的冷卻時間。 ",
+      "rq": true,
+      "it": null,
+      "mt": "Reduces the cooldown time of other moves when the move hits an enemy. ",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#EFD8B0}招式击中敌人时，降低其他招式的冷却时间。 {/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

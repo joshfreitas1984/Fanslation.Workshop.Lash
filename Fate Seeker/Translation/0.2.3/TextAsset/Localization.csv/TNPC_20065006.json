@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20065006",
+  "RawLine": "TNPC_20065006,老夫正愁這飲酒缺乏興致啊！又被你打斷，更愁。{p}要是有人能一同吟詩舉杯，豈不快活？,老夫正愁这饮酒缺乏兴致啊！又被你打断，更愁。{p}要是有人能一同吟诗举杯，岂不快活？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20065006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老夫正愁這飲酒缺乏興致啊！又被你打斷，更愁。{p}要是有人能一同吟詩舉杯，豈不快活？",
+      "c": "老夫正愁這飲酒缺乏興致啊！又被你打斷,更愁。要是有人能一同吟詩舉杯,豈不快活？",
+      "rq": true,
+      "it": null,
+      "mt": "I am worried about the lack of interest in drinking! I'm even more worried because you interrupted me again. If someone can recite a poem and raise a glass together, wouldn't it be a pleasure?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老夫正愁这饮酒缺乏兴致啊！又被你打断，更愁。{p}要是有人能一同吟诗举杯，岂不快活？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

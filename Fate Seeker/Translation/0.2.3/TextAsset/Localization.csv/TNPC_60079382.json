@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079382",
+  "RawLine": "TNPC_60079382,{name}，多虧你的幫忙，我才能拿到修補師父「名劍‧亂蕩」的材料，真是感激不盡！以後若碰到任何困難，儘管找我！那我就先回杭州了。,{name}，多亏你的帮忙，我才能拿到修补师父「名剑‧乱荡」的材料，真是感激不尽！以后若碰到任何困难，尽管找我！那我就先回杭州了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079382",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，多虧你的幫忙，我才能拿到修補師父「名劍‧亂蕩」的材料，真是感激不盡！以後若碰到任何困難，儘管找我！那我就先回杭州了。",
+      "c": "<name>,多虧你的幫忙,我才能拿到修補師父「名劍‧亂蕩」的材料,真是感激不盡！以後若碰到任何困難,儘管找我！那我就先回杭州了。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, thanks to your help, I was able to get the materials to repair my master's \"Famous Sword\", I am really grateful! If you encounter any difficulties in the future, please feel free to call me! Then I'll go back to Hangzhou.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，多亏你的帮忙，我才能拿到修补师父「名剑‧乱荡」的材料，真是感激不尽！以后若碰到任何困难，尽管找我！那我就先回杭州了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

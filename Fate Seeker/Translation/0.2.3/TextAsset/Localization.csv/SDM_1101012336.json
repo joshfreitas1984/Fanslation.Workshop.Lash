@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101012336",
+  "RawLine": "SDM_1101012336,哈哈！{name}兄弟，我們倆出的拳相加是二五，你應了我喊的數，罰酒一杯！,哈哈！{name}兄弟，我们俩出的拳相加是二五，你应了我喊的数，罚酒一杯！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101012336",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "哈哈！{name}兄弟，我們倆出的拳相加是二五，你應了我喊的數，罰酒一杯！",
+      "c": "哈哈！<name>兄弟,我們倆出的拳相加是二五,你應了我喊的數,罰酒一杯！",
+      "rq": true,
+      "it": null,
+      "mt": " Haha! <name>Brother, the two of us throwing punches that add up to two and a half, you answered the number I shouted, one penalty drink!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "哈哈！{name}兄弟，我们俩出的拳相加是二五，你应了我喊的数，罚酒一杯！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

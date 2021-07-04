@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04006_Tip",
+  "RawLine": "ITEM_04006_Tip,傳聞仙人降世，曾以此藥丸讓枯死的巨木綠意盎然，似乎只存在傳說之中。{p}{p}合成難度：{color=#ff0000}10{/color}。,传闻仙人降世，曾以此药丸让枯死的巨木绿意盎然，似乎只存在传说之中。{p}{p}合成难度：{color=#ff0000}10{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04006_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "傳聞仙人降世，曾以此藥丸讓枯死的巨木綠意盎然，似乎只存在傳說之中。{p}{p}合成難度：{color=#ff0000}10{/color}。",
+      "c": "傳聞仙人降世,曾以此藥丸讓枯死的巨木綠意盎然,似乎只存在傳說之中。合成難度：10。",
+      "rq": true,
+      "it": null,
+      "mt": "This pill is said to have been used by an immortal to bring greenery to dead trees, but it seems to exist only in legend. Synthesis difficulty: 10.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "传闻仙人降世，曾以此药丸让枯死的巨木绿意盎然，似乎只存在传说之中。{p}{p}合成难度：{color=#ff0000}10{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

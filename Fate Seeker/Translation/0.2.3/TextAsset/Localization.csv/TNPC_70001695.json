@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001695",
+  "RawLine": "TNPC_70001695,{name}回到了同德堂，帶著小狗子跟趙妽來到王彥太所說的地方。,{name}回到了同德堂，带着小狗子跟赵妽来到王彦太所说的地方。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001695",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}回到了同德堂，帶著小狗子跟趙妽來到王彥太所說的地方。",
+      "c": "<name>回到了同德堂,帶著小狗子跟趙妽來到王彥太所說的地方。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Returning to Tongde Hall, he took Puppy and Zhao Wei to the place Wang Yantai had mentioned.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}回到了同德堂，带着小狗子跟赵妽来到王彦太所说的地方。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

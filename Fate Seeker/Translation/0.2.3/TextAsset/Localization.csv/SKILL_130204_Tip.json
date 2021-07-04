@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130204_Tip",
+  "RawLine": "SKILL_130204_Tip,【{color=#FFD700}強力{/color}】前置條件：在{color=#00DB00}千杯不醉{/color}狀態下，依序使用過{color=#FF0000}順風掃葉{/color}、{color=#FF0000}風捲殘雲{/color}才能使用。\\n將周遭敵人強制進入暈眩狀態的技巧。,【{color=#FFD700}强力{/color}】前置条件：在{color=#00DB00}千杯不醉{/color}状态下，依序使用过{color=#FF0000}顺风扫叶{/color}、{color=#FF0000}风卷残云{/color}才能使用。\\n将周遭敌人强制进入晕眩状态的技巧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130204_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】前置條件：在{color=#00DB00}千杯不醉{/color}狀態下，依序使用過{color=#FF0000}順風掃葉{/color}、{color=#FF0000}風捲殘雲{/color}才能使用。\\n將周遭敵人強制進入暈眩狀態的技巧。",
+      "c": "<[>強力<]>前置條件：在千杯不醉狀態下,依序使用過順風掃葉、風捲殘雲才能使用。<<\\n>>將周遭敵人強制進入暈眩狀態的技巧。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]>Prerequisite: You can only use this move after you have used Smooth Wind Swept Leaves and Wind Swept Clouds in order when you are not drunk. <<\\n>>A technique that forces the surrounding enemies into a daze.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】前置条件：在{color=#00DB00}千杯不醉{/color}状态下，依序使用过{color=#FF0000}顺风扫叶{/color}、{color=#FF0000}风卷残云{/color}才能使用。\\n将周遭敌人强制进入晕眩状态的技巧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

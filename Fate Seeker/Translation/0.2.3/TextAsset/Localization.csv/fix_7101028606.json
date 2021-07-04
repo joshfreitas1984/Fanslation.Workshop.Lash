@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "fix_7101028606",
+  "RawLine": "fix_7101028606,【我堂堂{name}竟然淪落到需要讓人如此擔心……】,【我堂堂{name}竟然沦落到需要让人如此担心……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "fix_7101028606",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我堂堂{name}竟然淪落到需要讓人如此擔心……】",
+      "c": "<[>我堂堂<name>竟然淪落到需要讓人如此擔心......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I'm <name> so low that I need to be worried about ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我堂堂{name}竟然沦落到需要让人如此担心……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

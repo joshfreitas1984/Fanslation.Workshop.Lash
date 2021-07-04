@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20015003",
+  "RawLine": "TNPC_20015003,對，有人在這湖面發現一具浮屍，是{color=#ff0000}林善全，{/color}{p}我們發現湖邊有擺好的鞋子，他可能是投湖自盡。,对，有人在这湖面发现一具浮尸，是{color=#ff0000}林善全，{/color}{p}我们发现湖边有摆好的鞋子，他可能是投湖自尽。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20015003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "對，有人在這湖面發現一具浮屍，是{color=#ff0000}林善全，{/color}{p}我們發現湖邊有擺好的鞋子，他可能是投湖自盡。",
+      "c": "對,有人在這湖面發現一具浮屍,是林善全,我們發現湖邊有擺好的鞋子,他可能是投湖自盡。",
+      "rq": true,
+      "it": null,
+      "mt": "Yes, someone found a floating corpse on this lake, it's Lin Shanquan, we found shoes lying around the lake, he probably threw himself into the lake.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "对，有人在这湖面发现一具浮尸，是{color=#ff0000}林善全，{/color}{p}我们发现湖边有摆好的鞋子，他可能是投湖自尽。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

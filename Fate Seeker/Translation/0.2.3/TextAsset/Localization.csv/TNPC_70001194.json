@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001194",
+  "RawLine": "TNPC_70001194,【咦！{color=#FF0000}王光明跟秦鷹{/color}怎麼打了起來。】,【咦！{color=#FF0000}王光明跟秦鹰{/color}怎么打了起来。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001194",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【咦！{color=#FF0000}王光明跟秦鷹{/color}怎麼打了起來。】",
+      "c": "<[>咦！王光明跟秦鷹怎麼打了起來。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Eh! How did Wang Guangming and Qin Ying fight? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【咦！{color=#FF0000}王光明跟秦鹰{/color}怎么打了起来。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

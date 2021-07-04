@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001256",
+  "RawLine": "TNPC_70001256,這裡究竟發生過什麼事？{p}看來我們得提高警覺些，或許行兇之人還沒走遠。,这里究竟发生过什么事？{p}看来我们得提高警觉些，或许行凶之人还没走远。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001256",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這裡究竟發生過什麼事？{p}看來我們得提高警覺些，或許行兇之人還沒走遠。",
+      "c": "這裡究竟發生過什麼事？看來我們得提高警覺些,或許行兇之人還沒走遠。",
+      "rq": true,
+      "it": null,
+      "mt": "What happened here? It looks like we need to be more vigilant, maybe the murderer is not far away yet.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这里究竟发生过什么事？{p}看来我们得提高警觉些，或许行凶之人还没走远。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

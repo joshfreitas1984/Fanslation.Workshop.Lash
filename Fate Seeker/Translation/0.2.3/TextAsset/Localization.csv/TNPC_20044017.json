@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20044017",
+  "RawLine": "TNPC_20044017,你、你！{p}老身打不贏你，還被你這樣羞辱嗎？{p]兒子都沒了……我獨活有何用？,你、你！{p}老身打不赢你，还被你这样羞辱吗？{p]儿子都没了……我独活有何用？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20044017",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你、你！{p}老身打不贏你，還被你這樣羞辱嗎？{p]兒子都沒了……我獨活有何用？",
+      "c": "你、你！老身打不贏你,還被你這樣羞辱嗎？<p]兒子都沒了......我獨活有何用？",
+      "rq": true,
+      "it": null,
+      "mt": "You, you! I can't beat you, and you humiliate me like this? <p]My son is gone ...... What is the use of my living alone?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你、你！{p}老身打不赢你，还被你这样羞辱吗？{p]儿子都没了……我独活有何用？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

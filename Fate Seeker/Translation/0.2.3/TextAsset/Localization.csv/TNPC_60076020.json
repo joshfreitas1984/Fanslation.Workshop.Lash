@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60076020",
+  "RawLine": "TNPC_60076020,【手上這些書現在也用不到，將其全歸還給管理藏經閣的和尚吧。】,【手上这些书现在也用不到，将其全归还给管理藏经阁的和尚吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60076020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【手上這些書現在也用不到，將其全歸還給管理藏經閣的和尚吧。】",
+      "c": "<[>手上這些書現在也用不到,將其全歸還給管理藏經閣的和尚吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>These books are not used now, so I'll return them all to the monk who manages the scripture collection. <]>These books are not used now.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【手上这些书现在也用不到，将其全归还给管理藏经阁的和尚吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

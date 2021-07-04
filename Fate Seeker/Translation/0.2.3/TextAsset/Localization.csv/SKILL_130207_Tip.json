@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130207_Tip",
+  "RawLine": "SKILL_130207_Tip,【{color=#FFD700}破防功能{/color}】\\n近距離連續快速打擊技。,【{color=#FFD700}破防功能{/color}】\\n近距离连续快速打击技。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130207_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n近距離連續快速打擊技。",
+      "c": "<[>破防功能<]><<\\n>>近距離連續快速打擊技。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Break Defenses<]><<\\n>> Continuous fast hitting technique at close range.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n近距离连续快速打击技。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

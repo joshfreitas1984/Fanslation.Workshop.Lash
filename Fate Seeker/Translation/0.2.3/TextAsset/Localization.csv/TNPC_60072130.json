@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072130",
+  "RawLine": "TNPC_60072130,【這戶民宅的門，連關都沒關上，難道被闖空門了嗎？】,【这户民宅的门，连关都没关上，难道被闯空门了吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072130",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這戶民宅的門，連關都沒關上，難道被闖空門了嗎？】",
+      "c": "<[>這戶民宅的門,連關都沒關上,難道被闖空門了嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The door of this house is not even closed, has it been broken into? <]>The door was not even closed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这户民宅的门，连关都没关上，难道被闯空门了吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

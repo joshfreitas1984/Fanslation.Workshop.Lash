@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30071014",
+  "RawLine": "TNPC_30071014,【原來老闆不是忘記藥方，是忘記藥材名稱啊……】,【原来老板不是忘记药方，是忘记药材名称啊……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30071014",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【原來老闆不是忘記藥方，是忘記藥材名稱啊……】",
+      "c": "<[>原來老闆不是忘記藥方,是忘記藥材名稱啊......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>So the boss didn't forget the prescription, he forgot the name of the herb ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【原来老板不是忘记药方，是忘记药材名称啊……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

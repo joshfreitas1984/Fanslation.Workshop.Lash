@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101783346",
+  "RawLine": "SDM_1101783346,{name}，我們走吧，我不能和動物太親近，不宜在這裡久留,{name}，我们走吧，我不能和动物太亲近，不宜在这里久留",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101783346",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，我們走吧，我不能和動物太親近，不宜在這裡久留",
+      "c": "<name>,我們走吧,我不能和動物太親近,不宜在這裡久留",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, let's go, I can't be too close to the animals, I shouldn't stay here for long.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，我们走吧，我不能和动物太亲近，不宜在这里久留",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

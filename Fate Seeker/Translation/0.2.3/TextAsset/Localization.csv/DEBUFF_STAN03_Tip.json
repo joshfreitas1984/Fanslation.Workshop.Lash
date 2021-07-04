@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "DEBUFF_STAN03_Tip",
+  "RawLine": "DEBUFF_STAN03_Tip,一段時間持續麻痺效果，期間行動將會持續被中斷,一段时间持续麻痹效果，期间行动将会持续被中断",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "DEBUFF_STAN03_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一段時間持續麻痺效果，期間行動將會持續被中斷",
+      "c": "一段時間持續麻痺效果,期間行動將會持續被中斷",
+      "rq": true,
+      "it": null,
+      "mt": "A continuous paralyzing effect for a period of time, during which movement will be continuously interrupted",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一段时间持续麻痹效果，期间行动将会持续被中断",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

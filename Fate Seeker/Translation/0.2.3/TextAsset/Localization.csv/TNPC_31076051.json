@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31076051",
+  "RawLine": "TNPC_31076051,二仙酒是難度約為{color=#cc0000}四{/color}的{color=#cc0000}藥酒{/color}，這酒靠現在雜記上的配方是無法釀製的。,二仙酒是难度约为{color=#cc0000}四{/color}的{color=#cc0000}药酒{/color}，这酒靠现在杂记上的配方是无法酿制的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31076051",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "二仙酒是難度約為{color=#cc0000}四{/color}的{color=#cc0000}藥酒{/color}，這酒靠現在雜記上的配方是無法釀製的。",
+      "c": "二仙酒是難度約為四的藥酒,這酒靠現在雜記上的配方是無法釀製的。",
+      "rq": true,
+      "it": null,
+      "mt": "Elsen wine is a medicinal wine with a difficulty level of about four, which cannot be made by the recipe in the current miscellany.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "二仙酒是难度约为{color=#cc0000}四{/color}的{color=#cc0000}药酒{/color}，这酒靠现在杂记上的配方是无法酿制的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

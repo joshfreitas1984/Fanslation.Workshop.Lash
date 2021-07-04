@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20095001",
+  "RawLine": "TNPC_20095001,大膽山賊{name}，你們劫了水井坊的酒，又埋伏害了開封鏢局的人。現今竟潛伏開封，究竟存何居心？還不快老實招來！,大胆山贼{name}，你们劫了水井坊的酒，又埋伏害了开封镖局的人。现今竟潜伏开封，究竟存何居心？还不快老实招来！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20095001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "大膽山賊{name}，你們劫了水井坊的酒，又埋伏害了開封鏢局的人。現今竟潛伏開封，究竟存何居心？還不快老實招來！",
+      "c": "大膽山賊<name>,你們劫了水井坊的酒,又埋伏害了開封鏢局的人。現今竟潛伏開封,究竟存何居心？還不快老實招來！",
+      "rq": true,
+      "it": null,
+      "mt": "Bold bandits<name>, you robbed the wine of Shui Jing Fang and ambushed the people of Kaifeng Darts Board. Now you are hiding in Kaifeng, what are your intentions? Come clean and tell us!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "大胆山贼{name}，你们劫了水井坊的酒，又埋伏害了开封镖局的人。现今竟潜伏开封，究竟存何居心？还不快老实招来！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

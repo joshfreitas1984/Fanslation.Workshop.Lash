@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103015217",
+  "RawLine": "SDM_1103015217,【這個簡單，只要{color=#FF0000}在蟲群附近製造火源{/color}，就來得及在火把熄滅前將蟲燻走了。】,【这个简单，只要{color=#FF0000}在虫群附近制造火源{/color}，就来得及在火把熄灭前将虫燻走了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103015217",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這個簡單，只要{color=#FF0000}在蟲群附近製造火源{/color}，就來得及在火把熄滅前將蟲燻走了。】",
+      "c": "<[>這個簡單,只要在蟲群附近製造火源,就來得及在火把熄滅前將蟲燻走了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is easy, just create a fire source near the bugs and you'll be able to smoke them out before the torch goes out. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这个简单，只要{color=#FF0000}在虫群附近制造火源{/color}，就来得及在火把熄灭前将虫燻走了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

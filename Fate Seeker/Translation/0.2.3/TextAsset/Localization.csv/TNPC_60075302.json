@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60075302",
+  "RawLine": "TNPC_60075302,【仔細一看，這門邊有一小隙縫，原來這門沒有關著！】,【仔细一看，这门边有一小隙缝，原来这门没有关着！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60075302",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【仔細一看，這門邊有一小隙縫，原來這門沒有關著！】",
+      "c": "<[>仔細一看,這門邊有一小隙縫,原來這門沒有關著！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Take a closer look, there is a small gap at the door, so the door is not closed! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【仔细一看，这门边有一小隙缝，原来这门没有关着！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

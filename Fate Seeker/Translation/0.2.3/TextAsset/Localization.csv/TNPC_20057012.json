@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20057012",
+  "RawLine": "TNPC_20057012,【只好出手幫助妽兒了！{p}無需取人性命，要是他們能{color=#ff0000}聽勸{/color}而離去便好。】,【只好出手帮助妽儿了！{p}无需取人性命，要是他们能{color=#ff0000}听劝{/color}而离去便好。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20057012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【只好出手幫助妽兒了！{p}無需取人性命，要是他們能{color=#ff0000}聽勸{/color}而離去便好。】",
+      "c": "<[>只好出手幫助妽兒了！無需取人性命,要是他們能聽勸而離去便好。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I have to help Li Li! I don't need to kill anyone, but it would be good if they would listen to the advice and leave. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【只好出手帮助妽儿了！{p}无需取人性命，要是他们能{color=#ff0000}听劝{/color}而离去便好。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

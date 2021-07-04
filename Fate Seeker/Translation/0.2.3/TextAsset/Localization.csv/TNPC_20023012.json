@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20023012",
+  "RawLine": "TNPC_20023012,正巧，{color=#ff0000}我家水井旁有顆荔枝樹{/color}，用來遮陽之外也食用之，{p}只要再問一題就決定勝負了，{p}請各位稍等一下，我和少俠討論一下題目。,正巧，{color=#ff0000}我家水井旁有颗荔枝树{/color}，用来遮阳之外也食用之，{p}只要再问一题就决定胜负了，{p}请各位稍等一下，我和少侠讨论一下题目。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20023012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "正巧，{color=#ff0000}我家水井旁有顆荔枝樹{/color}，用來遮陽之外也食用之，{p}只要再問一題就決定勝負了，{p}請各位稍等一下，我和少俠討論一下題目。",
+      "c": "正巧,我家水井旁有顆荔枝樹,用來遮陽之外也食用之,只要再問一題就決定勝負了,請各位稍等一下,我和少俠討論一下題目。",
+      "rq": true,
+      "it": null,
+      "mt": "It is a coincidence that there is a lychee tree next to my well, which is used for shade and also for food.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "正巧，{color=#ff0000}我家水井旁有颗荔枝树{/color}，用来遮阳之外也食用之，{p}只要再问一题就决定胜负了，{p}请各位稍等一下，我和少侠讨论一下题目。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

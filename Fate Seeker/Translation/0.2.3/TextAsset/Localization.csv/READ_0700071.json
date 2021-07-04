@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0700071",
+  "RawLine": "READ_0700071,《江雪》\\n千山鳥飛絕，萬徑人蹤滅。\\n孤舟蓑笠翁，獨釣寒江雪。,《江雪》\\n千山鸟飞绝，万径人踪灭。\\n孤舟蓑笠翁，独钓寒江雪。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0700071",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "《江雪》\\n千山鳥飛絕，萬徑人蹤滅。\\n孤舟蓑笠翁，獨釣寒江雪。",
+      "c": "《江雪》<<\\n>>千山鳥飛絕,萬徑人蹤滅。<<\\n>>孤舟蓑笠翁,獨釣寒江雪。",
+      "rq": true,
+      "it": null,
+      "mt": "\"The Snow in the River\" <<\\n>>The birds on a thousand mountains fly away, and the people on a thousand paths disappear. <<\\n>>A lonely boat with a straw hat, fishing alone in the cold river snow.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "《江雪》\\n千山鸟飞绝，万径人踪灭。\\n孤舟蓑笠翁，独钓寒江雪。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

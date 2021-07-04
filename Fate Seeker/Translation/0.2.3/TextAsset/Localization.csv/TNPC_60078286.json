@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078286",
+  "RawLine": "TNPC_60078286,{name}兄弟，你回來啦，我看看……這酒的色澤……這酒的香氣！對，這就是我要的！,{name}兄弟，你回来啦，我看看……这酒的色泽……这酒的香气！对，这就是我要的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078286",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，你回來啦，我看看……這酒的色澤……這酒的香氣！對，這就是我要的！",
+      "c": "<name>兄弟,你回來啦,我看看......這酒的色澤......這酒的香氣！對,這就是我要的！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, you're back, let me see ...... The color of this wine ...... The aroma of this wine! Yes, that's what I want!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，你回来啦，我看看……这酒的色泽……这酒的香气！对，这就是我要的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

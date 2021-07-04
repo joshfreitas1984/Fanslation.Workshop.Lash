@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101610406",
+  "RawLine": "SDM_1101610406,【他唸的詩是唐詩中的{color=#FF0000}塞下曲四首之二{/color}所改編，不如我來探探他，看他葫蘆裡在賣什麼藥。】,【他念的诗是唐诗中的{color=#FF0000}塞下曲四首之二{/color}所改编，不如我来探探他，看他葫芦里在卖什么药。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101610406",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【他唸的詩是唐詩中的{color=#FF0000}塞下曲四首之二{/color}所改編，不如我來探探他，看他葫蘆裡在賣什麼藥。】",
+      "c": "<[>他唸的詩是唐詩中的塞下曲四首之二所改編,不如我來探探他,看他葫蘆裡在賣什麼藥。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The poem he recited is an adaptation of the Four Songs of Seaside from the Tang poem, so why don't I explore him and see what medicine he is selling in his gourd. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【他念的诗是唐诗中的{color=#FF0000}塞下曲四首之二{/color}所改编，不如我来探探他，看他葫芦里在卖什么药。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20109075",
+  "RawLine": "TNPC_20109075,你想釀冬棗酒的話，一般是至少要{color=#ff0000}冬棗和橡子{/color}，還有一個材料是……,你想酿冬枣酒的话，一般是至少要{color=#ff0000}冬枣和橡子{/color}，还有一个材料是……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20109075",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你想釀冬棗酒的話，一般是至少要{color=#ff0000}冬棗和橡子{/color}，還有一個材料是……",
+      "c": "你想釀冬棗酒的話,一般是至少要冬棗和橡子,還有一個材料是......",
+      "rq": true,
+      "it": null,
+      "mt": "You need at least dates and acorns to make date wine, and one more ingredient is ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你想酿冬枣酒的话，一般是至少要{color=#ff0000}冬枣和橡子{/color}，还有一个材料是……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

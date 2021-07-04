@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003166",
+  "RawLine": "TNPC_10003166,在下還必須處理一些事物，暫時無法幫{/ln}兄弟，望你見諒。,在下还必须处理一些事物，暂时无法帮{/ln}兄弟，望你见谅。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003166",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "在下還必須處理一些事物，暫時無法幫{/ln}兄弟，望你見諒。",
+      "c": "在下還必須處理一些事物,暫時無法幫</ln>兄弟,望你見諒。",
+      "rq": true,
+      "it": null,
+      "mt": "I still have to deal with some things, I can't help </ln>brother for now, I hope you forgive me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "在下还必须处理一些事物，暂时无法帮{/ln}兄弟，望你见谅。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

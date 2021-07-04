@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05122_Tip",
+  "RawLine": "ITEM_05122_Tip,製藥藥材，可清泄肝火，為明目聖品，味甘鹹，性微涼。{p}{p}合成難度：{color=#ff0000}3{/color}。,制药药材，可清泄肝火，为明目圣品，味甘咸，性微凉。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05122_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，可清泄肝火，為明目聖品，味甘鹹，性微涼。{p}{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "製藥藥材,可清泄肝火,為明目聖品,味甘鹹,性微涼。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": "A medicinal herb that clears liver fire and is a sacred product for eyesight, sweet and salty in taste and slightly cool in nature. Synthesis difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，可清泄肝火，为明目圣品，味甘咸，性微凉。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

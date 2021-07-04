@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05132_Tip",
+  "RawLine": "ITEM_05132_Tip,製藥藥材，止血、解毒、袪瘀活血，味苦，性寒。{p}{p}合成難度：{color=#ff0000}3{/color}。,制药药材，止血、解毒、袪瘀活血，味苦，性寒。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05132_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，止血、解毒、袪瘀活血，味苦，性寒。{p}{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "製藥藥材,止血、解毒、袪瘀活血,味苦,性寒。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": " A medicinal herb that stops bleeding, detoxifies the blood, expels blood stasis and invigorates the blood, bitter in taste and cold in nature. Synthesis Difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，止血、解毒、袪瘀活血，味苦，性寒。{p}{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

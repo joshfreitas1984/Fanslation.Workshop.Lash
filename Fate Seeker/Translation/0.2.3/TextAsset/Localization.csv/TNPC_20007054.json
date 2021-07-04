@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20007054",
+  "RawLine": "TNPC_20007054,{s=8}【於是朱守長，先請酒館和賣水果的婆婆離去……】{/s},{s=8}【于是朱守长，先请酒馆和卖水果的婆婆离去……】{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20007054",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=8}【於是朱守長，先請酒館和賣水果的婆婆離去……】{/s}",
+      "c": "<[>於是朱守長,先請酒館和賣水果的婆婆離去......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>So Zhu Shou Chang asked the tavern and the fruit vendor to leave first ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=8}【于是朱守长，先请酒馆和卖水果的婆婆离去……】{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

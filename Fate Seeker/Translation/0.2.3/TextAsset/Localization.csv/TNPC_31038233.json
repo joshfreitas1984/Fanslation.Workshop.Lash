@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31038233",
+  "RawLine": "TNPC_31038233,{s=90}老鷹這種殘暴的生物誰會去養啊？還是聽我的勸養養雞不是很好嗎？{/s}{x},{s=90}老鹰这种残暴的生物谁会去养啊？还是听我的劝养养鸡不是很好吗？{/s}{x}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31038233",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=90}老鷹這種殘暴的生物誰會去養啊？還是聽我的勸養養雞不是很好嗎？{/s}{x}",
+      "c": "老鷹這種殘暴的生物誰會去養啊？還是聽我的勸養養雞不是很好嗎？<x>",
+      "rq": true,
+      "it": null,
+      "mt": "Who would raise such a cruel creature as an eagle? The most important thing is that you have to be able to get a good idea of what you are doing. <x",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=90}老鹰这种残暴的生物谁会去养啊？还是听我的劝养养鸡不是很好吗？{/s}{x}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

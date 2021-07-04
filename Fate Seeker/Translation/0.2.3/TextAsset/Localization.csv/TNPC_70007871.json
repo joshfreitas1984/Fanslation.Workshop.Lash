@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007871",
+  "RawLine": "TNPC_70007871,你意外在少林寺外，得知小櫻死於上官虹伶之手，,你意外在少林寺外，得知小樱死于上官虹伶之手，",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007871",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你意外在少林寺外，得知小櫻死於上官虹伶之手，",
+      "c": "你意外在少林寺外,得知小櫻死於上官虹伶之手,",
+      "rq": true,
+      "it": null,
+      "mt": "You accidentally learned that Sakura died by Shangguan Hongling's hand outside Shaolin Temple,",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你意外在少林寺外，得知小樱死于上官虹伶之手，",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

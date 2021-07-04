@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004103",
+  "RawLine": "TNPC_70004103,【看來這{color=#FF0000}骰子跟那箱子一樣記載著機關術有關{/color}。】,【看来这{color=#FF0000}骰子跟那箱子一样记载着机关术有关{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這{color=#FF0000}骰子跟那箱子一樣記載著機關術有關{/color}。】",
+      "c": "<[>看來這骰子跟那箱子一樣記載著機關術有關。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that this dice is related to the box with the mechanism. <]> <[>The dice are related to the box.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这{color=#FF0000}骰子跟那箱子一样记载着机关术有关{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

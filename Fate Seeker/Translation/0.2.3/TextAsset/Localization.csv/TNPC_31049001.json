@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31049001",
+  "RawLine": "TNPC_31049001,這玉珮是我在麥田撿到的，趁我改變主意前，將它拿走吧。,这玉珮是我在麦田捡到的，趁我改变主意前，将它拿走吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31049001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這玉珮是我在麥田撿到的，趁我改變主意前，將它拿走吧。",
+      "c": "這玉珮是我在麥田撿到的,趁我改變主意前,將它拿走吧。",
+      "rq": true,
+      "it": null,
+      "mt": "I found this jade palace in the wheat field, take it away before I change my mind.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这玉珮是我在麦田捡到的，趁我改变主意前，将它拿走吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

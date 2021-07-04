@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140206_Tip",
+  "RawLine": "SKILL_140206_Tip,【{color=#FFD700}破防功能{/color}】\\n將長槍往地板插入，周圍出現許多光影槍尖從地上冒出。,【{color=#FFD700}破防功能{/color}】\\n将长枪往地板插入，周围出现许多光影枪尖从地上冒出。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140206_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n將長槍往地板插入，周圍出現許多光影槍尖從地上冒出。",
+      "c": "<[>破防功能<]><<\\n>>將長槍往地板插入,周圍出現許多光影槍尖從地上冒出。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Defense Break<]><<\\n>>Thrusts the lance into the floor, and many light shadows appear around it as the tip of the gun emerges from the ground.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n将长枪往地板插入，周围出现许多光影枪尖从地上冒出。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

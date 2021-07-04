@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103791241",
+  "RawLine": "SDM_1103791241,【知道了配方還不夠，要煉製成品，還需要配方所記載的材料。】,【知道了配方还不够，要炼制成品，还需要配方所记载的材料。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103791241",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【知道了配方還不夠，要煉製成品，還需要配方所記載的材料。】",
+      "c": "<[>知道了配方還不夠,要煉製成品,還需要配方所記載的材料。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Knowing the recipe is not enough, to refine the finished product, you need the ingredients that are written in the recipe. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【知道了配方还不够，要炼制成品，还需要配方所记载的材料。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

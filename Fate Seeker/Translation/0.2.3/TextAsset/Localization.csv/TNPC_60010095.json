@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010095",
+  "RawLine": "TNPC_60010095,【瘋乞丐說的他們，難道跟這個{color=#FF0000}佛珠{/color}有關嗎？看來得去{color=#FF0000}醉翁酒肆{/color}那兒打聽看看消息了。】,【疯乞丐说的他们，难道跟这个{color=#FF0000}佛珠{/color}有关吗？看来得去{color=#FF0000}醉翁酒肆{/color}那儿打听看看消息了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010095",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【瘋乞丐說的他們，難道跟這個{color=#FF0000}佛珠{/color}有關嗎？看來得去{color=#FF0000}醉翁酒肆{/color}那兒打聽看看消息了。】",
+      "c": "<[>瘋乞丐說的他們,難道跟這個佛珠有關嗎？看來得去醉翁酒肆那兒打聽看看消息了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What the mad beggar said about them, is it related to this Buddha bead? It seems to have to go to the drunkard's liquor store there to inquire to see the news. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【疯乞丐说的他们，难道跟这个{color=#FF0000}佛珠{/color}有关吗？看来得去{color=#FF0000}醉翁酒肆{/color}那儿打听看看消息了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

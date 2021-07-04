@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002202",
+  "RawLine": "TNPC_70002202,【今天撒嬌這招怎麼沒用啊，本大爺只好為幾斗米折腰了。】,【今天撒娇这招怎么没用啊，本大爷只好为几斗米折腰了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002202",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【今天撒嬌這招怎麼沒用啊，本大爺只好為幾斗米折腰了。】",
+      "c": "<[>今天撒嬌這招怎麼沒用啊,本大爺只好為幾斗米折腰了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>How come this trick didn't work today, this big man had to bend over for a few buckets of rice. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【今天撒娇这招怎么没用啊，本大爷只好为几斗米折腰了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31031110",
+  "RawLine": "TNPC_31031110,我明明秤了{color=#cc0000}十石{/color}米出門的，倉庫怎麼會少了{color=#cc0000}十一石{/color}米呢？,我明明秤了{color=#cc0000}十石{/color}米出门的，仓库怎么会少了{color=#cc0000}十一石{/color}米呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31031110",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我明明秤了{color=#cc0000}十石{/color}米出門的，倉庫怎麼會少了{color=#cc0000}十一石{/color}米呢？",
+      "c": "我明明秤了十石米出門的,倉庫怎麼會少了十一石米呢？",
+      "rq": true,
+      "it": null,
+      "mt": "I weighed ten stones of rice, how come the warehouse is short of eleven stones of rice?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我明明秤了{color=#cc0000}十石{/color}米出门的，仓库怎么会少了{color=#cc0000}十一石{/color}米呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

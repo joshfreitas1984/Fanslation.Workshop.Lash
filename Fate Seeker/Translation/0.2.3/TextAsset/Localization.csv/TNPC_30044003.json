@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30044003",
+  "RawLine": "TNPC_30044003,我是沒看到什麼可疑人物，不過娘說過{fn}哥滿可疑的。,我是没看到什么可疑人物，不过娘说过{fn}哥满可疑的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30044003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我是沒看到什麼可疑人物，不過娘說過{fn}哥滿可疑的。",
+      "c": "我是沒看到什麼可疑人物,不過娘說過<fn>哥滿可疑的。",
+      "rq": true,
+      "it": null,
+      "mt": "I didn't see any suspicious person, but mom said <fn>bro is suspicious.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我是没看到什么可疑人物，不过娘说过{fn}哥满可疑的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

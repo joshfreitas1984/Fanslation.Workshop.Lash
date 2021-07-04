@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101000142",
+  "RawLine": "SDM_2101000142,哥哥！他昏過去了！嗚嗚嗚，怎麼辦，{fn}會不會死掉，嗚嗚嗚……,哥哥！他昏过去了！呜呜呜，怎么办，{fn}会不会死掉，呜呜呜……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101000142",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "哥哥！他昏過去了！嗚嗚嗚，怎麼辦，{fn}會不會死掉，嗚嗚嗚……",
+      "c": "哥哥！他昏過去了！嗚嗚嗚,怎麼辦,<fn>會不會死掉,嗚嗚嗚......",
+      "rq": true,
+      "it": null,
+      "mt": "Brother! He's passed out! What should we do,<fn>will he die,<fn>what should we do......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "哥哥！他昏过去了！呜呜呜，怎么办，{fn}会不会死掉，呜呜呜……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

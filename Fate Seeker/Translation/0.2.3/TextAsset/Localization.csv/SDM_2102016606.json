@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102016606",
+  "RawLine": "SDM_2102016606,在下{name}，拜見幫主，不知前輩尊姓大名，該如何稱呼？,在下{name}，拜见帮主，不知前辈尊姓大名，该如何称呼？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102016606",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "在下{name}，拜見幫主，不知前輩尊姓大名，該如何稱呼？",
+      "c": "在下<name>,拜見幫主,不知前輩尊姓大名,該如何稱呼？",
+      "rq": true,
+      "it": null,
+      "mt": "I <name>, meet the master, I don't know your name, how should I address you?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "在下{name}，拜见帮主，不知前辈尊姓大名，该如何称呼？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

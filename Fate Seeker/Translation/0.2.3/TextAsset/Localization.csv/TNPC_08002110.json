@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08002110",
+  "RawLine": "TNPC_08002110,這酒呢，依釀造的方法會分成白酒、黃酒、藥酒、果酒。,这酒呢，依酿造的方法会分成白酒、黄酒、药酒、果酒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08002110",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這酒呢，依釀造的方法會分成白酒、黃酒、藥酒、果酒。",
+      "c": "這酒呢,依釀造的方法會分成白酒、黃酒、藥酒、果酒。",
+      "rq": true,
+      "it": null,
+      "mt": "The wine is divided into white wine, yellow wine, medicinal wine and fruit wine according to the brewing method.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这酒呢，依酿造的方法会分成白酒、黄酒、药酒、果酒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

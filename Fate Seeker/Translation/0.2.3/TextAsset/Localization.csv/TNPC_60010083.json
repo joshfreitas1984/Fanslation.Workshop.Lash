@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010083",
+  "RawLine": "TNPC_60010083,{name}撥開雜草處，發現裡面有幾顆{color=#FF0000}佛珠{/color}。,{name}拨开杂草处，发现里面有几颗{color=#FF0000}佛珠{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010083",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}撥開雜草處，發現裡面有幾顆{color=#FF0000}佛珠{/color}。",
+      "c": "<name>撥開雜草處,發現裡面有幾顆佛珠。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Tearing away the weeds, I found some Buddha beads inside.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}拨开杂草处，发现里面有几颗{color=#FF0000}佛珠{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

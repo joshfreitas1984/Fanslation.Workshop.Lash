@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05202_Tip",
+  "RawLine": "ITEM_05202_Tip,釀酒用料，又稱玉米，易植栽，可直接蒸煮後食用。包穀酒的主要原料。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}白酒{/color}。{p}合成難度：{color=#ff0000}3{/color}。,酿酒用料，又称玉米，易植栽，可直接蒸煮后食用。包谷酒的主要原料。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}白酒{/color}。{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05202_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "釀酒用料，又稱玉米，易植栽，可直接蒸煮後食用。包穀酒的主要原料。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}白酒{/color}。{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "釀酒用料,又稱玉米,易植栽,可直接蒸煮後食用。包穀酒的主要原料。用途：適合釀造白酒。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": "Brewing material, also known as corn, easy to grow and can be eaten directly after steaming. It is the main raw material of grain wine. Use: Suitable for making white wine. Synthesis difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酿酒用料，又称玉米，易植栽，可直接蒸煮后食用。包谷酒的主要原料。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}白酒{/color}。{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

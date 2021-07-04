@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003070",
+  "RawLine": "TNPC_70003070,(小聲地說){p}{size=25}噓！你且在一旁看戲，大哥哥待會兒再跟你解釋。{/size},(小声地说){p}{size=25}嘘！你且在一旁看戏，大哥哥待会儿再跟你解释。{/size}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003070",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "(小聲地說){p}{size=25}噓！你且在一旁看戲，大哥哥待會兒再跟你解釋。{/size}",
+      "c": "(小聲地說)噓！你且在一旁看戲,大哥哥待會兒再跟你解釋。",
+      "rq": true,
+      "it": null,
+      "mt": "(whispering) Shh! You can watch the show, big brother will explain to you later.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "(小声地说){p}{size=25}嘘！你且在一旁看戏，大哥哥待会儿再跟你解释。{/size}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

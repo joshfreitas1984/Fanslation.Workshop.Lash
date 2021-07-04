@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003516",
+  "RawLine": "TNPC_10003516,【我將玉珮分成兩半，是為了公平分給小貓和小櫻，送給其他人不太妥當。】,【我将玉珮分成两半，是为了公平分给小猫和小樱，送给其他人不太妥当。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003516",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我將玉珮分成兩半，是為了公平分給小貓和小櫻，送給其他人不太妥當。】",
+      "c": "<[>我將玉珮分成兩半,是為了公平分給小貓和小櫻,送給其他人不太妥當。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I split the jade palace in half to give it to Kitten and Sakura in a fair way, and it is not appropriate to give it to others. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我将玉珮分成两半，是为了公平分给小猫和小樱，送给其他人不太妥当。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

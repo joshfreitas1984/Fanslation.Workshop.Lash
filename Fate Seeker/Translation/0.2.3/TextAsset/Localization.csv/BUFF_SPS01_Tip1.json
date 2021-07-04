@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_SPS01_Tip1",
+  "RawLine": "BUFF_SPS01_Tip1,逐漸恢復<color=#33FF33>15%</color>內力。<color=#33ff33>\\n恢復速度增加20%。</color>,逐渐恢复<color=#33FF33>15%</color>内力。<color=#33ff33>\\n恢复速度增加20%。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_SPS01_Tip1",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "逐漸恢復<color=#33FF33>15%</color>內力。<color=#33ff33>\\n恢復速度增加20%。</color>",
+      "c": "逐漸恢復15%內力。<<\\n>>恢復速度增加20%。",
+      "rq": true,
+      "it": null,
+      "mt": "Progressively restores 15% internal power. <<\\n>>Restoration speed is increased by 20%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "逐渐恢复<color=#33FF33>15%</color>内力。<color=#33ff33>\\n恢复速度增加20%。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078181",
+  "RawLine": "TNPC_60078181,{name}兄弟，多謝你的好意。但實不相瞞，我實在不大愛喝杏仁茶。,{name}兄弟，多谢你的好意。但实不相瞒，我实在不大爱喝杏仁茶。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078181",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，多謝你的好意。但實不相瞞，我實在不大愛喝杏仁茶。",
+      "c": "<name>兄弟,多謝你的好意。但實不相瞞,我實在不大愛喝杏仁茶。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, thank you for your kindness. But to tell you the truth, I really don't like almond tea.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，多谢你的好意。但实不相瞒，我实在不大爱喝杏仁茶。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

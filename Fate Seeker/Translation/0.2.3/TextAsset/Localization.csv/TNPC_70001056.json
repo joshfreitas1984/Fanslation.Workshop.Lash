@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001056",
+  "RawLine": "TNPC_70001056,【這裡還在城裡，出人命就不好了，給他們一點顏色瞧瞧就好。】,【这里还在城里，出人命就不好了，给他们一点颜色瞧瞧就好。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001056",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這裡還在城裡，出人命就不好了，給他們一點顏色瞧瞧就好。】",
+      "c": "<[>這裡還在城裡,出人命就不好了,給他們一點顏色瞧瞧就好。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is still the city, it would be bad if people get killed, just give them some color. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这里还在城里，出人命就不好了，给他们一点颜色瞧瞧就好。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

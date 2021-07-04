@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004391",
+  "RawLine": "TNPC_70004391,雖然這點分量不能迷暈整城的人，但{color=#FF0000}同時放倒五六人倒是綽綽有餘{/color}。,虽然这点分量不能迷晕整城的人，但{color=#FF0000}同时放倒五六人倒是绰绰有余{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004391",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "雖然這點分量不能迷暈整城的人，但{color=#FF0000}同時放倒五六人倒是綽綽有餘{/color}。",
+      "c": "雖然這點分量不能迷暈整城的人,但同時放倒五六人倒是綽綽有餘。",
+      "rq": true,
+      "it": null,
+      "mt": "Although this amount can't confuse the whole city, it is more than enough to put down five or six people at the same time.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "虽然这点分量不能迷晕整城的人，但{color=#FF0000}同时放倒五六人倒是绰绰有余{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

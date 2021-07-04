@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004268",
+  "RawLine": "TNPC_70004268,我已經知道了，如果不是嬸娘，{s=6}我、我可能也{/s}逃不過這劫……,我已经知道了，如果不是婶娘，{s=6}我、我可能也{/s}逃不过这劫……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004268",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我已經知道了，如果不是嬸娘，{s=6}我、我可能也{/s}逃不過這劫……",
+      "c": "我已經知道了,如果不是嬸娘,我、我可能也逃不過這劫......",
+      "rq": true,
+      "it": null,
+      "mt": "I already know, if it wasn't for my auntie, I might not have escaped this disaster either ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我已经知道了，如果不是婶娘，{s=6}我、我可能也{/s}逃不过这劫……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

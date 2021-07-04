@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010096",
+  "RawLine": "TNPC_60010096,【看來有人來過這裡，強迫瘋乞丐吃藥丸，再{color=#FF0000}搜尋{/color}看看這附近說不定有甚麼線索。】,【看来有人来过这里，强迫疯乞丐吃药丸，再{color=#FF0000}搜寻{/color}看看这附近说不定有什么线索。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010096",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來有人來過這裡，強迫瘋乞丐吃藥丸，再{color=#FF0000}搜尋{/color}看看這附近說不定有甚麼線索。】",
+      "c": "<[>看來有人來過這裡,強迫瘋乞丐吃藥丸,再搜尋看看這附近說不定有甚麼線索。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It looks like someone came here and forced the mad beggar to take the pills, so search around and see what clues there might be. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来有人来过这里，强迫疯乞丐吃药丸，再{color=#FF0000}搜寻{/color}看看这附近说不定有什么线索。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05134_Tip",
+  "RawLine": "ITEM_05134_Tip,製藥藥材，清虛熱、除濕火，味苦，性寒。{p}{p}合成難度：{color=#ff0000}9{/color}。,制药药材，清虚热、除湿火，味苦，性寒。{p}{p}合成难度：{color=#ff0000}9{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05134_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，清虛熱、除濕火，味苦，性寒。{p}{p}合成難度：{color=#ff0000}9{/color}。",
+      "c": "製藥藥材,清虛熱、除濕火,味苦,性寒。合成難度：9。",
+      "rq": true,
+      "it": null,
+      "mt": "An herb used in the manufacture of medicine to clear deficiency heat and remove dampness and fire, bitter in taste and cold in nature. Synthesis difficulty: 9.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，清虚热、除湿火，味苦，性寒。{p}{p}合成难度：{color=#ff0000}9{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

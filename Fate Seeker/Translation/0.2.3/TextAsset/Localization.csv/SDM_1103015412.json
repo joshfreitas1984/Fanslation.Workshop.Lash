@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103015412",
+  "RawLine": "SDM_1103015412,【照著{color=#FF0000}獲得令牌的順序{/color}排下來，合起來就是「{color=#FF0000}光陰無梭{/color}」。】,【照着{color=#FF0000}获得令牌的顺序{/color}排下来，合起来就是「{color=#FF0000}光阴无梭{/color}」。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103015412",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【照著{color=#FF0000}獲得令牌的順序{/color}排下來，合起來就是「{color=#FF0000}光陰無梭{/color}」。】",
+      "c": "<[>照著獲得令牌的順序排下來,合起來就是「光陰無梭」。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>In the order in which the tokens were obtained, they all add up to \"Light, Yin, and No Shuttle\". <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【照着{color=#FF0000}获得令牌的顺序{/color}排下来，合起来就是「{color=#FF0000}光阴无梭{/color}」。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

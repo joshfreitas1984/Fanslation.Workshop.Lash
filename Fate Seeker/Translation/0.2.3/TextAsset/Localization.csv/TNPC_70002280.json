@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002280",
+  "RawLine": "TNPC_70002280,是{fn}啊！康兒他又跑出去玩了，嘴裡還囔囔著下次爬樹要贏你。,是{fn}啊！康儿他又跑出去玩了，嘴里还囔囔着下次爬树要赢你。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002280",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是{fn}啊！康兒他又跑出去玩了，嘴裡還囔囔著下次爬樹要贏你。",
+      "c": "是<fn>啊！康兒他又跑出去玩了,嘴裡還囔囔著下次爬樹要贏你。",
+      "rq": true,
+      "it": null,
+      "mt": "Yes<fn>! Kang's gone out to play again, and he's muttering that he wants to win you next time.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "是{fn}啊！康儿他又跑出去玩了，嘴里还囔囔着下次爬树要赢你。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

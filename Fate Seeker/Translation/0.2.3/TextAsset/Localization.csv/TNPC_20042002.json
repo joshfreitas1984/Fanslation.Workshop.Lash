@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20042002",
+  "RawLine": "TNPC_20042002,突然間、你腿一軟，趴倒在地上，{p}原來不知何時，你已傷勢過重，血流不止，{p}你覺得越來越冷，你只知道{s=6}你的人生結束了，從零開始吧。{/s},突然间、你腿一软，趴倒在地上，{p}原来不知何时，你已伤势过重，血流不止，{p}你觉得越来越冷，你只知道{s=6}你的人生结束了，从零开始吧。{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20042002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "突然間、你腿一軟，趴倒在地上，{p}原來不知何時，你已傷勢過重，血流不止，{p}你覺得越來越冷，你只知道{s=6}你的人生結束了，從零開始吧。{/s}",
+      "c": "突然間、你腿一軟,趴倒在地上,原來不知何時,你已傷勢過重,血流不止,你覺得越來越冷,你只知道你的人生結束了,從零開始吧。",
+      "rq": true,
+      "it": null,
+      "mt": "Suddenly, your legs go limp and you fall to the ground, you don't know when you have been injured too much, your blood is flowing, you feel colder and colder, you just know your life is over, start from zero.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "突然间、你腿一软，趴倒在地上，{p}原来不知何时，你已伤势过重，血流不止，{p}你觉得越来越冷，你只知道{s=6}你的人生结束了，从零开始吧。{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

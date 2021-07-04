@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_3109001",
+  "RawLine": "READ_3109001,給梅櫻吾愛，十五年後江湖路，以此寶甲護汝身。\\n\\n勿忘藥王谷主與杭州小鐵匠韓祈之約。,给梅樱吾爱，十五年后江湖路，以此宝甲护汝身。\\n\\n勿忘药王谷主与杭州小铁匠韩祈之约。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_3109001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "給梅櫻吾愛，十五年後江湖路，以此寶甲護汝身。\\n\\n勿忘藥王谷主與杭州小鐵匠韓祈之約。",
+      "c": "給梅櫻吾愛,十五年後江湖路,以此寶甲護汝身。<<\\n>><<\\n>>勿忘藥王谷主與杭州小鐵匠韓祈之約。",
+      "rq": true,
+      "it": null,
+      "mt": "Giving plum cherry my love, 15 years later, this precious armor protects your body. <<\\n><\\n>>Don't forget the agreement between the master of Yakwang Valley and Han Qi, the little blacksmith in Hangzhou.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "给梅樱吾爱，十五年后江湖路，以此宝甲护汝身。\\n\\n勿忘药王谷主与杭州小铁匠韩祈之约。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

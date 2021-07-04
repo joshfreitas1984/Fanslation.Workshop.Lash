@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004961",
+  "RawLine": "TNPC_70004961,【{color=#FF0000}跟著這血跡將這惡徒繩之以法。{/color}】,【{color=#FF0000}跟着这血迹将这恶徒绳之以法。{/color}】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004961",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FF0000}跟著這血跡將這惡徒繩之以法。{/color}】",
+      "c": "<[>跟著這血跡將這惡徒繩之以法。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Following this blood trail, we will bring this villain to justice. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FF0000}跟着这血迹将这恶徒绳之以法。{/color}】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

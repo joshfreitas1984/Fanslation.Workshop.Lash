@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101780291",
+  "RawLine": "SDM_1101780291,{name}，你臉皮也是夠厚的，受苦的不是你，你憑什麼替我決定？,{name}，你脸皮也是够厚的，受苦的不是你，你凭什么替我决定？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101780291",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，你臉皮也是夠厚的，受苦的不是你，你憑什麼替我決定？",
+      "c": "<name>,你臉皮也是夠厚的,受苦的不是你,你憑什麼替我決定？",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, you are thick-skinned enough, you are not the one who suffers, so why do you decide for me?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，你脸皮也是够厚的，受苦的不是你，你凭什么替我决定？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_17021128",
+  "RawLine": "TNPC_17021128,這工作比到{color=#FF0000}吐蕃{/color}跑鏢輕鬆多了，只可惜沒有吐蕃的那種酒可喝。,这工作比到{color=#FF0000}吐蕃{/color}跑镖轻松多了，只可惜没有吐蕃的那种酒可喝。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_17021128",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這工作比到{color=#FF0000}吐蕃{/color}跑鏢輕鬆多了，只可惜沒有吐蕃的那種酒可喝。",
+      "c": "這工作比到吐蕃跑鏢輕鬆多了,只可惜沒有吐蕃的那種酒可喝。",
+      "rq": true,
+      "it": null,
+      "mt": "This job is much easier than running darts in Tufan, but it's a pity that there is no wine like Tufan.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这工作比到{color=#FF0000}吐蕃{/color}跑镖轻松多了，只可惜没有吐蕃的那种酒可喝。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

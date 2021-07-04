@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31027081",
+  "RawLine": "TNPC_31027081,買到麵粉了，趕緊前往{color=#cc0000}酒館{/color}吧。,买到面粉了，赶紧前往{color=#cc0000}酒馆{/color}吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31027081",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "買到麵粉了，趕緊前往{color=#cc0000}酒館{/color}吧。",
+      "c": "買到麵粉了,趕緊前往酒館吧。",
+      "rq": true,
+      "it": null,
+      "mt": "I got the flour, hurry up to the pub.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "买到面粉了，赶紧前往{color=#cc0000}酒馆{/color}吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

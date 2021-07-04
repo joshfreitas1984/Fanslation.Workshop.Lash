@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10001029",
+  "RawLine": "TNPC_10001029,【嘿嘿，「謝禮」的話，我可從米倉裡拿了不少。】,【嘿嘿，「谢礼」的话，我可从米仓里拿了不少。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10001029",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嘿嘿，「謝禮」的話，我可從米倉裡拿了不少。】",
+      "c": "<[>嘿嘿,「謝禮」的話,我可從米倉裡拿了不少。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, for \"thank you\", I took a lot from the rice barn. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嘿嘿，「谢礼」的话，我可从米仓里拿了不少。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

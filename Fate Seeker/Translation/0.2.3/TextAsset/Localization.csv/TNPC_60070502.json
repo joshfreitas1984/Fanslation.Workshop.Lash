@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070502",
+  "RawLine": "TNPC_60070502,主料有白蘿蔔、海參、魷魚、雞肉。成品只見一朵潔白如玉、色澤奪目的牡丹花，浮於湯麵之上，菜香花鮮。沒吃過千萬別說您來過洛陽啊。,主料有白萝卜、海参、鱿鱼、鸡肉。成品只见一朵洁白如玉、色泽夺目的牡丹花，浮于汤面之上，菜香花鲜。没吃过千万别说您来过洛阳啊。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070502",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "主料有白蘿蔔、海參、魷魚、雞肉。成品只見一朵潔白如玉、色澤奪目的牡丹花，浮於湯麵之上，菜香花鮮。沒吃過千萬別說您來過洛陽啊。",
+      "c": "主料有白蘿蔔、海參、魷魚、雞肉。成品只見一朵潔白如玉、色澤奪目的牡丹花,浮於湯麵之上,菜香花鮮。沒吃過千萬別說您來過洛陽啊。",
+      "rq": true,
+      "it": null,
+      "mt": "The main ingredients are white radish, sea cucumber, squid and chicken. The finished product is a white, jade-like, eye-catching peony flower floating on top of the noodles in the soup, and the dish is fragrant and fresh. Don't say you've been to Luoyang if you haven't eaten it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "主料有白萝卜、海参、鱿鱼、鸡肉。成品只见一朵洁白如玉、色泽夺目的牡丹花，浮于汤面之上，菜香花鲜。没吃过千万别说您来过洛阳啊。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

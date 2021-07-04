@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20074007",
+  "RawLine": "TNPC_20074007,客官，你要的麵和酒來了！{p}客官你鐵定是餓壞了，馬上整個臉都快埋進麵碗裡，請慢慢享用，才不會吃壞肚子。,客官，你要的面和酒来了！{p}客官你铁定是饿坏了，马上整个脸都快埋进面碗里，请慢慢享用，才不会吃坏肚子。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20074007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客官，你要的麵和酒來了！{p}客官你鐵定是餓壞了，馬上整個臉都快埋進麵碗裡，請慢慢享用，才不會吃壞肚子。",
+      "c": "客官,你要的麵和酒來了！客官你鐵定是餓壞了,馬上整個臉都快埋進麵碗裡,請慢慢享用,才不會吃壞肚子。",
+      "rq": true,
+      "it": null,
+      "mt": "Customer, your noodles and wine are here! Please take your time and enjoy your meal so that you don't lose your stomach.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客官，你要的面和酒来了！{p}客官你铁定是饿坏了，马上整个脸都快埋进面碗里，请慢慢享用，才不会吃坏肚子。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

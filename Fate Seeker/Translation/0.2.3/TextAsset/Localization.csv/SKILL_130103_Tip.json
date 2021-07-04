@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130103_Tip",
+  "RawLine": "SKILL_130103_Tip,【{color=#FFD700}強力{/color}】\\n依序使用過{color=#FF0000}蓄流{/color}、{color=#FF0000}長流{/color}後再使用本招，增傷{color=#00DB00}20%{/color}。\\n施展時間較長需特別注意。,【{color=#FFD700}强力{/color}】\\n依序使用过{color=#FF0000}蓄流{/color}、{color=#FF0000}长流{/color}后再使用本招，增伤{color=#00DB00}20%{/color}。\\n施展时间较长需特别注意。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130103_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n依序使用過{color=#FF0000}蓄流{/color}、{color=#FF0000}長流{/color}後再使用本招，增傷{color=#00DB00}20%{/color}。\\n施展時間較長需特別注意。",
+      "c": "<[>強力<]><<\\n>>依序使用過蓄流、長流後再使用本招,增傷20%。<<\\n>>施展時間較長需特別注意。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>>Use this move after using Ryu and Long Ryu in order to increase the damage by 20%. <<\\n>>It takes longer to perform, so be careful.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n依序使用过{color=#FF0000}蓄流{/color}、{color=#FF0000}长流{/color}后再使用本招，增伤{color=#00DB00}20%{/color}。\\n施展时间较长需特别注意。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

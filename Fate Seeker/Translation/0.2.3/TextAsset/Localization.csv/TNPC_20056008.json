@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20056008",
+  "RawLine": "TNPC_20056008,原來是{ln}少俠！{p}想不到你彈花生米還挺準的，真是多謝相助了。,原来是{ln}少侠！{p}想不到你弹花生米还挺准的，真是多谢相助了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20056008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "原來是{ln}少俠！{p}想不到你彈花生米還挺準的，真是多謝相助了。",
+      "c": "原來是<ln>少俠！想不到你彈花生米還挺準的,真是多謝相助了。",
+      "rq": true,
+      "it": null,
+      "mt": "So it was <ln>young knight! I didn't expect you to play your peanuts accurately, so thanks for helping me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "原来是{ln}少侠！{p}想不到你弹花生米还挺准的，真是多谢相助了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

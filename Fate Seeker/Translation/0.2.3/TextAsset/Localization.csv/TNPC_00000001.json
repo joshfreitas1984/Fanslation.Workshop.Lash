@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_00000001",
+  "RawLine": "TNPC_00000001,老夫這有各式雜貨，另外老夫略通製藥，有需要儘管找我。,老夫这有各式杂货，另外老夫略通制药，有需要尽管找我。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_00000001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老夫這有各式雜貨，另外老夫略通製藥，有需要儘管找我。",
+      "c": "老夫這有各式雜貨,另外老夫略通製藥,有需要儘管找我。",
+      "rq": true,
+      "it": null,
+      "mt": "I have all kinds of groceries here, and I know a little bit about making medicine, so if you need me, just call me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老夫这有各式杂货，另外老夫略通制药，有需要尽管找我。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074161",
+  "RawLine": "TNPC_60074161,你想用它來開鎖吧？我告訴你，這裡的鎖是特製的鎖，尋常鐵絲、髮簪是無法打開的。,你想用它来开锁吧？我告诉你，这里的锁是特制的锁，寻常铁丝、发簪是无法打开的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074161",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你想用它來開鎖吧？我告訴你，這裡的鎖是特製的鎖，尋常鐵絲、髮簪是無法打開的。",
+      "c": "你想用它來開鎖吧？我告訴你,這裡的鎖是特製的鎖,尋常鐵絲、髮簪是無法打開的。",
+      "rq": true,
+      "it": null,
+      "mt": "You want to use it to open the lock, right? Let me tell you, the lock here is a special lock, which cannot be opened by ordinary wire or hairpin.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你想用它来开锁吧？我告诉你，这里的锁是特制的锁，寻常铁丝、发簪是无法打开的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

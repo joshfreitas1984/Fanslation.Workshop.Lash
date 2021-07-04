@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700031_Tip",
+  "RawLine": "ITEM_700031_Tip,<color=#FF0000>在御蒼派內</color>尋獲，不知道是寫給誰的信。,<color=#FF0000>在御苍派内</color>寻获，不知道是写给谁的信。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700031_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#FF0000>在御蒼派內</color>尋獲，不知道是寫給誰的信。",
+      "c": "在御蒼派內尋獲,不知道是寫給誰的信。",
+      "rq": true,
+      "it": null,
+      "mt": "Found in the Oso sect, I don't know who it was written to.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#FF0000>在御苍派内</color>寻获，不知道是写给谁的信。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

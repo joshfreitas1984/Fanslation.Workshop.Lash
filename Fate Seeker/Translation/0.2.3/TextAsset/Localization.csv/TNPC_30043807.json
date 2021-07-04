@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30043807",
+  "RawLine": "TNPC_30043807,多謝小溪三俠鼎力相助，此等大恩{fn}來日再報！,多谢小溪三侠鼎力相助，此等大恩{fn}来日再报！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30043807",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "多謝小溪三俠鼎力相助，此等大恩{fn}來日再報！",
+      "c": "多謝小溪三俠鼎力相助,此等大恩<fn>來日再報！",
+      "rq": true,
+      "it": null,
+      "mt": "Thanks for your help, I will repay you for your kindness.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "多谢小溪三侠鼎力相助，此等大恩{fn}来日再报！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

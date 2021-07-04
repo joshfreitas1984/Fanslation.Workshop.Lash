@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080755",
+  "RawLine": "TNPC_60080755,我跟{name}兄弟合力將這把刀奪下，師父你才恢復正常。,我跟{name}兄弟合力将这把刀夺下，师父你才恢复正常。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080755",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我跟{name}兄弟合力將這把刀奪下，師父你才恢復正常。",
+      "c": "我跟<name>兄弟合力將這把刀奪下,師父你才恢復正常。",
+      "rq": true,
+      "it": null,
+      "mt": "My <name>brother and I worked together to take it off, and then you were back to normal.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我跟{name}兄弟合力将这把刀夺下，师父你才恢复正常。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

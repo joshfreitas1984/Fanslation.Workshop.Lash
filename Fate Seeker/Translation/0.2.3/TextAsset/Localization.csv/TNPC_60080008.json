@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080008",
+  "RawLine": "TNPC_60080008,【飛白派子時於{color=#FF0000}錦帶橋{/color}上見劍鋒派筆。】,【飞白派子时于{color=#FF0000}锦带桥{/color}上见剑锋派笔。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【飛白派子時於{color=#FF0000}錦帶橋{/color}上見劍鋒派筆。】",
+      "c": "<[>飛白派子時於錦帶橋上見劍鋒派筆。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>See the Swordsman's pen on the Jinbei Bridge during the time of the Flying White School. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【飞白派子时于{color=#FF0000}锦带桥{/color}上见剑锋派笔。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

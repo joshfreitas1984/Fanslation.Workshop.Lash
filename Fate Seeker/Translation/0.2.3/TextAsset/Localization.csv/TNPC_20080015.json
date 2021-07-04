@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20080015",
+  "RawLine": "TNPC_20080015,得了，沒時間和你說瞎話了。{p}大伙！休息夠了，該上路了！,得了，没时间和你说瞎话了。{p}大伙！休息够了，该上路了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20080015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "得了，沒時間和你說瞎話了。{p}大伙！休息夠了，該上路了！",
+      "c": "得了,沒時間和你說瞎話了。大伙！休息夠了,該上路了！",
+      "rq": true,
+      "it": null,
+      "mt": "Come on, I don't have time to talk nonsense with you. Guys! Enough rest, time to go on the road!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "得了，没时间和你说瞎话了。{p}大伙！休息够了，该上路了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

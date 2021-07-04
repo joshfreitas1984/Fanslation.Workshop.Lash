@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31048101",
+  "RawLine": "TNPC_31048101,{fn}啊，我腦袋不太好，就算你拿這給我看我也不知道是什麼意思。,{fn}啊，我脑袋不太好，就算你拿这给我看我也不知道是什么意思。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31048101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}啊，我腦袋不太好，就算你拿這給我看我也不知道是什麼意思。",
+      "c": "<fn>啊,我腦袋不太好,就算你拿這給我看我也不知道是什麼意思。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Ah, my brain is not good, even if you show me this, I don't know what it means.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}啊，我脑袋不太好，就算你拿这给我看我也不知道是什么意思。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

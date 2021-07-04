@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080975",
+  "RawLine": "TNPC_60080975,【這麻布袋裡沒裝東西，拿起來挺輕的，或許可以派上用場。】,【这麻布袋里没装东西，拿起来挺轻的，或许可以派上用场。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080975",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這麻布袋裡沒裝東西，拿起來挺輕的，或許可以派上用場。】",
+      "c": "<[>這麻布袋裡沒裝東西,拿起來挺輕的,或許可以派上用場。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This sack is not filled with anything, it is quite light to hold, maybe it can be useful. <]>The sack is not filled with anything.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这麻布袋里没装东西，拿起来挺轻的，或许可以派上用场。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

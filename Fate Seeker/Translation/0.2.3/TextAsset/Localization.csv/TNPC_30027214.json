@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30027214",
+  "RawLine": "TNPC_30027214,【這酒似乎可以拿來{color=#FF0000}出示{/color}，出示物品要有該物品會被對方收走的心理準備。】,【这酒似乎可以拿来{color=#FF0000}出示{/color}，出示物品要有该物品会被对方收走的心理准备。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30027214",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這酒似乎可以拿來{color=#FF0000}出示{/color}，出示物品要有該物品會被對方收走的心理準備。】",
+      "c": "<[>這酒似乎可以拿來出示,出示物品要有該物品會被對方收走的心理準備。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This wine seems to be able to be presented, be prepared for the item to be taken away. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这酒似乎可以拿来{color=#FF0000}出示{/color}，出示物品要有该物品会被对方收走的心理准备。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

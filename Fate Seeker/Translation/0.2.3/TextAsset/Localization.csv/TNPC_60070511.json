@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070511",
+  "RawLine": "TNPC_60070511,【怎麼有一陣怪聲？好像是{s=6}……{/s}有人在哭嗎？不是吧……平常那兩個小鬼就夠吵了，現在連喝杯茶也不得安寧啊。】,【怎么有一阵怪声？好像是{s=6}……{/s}有人在哭吗？不是吧……平常那两个小鬼就够吵了，现在连喝杯茶也不得安宁啊。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070511",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【怎麼有一陣怪聲？好像是{s=6}……{/s}有人在哭嗎？不是吧……平常那兩個小鬼就夠吵了，現在連喝杯茶也不得安寧啊。】",
+      "c": "<[>怎麼有一陣怪聲？好像是......有人在哭嗎？不是吧......平常那兩個小鬼就夠吵了,現在連喝杯茶也不得安寧啊。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Why is there a strange sound? It seems to be ...... Is someone crying? No. ...... The two kids are usually noisy enough, now they can't even have a cup of tea in peace. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【怎么有一阵怪声？好像是{s=6}……{/s}有人在哭吗？不是吧……平常那两个小鬼就够吵了，现在连喝杯茶也不得安宁啊。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

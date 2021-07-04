@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04014_Tip",
+  "RawLine": "ITEM_04014_Tip,能夠幫助息武之人打通精脈的藥品，對調整內息有莫大的助益。{p}{p}合成難度：{color=#ff0000}2{/color}。,能够帮助息武之人打通精脉的药品，对调整内息有莫大的助益。{p}{p}合成难度：{color=#ff0000}2{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04014_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "能夠幫助息武之人打通精脈的藥品，對調整內息有莫大的助益。{p}{p}合成難度：{color=#ff0000}2{/color}。",
+      "c": "能夠幫助息武之人打通精脈的藥品,對調整內息有莫大的助益。合成難度：2。",
+      "rq": true,
+      "it": null,
+      "mt": "A medicine that helps to open up the vital arteries of martial artists, and is very helpful for adjusting internal energy. Synthesis difficulty: 2.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "能够帮助息武之人打通精脉的药品，对调整内息有莫大的助益。{p}{p}合成难度：{color=#ff0000}2{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

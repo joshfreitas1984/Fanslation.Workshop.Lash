@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_17030063",
+  "RawLine": "TNPC_17030063,這屋裡就這點家當，我堂堂{name}，怎麼會找不到藏在裡頭的一紙文章！,这屋里就这点家当，我堂堂{name}，怎么会找不到藏在里头的一纸文章！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_17030063",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這屋裡就這點家當，我堂堂{name}，怎麼會找不到藏在裡頭的一紙文章！",
+      "c": "這屋裡就這點家當,我堂堂<name>,怎麼會找不到藏在裡頭的一紙文章！",
+      "rq": true,
+      "it": null,
+      "mt": "This is all I have in this house, how can I not find a piece of paper hidden in it?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这屋里就这点家当，我堂堂{name}，怎么会找不到藏在里头的一纸文章！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

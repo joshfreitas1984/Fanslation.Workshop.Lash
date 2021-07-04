@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079440",
+  "RawLine": "TNPC_60079440,【看這傢伙穿著簡陋、住處家徒四壁，肯定很缺銀兩。】,【看这家伙穿着简陋、住处家徒四壁，肯定很缺银两。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079440",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看這傢伙穿著簡陋、住處家徒四壁，肯定很缺銀兩。】",
+      "c": "<[>看這傢伙穿著簡陋、住處家徒四壁,肯定很缺銀兩。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Looking at this guy's humble clothes and his house, he must be very short of money. <]> The man must be very short of money.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看这家伙穿着简陋、住处家徒四壁，肯定很缺银两。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

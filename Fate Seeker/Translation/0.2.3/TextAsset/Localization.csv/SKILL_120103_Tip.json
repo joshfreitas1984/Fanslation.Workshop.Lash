@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120103_Tip",
+  "RawLine": "SKILL_120103_Tip,【{color=#FFD700}異常{/color}】\\n往前方直線攻擊的遠距攻擊，低機率對敵人造成寒毒。,【{color=#FFD700}异常{/color}】\\n往前方直线攻击的远距攻击，低机率对敌人造成寒毒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120103_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}異常{/color}】\\n往前方直線攻擊的遠距攻擊，低機率對敵人造成寒毒。",
+      "c": "<[>異常<]><<\\n>>往前方直線攻擊的遠距攻擊,低機率對敵人造成寒毒。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Abnormal<]><<\\n>>A long-range attack that attacks straight ahead with a low chance of inflicting cold poison on enemies.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}异常{/color}】\\n往前方直线攻击的远距攻击，低机率对敌人造成寒毒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

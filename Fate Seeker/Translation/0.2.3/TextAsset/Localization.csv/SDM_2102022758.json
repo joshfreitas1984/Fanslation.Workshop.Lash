@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102022758",
+  "RawLine": "SDM_2102022758,{name}因財起意，與山賊合謀奪取鏢物，殺害開封鏢局四十八人。經本府調查，此案罪證確鑿！,{name}因财起意，与山贼合谋夺取镖物，杀害开封镖局四十八人。经本府调查，此案罪证确凿！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102022758",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}因財起意，與山賊合謀奪取鏢物，殺害開封鏢局四十八人。經本府調查，此案罪證確鑿！",
+      "c": "<name>因財起意,與山賊合謀奪取鏢物,殺害開封鏢局四十八人。經本府調查,此案罪證確鑿！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>The thief conspired with the thief to seize the darts and killed 48 people in Kaifeng Darts Board because of money. The case was investigated by the government and the evidence of the crime was confirmed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}因财起意，与山贼合谋夺取镖物，杀害开封镖局四十八人。经本府调查，此案罪证确凿！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

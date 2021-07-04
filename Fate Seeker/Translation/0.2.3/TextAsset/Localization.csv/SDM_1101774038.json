@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101774038",
+  "RawLine": "SDM_1101774038,{hpunch=50}你的名字，你真正的名字，就叫做李飯糰！,{hpunch=50}你的名字，你真正的名字，就叫做李饭团！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101774038",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{hpunch=50}你的名字，你真正的名字，就叫做李飯糰！",
+      "c": "<hpunch=50>你的名字,你真正的名字,就叫做李飯糰！",
+      "rq": true,
+      "it": null,
+      "mt": "<hpunch=50>Your name, your real name, is Lee Rice Ball!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{hpunch=50}你的名字，你真正的名字，就叫做李饭团！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

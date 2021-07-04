@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10002194",
+  "RawLine": "TNPC_10002194,【這塊磚上刻著{color=#FF0000}請勿在此便溺{/color}這句標語，署名開封官府。】,【这块砖上刻着{color=#FF0000}请勿在此便溺{/color}这句标语，署名开封官府。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10002194",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這塊磚上刻著{color=#FF0000}請勿在此便溺{/color}這句標語，署名開封官府。】",
+      "c": "<[>這塊磚上刻著請勿在此便溺這句標語,署名開封官府。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This brick is inscribed with the slogan \"Please don't defecate here\", signed by the Kaifeng government. <]> The brick is inscribed with the phrase \"Do not defecate here\" and signed by the Kaifeng government.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这块砖上刻着{color=#FF0000}请勿在此便溺{/color}这句标语，署名开封官府。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

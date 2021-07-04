@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31030101",
+  "RawLine": "TNPC_31030101,我剛剛隔著窗戶都看見了，幹得漂亮啊！{fn}小弟。,我刚刚隔着窗户都看见了，干得漂亮啊！{fn}小弟。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31030101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我剛剛隔著窗戶都看見了，幹得漂亮啊！{fn}小弟。",
+      "c": "我剛剛隔著窗戶都看見了,幹得漂亮啊！<fn>小弟。",
+      "rq": true,
+      "it": null,
+      "mt": "I just saw it through the window, good job! <fn>Little brother.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我刚刚隔着窗户都看见了，干得漂亮啊！{fn}小弟。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

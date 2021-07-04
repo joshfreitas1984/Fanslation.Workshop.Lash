@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30024205",
+  "RawLine": "TNPC_30024205,嗯嗯，{ln}哥哥要好好孝順梁爺爺喔。,嗯嗯，{ln}哥哥要好好孝顺梁爷爷喔。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30024205",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯嗯，{ln}哥哥要好好孝順梁爺爺喔。",
+      "c": "嗯嗯,<ln>哥哥要好好孝順梁爺爺喔。",
+      "rq": true,
+      "it": null,
+      "mt": "Hmmmm, <ln>brother should be good to grandpa Liang.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯嗯，{ln}哥哥要好好孝顺梁爷爷喔。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

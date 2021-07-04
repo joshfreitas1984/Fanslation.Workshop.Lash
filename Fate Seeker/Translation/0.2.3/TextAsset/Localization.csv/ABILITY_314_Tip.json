@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_314_Tip",
+  "RawLine": "ABILITY_314_Tip,招式造成一下以上暴擊時，<color=#00DB00>10%</color>機率使招式冷卻時間下降<color=#00DB00>25%</color>。,招式造成一下以上暴击时，<color=#00DB00>10%</color>机率使招式冷却时间下降<color=#00DB00>25%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_314_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "招式造成一下以上暴擊時，<color=#00DB00>10%</color>機率使招式冷卻時間下降<color=#00DB00>25%</color>。",
+      "c": "招式造成一下以上暴擊時,10%機率使招式冷卻時間下降25%。",
+      "rq": true,
+      "it": null,
+      "mt": "When a move deals more than one blast, there is a 10% chance that the move's cooldown time will be reduced by 25%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "招式造成一下以上暴击时，<color=#00DB00>10%</color>机率使招式冷却时间下降<color=#00DB00>25%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

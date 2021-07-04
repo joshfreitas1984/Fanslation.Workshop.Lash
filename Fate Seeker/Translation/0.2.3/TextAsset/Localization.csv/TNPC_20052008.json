@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20052008",
+  "RawLine": "TNPC_20052008,{color=#ff0000}倘若你想化解兇星，就需探訪各大門派靈山靈地，{p}讓身體吸收當地龍脈之氣，補其所缺，方能運勢平順。{/color},{color=#ff0000}倘若你想化解凶星，就需探访各大门派灵山灵地，{p}让身体吸收当地龙脉之气，补其所缺，方能运势平顺。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20052008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}倘若你想化解兇星，就需探訪各大門派靈山靈地，{p}讓身體吸收當地龍脈之氣，補其所缺，方能運勢平順。{/color}",
+      "c": "倘若你想化解兇星,就需探訪各大門派靈山靈地,讓身體吸收當地龍脈之氣,補其所缺,方能運勢平順。",
+      "rq": true,
+      "it": null,
+      "mt": "If you want to solve the fatal star, you need to visit the spiritual places of all the sects and let your body absorb the Qi of the local dragon veins to make up for its shortcomings, so that your luck will be smooth.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}倘若你想化解凶星，就需探访各大门派灵山灵地，{p}让身体吸收当地龙脉之气，补其所缺，方能运势平顺。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

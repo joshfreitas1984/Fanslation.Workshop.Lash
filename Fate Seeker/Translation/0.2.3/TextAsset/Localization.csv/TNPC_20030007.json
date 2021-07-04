@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20030007",
+  "RawLine": "TNPC_20030007,便有江湖傳言，滅寨危擊之時，{p}有些貴重之物，就被急忙藏於{color=#ff0000}入寨門後，附近的酒罈櫃之中{/color}，{p}至於是真是假，就靠你前去探查了。,便有江湖传言，灭寨危击之时，{p}有些贵重之物，就被急忙藏于{color=#ff0000}入寨门后，附近的酒坛柜之中{/color}，{p}至于是真是假，就靠你前去探查了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20030007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "便有江湖傳言，滅寨危擊之時，{p}有些貴重之物，就被急忙藏於{color=#ff0000}入寨門後，附近的酒罈櫃之中{/color}，{p}至於是真是假，就靠你前去探查了。",
+      "c": "便有江湖傳言,滅寨危擊之時,有些貴重之物,就被急忙藏於入寨門後,附近的酒罈櫃之中,至於是真是假,就靠你前去探查了。",
+      "rq": true,
+      "it": null,
+      "mt": "There are rumors that when the fortress was destroyed, some valuable things were hastily hidden in the wine cupboard near the entrance of the fortress.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "便有江湖传言，灭寨危击之时，{p}有些贵重之物，就被急忙藏于{color=#ff0000}入寨门后，附近的酒坛柜之中{/color}，{p}至于是真是假，就靠你前去探查了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

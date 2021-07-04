@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_39040500",
+  "RawLine": "TNPC_39040500,奇怪，跟{fn}哥哥講話時，我臉頰發燙而且心跳好快，莫非是生病了嗎？,奇怪，跟{fn}哥哥讲话时，我脸颊发烫而且心跳好快，莫非是生病了吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_39040500",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "奇怪，跟{fn}哥哥講話時，我臉頰發燙而且心跳好快，莫非是生病了嗎？",
+      "c": "奇怪,跟<fn>哥哥講話時,我臉頰發燙而且心跳好快,莫非是生病了嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "It's strange, when I talk to <fn>brother, my cheeks are hot and my heart beats so fast.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "奇怪，跟{fn}哥哥讲话时，我脸颊发烫而且心跳好快，莫非是生病了吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002243",
+  "RawLine": "TNPC_70002243,喜•{w=1}歡•{w=1}我•{w=1}嬸•{w=1}娘！,喜•{w=1}欢•{w=1}我•{w=1}婶•{w=1}娘！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002243",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "喜•{w=1}歡•{w=1}我•{w=1}嬸•{w=1}娘！",
+      "c": "喜•歡•我•嬸•娘！",
+      "rq": true,
+      "it": null,
+      "mt": "Happy-my-aunty-mother!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "喜•{w=1}欢•{w=1}我•{w=1}婶•{w=1}娘！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

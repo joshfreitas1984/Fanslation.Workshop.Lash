@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31073001",
+  "RawLine": "TNPC_31073001,這雞還是留著做烤雞好了，不久前才剛喝過雞湯呢。,这鸡还是留着做烤鸡好了，不久前才刚喝过鸡汤呢。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31073001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這雞還是留著做烤雞好了，不久前才剛喝過雞湯呢。",
+      "c": "這雞還是留著做烤雞好了,不久前才剛喝過雞湯呢。",
+      "rq": true,
+      "it": null,
+      "mt": "This chicken should be saved for roast chicken, I just had chicken soup not long ago.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这鸡还是留着做烤鸡好了，不久前才刚喝过鸡汤呢。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

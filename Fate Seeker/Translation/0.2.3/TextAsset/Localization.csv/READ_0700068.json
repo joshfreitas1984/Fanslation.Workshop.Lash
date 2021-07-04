@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0700068",
+  "RawLine": "READ_0700068,《春曉》\\n春眠不覺曉，處處聞啼鳥。\\n夜來風雨聲，花落知多少？,《春晓》\\n春眠不觉晓，处处闻啼鸟。\\n夜来风雨声，花落知多少？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0700068",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "《春曉》\\n春眠不覺曉，處處聞啼鳥。\\n夜來風雨聲，花落知多少？",
+      "c": "《春曉》<<\\n>>春眠不覺曉,處處聞啼鳥。<<\\n>>夜來風雨聲,花落知多少？",
+      "rq": true,
+      "it": null,
+      "mt": "\"Spring Dawn\" <<\\n>>Sleeping in spring, we hear birds crying everywhere. <<\\n>>The sound of wind and rain at night, how many flowers fall?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "《春晓》\\n春眠不觉晓，处处闻啼鸟。\\n夜来风雨声，花落知多少？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

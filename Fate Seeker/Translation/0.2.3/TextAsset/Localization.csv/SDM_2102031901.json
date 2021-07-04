@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102031901",
+  "RawLine": "SDM_2102031901,我家右邊這條死巷子，被鄰居老王拿來擺放一些自家的傘。,我家右边这条死巷子，被邻居老王拿来摆放一些自家的伞。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102031901",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我家右邊這條死巷子，被鄰居老王拿來擺放一些自家的傘。",
+      "c": "我家右邊這條死巷子,被鄰居老王拿來擺放一些自家的傘。",
+      "rq": true,
+      "it": null,
+      "mt": "This cul-de-sac to the right of my house was used by the neighbor, Wang, to store some of his umbrellas.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我家右边这条死巷子，被邻居老王拿来摆放一些自家的伞。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

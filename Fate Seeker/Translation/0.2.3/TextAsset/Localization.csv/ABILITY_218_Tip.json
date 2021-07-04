@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_218_Tip",
+  "RawLine": "ABILITY_218_Tip,使用恢復生命物品時，<color=#00DB00>15%</color>不消耗物品。,使用恢复生命物品时，<color=#00DB00>15%</color>不消耗物品。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_218_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "使用恢復生命物品時，<color=#00DB00>15%</color>不消耗物品。",
+      "c": "使用恢復生命物品時,15%不消耗物品。",
+      "rq": true,
+      "it": null,
+      "mt": "When using a life-restoring item, 15% of the item is not consumed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "使用恢复生命物品时，<color=#00DB00>15%</color>不消耗物品。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101752116",
+  "RawLine": "SDM_1101752116,但有{ln}兄弟隨行，便沒問題了，不論是去哪裡，請{ln}兄弟好好照顧大小姐。,但有{ln}兄弟随行，便没问题了，不论是去哪里，请{ln}兄弟好好照顾大小姐。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101752116",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "但有{ln}兄弟隨行，便沒問題了，不論是去哪裡，請{ln}兄弟好好照顧大小姐。",
+      "c": "但有<ln>兄弟隨行,便沒問題了,不論是去哪裡,請<ln>兄弟好好照顧大小姐。",
+      "rq": true,
+      "it": null,
+      "mt": "But with <ln>brother accompanying us, there is no problem, no matter where we go, please <ln>brother take good care of Missy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "但有{ln}兄弟随行，便没问题了，不论是去哪里，请{ln}兄弟好好照顾大小姐。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

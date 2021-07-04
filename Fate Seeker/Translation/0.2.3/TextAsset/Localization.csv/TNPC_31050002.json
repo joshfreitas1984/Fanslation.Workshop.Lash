@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31050002",
+  "RawLine": "TNPC_31050002,{fn}謝謝啊！雖然它已經碎了，但對我還是有意義的……,{fn}谢谢啊！虽然它已经碎了，但对我还是有意义的……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31050002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}謝謝啊！雖然它已經碎了，但對我還是有意義的……",
+      "c": "<fn>謝謝啊！雖然它已經碎了,但對我還是有意義的......",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Thank you! Although it is broken, it is still meaningful to me ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}谢谢啊！虽然它已经碎了，但对我还是有意义的……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

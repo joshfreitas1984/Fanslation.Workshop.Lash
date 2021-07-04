@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140204_Tip",
+  "RawLine": "SKILL_140204_Tip,【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}疾風如勁{/color}、{color=#FF0000}風鳴鶴唳{/color}後使用本招、攻擊力增加{color=#00DB00}20%{/color}。,【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}疾风如劲{/color}、{color=#FF0000}风鸣鹤唳{/color}后使用本招、攻击力增加{color=#00DB00}20%{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140204_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}疾風如勁{/color}、{color=#FF0000}風鳴鶴唳{/color}後使用本招、攻擊力增加{color=#00DB00}20%{/color}。",
+      "c": "<[>強力<]><<\\n>>依序使用疾風如勁、風鳴鶴唳後使用本招、攻擊力增加20%。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>>Use this move after using Gusty Wind and Windy Crane in that order to increase attack power by 20%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}疾风如劲{/color}、{color=#FF0000}风鸣鹤唳{/color}后使用本招、攻击力增加{color=#00DB00}20%{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

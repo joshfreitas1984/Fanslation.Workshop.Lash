@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20095008",
+  "RawLine": "TNPC_20095008,【聽不懂他在亂說什麼，{p}還是找找他都在這牢房裡做了什麼吧？】,【听不懂他在乱说什么，{p}还是找找他都在这牢房里做了什么吧？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20095008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【聽不懂他在亂說什麼，{p}還是找找他都在這牢房裡做了什麼吧？】",
+      "c": "<[>聽不懂他在亂說什麼,還是找找他都在這牢房裡做了什麼吧？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I don't understand what he is talking about, let's find out what he has done in this cell. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【听不懂他在乱说什么，{p}还是找找他都在这牢房里做了什么吧？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

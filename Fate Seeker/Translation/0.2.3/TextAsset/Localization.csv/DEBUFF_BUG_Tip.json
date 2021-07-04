@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "DEBUFF_BUG_Tip",
+  "RawLine": "DEBUFF_BUG_Tip,被蠱躍聖經的內力侵蝕，持續受到傷害。,被蛊跃圣经的内力侵蚀，持续受到伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "DEBUFF_BUG_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "被蠱躍聖經的內力侵蝕，持續受到傷害。",
+      "c": "被蠱躍聖經的內力侵蝕,持續受到傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "Incurred by the internal power of Tricky Tricky Scripture, it continues to take damage.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "被蛊跃圣经的内力侵蚀，持续受到伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60005002",
+  "RawLine": "TNPC_60005002,【目前得知子千可能是被小人所害，用這線索去{color=#cc0000}調查{/color}或{color=#cc0000}詳問{/color}看看吧。】,【目前得知子千可能是被小人所害，用这线索去{color=#cc0000}调查{/color}或{color=#cc0000}详问{/color}看看吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60005002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【目前得知子千可能是被小人所害，用這線索去{color=#cc0000}調查{/color}或{color=#cc0000}詳問{/color}看看吧。】",
+      "c": "<[>目前得知子千可能是被小人所害,用這線索去調查或詳問看看吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>We know that Ziqian may have been killed by a villain, so use this clue to investigate or ask more questions. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【目前得知子千可能是被小人所害，用这线索去{color=#cc0000}调查{/color}或{color=#cc0000}详问{/color}看看吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

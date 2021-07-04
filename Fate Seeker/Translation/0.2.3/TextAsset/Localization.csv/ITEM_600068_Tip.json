@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_600068_Tip",
+  "RawLine": "ITEM_600068_Tip,竹簡內寫著藥丸陰陽相剋的道理，副作用會使服用者昏迷一個月。,竹简内写着药丸阴阳相克的道理，副作用会使服用者昏迷一个月。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_600068_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "竹簡內寫著藥丸陰陽相剋的道理，副作用會使服用者昏迷一個月。",
+      "c": "竹簡內寫著藥丸陰陽相剋的道理,副作用會使服用者昏迷一個月。",
+      "rq": true,
+      "it": null,
+      "mt": "It is written in the bamboo jian that the yin and yang of the pill are mutually exclusive, and the side effects can put the user in a coma for a month.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "竹简内写着药丸阴阳相克的道理，副作用会使服用者昏迷一个月。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005088",
+  "RawLine": "TNPC_70005088,【啊，剛剛聽他說是因為{color=#FF0000}喜愛的酒沒了，杭州也沒有在賣{/color}，所以才在這借酒澆愁。】,【啊，刚刚听他说是因为{color=#FF0000}喜爱的酒没了，杭州也没有在卖{/color}，所以才在这借酒浇愁。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005088",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【啊，剛剛聽他說是因為{color=#FF0000}喜愛的酒沒了，杭州也沒有在賣{/color}，所以才在這借酒澆愁。】",
+      "c": "<[>啊,剛剛聽他說是因為喜愛的酒沒了,杭州也沒有在賣,所以才在這借酒澆愁。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Ah, I just heard him say that his favorite wine is gone, and there is no wine for sale in Hangzhou, so he is here to pour out his sorrow with wine. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【啊，刚刚听他说是因为{color=#FF0000}喜爱的酒没了，杭州也没有在卖{/color}，所以才在这借酒浇愁。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

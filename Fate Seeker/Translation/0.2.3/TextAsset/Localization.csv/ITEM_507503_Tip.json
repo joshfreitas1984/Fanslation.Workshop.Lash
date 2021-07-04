@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_507503_Tip",
+  "RawLine": "ITEM_507503_Tip,在鍛造時使用，使每圈轉速降低 0.6秒/圈。,在锻造时使用，使每圈转速降低 0.6秒/圈。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_507503_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "在鍛造時使用，使每圈轉速降低 0.6秒/圈。",
+      "c": "在鍛造時使用,使每圈轉速降低 0.6秒/圈。",
+      "rq": true,
+      "it": null,
+      "mt": "Use during forging to reduce spin speed by 0.6 sec/lap.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "在锻造时使用，使每圈转速降低 0.6秒/圈。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130105_Tip",
+  "RawLine": "SKILL_130105_Tip,【{color=#FFD700}強力{/color}】開啟條件招式：{color=#FF0000}地流{/color}。\\n將劍氣往敵方投射後閃身到對方面前，並進行三段攻擊的快招。,【{color=#FFD700}强力{/color}】开启条件招式：{color=#FF0000}地流{/color}。\\n将剑气往敌方投射后闪身到对方面前，并进行三段攻击的快招。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130105_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】開啟條件招式：{color=#FF0000}地流{/color}。\\n將劍氣往敵方投射後閃身到對方面前，並進行三段攻擊的快招。",
+      "c": "<[>強力<]>開啟條件招式：地流。<<\\n>>將劍氣往敵方投射後閃身到對方面前,並進行三段攻擊的快招。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]> Opens up the condition move: ground flow. <<\\n>> A quick move that throws sword air at the enemy and then dashes to the front of them and performs a three-step attack.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】开启条件招式：{color=#FF0000}地流{/color}。\\n将剑气往敌方投射后闪身到对方面前，并进行三段攻击的快招。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

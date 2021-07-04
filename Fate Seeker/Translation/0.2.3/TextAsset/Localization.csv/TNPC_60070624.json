@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070624",
+  "RawLine": "TNPC_60070624,【這個應該就是大嬸在找的東西了，拿去給大嬸看看吧！】,【这个应该就是大婶在找的东西了，拿去给大婶看看吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070624",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這個應該就是大嬸在找的東西了，拿去給大嬸看看吧！】",
+      "c": "<[>這個應該就是大嬸在找的東西了,拿去給大嬸看看吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This should be what Ahjumma is looking for, let's show it to Ahjumma! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这个应该就是大婶在找的东西了，拿去给大婶看看吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

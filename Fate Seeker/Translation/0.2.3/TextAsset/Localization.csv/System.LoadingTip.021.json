@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.LoadingTip.021",
+  "RawLine": "System.LoadingTip.021,遊戲提示：鍛造精工武器的攻擊力雖較低，但暴擊率會提升不少。,游戏提示：锻造精工武器的攻击力虽较低，但暴击率会提升不少。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.LoadingTip.021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "遊戲提示：鍛造精工武器的攻擊力雖較低，但暴擊率會提升不少。",
+      "c": "遊戲提示：鍛造精工武器的攻擊力雖較低,但暴擊率會提升不少。",
+      "rq": true,
+      "it": null,
+      "mt": "Game tip: The attack power of forged weapons is lower, but the blast rate will be increased.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "游戏提示：锻造精工武器的攻击力虽较低，但暴击率会提升不少。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

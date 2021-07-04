@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070655",
+  "RawLine": "TNPC_60070655,這家餐館的「洛陽燕菜」是出了名的好吃，但那廚子老是不在，所以我也沒吃過。,这家餐馆的「洛阳燕菜」是出了名的好吃，但那厨子老是不在，所以我也没吃过。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070655",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這家餐館的「洛陽燕菜」是出了名的好吃，但那廚子老是不在，所以我也沒吃過。",
+      "c": "這家餐館的「洛陽燕菜」是出了名的好吃,但那廚子老是不在,所以我也沒吃過。",
+      "rq": true,
+      "it": null,
+      "mt": "This restaurant is famous for its \"Luoyang Yan Cuisine\", but the chef is always absent, so I haven't had it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这家餐馆的「洛阳燕菜」是出了名的好吃，但那厨子老是不在，所以我也没吃过。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

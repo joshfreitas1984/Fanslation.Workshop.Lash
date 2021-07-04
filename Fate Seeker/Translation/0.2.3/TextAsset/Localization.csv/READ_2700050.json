@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_2700050",
+  "RawLine": "READ_2700050,四方腦袋，扁扁嘴，腰裡一個眼，眼裡一條腿。\\n第一域的考驗,四方脑袋，扁扁嘴，腰里一个眼，眼里一条腿。\\n第一域的考验",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_2700050",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "四方腦袋，扁扁嘴，腰裡一個眼，眼裡一條腿。\\n第一域的考驗",
+      "c": "四方腦袋,扁扁嘴,腰裡一個眼,眼裡一條腿。<<\\n>>第一域的考驗",
+      "rq": true,
+      "it": null,
+      "mt": "Square brain, flat mouth, one eye in the waist, one leg in the eye. <<\\n>>The first domain test",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "四方脑袋，扁扁嘴，腰里一个眼，眼里一条腿。\\n第一域的考验",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

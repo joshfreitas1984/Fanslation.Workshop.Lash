@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_01001_Tip3",
+  "RawLine": "HEART_01001_Tip3,<color=#EFD8B0>使用招式累計 500 威力後 ，恢復自身 <color=#33ff33>{1:0.0}%</color> 生命。</color>,<color=#EFD8B0>使用招式累计 500 威力后 ，恢复自身 <color=#33ff33>{1:0.0}%</color> 生命。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_01001_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0>使用招式累計 500 威力後 ，恢復自身 <color=#33ff33>{1:0.0}%</color> 生命。</color>",
+      "c": "使用招式累計 500 威力後 ,恢復自身 <1:0.0>% 生命。",
+      "rq": true,
+      "it": null,
+      "mt": "Restoring <1:0.0>% of your own life after using a move that has accumulated 500 power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0>使用招式累计 500 威力后 ，恢复自身 <color=#33ff33>{1:0.0}%</color> 生命。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

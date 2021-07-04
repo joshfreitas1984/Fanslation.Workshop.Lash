@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Ending.Text_001",
+  "RawLine": "System.Ending.Text_001,出品\\n甲山林娛樂\\n\\n監製\\n甲山林機構\\n,出品\\n甲山林娱乐\\n\\n监制\\n甲山林机构\\n",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Ending.Text_001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "出品\\n甲山林娛樂\\n\\n監製\\n甲山林機構\\n",
+      "c": "出品<<\\n>>甲山林娛樂<<\\n>><<\\n>>監製<<\\n>>甲山林機構<<\\n>>",
+      "rq": true,
+      "it": null,
+      "mt": "Produced by<<\\n>> Kashan Grove Entertainment<<\\n>><<\\n>>Produced by<<\\n>> Kashan Grove Organization<<\\n>>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "出品\\n甲山林娱乐\\n\\n监制\\n甲山林机构\\n",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

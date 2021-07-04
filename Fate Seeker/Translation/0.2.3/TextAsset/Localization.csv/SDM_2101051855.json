@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101051855",
+  "RawLine": "SDM_2101051855,{fn}，你快帶小石子走！小石子，之前娘交代你要跟{fn}哥哥說什麼，你還記得嗎？,{fn}，你快带小石子走！小石子，之前娘交代你要跟{fn}哥哥说什么，你还记得吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101051855",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}，你快帶小石子走！小石子，之前娘交代你要跟{fn}哥哥說什麼，你還記得嗎？",
+      "c": "<fn>,你快帶小石子走！小石子,之前娘交代你要跟<fn>哥哥說什麼,你還記得嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>, take Little Stone away! Little Stone, do you remember what mother told you to tell <fn>brother?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}，你快带小石子走！小石子，之前娘交代你要跟{fn}哥哥说什么，你还记得吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

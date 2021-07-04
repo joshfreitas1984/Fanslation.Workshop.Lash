@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "GUIDE.07.006_Joystick",
+  "RawLine": "GUIDE.07.006_Joystick,選擇想要的裝備後，裝備起來。<color=#ff3333> 按下 [0] 進行裝備</color>,选择想要的装备后，装备起来。<color=#ff3333> 按下 [0] 进行装备</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "GUIDE.07.006_Joystick",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "選擇想要的裝備後，裝備起來。<color=#ff3333> 按下 [0] 進行裝備</color>",
+      "c": "選擇想要的裝備後,裝備起來。 按下 [0] 進行裝備",
+      "rq": true,
+      "it": null,
+      "mt": "Select the desired equipment and equip it. Press [0] to equip",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "选择想要的装备后，装备起来。<color=#ff3333> 按下 [0] 进行装备</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

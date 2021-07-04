@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101056165",
+  "RawLine": "SDM_2101056165,【好啦，我先來{color=#ff0000}『釀酒坊旁的田裡』{/color}找小狗子他們的寶物了。】,【好啦，我先来{color=#ff0000}『酿酒坊旁的田里』{/color}找小狗子他们的宝物了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101056165",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【好啦，我先來{color=#ff0000}『釀酒坊旁的田裡』{/color}找小狗子他們的寶物了。】",
+      "c": "<[>好啦,我先來『釀酒坊旁的田裡』找小狗子他們的寶物了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Okay, I'll go to the field next to the brewery to look for the puppy's treasure. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【好啦，我先来{color=#ff0000}『酿酒坊旁的田里』{/color}找小狗子他们的宝物了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

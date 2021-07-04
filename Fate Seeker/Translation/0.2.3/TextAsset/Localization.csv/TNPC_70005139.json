@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005139",
+  "RawLine": "TNPC_70005139,少俠，{color=#FF0000}關東流就在雲來客棧那，還望你能讓他振作起來{/color}。,少侠，{color=#FF0000}关东流就在云来客栈那，还望你能让他振作起来{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005139",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "少俠，{color=#FF0000}關東流就在雲來客棧那，還望你能讓他振作起來{/color}。",
+      "c": "少俠,關東流就在雲來客棧那,還望你能讓他振作起來。",
+      "rq": true,
+      "it": null,
+      "mt": "The young warrior, Guan Dongliu is at the Yunlai Inn, I hope you can cheer him up.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "少侠，{color=#FF0000}关东流就在云来客栈那，还望你能让他振作起来{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

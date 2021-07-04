@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101820325",
+  "RawLine": "SDM_1101820325,{name}勇敢闖入火場，光憑這份膽識，在座恐怕無人能及！,{name}勇敢闯入火场，光凭这份胆识，在座恐怕无人能及！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101820325",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}勇敢闖入火場，光憑這份膽識，在座恐怕無人能及！",
+      "c": "<name>勇敢闖入火場,光憑這份膽識,在座恐怕無人能及！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brave enough to go into the fire, I'm afraid no one here can match this courage!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}勇敢闯入火场，光凭这份胆识，在座恐怕无人能及！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

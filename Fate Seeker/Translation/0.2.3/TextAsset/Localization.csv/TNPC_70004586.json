@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004586",
+  "RawLine": "TNPC_70004586,今日之恥，{s=15}我{/s}闕蒼鷹{w=1}來日必當加倍奉還。,今日之耻，{s=15}我{/s}阙苍鹰{w=1}来日必当加倍奉还。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004586",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "今日之恥，{s=15}我{/s}闕蒼鷹{w=1}來日必當加倍奉還。",
+      "c": "今日之恥,我闕蒼鷹來日必當加倍奉還。",
+      "rq": true,
+      "it": null,
+      "mt": "I, Que Cang Ying, will repay the shame of today.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "今日之耻，{s=15}我{/s}阙苍鹰{w=1}来日必当加倍奉还。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

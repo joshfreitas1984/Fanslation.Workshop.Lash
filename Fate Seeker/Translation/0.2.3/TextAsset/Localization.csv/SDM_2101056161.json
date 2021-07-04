@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101056161",
+  "RawLine": "SDM_2101056161,謝謝{fn}哥哥救命之恩，小妤女俠在此謝過了。,谢谢{fn}哥哥救命之恩，小妤女侠在此谢过了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101056161",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "謝謝{fn}哥哥救命之恩，小妤女俠在此謝過了。",
+      "c": "謝謝<fn>哥哥救命之恩,小妤女俠在此謝過了。",
+      "rq": true,
+      "it": null,
+      "mt": "Thank you <fn>brother for saving my life, I would like to thank you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "谢谢{fn}哥哥救命之恩，小妤女侠在此谢过了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

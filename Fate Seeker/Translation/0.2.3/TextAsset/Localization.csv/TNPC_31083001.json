@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31083001",
+  "RawLine": "TNPC_31083001,這裡真的有錢，注意{color=#cc0000}傳聞{/color}果然是對的，之後得多留心。,这里真的有钱，注意{color=#cc0000}传闻{/color}果然是对的，之后得多留心。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31083001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這裡真的有錢，注意{color=#cc0000}傳聞{/color}果然是對的，之後得多留心。",
+      "c": "這裡真的有錢,注意傳聞果然是對的,之後得多留心。",
+      "rq": true,
+      "it": null,
+      "mt": "There is really money here, so I'll have to pay more attention afterwards.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这里真的有钱，注意{color=#cc0000}传闻{/color}果然是对的，之后得多留心。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

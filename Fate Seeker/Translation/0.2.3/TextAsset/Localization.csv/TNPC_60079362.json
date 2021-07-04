@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079362",
+  "RawLine": "TNPC_60079362,{name}，門下弟子遵從師父的命令是對的，今日之事就此作罷吧。,{name}，门下弟子遵从师父的命令是对的，今日之事就此作罢吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079362",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，門下弟子遵從師父的命令是對的，今日之事就此作罷吧。",
+      "c": "<name>,門下弟子遵從師父的命令是對的,今日之事就此作罷吧。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, it is right for the disciples to obey the master's order, so let's leave the matter for today.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，门下弟子遵从师父的命令是对的，今日之事就此作罢吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

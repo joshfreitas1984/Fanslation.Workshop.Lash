@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08005154",
+  "RawLine": "TNPC_08005154,替我準備好{color=#FF0000}不會謝的花{/color}、{color=#FF0000}喝不膩的酒{/color}、{color=#FF0000}不生蟲的糖{/color}。,替我准备好{color=#FF0000}不会谢的花{/color}、{color=#FF0000}喝不腻的酒{/color}、{color=#FF0000}不生虫的糖{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08005154",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "替我準備好{color=#FF0000}不會謝的花{/color}、{color=#FF0000}喝不膩的酒{/color}、{color=#FF0000}不生蟲的糖{/color}。",
+      "c": "替我準備好不會謝的花、喝不膩的酒、不生蟲的糖。",
+      "rq": true,
+      "it": null,
+      "mt": "Prepare for me flowers that won't give up, wine that won't get tired of drinking, and sugar that won't get wormed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "替我准备好{color=#FF0000}不会谢的花{/color}、{color=#FF0000}喝不腻的酒{/color}、{color=#FF0000}不生虫的糖{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

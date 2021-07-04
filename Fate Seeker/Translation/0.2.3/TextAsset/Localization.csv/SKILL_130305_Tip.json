@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130305_Tip",
+  "RawLine": "SKILL_130305_Tip,【{color=#FFD700}暗勁{/color}】\\n往前揮砍兩刀後往前突刺的攻擊招式。暗勁高。,【{color=#FFD700}暗劲{/color}】\\n往前挥砍两刀后往前突刺的攻击招式。暗劲高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130305_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}暗勁{/color}】\\n往前揮砍兩刀後往前突刺的攻擊招式。暗勁高。",
+      "c": "<[>暗勁<]><<\\n>>往前揮砍兩刀後往前突刺的攻擊招式。暗勁高。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Dark Power<]><<\\n>>A forward slashing attack with two slashes and a forward thrust. High dark power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}暗劲{/color}】\\n往前挥砍两刀后往前突刺的攻击招式。暗劲高。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

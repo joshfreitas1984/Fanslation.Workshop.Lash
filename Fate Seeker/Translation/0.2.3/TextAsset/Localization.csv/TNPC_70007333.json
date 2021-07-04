@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007333",
+  "RawLine": "TNPC_70007333,【不對勁，從細縫中隱約可以看到，石棺內複雜糾結的鐵線。】,【不对劲，从细缝中隐约可以看到，石棺内复杂纠结的铁线。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007333",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【不對勁，從細縫中隱約可以看到，石棺內複雜糾結的鐵線。】",
+      "c": "<[>不對勁,從細縫中隱約可以看到,石棺內複雜糾結的鐵線。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It's not right, you can see the complicated and tangled iron wires inside the sarcophagus through the small crevices. <]>The sarcophagus is a very complicated and tangled iron wire.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【不对劲，从细缝中隐约可以看到，石棺内复杂纠结的铁线。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

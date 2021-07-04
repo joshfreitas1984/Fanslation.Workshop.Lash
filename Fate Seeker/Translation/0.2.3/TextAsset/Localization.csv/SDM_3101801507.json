@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101801507",
+  "RawLine": "SDM_3101801507,看來效果不錯啊，{fn}你這麼聰明，我還擔心這齣戲騙不過你呢！,看来效果不错啊，{fn}你这么聪明，我还担心这出戏骗不过你呢！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101801507",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "看來效果不錯啊，{fn}你這麼聰明，我還擔心這齣戲騙不過你呢！",
+      "c": "看來效果不錯啊,<fn>你這麼聰明,我還擔心這齣戲騙不過你呢！",
+      "rq": true,
+      "it": null,
+      "mt": "It's working out well, <fn>you're so smart, I was worried this show wouldn't fool you!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "看来效果不错啊，{fn}你这么聪明，我还担心这出戏骗不过你呢！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

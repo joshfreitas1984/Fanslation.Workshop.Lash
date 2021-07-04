@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101820411",
+  "RawLine": "SDM_1101820411,{name}，皇宮方面就交給你了，我們三派一定盡力阻止城內投藥！,{name}，皇宫方面就交给你了，我们三派一定尽力阻止城内投药！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101820411",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，皇宮方面就交給你了，我們三派一定盡力阻止城內投藥！",
+      "c": "<name>,皇宮方面就交給你了,我們三派一定盡力阻止城內投藥！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, the palace is in your hands, we three factions will do our best to stop the drugging of the city!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，皇宫方面就交给你了，我们三派一定尽力阻止城内投药！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60004026",
+  "RawLine": "TNPC_60004026,{s=20}{name}告訴算命師子千兄弟發生的事情，隨後算命師便屈指一算。{/s},{s=20}{name}告诉算命师子千兄弟发生的事情，随后算命师便屈指一算。{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60004026",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=20}{name}告訴算命師子千兄弟發生的事情，隨後算命師便屈指一算。{/s}",
+      "c": "<name>告訴算命師子千兄弟發生的事情,隨後算命師便屈指一算。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Tell the fortune-teller what happened to brother Ziqian, and then the fortune-teller counted with his fingers.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=20}{name}告诉算命师子千兄弟发生的事情，随后算命师便屈指一算。{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Wine.Sp.Rice",
+  "RawLine": "System.Wine.Sp.Rice,減少不穩定發生機率 <color=#33ff33>{0:0} %</color>,减少不稳定发生机率 <color=#33ff33>{0:0} %</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Wine.Sp.Rice",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "減少不穩定發生機率 <color=#33ff33>{0:0} %</color>",
+      "c": "減少不穩定發生機率 <0:0> %",
+      "rq": true,
+      "it": null,
+      "mt": "Reduces the chance of instability <0:0> %",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "减少不稳定发生机率 <color=#33ff33>{0:0} %</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

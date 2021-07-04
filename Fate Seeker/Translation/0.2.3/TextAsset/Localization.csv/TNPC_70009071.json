@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009071",
+  "RawLine": "TNPC_70009071,【若此時與她交惡，便什麼都打聽不到了。倒不如我先順毛摸驢，問問她又幹了什麼好事！】,【若此时与她交恶，便什么都打听不到了。倒不如我先顺毛摸驴，问问她又干了什么好事！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009071",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【若此時與她交惡，便什麼都打聽不到了。倒不如我先順毛摸驢，問問她又幹了什麼好事！】",
+      "c": "<[>若此時與她交惡,便什麼都打聽不到了。倒不如我先順毛摸驢,問問她又幹了什麼好事！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>If we fight with her now, we won't be able to hear anything. I'd rather ask her what she's been up to! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【若此时与她交恶，便什么都打听不到了。倒不如我先顺毛摸驴，问问她又干了什么好事！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

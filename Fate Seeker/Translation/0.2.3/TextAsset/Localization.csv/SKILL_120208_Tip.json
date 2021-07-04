@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120208_Tip",
+  "RawLine": "SKILL_120208_Tip,【{color=#FFD700}絕學{/color}】\\n依照場上沙人數量增加傷害的大範圍攻擊，使用過後場上沙人會全數消失。,【{color=#FFD700}绝学{/color}】\\n依照场上沙人数量增加伤害的大范围攻击，使用过后场上沙人会全数消失。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120208_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】\\n依照場上沙人數量增加傷害的大範圍攻擊，使用過後場上沙人會全數消失。",
+      "c": "<[>絕學<]><<\\n>>依照場上沙人數量增加傷害的大範圍攻擊,使用過後場上沙人會全數消失。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Jedi<]><<\\n>>A wide range attack that increases the damage according to the number of sandpeople on the field, after using it, all sandpeople on the field will disappear.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】\\n依照场上沙人数量增加伤害的大范围攻击，使用过后场上沙人会全数消失。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

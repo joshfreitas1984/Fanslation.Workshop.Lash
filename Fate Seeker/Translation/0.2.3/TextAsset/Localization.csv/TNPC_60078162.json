@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078162",
+  "RawLine": "TNPC_60078162,甚、甚麼？{name}兄弟你……原來你是這麼喜歡我，但……但我只把你當兄弟……,甚、什么？{name}兄弟你……原来你是这么喜欢我，但……但我只把你当兄弟……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078162",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "甚、甚麼？{name}兄弟你……原來你是這麼喜歡我，但……但我只把你當兄弟……",
+      "c": "甚、甚麼？<name>兄弟你......原來你是這麼喜歡我,但......但我只把你當兄弟......",
+      "rq": true,
+      "it": null,
+      "mt": "What, what? <name>Brother you ...... So you like me so much, but ...... But I only think of you as a brother ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "甚、什么？{name}兄弟你……原来你是这么喜欢我，但……但我只把你当兄弟……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

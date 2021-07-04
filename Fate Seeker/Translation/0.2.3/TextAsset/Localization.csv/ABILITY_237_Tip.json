@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_237_Tip",
+  "RawLine": "ABILITY_237_Tip,使用補給道具後，受到傷害下降<color=#00DB00>10%</color>持續<color=#00DB00>15</color>秒。,使用补给道具后，受到伤害下降<color=#00DB00>10%</color>持续<color=#00DB00>15</color>秒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_237_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "使用補給道具後，受到傷害下降<color=#00DB00>10%</color>持續<color=#00DB00>15</color>秒。",
+      "c": "使用補給道具後,受到傷害下降10%持續15秒。",
+      "rq": true,
+      "it": null,
+      "mt": "After using a supply item, damage is reduced by 10% for 15 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "使用补给道具后，受到伤害下降<color=#00DB00>10%</color>持续<color=#00DB00>15</color>秒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

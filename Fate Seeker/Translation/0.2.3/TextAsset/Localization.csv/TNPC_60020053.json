@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60020053",
+  "RawLine": "TNPC_60020053,證據？這{s=6}……{/s}這{s=6}……{/s}（糟糕線索不夠。）,证据？这{s=6}……{/s}这{s=6}……{/s}（糟糕线索不够。）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60020053",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "證據？這{s=6}……{/s}這{s=6}……{/s}（糟糕線索不夠。）",
+      "c": "證據？這......這......（糟糕線索不夠。）",
+      "rq": true,
+      "it": null,
+      "mt": "Evidence? This ...... This ...... (Not enough bad clues.)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "证据？这{s=6}……{/s}这{s=6}……{/s}（糟糕线索不够。）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

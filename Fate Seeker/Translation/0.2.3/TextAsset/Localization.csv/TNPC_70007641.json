@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007641",
+  "RawLine": "TNPC_70007641,【最近完全沒有{name}的消息，也不知道這傢伙現在在哪裡在做啥。】,【最近完全没有{name}的消息，也不知道这家伙现在在哪里在做啥。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007641",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【最近完全沒有{name}的消息，也不知道這傢伙現在在哪裡在做啥。】",
+      "c": "<[>最近完全沒有<name>的消息,也不知道這傢伙現在在哪裡在做啥。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>No news of <name> at all lately, and I don't know where this guy is doing right now. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【最近完全没有{name}的消息，也不知道这家伙现在在哪里在做啥。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0100003",
+  "RawLine": "READ_0100003,難度四\\n百草丸：木椒根+薄荷+烏賊骨\\n大還丹：當歸+薄荷+烏賊骨\\n\\n凝玉露：地黃+薄荷+烏賊骨\\n蜂王漿：車前子+薄荷+烏賊骨,难度四\\n百草丸：木椒根+薄荷+乌贼骨\\n大还丹：当归+薄荷+乌贼骨\\n\\n凝玉露：地黄+薄荷+乌贼骨\\n蜂王浆：车前子+薄荷+乌贼骨",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0100003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "難度四\\n百草丸：木椒根+薄荷+烏賊骨\\n大還丹：當歸+薄荷+烏賊骨\\n\\n凝玉露：地黃+薄荷+烏賊骨\\n蜂王漿：車前子+薄荷+烏賊骨",
+      "c": "難度四<<\\n>>百草丸：木椒根+薄荷+烏賊骨<<\\n>>大還丹：當歸+薄荷+烏賊骨<<\\n>><<\\n>>凝玉露：地黃+薄荷+烏賊骨<<\\n>>蜂王漿：車前子+薄荷+烏賊骨",
+      "rq": true,
+      "it": null,
+      "mt": "Difficulty 4<<\\n>>Hundred Herbs Pill: Mujiao Root + Peppermint + Squid Bone<<\\n>>Da Xiang Dan: Angelica + Peppermint + Squid Bone<<\\n><<\\n>>Ning Yu Dew: Dihuang + Peppermint + Squid Bone<<\\n>>Royal Jelly: Che Qian Zi + Peppermint + Squid Bone",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "难度四\\n百草丸：木椒根+薄荷+乌贼骨\\n大还丹：当归+薄荷+乌贼骨\\n\\n凝玉露：地黄+薄荷+乌贼骨\\n蜂王浆：车前子+薄荷+乌贼骨",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

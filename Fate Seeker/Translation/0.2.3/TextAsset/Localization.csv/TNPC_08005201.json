@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08005201",
+  "RawLine": "TNPC_08005201,記住了，是{color=#FF0000}不會謝的花{/color}、{color=#FF0000}喝不膩的酒{/color}、{color=#FF0000}不生蟲的糖{/color}。,记住了，是{color=#FF0000}不会谢的花{/color}、{color=#FF0000}喝不腻的酒{/color}、{color=#FF0000}不生虫的糖{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08005201",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "記住了，是{color=#FF0000}不會謝的花{/color}、{color=#FF0000}喝不膩的酒{/color}、{color=#FF0000}不生蟲的糖{/color}。",
+      "c": "記住了,是不會謝的花、喝不膩的酒、不生蟲的糖。",
+      "rq": true,
+      "it": null,
+      "mt": "Remember, it's the flower that doesn't give up, the wine that doesn't get tired, and the sugar that doesn't get wormed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "记住了，是{color=#FF0000}不会谢的花{/color}、{color=#FF0000}喝不腻的酒{/color}、{color=#FF0000}不生虫的糖{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

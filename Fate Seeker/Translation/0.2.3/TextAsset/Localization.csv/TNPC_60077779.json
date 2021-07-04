@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60077779",
+  "RawLine": "TNPC_60077779,這人便是能{color=#cc0000}光明正大進出門主房{/color}的第三人，又無法自行將藥物參進藥裡的人。這個人便是……,这人便是能{color=#cc0000}光明正大进出门主房{/color}的第三人，又无法自行将药物参进药里的人。这个人便是……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60077779",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這人便是能{color=#cc0000}光明正大進出門主房{/color}的第三人，又無法自行將藥物參進藥裡的人。這個人便是……",
+      "c": "這人便是能光明正大進出門主房的第三人,又無法自行將藥物參進藥裡的人。這個人便是......",
+      "rq": true,
+      "it": null,
+      "mt": "This is the third person who can enter and leave the doorkeeper's room openly, but cannot add the medicine to the medicine by himself. This person is ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这人便是能{color=#cc0000}光明正大进出门主房{/color}的第三人，又无法自行将药物参进药里的人。这个人便是……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

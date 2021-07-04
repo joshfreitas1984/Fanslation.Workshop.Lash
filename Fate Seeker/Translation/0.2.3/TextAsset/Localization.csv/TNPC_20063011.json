@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20063011",
+  "RawLine": "TNPC_20063011,【這裡是窄巷酒攤，酒食簡便，看來平易近人，便於往客入座。】,【这里是窄巷酒摊，酒食简便，看来平易近人，便于往客入座。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20063011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這裡是窄巷酒攤，酒食簡便，看來平易近人，便於往客入座。】",
+      "c": "<[>這裡是窄巷酒攤,酒食簡便,看來平易近人,便於往客入座。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is the Narrow Lane wine stall, where the food and drinks are simple and seem to be easy to get to, so it is easy for customers to sit down. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这里是窄巷酒摊，酒食简便，看来平易近人，便于往客入座。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

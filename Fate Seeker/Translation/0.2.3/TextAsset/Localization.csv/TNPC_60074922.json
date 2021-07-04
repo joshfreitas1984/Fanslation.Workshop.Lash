@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074922",
+  "RawLine": "TNPC_60074922,我看過晉書有一段寫著：此鎧甲「鎧如環鎖，射不可入。」但鐵製造價貴，易生鏽而忌水。,我看过晋书有一段写着：此铠甲「铠如环锁，射不可入。」但铁制造价贵，易生锈而忌水。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074922",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我看過晉書有一段寫著：此鎧甲「鎧如環鎖，射不可入。」但鐵製造價貴，易生鏽而忌水。",
+      "c": "我看過晉書有一段寫著：此鎧甲「鎧如環鎖,射不可入。」但鐵製造價貴,易生鏽而忌水。",
+      "rq": true,
+      "it": null,
+      "mt": "I read a paragraph in a Jin book that said, \"The armor is like a ring lock, and cannot be shot into. But iron is expensive, easy to rust, and water is a problem.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我看过晋书有一段写着：此铠甲「铠如环锁，射不可入。」但铁制造价贵，易生锈而忌水。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

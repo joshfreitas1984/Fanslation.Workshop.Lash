@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20080010",
+  "RawLine": "TNPC_20080010,可惜這麼多美酒當前，我們卻只能在這乾瞪眼。{fn}兄弟，等這趟運鏢結束，讓哥哥我做東，我們去喝上兩杯。,可惜这么多美酒当前，我们却只能在这干瞪眼。{fn}兄弟，等这趟运镖结束，让哥哥我做东，我们去喝上两杯。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20080010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "可惜這麼多美酒當前，我們卻只能在這乾瞪眼。{fn}兄弟，等這趟運鏢結束，讓哥哥我做東，我們去喝上兩杯。",
+      "c": "可惜這麼多美酒當前,我們卻只能在這乾瞪眼。<fn>兄弟,等這趟運鏢結束,讓哥哥我做東,我們去喝上兩杯。",
+      "rq": true,
+      "it": null,
+      "mt": "It's a pity that we can only stare at all these wines in front of us. <fn>Brother, when this trip is over, let me be the host and let's go for a drink.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "可惜这么多美酒当前，我们却只能在这干瞪眼。{fn}兄弟，等这趟运镖结束，让哥哥我做东，我们去喝上两杯。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

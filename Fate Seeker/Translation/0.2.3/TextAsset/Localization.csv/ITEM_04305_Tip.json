@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04305_Tip",
+  "RawLine": "ITEM_04305_Tip,能夠快速鎮靜心脈的藥，並能大量恢復內力，是走火入魔時最佳的治療藥物。{p}{p}特殊功能：清除{color=#00DB00}亂脈{/color}。,能够快速镇静心脉的药，并能大量恢复内力，是走火入魔时最佳的治疗药物。{p}{p}特殊功能：清除{color=#00DB00}乱脉{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04305_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "能夠快速鎮靜心脈的藥，並能大量恢復內力，是走火入魔時最佳的治療藥物。{p}{p}特殊功能：清除{color=#00DB00}亂脈{/color}。",
+      "c": "能夠快速鎮靜心脈的藥,並能大量恢復內力,是走火入魔時最佳的治療藥物。特殊功能：清除亂脈。",
+      "rq": true,
+      "it": null,
+      "mt": "A medicine that can quickly calm the heart and restore a lot of internal strength, and is the best medicine for healing when you have gone mad. Special function: Clears the chaotic veins.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "能够快速镇静心脉的药，并能大量恢复内力，是走火入魔时最佳的治疗药物。{p}{p}特殊功能：清除{color=#00DB00}乱脉{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

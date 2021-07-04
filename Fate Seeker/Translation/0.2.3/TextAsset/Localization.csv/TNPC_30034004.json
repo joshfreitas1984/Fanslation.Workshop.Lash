@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30034004",
+  "RawLine": "TNPC_30034004,這位是今天臨時替代小黃的雜工，叫他{ln}老弟就好。,这位是今天临时替代小黄的杂工，叫他{ln}老弟就好。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30034004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這位是今天臨時替代小黃的雜工，叫他{ln}老弟就好。",
+      "c": "這位是今天臨時替代小黃的雜工,叫他<ln>老弟就好。",
+      "rq": true,
+      "it": null,
+      "mt": "This is the temporary replacement for Xiao Huang, just call him <ln>brother.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这位是今天临时替代小黄的杂工，叫他{ln}老弟就好。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

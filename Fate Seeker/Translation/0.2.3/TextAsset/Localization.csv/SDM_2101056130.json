@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101056130",
+  "RawLine": "SDM_2101056130,太可惜了，答案是{color=#ff0000}小妤女俠{/color}才對。{fn}哥哥猜錯啦！不然我們再玩別的……,太可惜了，答案是{color=#ff0000}小妤女侠{/color}才对。{fn}哥哥猜错啦！不然我们再玩别的……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101056130",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "太可惜了，答案是{color=#ff0000}小妤女俠{/color}才對。{fn}哥哥猜錯啦！不然我們再玩別的……",
+      "c": "太可惜了,答案是小妤女俠才對。<fn>哥哥猜錯啦！不然我們再玩別的......",
+      "rq": true,
+      "it": null,
+      "mt": "It's too bad, the answer is Xiao Yu female knight. <fn>Brother guessed wrong! Or we'll play something else ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "太可惜了，答案是{color=#ff0000}小妤女侠{/color}才对。{fn}哥哥猜错啦！不然我们再玩别的……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

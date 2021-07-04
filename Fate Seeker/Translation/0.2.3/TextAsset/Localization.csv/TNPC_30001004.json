@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30001004",
+  "RawLine": "TNPC_30001004,要去{color=#FF0000}酒館{/color}呢？還是{color=#FF0000}西北村郊{/color}呢？,要去{color=#FF0000}酒馆{/color}呢？还是{color=#FF0000}西北村郊{/color}呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30001004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "要去{color=#FF0000}酒館{/color}呢？還是{color=#FF0000}西北村郊{/color}呢？",
+      "c": "要去酒館呢？還是西北村郊呢？",
+      "rq": true,
+      "it": null,
+      "mt": "Would you like to go to a pub? Or should we go to the Northwest Village?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "要去{color=#FF0000}酒馆{/color}呢？还是{color=#FF0000}西北村郊{/color}呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

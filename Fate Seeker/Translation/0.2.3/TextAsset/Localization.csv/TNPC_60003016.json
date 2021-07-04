@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60003016",
+  "RawLine": "TNPC_60003016,【這顯然不像是倒楣的關係吧{s=6}……{/s}感覺倒是蠻像人為的。】,【这显然不像是倒霉的关系吧{s=6}……{/s}感觉倒是蛮像人为的。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60003016",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這顯然不像是倒楣的關係吧{s=6}……{/s}感覺倒是蠻像人為的。】",
+      "c": "<[>這顯然不像是倒楣的關係吧......感覺倒是蠻像人為的。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This obviously doesn't seem like a bad luck relationship ...... The feeling is quite artificial. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这显然不像是倒霉的关系吧{s=6}……{/s}感觉倒是蛮像人为的。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

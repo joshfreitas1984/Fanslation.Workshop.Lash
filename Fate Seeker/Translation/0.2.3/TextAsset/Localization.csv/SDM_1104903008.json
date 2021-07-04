@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104903008",
+  "RawLine": "SDM_1104903008,這水道深處有一處{color=#FF0000}機關門{/color}，經過反覆測試，我們發現只要{color=#FF0000}點燃特定三座燈檯{/color}，就可以打開機關門。,这水道深处有一处{color=#FF0000}机关门{/color}，经过反覆测试，我们发现只要{color=#FF0000}点燃特定三座灯台{/color}，就可以打开机关门。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104903008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這水道深處有一處{color=#FF0000}機關門{/color}，經過反覆測試，我們發現只要{color=#FF0000}點燃特定三座燈檯{/color}，就可以打開機關門。",
+      "c": "這水道深處有一處機關門,經過反覆測試,我們發現只要點燃特定三座燈檯,就可以打開機關門。",
+      "rq": true,
+      "it": null,
+      "mt": "There is a door deep in this waterway, and after repeated tests, we found that by lighting three specific lamps, we can open the door.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这水道深处有一处{color=#FF0000}机关门{/color}，经过反覆测试，我们发现只要{color=#FF0000}点燃特定三座灯台{/color}，就可以打开机关门。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

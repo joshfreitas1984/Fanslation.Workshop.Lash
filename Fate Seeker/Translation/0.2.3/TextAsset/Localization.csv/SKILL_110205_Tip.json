@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110205_Tip",
+  "RawLine": "SKILL_110205_Tip,【{color=#FFD700}暗勁{/color}】\\n有著強力暗勁的近距離攻擊。\\n最近距離時造成額外傷害。,【{color=#FFD700}暗劲{/color}】\\n有着强力暗劲的近距离攻击。\\n最近距离时造成额外伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110205_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}暗勁{/color}】\\n有著強力暗勁的近距離攻擊。\\n最近距離時造成額外傷害。",
+      "c": "<[>暗勁<]><<\\n>>有著強力暗勁的近距離攻擊。<<\\n>>最近距離時造成額外傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Dark Power<]><<\\n>>With a powerful dark power close range attack. <<\\n>> Deals extra damage at close range.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}暗劲{/color}】\\n有着强力暗劲的近距离攻击。\\n最近距离时造成额外伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

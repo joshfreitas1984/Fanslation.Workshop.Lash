@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20011005",
+  "RawLine": "TNPC_20011005,{s=10}嗚……嗚……怎麼會這樣……{p}善全啊……嗚嗚……娘對不起你……嗚……{/S},{s=10}呜……呜……怎么会这样……{p}善全啊……呜呜……娘对不起你……呜……{/S}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20011005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=10}嗚……嗚……怎麼會這樣……{p}善全啊……嗚嗚……娘對不起你……嗚……{/S}",
+      "c": "嗚......嗚......怎麼會這樣......善全啊......嗚嗚......娘對不起你......嗚......</S>",
+      "rq": true,
+      "it": null,
+      "mt": "Well ...... Aww ...... How could this happen ...... Sun Chuan ah ...... A big thank you to ...... I am sorry to you ...... A big thank you to ...... </S",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=10}呜……呜……怎么会这样……{p}善全啊……呜呜……娘对不起你……呜……{/S}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

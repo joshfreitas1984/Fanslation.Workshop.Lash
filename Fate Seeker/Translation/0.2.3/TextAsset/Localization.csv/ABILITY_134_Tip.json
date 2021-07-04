@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_134_Tip",
+  "RawLine": "ABILITY_134_Tip,完成連續一般攻擊後，招式冷卻時間下降<color=#00DB00>8</color>秒。,完成连续一般攻击后，招式冷却时间下降<color=#00DB00>8</color>秒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_134_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "完成連續一般攻擊後，招式冷卻時間下降<color=#00DB00>8</color>秒。",
+      "c": "完成連續一般攻擊後,招式冷卻時間下降8秒。",
+      "rq": true,
+      "it": null,
+      "mt": "After completing consecutive normal attacks, the move's cooldown time drops by 8 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "完成连续一般攻击后，招式冷却时间下降<color=#00DB00>8</color>秒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

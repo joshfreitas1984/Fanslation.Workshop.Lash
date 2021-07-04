@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08002121",
+  "RawLine": "TNPC_08002121,我想請你去{color=#FF0000}洛陽{/color}幫我買壺{color=#FF0000}葡萄酒{/color}來。,我想请你去{color=#FF0000}洛阳{/color}帮我买壶{color=#FF0000}葡萄酒{/color}来。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08002121",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我想請你去{color=#FF0000}洛陽{/color}幫我買壺{color=#FF0000}葡萄酒{/color}來。",
+      "c": "我想請你去洛陽幫我買壺葡萄酒來。",
+      "rq": true,
+      "it": null,
+      "mt": "I want you to go to Luoyang to buy a bottle of wine for me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我想请你去{color=#FF0000}洛阳{/color}帮我买壶{color=#FF0000}葡萄酒{/color}来。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

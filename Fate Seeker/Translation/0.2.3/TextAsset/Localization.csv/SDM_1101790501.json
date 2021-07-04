@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101790501",
+  "RawLine": "SDM_1101790501,【這是小貓親手繡的香包，仔細一看，上面繡的貓倒是有點眼熟。】,【这是小猫亲手绣的香包，仔细一看，上面绣的猫倒是有点眼熟。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101790501",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這是小貓親手繡的香包，仔細一看，上面繡的貓倒是有點眼熟。】",
+      "c": "<[>這是小貓親手繡的香包,仔細一看,上面繡的貓倒是有點眼熟。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is a fragrant bag embroidered by kitty herself, and the cat on it looks familiar. <]> The cat on it looks familiar.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这是小猫亲手绣的香包，仔细一看，上面绣的猫倒是有点眼熟。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

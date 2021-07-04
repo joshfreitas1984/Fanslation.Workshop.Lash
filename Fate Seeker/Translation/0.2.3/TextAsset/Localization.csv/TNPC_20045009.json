@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20045009",
+  "RawLine": "TNPC_20045009,【這裡看來沒什麼值錢東西。{p}也許寶藏早被這些賊子拿走，不知藏到哪去了？】,【这里看来没什么值钱东西。{p}也许宝藏早被这些贼子拿走，不知藏到哪去了？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20045009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這裡看來沒什麼值錢東西。{p}也許寶藏早被這些賊子拿走，不知藏到哪去了？】",
+      "c": "<[>這裡看來沒什麼值錢東西。也許寶藏早被這些賊子拿走,不知藏到哪去了？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There doesn't seem to be anything of value here. Maybe the treasure has been taken away by these thieves and hidden somewhere? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这里看来没什么值钱东西。{p}也许宝藏早被这些贼子拿走，不知藏到哪去了？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "fix_6101075068",
+  "RawLine": "fix_6101075068,【先前往{color=#cc0000}北方的藥房{/color}詢問{color=#cc0000}王婆婆{/color}吧。】,【先前往{color=#cc0000}北方的药房{/color}询问{color=#cc0000}王婆婆{/color}吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "fix_6101075068",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【先前往{color=#cc0000}北方的藥房{/color}詢問{color=#cc0000}王婆婆{/color}吧。】",
+      "c": "<[>先前往北方的藥房詢問王婆婆吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Go north to the pharmacy and ask Granny Wang earlier. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【先前往{color=#cc0000}北方的药房{/color}询问{color=#cc0000}王婆婆{/color}吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

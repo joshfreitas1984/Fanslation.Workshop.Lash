@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Illust.TeamSkill.TeamSkillTip",
+  "RawLine": "System.Illust.TeamSkill.TeamSkillTip,非戰鬥中時，點擊後即可變更隊友技能,非战斗中时，点击后即可变更队友技能",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Illust.TeamSkill.TeamSkillTip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "非戰鬥中時，點擊後即可變更隊友技能",
+      "c": "非戰鬥中時,點擊後即可變更隊友技能",
+      "rq": true,
+      "it": null,
+      "mt": "When not in battle, you can change your teammates' skills by clicking on them.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "非战斗中时，点击后即可变更队友技能",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

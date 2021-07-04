@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30064091",
+  "RawLine": "TNPC_30064091,這櫃子是空的，找找看{color=#FF0000}身上{/color}、{color=#FF0000}我房間{/color}跟{color=#FF0000}師父房間{/color}還有沒有其他線索好了。,这柜子是空的，找找看{color=#FF0000}身上{/color}、{color=#FF0000}我房间{/color}跟{color=#FF0000}师父房间{/color}还有没有其他线索好了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30064091",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這櫃子是空的，找找看{color=#FF0000}身上{/color}、{color=#FF0000}我房間{/color}跟{color=#FF0000}師父房間{/color}還有沒有其他線索好了。",
+      "c": "這櫃子是空的,找找看身上、我房間跟師父房間還有沒有其他線索好了。",
+      "rq": true,
+      "it": null,
+      "mt": "This cabinet is empty, find out if there are any other clues on the body, in my room and in my master's room.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这柜子是空的，找找看{color=#FF0000}身上{/color}、{color=#FF0000}我房间{/color}跟{color=#FF0000}师父房间{/color}还有没有其他线索好了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

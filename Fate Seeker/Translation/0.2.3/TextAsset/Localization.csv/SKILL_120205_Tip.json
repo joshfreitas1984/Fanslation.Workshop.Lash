@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120205_Tip",
+  "RawLine": "SKILL_120205_Tip,【{color=#FFD700}特殊{/color}】\\n大範圍造成傷害，並使場上所有範圍內沙人產生爆炸。,【{color=#FFD700}特殊{/color}】\\n大范围造成伤害，并使场上所有范围内沙人产生爆炸。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120205_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}特殊{/color}】\\n大範圍造成傷害，並使場上所有範圍內沙人產生爆炸。",
+      "c": "<[>特殊<]><<\\n>>大範圍造成傷害,並使場上所有範圍內沙人產生爆炸。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Special<]><<\\n>> Deals damage over a wide area and causes sandpeople in all areas of the field to explode.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}特殊{/color}】\\n大范围造成伤害，并使场上所有范围内沙人产生爆炸。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

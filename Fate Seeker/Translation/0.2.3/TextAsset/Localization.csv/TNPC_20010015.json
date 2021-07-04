@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20010015",
+  "RawLine": "TNPC_20010015,{s=6}嗯？{/s}真的嗎？{p}真是太謝謝大俠了。,{s=6}嗯？{/s}真的吗？{p}真是太谢谢大侠了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20010015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}嗯？{/s}真的嗎？{p}真是太謝謝大俠了。",
+      "c": "嗯？真的嗎？真是太謝謝大俠了。",
+      "rq": true,
+      "it": null,
+      "mt": "Huh? I'm not sure if I can do that. Thank you very much.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}嗯？{/s}真的吗？{p}真是太谢谢大侠了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

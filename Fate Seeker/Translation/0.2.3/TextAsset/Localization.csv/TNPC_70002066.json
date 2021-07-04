@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002066",
+  "RawLine": "TNPC_70002066,【藏這麼多黃金，一定又是要拿來賄賂哪個官了。】,【藏这么多黄金，一定又是要拿来贿赂哪个官了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002066",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【藏這麼多黃金，一定又是要拿來賄賂哪個官了。】",
+      "c": "<[>藏這麼多黃金,一定又是要拿來賄賂哪個官了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hiding so much gold, you must be trying to bribe some official again. <]>They're not going to bribe any official.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【藏这么多黄金，一定又是要拿来贿赂哪个官了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074965",
+  "RawLine": "TNPC_60074965,她只記得自己來自{color=#FF0000}杭州貧困人家{/color}，其他的都不記得了。,她只记得自己来自{color=#FF0000}杭州贫困人家{/color}，其他的都不记得了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074965",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "她只記得自己來自{color=#FF0000}杭州貧困人家{/color}，其他的都不記得了。",
+      "c": "她只記得自己來自杭州貧困人家,其他的都不記得了。",
+      "rq": true,
+      "it": null,
+      "mt": "She only remembers that she comes from a poor family in Hangzhou, but nothing else.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "她只记得自己来自{color=#FF0000}杭州贫困人家{/color}，其他的都不记得了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004405",
+  "RawLine": "TNPC_70004405,{s=6}……青……陽{/s}，看來這就是要給張伯的東西，不過怎麼隨便就丟在這。,{s=6}……青……阳{/s}，看来这就是要给张伯的东西，不过怎么随便就丢在这。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004405",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}……青……陽{/s}，看來這就是要給張伯的東西，不過怎麼隨便就丟在這。",
+      "c": "......青......陽,看來這就是要給張伯的東西,不過怎麼隨便就丟在這。",
+      "rq": true,
+      "it": null,
+      "mt": "...... Qing ...... Yang, it looks like this is what was meant for Uncle Zhang, but how come it was left here casually.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}……青……阳{/s}，看来这就是要给张伯的东西，不过怎么随便就丢在这。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

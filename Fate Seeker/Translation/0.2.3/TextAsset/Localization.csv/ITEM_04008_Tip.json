@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04008_Tip",
+  "RawLine": "ITEM_04008_Tip,\"以\"\"只要通此丹，庸醫成名醫\"\"而聞名的丹藥，有一定的恢復效果，但沒有傳聞中那麼神奇。{p}{p}合成難度：{color=#ff0000}1{/color}。\",\"以\"\"只要通此丹，庸医成名医\"\"而闻名的丹药，有一定的恢复效果，但没有传闻中那么神奇。{p}{p}合成难度：{color=#ff0000}1{/color}。\"",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04008_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "\"以\"\"只要通此丹，庸醫成名醫\"\"而聞名的丹藥，有一定的恢復效果，但沒有傳聞中那麼神奇。{p}{p}合成難度：{color=#ff0000}1{/color}。\"",
+      "c": "\"以\"\"只要通此丹,庸醫成名醫\"\"而聞名的丹藥,有一定的恢復效果,但沒有傳聞中那麼神奇。合成難度：1。\"",
+      "rq": true,
+      "it": null,
+      "mt": "\"A potion famous for \"\"If you pass this potion, a mediocre doctor will become a famous doctor\"\", it has some recovery effect, but not as magical as rumors. Synthesis difficulty: 1.\"",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "\"以\"\"只要通此丹，庸医成名医\"\"而闻名的丹药，有一定的恢复效果，但没有传闻中那么神奇。{p}{p}合成难度：{color=#ff0000}1{/color}。\"",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

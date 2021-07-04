@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20109077",
+  "RawLine": "TNPC_20109077,冬棗酒？{color=#ff0000}我記得用冬棗、橡子和一種水果就可以釀出來了。{/color},冬枣酒？{color=#ff0000}我记得用冬枣、橡子和一种水果就可以酿出来了。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20109077",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "冬棗酒？{color=#ff0000}我記得用冬棗、橡子和一種水果就可以釀出來了。{/color}",
+      "c": "冬棗酒？我記得用冬棗、橡子和一種水果就可以釀出來了。",
+      "rq": true,
+      "it": null,
+      "mt": "Dongzao wine? I remember making it with dates, acorns and a fruit.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "冬枣酒？{color=#ff0000}我记得用冬枣、橡子和一种水果就可以酿出来了。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

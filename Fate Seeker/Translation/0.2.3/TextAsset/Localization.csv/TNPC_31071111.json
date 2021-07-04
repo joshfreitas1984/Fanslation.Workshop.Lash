@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31071111",
+  "RawLine": "TNPC_31071111,這裡有許多常見的傷藥，要買什麼直接跟龐大娘說吧。,这里有许多常见的伤药，要买什么直接跟庞大娘说吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31071111",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這裡有許多常見的傷藥，要買什麼直接跟龐大娘說吧。",
+      "c": "這裡有許多常見的傷藥,要買什麼直接跟龐大娘說吧。",
+      "rq": true,
+      "it": null,
+      "mt": "There are many common wound medicines here, please tell Madam Pang what you want to buy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这里有许多常见的伤药，要买什么直接跟庞大娘说吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

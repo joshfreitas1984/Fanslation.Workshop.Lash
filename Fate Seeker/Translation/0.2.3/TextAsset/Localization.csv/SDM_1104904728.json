@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104904728",
+  "RawLine": "SDM_1104904728,他叫{name}，在徒兒身陷糾紛時仗義出手相助，所以結識。我當他是兄弟，所以帶來給師父看看，混個臉熟。,他叫{name}，在徒儿身陷纠纷时仗义出手相助，所以结识。我当他是兄弟，所以带来给师父看看，混个脸熟。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104904728",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "他叫{name}，在徒兒身陷糾紛時仗義出手相助，所以結識。我當他是兄弟，所以帶來給師父看看，混個臉熟。",
+      "c": "他叫<name>,在徒兒身陷糾紛時仗義出手相助,所以結識。我當他是兄弟,所以帶來給師父看看,混個臉熟。",
+      "rq": true,
+      "it": null,
+      "mt": "His name is <name>, he helped me when I was in trouble, so I got to know him. I treat him as a brother, so I bring him to Master to show him and get acquainted.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "他叫{name}，在徒儿身陷纠纷时仗义出手相助，所以结识。我当他是兄弟，所以带来给师父看看，混个脸熟。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

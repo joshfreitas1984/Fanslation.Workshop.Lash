@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08029108",
+  "RawLine": "TNPC_08029108,【雖然很古怪，不過她這個狀態似乎真的不記得自己幹過壞事。】,【虽然很古怪，不过她这个状态似乎真的不记得自己干过坏事。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08029108",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【雖然很古怪，不過她這個狀態似乎真的不記得自己幹過壞事。】",
+      "c": "<[>雖然很古怪,不過她這個狀態似乎真的不記得自己幹過壞事。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It's weird, but in this state she really doesn't seem to remember that she did something bad. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【虽然很古怪，不过她这个状态似乎真的不记得自己干过坏事。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

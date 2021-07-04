@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60004002",
+  "RawLine": "TNPC_60004002,正巧路過便舉手之勞罷了，不必客氣。我叫{name}，你身體還好吧？{p}這種天氣你為何身穿薄衣，而且身上還有這麼多傷痕呀？,正巧路过便举手之劳罢了，不必客气。我叫{name}，你身体还好吧？{p}这种天气你为何身穿薄衣，而且身上还有这么多伤痕呀？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60004002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "正巧路過便舉手之勞罷了，不必客氣。我叫{name}，你身體還好吧？{p}這種天氣你為何身穿薄衣，而且身上還有這麼多傷痕呀？",
+      "c": "正巧路過便舉手之勞罷了,不必客氣。我叫<name>,你身體還好吧？這種天氣你為何身穿薄衣,而且身上還有這麼多傷痕呀？",
+      "rq": true,
+      "it": null,
+      "mt": "I just happened to be passing by, so I'll just raise my hand, no need to be polite. My name is <name>, are you feeling well? Why are you wearing thin clothes in this weather and have so many wounds on your body?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "正巧路过便举手之劳罢了，不必客气。我叫{name}，你身体还好吧？{p}这种天气你为何身穿薄衣，而且身上还有这么多伤痕呀？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

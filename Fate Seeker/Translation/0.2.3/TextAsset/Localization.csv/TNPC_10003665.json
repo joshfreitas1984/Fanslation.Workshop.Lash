@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003665",
+  "RawLine": "TNPC_10003665,【要{color=#FF0000}燻走{/color}那些蟲，必須點燃某樣東西...】,【要{color=#FF0000}燻走{/color}那些虫，必须点燃某样东西...】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003665",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【要{color=#FF0000}燻走{/color}那些蟲，必須點燃某樣東西...】",
+      "c": "<[>要燻走那些蟲,必須點燃某樣東西...<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>To smoke away the bugs, something must be lit... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【要{color=#FF0000}燻走{/color}那些虫，必须点燃某样东西...】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

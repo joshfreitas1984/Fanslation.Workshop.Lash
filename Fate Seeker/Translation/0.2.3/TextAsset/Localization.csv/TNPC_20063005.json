@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20063005",
+  "RawLine": "TNPC_20063005,【這裡是小酒攤，看來只賣整甕酒讓人帶回去喝。】,【这里是小酒摊，看来只卖整瓮酒让人带回去喝。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20063005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這裡是小酒攤，看來只賣整甕酒讓人帶回去喝。】",
+      "c": "<[>這裡是小酒攤,看來只賣整甕酒讓人帶回去喝。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is a small wine stall that seems to sell only whole urns of wine for people to take home and drink. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这里是小酒摊，看来只卖整瓮酒让人带回去喝。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

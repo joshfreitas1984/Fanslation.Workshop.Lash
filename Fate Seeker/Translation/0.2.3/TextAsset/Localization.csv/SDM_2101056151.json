@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101056151",
+  "RawLine": "SDM_2101056151,你聽聽，連你{fn}哥哥都這麼說了，快跟我回家。,你听听，连你{fn}哥哥都这么说了，快跟我回家。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101056151",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你聽聽，連你{fn}哥哥都這麼說了，快跟我回家。",
+      "c": "你聽聽,連你<fn>哥哥都這麼說了,快跟我回家。",
+      "rq": true,
+      "it": null,
+      "mt": "Listen, even your <fn>brother has said so, come home with me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你听听，连你{fn}哥哥都这么说了，快跟我回家。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

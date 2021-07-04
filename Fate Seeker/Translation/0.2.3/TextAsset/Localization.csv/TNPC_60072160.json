@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072160",
+  "RawLine": "TNPC_60072160,【{s=6}……{/s}這香味！不是在李嬸家裡聞到的味道嗎？似乎比那時更濃郁了，從風向看來是從{color=#FF0000}北方{/color}的那裡飄來的，先去看看再說！】,【{s=6}……{/s}这香味！不是在李婶家里闻到的味道吗？似乎比那时更浓郁了，从风向看来是从{color=#FF0000}北方{/color}的那里飘来的，先去看看再说！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072160",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{s=6}……{/s}這香味！不是在李嬸家裡聞到的味道嗎？似乎比那時更濃郁了，從風向看來是從{color=#FF0000}北方{/color}的那裡飄來的，先去看看再說！】",
+      "c": "<[>......這香味！不是在李嬸家裡聞到的味道嗎？似乎比那時更濃郁了,從風向看來是從北方的那裡飄來的,先去看看再說！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>...... This scent! Isn't it the same scent that I smelled in Auntie Li's house? It seems to be stronger than that, and from the wind direction it seems to be coming from the north. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{s=6}……{/s}这香味！不是在李婶家里闻到的味道吗？似乎比那时更浓郁了，从风向看来是从{color=#FF0000}北方{/color}的那里飘来的，先去看看再说！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

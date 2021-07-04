@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30064201",
+  "RawLine": "TNPC_30064201,臭老頭的書架上也有一罐醃菜，「{fn}的那一罐」很可能指的就是嬸娘給我的這罐醃菜。,臭老头的书架上也有一罐腌菜，「{fn}的那一罐」很可能指的就是婶娘给我的这罐腌菜。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30064201",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "臭老頭的書架上也有一罐醃菜，「{fn}的那一罐」很可能指的就是嬸娘給我的這罐醃菜。",
+      "c": "臭老頭的書架上也有一罐醃菜,「<fn>的那一罐」很可能指的就是嬸娘給我的這罐醃菜。",
+      "rq": true,
+      "it": null,
+      "mt": "There is also a jar of pickles on the stinky old man's bookshelf, and \"the jar of <fn>\" probably refers to the jar of pickles that my aunt gave me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "臭老头的书架上也有一罐腌菜，「{fn}的那一罐」很可能指的就是婶娘给我的这罐腌菜。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

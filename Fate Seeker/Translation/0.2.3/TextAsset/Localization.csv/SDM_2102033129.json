@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102033129",
+  "RawLine": "SDM_2102033129,{ln}少俠最先連闖三關成功，恭喜他可以獨得優勝大獎！,{ln}少侠最先连闯三关成功，恭喜他可以独得优胜大奖！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102033129",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{ln}少俠最先連闖三關成功，恭喜他可以獨得優勝大獎！",
+      "c": "<ln>少俠最先連闖三關成功,恭喜他可以獨得優勝大獎！",
+      "rq": true,
+      "it": null,
+      "mt": "<ln>The young warrior was the first to win three levels in a row, so congratulations to him for winning the grand prize alone!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{ln}少侠最先连闯三关成功，恭喜他可以独得优胜大奖！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

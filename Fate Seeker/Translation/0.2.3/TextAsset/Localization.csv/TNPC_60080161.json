@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080161",
+  "RawLine": "TNPC_60080161,【好香啊，這張紙飄出一陣濃烈的{color=#FF0000}牡丹花香氣{/color}……內容寫著「陳君，酉時在{color=#FF0000}白堤{/color}處等你，不見不散。」】,【好香啊，这张纸飘出一阵浓烈的{color=#FF0000}牡丹花香气{/color}……内容写着「陈君，酉时在{color=#FF0000}白堤{/color}处等你，不见不散。」】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080161",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【好香啊，這張紙飄出一陣濃烈的{color=#FF0000}牡丹花香氣{/color}……內容寫著「陳君，酉時在{color=#FF0000}白堤{/color}處等你，不見不散。」】",
+      "c": "<[>好香啊,這張紙飄出一陣濃烈的牡丹花香氣......內容寫著「陳君,酉時在白堤處等你,不見不散。」<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It smells so good, this paper is wafting a strong fragrance of peony flowers ...... The content reads \"Chen Jun, I'll wait for you at the White Beach at 10 o'clock, I'll see you there. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【好香啊，这张纸飘出一阵浓烈的{color=#FF0000}牡丹花香气{/color}……内容写着「陈君，酉时在{color=#FF0000}白堤{/color}处等你，不见不散。」】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

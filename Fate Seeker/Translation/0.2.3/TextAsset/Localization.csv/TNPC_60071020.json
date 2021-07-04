@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071020",
+  "RawLine": "TNPC_60071020,【每玩一局賭局，身上至少要有兩百銀兩，方才可加入。現在身上沒這麼多銀兩，先去攢錢吧！】,【每玩一局赌局，身上至少要有两百银两，方才可加入。现在身上没这么多银两，先去攒钱吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【每玩一局賭局，身上至少要有兩百銀兩，方才可加入。現在身上沒這麼多銀兩，先去攢錢吧！】",
+      "c": "<[>每玩一局賭局,身上至少要有兩百銀兩,方才可加入。現在身上沒這麼多銀兩,先去攢錢吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>For each game of gambling, you must have at least 200 silver taels on you before you can join. I don't have that much silver on me now, so go ahead and save up! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【每玩一局赌局，身上至少要有两百银两，方才可加入。现在身上没这么多银两，先去攒钱吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

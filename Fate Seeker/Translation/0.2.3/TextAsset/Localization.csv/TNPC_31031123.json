@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31031123",
+  "RawLine": "TNPC_31031123,啊！{fn}你的意思該不會是…其實根本沒有賊，是我自己算錯帳了？,啊！{fn}你的意思该不会是…其实根本没有贼，是我自己算错账了？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31031123",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "啊！{fn}你的意思該不會是…其實根本沒有賊，是我自己算錯帳了？",
+      "c": "啊！<fn>你的意思該不會是...其實根本沒有賊,是我自己算錯帳了？",
+      "rq": true,
+      "it": null,
+      "mt": "Ah! <fn>You don't mean... There is no thief at all, but I made a miscalculation?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "啊！{fn}你的意思该不会是…其实根本没有贼，是我自己算错账了？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

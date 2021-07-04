@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007978",
+  "RawLine": "TNPC_70007978,【小怒，你要不要出來跟{fn}哥哥打聲招呼？】,【小怒，你要不要出来跟{fn}哥哥打声招呼？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007978",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【小怒，你要不要出來跟{fn}哥哥打聲招呼？】",
+      "c": "<[>小怒,你要不要出來跟<fn>哥哥打聲招呼？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Siu Nui, do you want to come out and say hello to <fn>brother? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【小怒，你要不要出来跟{fn}哥哥打声招呼？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70010406",
+  "RawLine": "TNPC_70010406,【看來機關解開了，剛放上的白虎令，使櫃子內的機關達到平衡。】,【看来机关解开了，刚放上的白虎令，使柜子内的机关达到平衡。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70010406",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來機關解開了，剛放上的白虎令，使櫃子內的機關達到平衡。】",
+      "c": "<[>看來機關解開了,剛放上的白虎令,使櫃子內的機關達到平衡。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that the mechanism has been unlocked, and the white tiger order that was just put on it has balanced the mechanism inside the cabinet. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来机关解开了，刚放上的白虎令，使柜子内的机关达到平衡。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70010352",
+  "RawLine": "TNPC_70010352,【不過依據令牌上所說『草甲覆之，刀槍不入，冷熱不侵。』，這段話看來這藤蔓應不懼火燒、刀砍。要除掉這些藤蔓得用些特別的方法。】,【不过依据令牌上所说『草甲覆之，刀枪不入，冷热不侵。』，这段话看来这藤蔓应不惧火烧、刀砍。要除掉这些藤蔓得用些特别的方法。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70010352",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【不過依據令牌上所說『草甲覆之，刀槍不入，冷熱不侵。』，這段話看來這藤蔓應不懼火燒、刀砍。要除掉這些藤蔓得用些特別的方法。】",
+      "c": "<[>不過依據令牌上所說『草甲覆之,刀槍不入,冷熱不侵。』,這段話看來這藤蔓應不懼火燒、刀砍。要除掉這些藤蔓得用些特別的方法。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>But according to the token, \"The grass armor covers it, and it is invulnerable to swords and spears, hot and cold. The vine should not be afraid of fire or knife. We need to use some special methods to get rid of these vines. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【不过依据令牌上所说『草甲覆之，刀枪不入，冷热不侵。』，这段话看来这藤蔓应不惧火烧、刀砍。要除掉这些藤蔓得用些特别的方法。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60073020",
+  "RawLine": "TNPC_60073020,【咦，這是……血嗎？這血的顏色較深，和上次的雞血不同，應該是{color=#cc0000}人血{/color}。該不會那人受了傷嗎？跟下去看看。】,【咦，这是……血吗？这血的颜色较深，和上次的鸡血不同，应该是{color=#cc0000}人血{/color}。该不会那人受了伤吗？跟下去看看。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60073020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【咦，這是……血嗎？這血的顏色較深，和上次的雞血不同，應該是{color=#cc0000}人血{/color}。該不會那人受了傷嗎？跟下去看看。】",
+      "c": "<[>咦,這是......血嗎？這血的顏色較深,和上次的雞血不同,應該是人血。該不會那人受了傷嗎？跟下去看看。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, is this ...... Is it blood? This blood is darker in color and different from the last chicken blood, it should be human blood. The person was not injured? I'm going to go down and take a look. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【咦，这是……血吗？这血的颜色较深，和上次的鸡血不同，应该是{color=#cc0000}人血{/color}。该不会那人受了伤吗？跟下去看看。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

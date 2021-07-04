@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_02001_Tip3",
+  "RawLine": "HEART_02001_Tip3,<color=#EFD8B0>對生命值低於 <color=#33ff33>50%</color> 的敵人造成傷害上升 <color=#33ff33>{0:0.0}%</color>。</color>,<color=#EFD8B0>对生命值低于 <color=#33ff33>50%</color> 的敌人造成伤害上升 <color=#33ff33>{0:0.0}%</color>。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_02001_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0>對生命值低於 <color=#33ff33>50%</color> 的敵人造成傷害上升 <color=#33ff33>{0:0.0}%</color>。</color>",
+      "c": "對生命值低於 50% 的敵人造成傷害上升 <0:0.0>%。",
+      "rq": true,
+      "it": null,
+      "mt": " Deals <0:0.0>% more damage to enemies with less than 50% life.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0>对生命值低于 <color=#33ff33>50%</color> 的敌人造成伤害上升 <color=#33ff33>{0:0.0}%</color>。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

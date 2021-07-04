@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30085160",
+  "RawLine": "TNPC_30085160,待他打贏了賊人，公主也被劫走了。小石子為了償罪，也自盡了。,待他打赢了贼人，公主也被劫走了。小石子为了偿罪，也自尽了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30085160",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "待他打贏了賊人，公主也被劫走了。小石子為了償罪，也自盡了。",
+      "c": "待他打贏了賊人,公主也被劫走了。小石子為了償罪,也自盡了。",
+      "rq": true,
+      "it": null,
+      "mt": "After he defeated the robbers, the princess was also taken away. In order to pay for the crime, Little Stone also killed himself.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "待他打赢了贼人，公主也被劫走了。小石子为了偿罪，也自尽了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

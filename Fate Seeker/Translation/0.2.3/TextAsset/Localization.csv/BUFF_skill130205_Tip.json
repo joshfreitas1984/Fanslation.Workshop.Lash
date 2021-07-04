@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_skill130205_Tip",
+  "RawLine": "BUFF_skill130205_Tip,醉仙指路發動期間，移動數度變快、無敵15秒，攻擊力下降,醉仙指路发动期间，移动数度变快、无敌15秒，攻击力下降",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_skill130205_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "醉仙指路發動期間，移動數度變快、無敵15秒，攻擊力下降",
+      "c": "醉仙指路發動期間,移動數度變快、無敵15秒,攻擊力下降",
+      "rq": true,
+      "it": null,
+      "mt": "During the launch of Drunken Immortal, move faster, invulnerable for 15 seconds, attack power decreases",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "醉仙指路发动期间，移动数度变快、无敌15秒，攻击力下降",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_skill140107_Tip",
+  "RawLine": "BUFF_skill140107_Tip,轉生火發動期間，可回復少許生命，並可使用地獄火,转生火发动期间，可回复少许生命，并可使用地狱火",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_skill140107_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "轉生火發動期間，可回復少許生命，並可使用地獄火",
+      "c": "轉生火發動期間,可回復少許生命,並可使用地獄火",
+      "rq": true,
+      "it": null,
+      "mt": "During the start of the fire, you can restore a little life and use Hellfire.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "转生火发动期间，可回复少许生命，并可使用地狱火",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

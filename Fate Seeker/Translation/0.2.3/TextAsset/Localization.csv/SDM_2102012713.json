@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102012713",
+  "RawLine": "SDM_2102012713,尤其畫上之詩{color=#ff0000}「紂王末路登鹿台，暗夜終見落月光」{/color}更讓此畫不吉利。,尤其画上之诗{color=#ff0000}「纣王末路登鹿台，暗夜终见落月光」{/color}更让此画不吉利。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102012713",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "尤其畫上之詩{color=#ff0000}「紂王末路登鹿台，暗夜終見落月光」{/color}更讓此畫不吉利。",
+      "c": "尤其畫上之詩「紂王末路登鹿台,暗夜終見落月光」更讓此畫不吉利。",
+      "rq": true,
+      "it": null,
+      "mt": "The poem on the painting, \"At the end of the king's journey, the moon finally falls\", makes the painting more inauspicious.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "尤其画上之诗{color=#ff0000}「纣王末路登鹿台，暗夜终见落月光」{/color}更让此画不吉利。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

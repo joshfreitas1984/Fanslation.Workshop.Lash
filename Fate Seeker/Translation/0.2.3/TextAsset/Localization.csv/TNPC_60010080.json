@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010080",
+  "RawLine": "TNPC_60010080,【{color=#FF0000}調查{/color}這裡看看好了，看有沒有可靠的線索。】,【{color=#FF0000}调查{/color}这里看看好了，看有没有可靠的线索。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010080",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FF0000}調查{/color}這裡看看好了，看有沒有可靠的線索。】",
+      "c": "<[>調查這裡看看好了,看有沒有可靠的線索。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Investigate here to see if there are reliable clues. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FF0000}调查{/color}这里看看好了，看有没有可靠的线索。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

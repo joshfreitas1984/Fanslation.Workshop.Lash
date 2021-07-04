@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30037002",
+  "RawLine": "TNPC_30037002,{s=20}那個…有銅塊的話…我好像可以幫您強化長劍…啊{w=1}…好像是鋼……………{w=0.5}{/s}{back=6}…鐵，是鐵才對！,{s=20}那个…有铜块的话…我好像可以帮您强化长剑…啊{w=1}…好像是钢……………{w=0.5}{/s}{back=6}…铁，是铁才对！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30037002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=20}那個…有銅塊的話…我好像可以幫您強化長劍…啊{w=1}…好像是鋼……………{w=0.5}{/s}{back=6}…鐵，是鐵才對！",
+      "c": "那個...有銅塊的話...我好像可以幫您強化長劍...啊...好像是鋼..................鐵,是鐵才對！",
+      "rq": true,
+      "it": null,
+      "mt": "That... If you have a copper block... I seem to be able to help you strengthen the long sword ... Ah... It looks like steel .................. Iron, iron is right!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=20}那个…有铜块的话…我好像可以帮您强化长剑…啊{w=1}…好像是钢……………{w=0.5}{/s}{back=6}…铁，是铁才对！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003221",
+  "RawLine": "TNPC_70003221,【這每個路口都神似，讓人難以分辨身在何處，使人迷失於陣中。該如何辨別方向呢……】,【这每个路口都神似，让人难以分辨身在何处，使人迷失于阵中。该如何辨别方向呢……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003221",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這每個路口都神似，讓人難以分辨身在何處，使人迷失於陣中。該如何辨別方向呢……】",
+      "c": "<[>這每個路口都神似,讓人難以分辨身在何處,使人迷失於陣中。該如何辨別方向呢......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Every intersection is similar to each other, making it hard to tell where you are and making you lost in the formation. How can we tell the direction? ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这每个路口都神似，让人难以分辨身在何处，使人迷失于阵中。该如何辨别方向呢……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

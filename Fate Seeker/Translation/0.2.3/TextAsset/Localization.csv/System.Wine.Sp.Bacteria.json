@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Wine.Sp.Bacteria",
+  "RawLine": "System.Wine.Sp.Bacteria,加速完成發酵時間 <color=#33ff33>{0:0} 秒</color>,加速完成发酵时间 <color=#33ff33>{0:0} 秒</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Wine.Sp.Bacteria",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "加速完成發酵時間 <color=#33ff33>{0:0} 秒</color>",
+      "c": "加速完成發酵時間 <0:0> 秒",
+      "rq": true,
+      "it": null,
+      "mt": "Accelerate fermentation completion time <0:0> seconds",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "加速完成发酵时间 <color=#33ff33>{0:0} 秒</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

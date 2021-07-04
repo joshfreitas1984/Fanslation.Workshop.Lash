@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30062101",
+  "RawLine": "TNPC_30062101,本店無提供釀酒服務，如有需要請去開封！這麼吃力不討好的事我才不幹！,本店无提供酿酒服务，如有需要请去开封！这么吃力不讨好的事我才不干！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30062101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "本店無提供釀酒服務，如有需要請去開封！這麼吃力不討好的事我才不幹！",
+      "c": "本店無提供釀酒服務,如有需要請去開封！這麼吃力不討好的事我才不幹！",
+      "rq": true,
+      "it": null,
+      "mt": "We don't provide brewing service, please open it if you need! I don't want to do such a thankless job!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "本店无提供酿酒服务，如有需要请去开封！这么吃力不讨好的事我才不干！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

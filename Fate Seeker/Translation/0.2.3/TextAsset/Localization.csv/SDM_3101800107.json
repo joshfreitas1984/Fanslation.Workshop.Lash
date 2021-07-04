@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101800107",
+  "RawLine": "SDM_3101800107,先去向{color=#cc0000}正哥{/color}買個{color=#cc0000}麵粉{/color}再去找龐大娘吧！,先去向{color=#cc0000}正哥{/color}买个{color=#cc0000}面粉{/color}再去找庞大娘吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101800107",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "先去向{color=#cc0000}正哥{/color}買個{color=#cc0000}麵粉{/color}再去找龐大娘吧！",
+      "c": "先去向正哥買個麵粉再去找龐大娘吧！",
+      "rq": true,
+      "it": null,
+      "mt": "Buy a flour from Zheng first and then go to Pang Da Niang!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "先去向{color=#cc0000}正哥{/color}买个{color=#cc0000}面粉{/color}再去找庞大娘吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

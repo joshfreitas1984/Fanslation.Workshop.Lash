@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104903010",
+  "RawLine": "SDM_1104903010,【看來只要{color=#FF0000}點燃黑衣人把守的燈檯{/color}，就能打開機關門，進入水道深處。】,【看来只要{color=#FF0000}点燃黑衣人把守的灯台{/color}，就能打开机关门，进入水道深处。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104903010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來只要{color=#FF0000}點燃黑衣人把守的燈檯{/color}，就能打開機關門，進入水道深處。】",
+      "c": "<[>看來只要點燃黑衣人把守的燈檯,就能打開機關門,進入水道深處。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that if you light the lamp table guarded by the man in black, you can open the door of the machine and enter the depths of the waterway. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来只要{color=#FF0000}点燃黑衣人把守的灯台{/color}，就能打开机关门，进入水道深处。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

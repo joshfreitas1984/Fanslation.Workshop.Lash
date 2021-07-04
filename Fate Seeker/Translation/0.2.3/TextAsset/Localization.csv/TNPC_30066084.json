@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30066084",
+  "RawLine": "TNPC_30066084,【若有得到打鐵配方，也可來此處與大福叔借工具進行{color=#FF0000}鍛造{/color}，留意一下吧。】,【若有得到打铁配方，也可来此处与大福叔借工具进行{color=#FF0000}锻造{/color}，留意一下吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30066084",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【若有得到打鐵配方，也可來此處與大福叔借工具進行{color=#FF0000}鍛造{/color}，留意一下吧。】",
+      "c": "<[>若有得到打鐵配方,也可來此處與大福叔借工具進行鍛造,留意一下吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>If you get the recipe for iron, you can also come here to borrow the tools for forging with Uncle Dafu, so keep an eye out. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【若有得到打铁配方，也可来此处与大福叔借工具进行{color=#FF0000}锻造{/color}，留意一下吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

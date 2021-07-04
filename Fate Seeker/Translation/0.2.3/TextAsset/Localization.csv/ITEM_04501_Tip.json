@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04501_Tip",
+  "RawLine": "ITEM_04501_Tip,常見的治傷藥丸，郎中的常備藥品。不過這藥好像有點不對勁......,常见的治伤药丸，郎中的常备药品。不过这药好像有点不对劲......",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04501_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "常見的治傷藥丸，郎中的常備藥品。不過這藥好像有點不對勁......",
+      "c": "常見的治傷藥丸,郎中的常備藥品。不過這藥好像有點不對勁......",
+      "rq": true,
+      "it": null,
+      "mt": "A common medicine for injuries. But this medicine seems to be a bit off ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "常见的治伤药丸，郎中的常备药品。不过这药好像有点不对劲......",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

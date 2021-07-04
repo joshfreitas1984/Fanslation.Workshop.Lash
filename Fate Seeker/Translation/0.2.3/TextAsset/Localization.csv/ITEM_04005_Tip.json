@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04005_Tip",
+  "RawLine": "ITEM_04005_Tip,能夠恢復任何創傷的神藥，鮮少有人真的看過此藥丸。{p}{p}合成難度：{color=#ff0000}10{/color}。,能够恢复任何创伤的神药，鲜少有人真的看过此药丸。{p}{p}合成难度：{color=#ff0000}10{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04005_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "能夠恢復任何創傷的神藥，鮮少有人真的看過此藥丸。{p}{p}合成難度：{color=#ff0000}10{/color}。",
+      "c": "能夠恢復任何創傷的神藥,鮮少有人真的看過此藥丸。合成難度：10。",
+      "rq": true,
+      "it": null,
+      "mt": "A miracle pill that can heal any wound, few people have actually seen this pill. Synthesis difficulty: 10.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "能够恢复任何创伤的神药，鲜少有人真的看过此药丸。{p}{p}合成难度：{color=#ff0000}10{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

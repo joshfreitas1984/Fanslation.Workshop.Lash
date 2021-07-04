@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071071",
+  "RawLine": "TNPC_60071071,例如：玩家一開始選擇押正面硬幣，當擲完所有硬幣後，場上總共有六枚反面硬幣、五枚正面硬幣，此局為輸。,例如：玩家一开始选择押正面硬币，当掷完所有硬币后，场上总共有六枚反面硬币、五枚正面硬币，此局为输。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071071",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "例如：玩家一開始選擇押正面硬幣，當擲完所有硬幣後，場上總共有六枚反面硬幣、五枚正面硬幣，此局為輸。",
+      "c": "例如：玩家一開始選擇押正面硬幣,當擲完所有硬幣後,場上總共有六枚反面硬幣、五枚正面硬幣,此局為輸。",
+      "rq": true,
+      "it": null,
+      "mt": "For example, if a player bets on heads coins at the beginning, after tossing all the coins, there will be six negative coins and five heads coins on the field, the player loses the game.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "例如：玩家一开始选择押正面硬币，当掷完所有硬币后，场上总共有六枚反面硬币、五枚正面硬币，此局为输。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

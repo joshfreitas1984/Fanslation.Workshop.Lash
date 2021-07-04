@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071025",
+  "RawLine": "TNPC_60071025,開局！三顆骰子為{s=4}……{/s}{s=1}一、三、四{/s}！總計八點，是『小』，可惜了！祝您下一場扭轉乾坤，鴻運發財！,开局！三颗骰子为{s=4}……{/s}{s=1}一、三、四{/s}！总计八点，是『小』，可惜了！祝您下一场扭转乾坤，鸿运发财！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071025",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "開局！三顆骰子為{s=4}……{/s}{s=1}一、三、四{/s}！總計八點，是『小』，可惜了！祝您下一場扭轉乾坤，鴻運發財！",
+      "c": "開局！三顆骰子為......一、三、四！總計八點,是『小』,可惜了！祝您下一場扭轉乾坤,鴻運發財！",
+      "rq": true,
+      "it": null,
+      "mt": "Open! Three dice for ...... One, three, four! Total eight, it's 'small', too bad! Good luck in your next game!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "开局！三颗骰子为{s=4}……{/s}{s=1}一、三、四{/s}！总计八点，是『小』，可惜了！祝您下一场扭转乾坤，鸿运发财！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

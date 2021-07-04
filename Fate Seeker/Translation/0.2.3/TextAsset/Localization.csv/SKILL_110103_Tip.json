@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110103_Tip",
+  "RawLine": "SKILL_110103_Tip,【{color=#FFD700}強力{/color}】\\n停頓久、風險高，但傷害較高的招式。,【{color=#FFD700}强力{/color}】\\n停顿久、风险高，但伤害较高的招式。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110103_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n停頓久、風險高，但傷害較高的招式。",
+      "c": "<[>強力<]><<\\n>>停頓久、風險高,但傷害較高的招式。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>> A move with a long pause and high risk, but high damage.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n停顿久、风险高，但伤害较高的招式。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

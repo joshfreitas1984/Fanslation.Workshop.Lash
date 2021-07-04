@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101901018",
+  "RawLine": "SDM_3101901018,這次需要的材料是{color=#cc0000}秈糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龜板{/color}。,这次需要的材料是{color=#cc0000}籼糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龟板{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101901018",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這次需要的材料是{color=#cc0000}秈糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龜板{/color}。",
+      "c": "這次需要的材料是秈糯米、橡子、龜板。",
+      "rq": true,
+      "it": null,
+      "mt": "The ingredients for this one are glutinous rice, acorns, and turtle plates.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这次需要的材料是{color=#cc0000}籼糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龟板{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

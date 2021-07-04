@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_500002_Tip",
+  "RawLine": "ITEM_500002_Tip,能提高自身血量最大值，恢復所有血量，是顆大補丹。,能提高自身血量最大值，恢复所有血量，是颗大补丹。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_500002_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "能提高自身血量最大值，恢復所有血量，是顆大補丹。",
+      "c": "能提高自身血量最大值,恢復所有血量,是顆大補丹。",
+      "rq": true,
+      "it": null,
+      "mt": "Raises the maximum amount of blood and restores all blood, a great tonic.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "能提高自身血量最大值，恢复所有血量，是颗大补丹。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

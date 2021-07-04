@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "Guide.13.001_Joystick",
+  "RawLine": "Guide.13.001_Joystick,組隊狀態時，戰鬥中按下<color=#cc0000> [3] </color>叫出夥伴。,组队状态时，战斗中按下<color=#cc0000> [3] </color>叫出伙伴。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "Guide.13.001_Joystick",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "組隊狀態時，戰鬥中按下<color=#cc0000> [3] </color>叫出夥伴。",
+      "c": "組隊狀態時,戰鬥中按下 [3] 叫出夥伴。",
+      "rq": true,
+      "it": null,
+      "mt": "When you are in a team, press [3] to call out your partner during battle.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "组队状态时，战斗中按下<color=#cc0000> [3] </color>叫出伙伴。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

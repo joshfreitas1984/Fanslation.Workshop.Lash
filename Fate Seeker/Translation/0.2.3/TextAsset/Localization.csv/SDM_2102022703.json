@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102022703",
+  "RawLine": "SDM_2102022703,{name}，你和山賊為劫鏢酒，埋伏殺害開封鏢局，還不快將犯案過程從實招來！,{name}，你和山贼为劫镖酒，埋伏杀害开封镖局，还不快将犯案过程从实招来！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102022703",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，你和山賊為劫鏢酒，埋伏殺害開封鏢局，還不快將犯案過程從實招來！",
+      "c": "<name>,你和山賊為劫鏢酒,埋伏殺害開封鏢局,還不快將犯案過程從實招來！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, you and the bandits ambushed and killed the Kaifeng Darts Board in order to rob the wine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，你和山贼为劫镖酒，埋伏杀害开封镖局，还不快将犯案过程从实招来！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

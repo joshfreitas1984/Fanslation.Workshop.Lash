@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31037101",
+  "RawLine": "TNPC_31037101,{fn}你再不快點，我就將上次你在毛廁跟貓發生的事情說給趙姑娘聽。,{fn}你再不快点，我就将上次你在毛厕跟猫发生的事情说给赵姑娘听。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31037101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}你再不快點，我就將上次你在毛廁跟貓發生的事情說給趙姑娘聽。",
+      "c": "<fn>你再不快點,我就將上次你在毛廁跟貓發生的事情說給趙姑娘聽。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>I'll tell Miss Zhao about what happened with the cat in the toilet last time if you don't hurry up.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}你再不快点，我就将上次你在毛厕跟猫发生的事情说给赵姑娘听。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

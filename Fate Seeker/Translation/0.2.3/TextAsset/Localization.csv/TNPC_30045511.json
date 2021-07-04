@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30045511",
+  "RawLine": "TNPC_30045511,【雖然搶回地契是第一優先…但如果想更瞭解這個人的話，在戰鬥中對他使用{color=#FF0000}話術{/color}，並{color=#FF0000}調查{/color}資訊吧。】,【虽然抢回地契是第一优先…但如果想更了解这个人的话，在战斗中对他使用{color=#FF0000}话术{/color}，并{color=#FF0000}调查{/color}资讯吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30045511",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【雖然搶回地契是第一優先…但如果想更瞭解這個人的話，在戰鬥中對他使用{color=#FF0000}話術{/color}，並{color=#FF0000}調查{/color}資訊吧。】",
+      "c": "<[>雖然搶回地契是第一優先...但如果想更瞭解這個人的話,在戰鬥中對他使用話術,並調查資訊吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>While getting the deed back is the first priority... But if you want to know more about this person, use your words on him in battle and look up information. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【虽然抢回地契是第一优先…但如果想更了解这个人的话，在战斗中对他使用{color=#FF0000}话术{/color}，并{color=#FF0000}调查{/color}资讯吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

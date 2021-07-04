@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102027223",
+  "RawLine": "SDM_2102027223,{name}說的沒錯，只要燒掉這批一品紅，他們就無計可施了。,{name}说的没错，只要烧掉这批一品红，他们就无计可施了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102027223",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}說的沒錯，只要燒掉這批一品紅，他們就無計可施了。",
+      "c": "<name>說的沒錯,只要燒掉這批一品紅,他們就無計可施了。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>They are right, if they burn this batch of red, they can't do anything about it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}说的没错，只要烧掉这批一品红，他们就无计可施了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

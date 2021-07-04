@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60076454",
+  "RawLine": "TNPC_60076454,在鍛造時，若是放入{color=#FF0000}三個以上{/color}的材料，會比較容易鍛造出好東西。不過，越高級的材料，價格就越貴，而且越難成功。,在锻造时，若是放入{color=#FF0000}三个以上{/color}的材料，会比较容易锻造出好东西。不过，越高级的材料，价格就越贵，而且越难成功。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60076454",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "在鍛造時，若是放入{color=#FF0000}三個以上{/color}的材料，會比較容易鍛造出好東西。不過，越高級的材料，價格就越貴，而且越難成功。",
+      "c": "在鍛造時,若是放入三個以上的材料,會比較容易鍛造出好東西。不過,越高級的材料,價格就越貴,而且越難成功。",
+      "rq": true,
+      "it": null,
+      "mt": "When forging, if you put in more than three materials, it will be easier to forge something good. However, the higher the material, the more expensive it is and the more difficult it is to succeed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "在锻造时，若是放入{color=#FF0000}三个以上{/color}的材料，会比较容易锻造出好东西。不过，越高级的材料，价格就越贵，而且越难成功。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080007",
+  "RawLine": "TNPC_60080007,【這是一把短劍，劍柄上有個門派標記，上頭還綁著一張紙，我來看看裡頭寫些什麼……】,【这是一把短剑，剑柄上有个门派标记，上头还绑着一张纸，我来看看里头写些什么……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這是一把短劍，劍柄上有個門派標記，上頭還綁著一張紙，我來看看裡頭寫些什麼……】",
+      "c": "<[>這是一把短劍,劍柄上有個門派標記,上頭還綁著一張紙,我來看看裡頭寫些什麼......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is a short sword with a sect mark on the hilt and a piece of paper tied to it, let me see what is written inside ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这是一把短剑，剑柄上有个门派标记，上头还绑着一张纸，我来看看里头写些什么……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079142",
+  "RawLine": "TNPC_60079142,除師父外，只能讓{color=#FF0000}王婆婆{/color}伴{color=#FF0000}夫人{/color}進入。,除师父外，只能让{color=#FF0000}王婆婆{/color}伴{color=#FF0000}夫人{/color}进入。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079142",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "除師父外，只能讓{color=#FF0000}王婆婆{/color}伴{color=#FF0000}夫人{/color}進入。",
+      "c": "除師父外,只能讓王婆婆伴夫人進入。",
+      "rq": true,
+      "it": null,
+      "mt": "On top of Master, only Granny Wang and Madam can enter.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "除师父外，只能让{color=#FF0000}王婆婆{/color}伴{color=#FF0000}夫人{/color}进入。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

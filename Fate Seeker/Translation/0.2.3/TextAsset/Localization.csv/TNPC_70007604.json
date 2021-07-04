@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007604",
+  "RawLine": "TNPC_70007604,{name}，我是她姐姐，我保護她天經地義，你才太勉強她了！,{name}，我是她姐姐，我保护她天经地义，你才太勉强她了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007604",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，我是她姐姐，我保護她天經地義，你才太勉強她了！",
+      "c": "<name>,我是她姐姐,我保護她天經地義,你才太勉強她了！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, I am her sister, it is only natural for me to protect her, you are the one who is pushing her too much!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，我是她姐姐，我保护她天经地义，你才太勉强她了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

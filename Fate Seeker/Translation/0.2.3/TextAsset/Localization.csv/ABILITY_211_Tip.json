@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_211_Tip",
+  "RawLine": "ABILITY_211_Tip,非戰鬥時，每秒額外恢復<color=#00DB00>10%</color>最大生命。,非战斗时，每秒额外恢复<color=#00DB00>10%</color>最大生命。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_211_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "非戰鬥時，每秒額外恢復<color=#00DB00>10%</color>最大生命。",
+      "c": "非戰鬥時,每秒額外恢復10%最大生命。",
+      "rq": true,
+      "it": null,
+      "mt": "Restores an additional 10% of maximum life per second when not in combat.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "非战斗时，每秒额外恢复<color=#00DB00>10%</color>最大生命。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

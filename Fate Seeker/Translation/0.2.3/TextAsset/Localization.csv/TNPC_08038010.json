@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08038010",
+  "RawLine": "TNPC_08038010,對了，鍛造時我會告訴你鍛造的{color=#FF0000}穩定度{/color}，穩定度越高越容易造出理想中的物品。,对了，锻造时我会告诉你锻造的{color=#FF0000}稳定度{/color}，稳定度越高越容易造出理想中的物品。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08038010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "對了，鍛造時我會告訴你鍛造的{color=#FF0000}穩定度{/color}，穩定度越高越容易造出理想中的物品。",
+      "c": "對了,鍛造時我會告訴你鍛造的穩定度,穩定度越高越容易造出理想中的物品。",
+      "rq": true,
+      "it": null,
+      "mt": "By the way, when forging I will tell you the stability of the forging, the higher the stability the easier it is to make the desired item.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "对了，锻造时我会告诉你锻造的{color=#FF0000}稳定度{/color}，稳定度越高越容易造出理想中的物品。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

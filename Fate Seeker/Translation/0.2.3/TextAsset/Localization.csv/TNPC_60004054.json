@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60004054",
+  "RawLine": "TNPC_60004054,不要緊的，我相信我的運氣會如{name}兄所說，會越來越好的！,不要紧的，我相信我的运气会如{name}兄所说，会越来越好的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60004054",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "不要緊的，我相信我的運氣會如{name}兄所說，會越來越好的！",
+      "c": "不要緊的,我相信我的運氣會如<name>兄所說,會越來越好的！",
+      "rq": true,
+      "it": null,
+      "mt": "It doesn't matter, I believe my luck will get better and better as <name>brother said!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "不要紧的，我相信我的运气会如{name}兄所说，会越来越好的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

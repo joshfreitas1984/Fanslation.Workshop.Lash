@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002208",
+  "RawLine": "TNPC_70002208,呵呵，說的也是呀，買米買米。唉呀不對！我現在沒法賣米給你了……{w=1}……,呵呵，说的也是呀，买米买米。唉呀不对！我现在没法卖米给你了……{w=1}……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002208",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呵呵，說的也是呀，買米買米。唉呀不對！我現在沒法賣米給你了……{w=1}……",
+      "c": "呵呵,說的也是呀,買米買米。唉呀不對！我現在沒法賣米給你了............",
+      "rq": true,
+      "it": null,
+      "mt": " Oh, that's right, buy rice, buy rice. I can't sell you rice. I can't sell you any rice now ............",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呵呵，说的也是呀，买米买米。唉呀不对！我现在没法卖米给你了……{w=1}……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

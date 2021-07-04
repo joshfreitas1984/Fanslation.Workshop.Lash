@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006830",
+  "RawLine": "TNPC_70006830,【{name}成了武林盟主後，豈不是得與教主對決？他不會受傷吧？】,【{name}成了武林盟主后，岂不是得与教主对决？他不会受伤吧？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006830",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{name}成了武林盟主後，豈不是得與教主對決？他不會受傷吧？】",
+      "c": "<[><name>成了武林盟主後,豈不是得與教主對決？他不會受傷吧？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[><name>When you become the leader of the martial arts, will you have to fight against the sect master? He won't get hurt, right? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{name}成了武林盟主后，岂不是得与教主对决？他不会受伤吧？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072024",
+  "RawLine": "TNPC_60072024,【這裡看上去並無任何異狀，也無任何人在屋內，但為何會有這股濃烈的香味呢？{color=#FF0000}調查這裡{/color}看看吧。】,【这里看上去并无任何异状，也无任何人在屋内，但为何会有这股浓烈的香味呢？{color=#FF0000}调查这里{/color}看看吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072024",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這裡看上去並無任何異狀，也無任何人在屋內，但為何會有這股濃烈的香味呢？{color=#FF0000}調查這裡{/color}看看吧。】",
+      "c": "<[>這裡看上去並無任何異狀,也無任何人在屋內,但為何會有這股濃烈的香味呢？調查這裡看看吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There doesn't seem to be anything strange here, and no one is in the house, but why is there this strong scent? Investigate here and see. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这里看上去并无任何异状，也无任何人在屋内，但为何会有这股浓烈的香味呢？{color=#FF0000}调查这里{/color}看看吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

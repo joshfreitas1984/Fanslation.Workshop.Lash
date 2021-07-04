@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130302_Tip",
+  "RawLine": "SKILL_130302_Tip,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}小隱於林{/color}後使用本招式，基礎攻擊力增傷{color=#00DB00}20%{/color}。\\n往前方小位移的二段攻擊。,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}小隐于林{/color}后使用本招式，基础攻击力增伤{color=#00DB00}20%{/color}。\\n往前方小位移的二段攻击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130302_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}小隱於林{/color}後使用本招式，基礎攻擊力增傷{color=#00DB00}20%{/color}。\\n往前方小位移的二段攻擊。",
+      "c": "<[>前置<]><<\\n>>先使用小隱於林後使用本招式,基礎攻擊力增傷20%。<<\\n>>往前方小位移的二段攻擊。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Preceding<]><<\\n>>Use this move after using Small Hidden Forest first to increase the base attack power by 20%. <<\\n>>Two-step attack with small displacement in front.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}小隐于林{/color}后使用本招式，基础攻击力增伤{color=#00DB00}20%{/color}。\\n往前方小位移的二段攻击。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

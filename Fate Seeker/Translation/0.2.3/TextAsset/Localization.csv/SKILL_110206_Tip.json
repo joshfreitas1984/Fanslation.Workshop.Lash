@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110206_Tip",
+  "RawLine": "SKILL_110206_Tip,【{color=#FFD700}破防功能{/color}】\\n往前衝刺一小段距離後，向前踢出三道閃電雷擊。\\n雷擊越遠傷害越高。,【{color=#FFD700}破防功能{/color}】\\n往前冲刺一小段距离后，向前踢出三道闪电雷击。\\n雷击越远伤害越高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110206_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n往前衝刺一小段距離後，向前踢出三道閃電雷擊。\\n雷擊越遠傷害越高。",
+      "c": "<[>破防功能<]><<\\n>>往前衝刺一小段距離後,向前踢出三道閃電雷擊。<<\\n>>雷擊越遠傷害越高。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Defense Break<]><<\\n>>After dashing forward a short distance, kick three lightning strikes forward. <<\\n>>The farther away the lightning strikes are, the more damage they do.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n往前冲刺一小段距离后，向前踢出三道闪电雷击。\\n雷击越远伤害越高。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

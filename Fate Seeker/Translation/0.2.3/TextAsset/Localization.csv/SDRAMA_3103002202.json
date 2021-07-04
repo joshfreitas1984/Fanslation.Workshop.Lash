@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDRAMA_3103002202",
+  "RawLine": "SDRAMA_3103002202,不行，上面有個{color=#FF0000}無鎖孔{/color}的四方鎖將櫃子鎖死了。,不行，上面有个{color=#FF0000}无锁孔{/color}的四方锁将柜子锁死了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDRAMA_3103002202",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "不行，上面有個{color=#FF0000}無鎖孔{/color}的四方鎖將櫃子鎖死了。",
+      "c": "不行,上面有個無鎖孔的四方鎖將櫃子鎖死了。",
+      "rq": true,
+      "it": null,
+      "mt": "No, there is a four-way lock without a hole on it that locks the cabinet.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "不行，上面有个{color=#FF0000}无锁孔{/color}的四方锁将柜子锁死了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70010460",
+  "RawLine": "TNPC_70010460,【總之先留意{color=#FF0000}木櫃{/color}或{color=#FF0000}上鎖{/color}的物品吧。】,【总之先留意{color=#FF0000}木柜{/color}或{color=#FF0000}上锁{/color}的物品吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70010460",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【總之先留意{color=#FF0000}木櫃{/color}或{color=#FF0000}上鎖{/color}的物品吧。】",
+      "c": "<[>總之先留意木櫃或上鎖的物品吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Anyways, look out for wooden cabinets or locked items first. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【总之先留意{color=#FF0000}木柜{/color}或{color=#FF0000}上锁{/color}的物品吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

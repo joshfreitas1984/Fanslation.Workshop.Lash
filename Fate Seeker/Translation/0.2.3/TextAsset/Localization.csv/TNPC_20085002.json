@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20085002",
+  "RawLine": "TNPC_20085002,這四周林邊只聞蟲鳴，不聞鳥獸聲，只因林中{color=#ff0000}有人埋伏{/color}，鳥獸就會走避。,这四周林边只闻虫鸣，不闻鸟兽声，只因林中{color=#ff0000}有人埋伏{/color}，鸟兽就会走避。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20085002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這四周林邊只聞蟲鳴，不聞鳥獸聲，只因林中{color=#ff0000}有人埋伏{/color}，鳥獸就會走避。",
+      "c": "這四周林邊只聞蟲鳴,不聞鳥獸聲,只因林中有人埋伏,鳥獸就會走避。",
+      "rq": true,
+      "it": null,
+      "mt": "On the edge of the forest around here, only insects are heard, but not birds and animals.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这四周林边只闻虫鸣，不闻鸟兽声，只因林中{color=#ff0000}有人埋伏{/color}，鸟兽就会走避。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

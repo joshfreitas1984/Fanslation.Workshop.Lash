@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005089",
+  "RawLine": "TNPC_70005089,【看來只要{color=#FF0000}將他所喜愛的酒送給他{/color}，就能讓他重新振作起來。】,【看来只要{color=#FF0000}将他所喜爱的酒送给他{/color}，就能让他重新振作起来。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005089",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來只要{color=#FF0000}將他所喜愛的酒送給他{/color}，就能讓他重新振作起來。】",
+      "c": "<[>看來只要將他所喜愛的酒送給他,就能讓他重新振作起來。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that if we give him his favorite wine, we can revive him. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来只要{color=#FF0000}将他所喜爱的酒送给他{/color}，就能让他重新振作起来。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

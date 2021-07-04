@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074597",
+  "RawLine": "TNPC_60074597,【現在我就在這{color=#FF0000}附近的店家{/color}問看看，一定很快就會水落石出。】,【现在我就在这{color=#FF0000}附近的店家{/color}问看看，一定很快就会水落石出。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074597",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【現在我就在這{color=#FF0000}附近的店家{/color}問看看，一定很快就會水落石出。】",
+      "c": "<[>現在我就在這附近的店家問看看,一定很快就會水落石出。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Now I'm going to ask around the stores here, and I'm sure we'll find out soon. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【现在我就在这{color=#FF0000}附近的店家{/color}问看看，一定很快就会水落石出。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

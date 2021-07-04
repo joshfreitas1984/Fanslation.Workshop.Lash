@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003512",
+  "RawLine": "TNPC_10003512,你拿醉死的老鼠餵老鷹，它吃了醉得飛不動怎麼辦？怪不得老鷹不跟你親近。,你拿醉死的老鼠喂老鹰，它吃了醉得飞不动怎么办？怪不得老鹰不跟你亲近。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003512",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你拿醉死的老鼠餵老鷹，它吃了醉得飛不動怎麼辦？怪不得老鷹不跟你親近。",
+      "c": "你拿醉死的老鼠餵老鷹,它吃了醉得飛不動怎麼辦？怪不得老鷹不跟你親近。",
+      "rq": true,
+      "it": null,
+      "mt": "You feed the eagle with a drunken mouse, what can it do if it is too drunk to fly? No wonder the eagle is not close to you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你拿醉死的老鼠喂老鹰，它吃了醉得飞不动怎么办？怪不得老鹰不跟你亲近。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

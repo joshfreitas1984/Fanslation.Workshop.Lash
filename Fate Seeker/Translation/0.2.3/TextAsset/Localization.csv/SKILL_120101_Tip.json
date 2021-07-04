@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120101_Tip",
+  "RawLine": "SKILL_120101_Tip,【{color=#FFD700}特殊{/color}】\\n抵擋敵人的招式並進行攻擊。若抵擋成功對敵人造成寒毒，連續受到寒毒會造成驚人傷害。,【{color=#FFD700}特殊{/color}】\\n抵挡敌人的招式并进行攻击。若抵挡成功对敌人造成寒毒，连续受到寒毒会造成惊人伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120101_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}特殊{/color}】\\n抵擋敵人的招式並進行攻擊。若抵擋成功對敵人造成寒毒，連續受到寒毒會造成驚人傷害。",
+      "c": "<[>特殊<]><<\\n>>抵擋敵人的招式並進行攻擊。若抵擋成功對敵人造成寒毒,連續受到寒毒會造成驚人傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Special<]><<\\n>> Defends against enemy moves and attacks. If the block is successful, it will cause cold poison to the enemy, and will cause a surprising amount of damage if the cold poison is received continuously.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}特殊{/color}】\\n抵挡敌人的招式并进行攻击。若抵挡成功对敌人造成寒毒，连续受到寒毒会造成惊人伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

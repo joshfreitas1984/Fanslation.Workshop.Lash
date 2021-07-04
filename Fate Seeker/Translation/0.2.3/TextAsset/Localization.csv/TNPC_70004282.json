@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004282",
+  "RawLine": "TNPC_70004282,我才正跟{fn}小哥誇你，你就這樣冒冒失失的，真是的！,我才正跟{fn}小哥夸你，你就这样冒冒失失的，真是的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004282",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我才正跟{fn}小哥誇你，你就這樣冒冒失失的，真是的！",
+      "c": "我才正跟<fn>小哥誇你,你就這樣冒冒失失的,真是的！",
+      "rq": true,
+      "it": null,
+      "mt": "I was just bragging to <fn>you, and you're acting so rashly, really!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我才正跟{fn}小哥夸你，你就这样冒冒失失的，真是的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

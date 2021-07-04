@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102032505",
+  "RawLine": "SDM_2102032505,好，{ln}少俠是吧？這比賽即將開始，請等候上場……,好，{ln}少侠是吧？这比赛即将开始，请等候上场……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102032505",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "好，{ln}少俠是吧？這比賽即將開始，請等候上場……",
+      "c": "好,<ln>少俠是吧？這比賽即將開始,請等候上場......",
+      "rq": true,
+      "it": null,
+      "mt": "Okay, <ln>You're a young warrior, right? This game is about to start, please wait to play ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "好，{ln}少侠是吧？这比赛即将开始，请等候上场……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070205",
+  "RawLine": "TNPC_60070205,【奇怪？這地上怎麼會有一張紙條？撿起來看看吧！】,【奇怪？这地上怎么会有一张纸条？捡起来看看吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070205",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【奇怪？這地上怎麼會有一張紙條？撿起來看看吧！】",
+      "c": "<[>奇怪？這地上怎麼會有一張紙條？撿起來看看吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Strange? Why is there a note on the ground? Pick it up and take a look! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【奇怪？这地上怎么会有一张纸条？捡起来看看吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

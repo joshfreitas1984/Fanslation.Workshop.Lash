@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30045403",
+  "RawLine": "TNPC_30045403,有一張紙條，上面寫著「群星殘月已逐退。申時，大宅見。」,有一张纸条，上面写着「群星残月已逐退。申时，大宅见。」",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30045403",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "有一張紙條，上面寫著「群星殘月已逐退。申時，大宅見。」",
+      "c": "有一張紙條,上面寫著「群星殘月已逐退。申時,大宅見。」",
+      "rq": true,
+      "it": null,
+      "mt": "There is a note that says \"The stars and the waning moon have receded. See you at the mansion at the new hour.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "有一张纸条，上面写着「群星残月已逐退。申时，大宅见。」",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

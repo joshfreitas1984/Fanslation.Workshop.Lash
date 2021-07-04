@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071022",
+  "RawLine": "TNPC_60071022,例如：玩家一開始賭大，荷官開局，開出共計七點，一至九點為小，則此局為輸。,例如：玩家一开始赌大，荷官开局，开出共计七点，一至九点为小，则此局为输。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071022",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "例如：玩家一開始賭大，荷官開局，開出共計七點，一至九點為小，則此局為輸。",
+      "c": "例如：玩家一開始賭大,荷官開局,開出共計七點,一至九點為小,則此局為輸。",
+      "rq": true,
+      "it": null,
+      "mt": "For example, if a player starts out betting on big, the dealer opens the game, and a total of seven points are offered, and one to nine points are small, then the player loses the game.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "例如：玩家一开始赌大，荷官开局，开出共计七点，一至九点为小，则此局为输。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2104022102",
+  "RawLine": "SDM_2104022102,{color=#ff0000}記得，沒有通行令牌，或寨主親臨，誰也不許通過。{/color},{color=#ff0000}记得，没有通行令牌，或寨主亲临，谁也不许通过。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2104022102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}記得，沒有通行令牌，或寨主親臨，誰也不許通過。{/color}",
+      "c": "記得,沒有通行令牌,或寨主親臨,誰也不許通過。",
+      "rq": true,
+      "it": null,
+      "mt": "Remember, no one is allowed to pass without a pass token, or the lord himself.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}记得，没有通行令牌，或寨主亲临，谁也不许通过。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

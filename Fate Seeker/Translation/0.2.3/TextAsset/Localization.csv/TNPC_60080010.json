@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080010",
+  "RawLine": "TNPC_60080010,【三派不合眾所皆知，而這兩派相見，肯定是免不了一場惡戰。】,【三派不合众所皆知，而这两派相见，肯定是免不了一场恶战。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【三派不合眾所皆知，而這兩派相見，肯定是免不了一場惡戰。】",
+      "c": "<[>三派不合眾所皆知,而這兩派相見,肯定是免不了一場惡戰。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The three factions are known to be at odds with each other, and when these two factions meet, a fierce battle will be inevitable. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【三派不合众所皆知，而这两派相见，肯定是免不了一场恶战。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

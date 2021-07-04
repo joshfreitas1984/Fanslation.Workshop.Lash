@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005026",
+  "RawLine": "TNPC_70005026,因為你父親{color=#FF0000}將悔改後的一切都寫在這本書上。{/color},因为你父亲{color=#FF0000}将悔改后的一切都写在这本书上。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005026",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "因為你父親{color=#FF0000}將悔改後的一切都寫在這本書上。{/color}",
+      "c": "因為你父親將悔改後的一切都寫在這本書上。",
+      "rq": true,
+      "it": null,
+      "mt": "Because your father has written everything in this book after his repentance.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "因为你父亲{color=#FF0000}将悔改后的一切都写在这本书上。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

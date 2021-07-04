@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2104010153",
+  "RawLine": "SDM_2104010153,{color=#ff0000}麻繩應該可以在雜貨舖買到，漁攤應該能買到漁網，然後再請鐵舖加工就可以了。{/color},{color=#ff0000}麻绳应该可以在杂货铺买到，渔摊应该能买到渔网，然后再请铁铺加工就可以了。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2104010153",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}麻繩應該可以在雜貨舖買到，漁攤應該能買到漁網，然後再請鐵舖加工就可以了。{/color}",
+      "c": "麻繩應該可以在雜貨舖買到,漁攤應該能買到漁網,然後再請鐵舖加工就可以了。",
+      "rq": true,
+      "it": null,
+      "mt": "We should be able to get the twine at the grocery store and the fishing net at the fishing stall, and then ask the iron shop to process it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}麻绳应该可以在杂货铺买到，渔摊应该能买到渔网，然后再请铁铺加工就可以了。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

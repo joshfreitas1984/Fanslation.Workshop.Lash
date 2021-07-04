@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140207_Tip",
+  "RawLine": "SKILL_140207_Tip,【{color=#FFD700}強力{/color}】依序使用{color=#FF0000}疾風如勁{/color}、{color=#FF0000}風鳴鶴唳{/color}、{color=#FF0000}疾風驟雨{/color}後可使用本招。\\n使用條件嚴苛但相對傷害可觀。,【{color=#FFD700}强力{/color}】依序使用{color=#FF0000}疾风如劲{/color}、{color=#FF0000}风鸣鹤唳{/color}、{color=#FF0000}疾风骤雨{/color}后可使用本招。\\n使用条件严苛但相对伤害可观。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140207_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】依序使用{color=#FF0000}疾風如勁{/color}、{color=#FF0000}風鳴鶴唳{/color}、{color=#FF0000}疾風驟雨{/color}後可使用本招。\\n使用條件嚴苛但相對傷害可觀。",
+      "c": "<[>強力<]>依序使用疾風如勁、風鳴鶴唳、疾風驟雨後可使用本招。<<\\n>>使用條件嚴苛但相對傷害可觀。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]>Use this move after using \"Gusty Wind\", \"Windy Crane\", and \"Gusty Rain\" in that order. <<\\n>>The conditions for using this move are harsh, but the relative damage is considerable.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】依序使用{color=#FF0000}疾风如劲{/color}、{color=#FF0000}风鸣鹤唳{/color}、{color=#FF0000}疾风骤雨{/color}后可使用本招。\\n使用条件严苛但相对伤害可观。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

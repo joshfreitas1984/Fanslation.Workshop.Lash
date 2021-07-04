@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31093605",
+  "RawLine": "TNPC_31093605,【嘿嘿，不過說真的這雞這麼好吃我還真捨不得分呢！】,【嘿嘿，不过说真的这鸡这么好吃我还真舍不得分呢！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31093605",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嘿嘿，不過說真的這雞這麼好吃我還真捨不得分呢！】",
+      "c": "<[>嘿嘿,不過說真的這雞這麼好吃我還真捨不得分呢！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, but I really can't let go of this chicken! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嘿嘿，不过说真的这鸡这么好吃我还真舍不得分呢！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

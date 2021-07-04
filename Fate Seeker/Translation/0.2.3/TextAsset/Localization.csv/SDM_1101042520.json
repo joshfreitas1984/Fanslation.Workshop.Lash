@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101042520",
+  "RawLine": "SDM_1101042520,一切皆因紫綬金丹而起，我雖然知道方法治療其病徵，\\n奈何無力實行，只能寄厚望於您。,一切皆因紫绶金丹而起，我虽然知道方法治疗其病徵，\\n奈何无力实行，只能寄厚望于您。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101042520",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "一切皆因紫綬金丹而起，我雖然知道方法治療其病徵，\\n奈何無力實行，只能寄厚望於您。",
+      "c": "一切皆因紫綬金丹而起,我雖然知道方法治療其病徵,<<\\n>>奈何無力實行,只能寄厚望於您。",
+      "rq": true,
+      "it": null,
+      "mt": "It all started because of the Purple Golden Pill, although I know how to cure her symptoms, <<\\n>>but I can't do it, so I can only hope on you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "一切皆因紫绶金丹而起，我虽然知道方法治疗其病徵，\\n奈何无力实行，只能寄厚望于您。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

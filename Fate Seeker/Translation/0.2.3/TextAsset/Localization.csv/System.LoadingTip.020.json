@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.LoadingTip.020",
+  "RawLine": "System.LoadingTip.020,遊戲提示：預設值 <color=#33ff33> Q </color> 鍵，若與隊友組隊時，可以呼叫隊友來施放招式。,游戏提示：预设值 <color=#33ff33> Q </color> 键，若与队友组队时，可以呼叫队友来施放招式。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.LoadingTip.020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "遊戲提示：預設值 <color=#33ff33> Q </color> 鍵，若與隊友組隊時，可以呼叫隊友來施放招式。",
+      "c": "遊戲提示：預設值  Q  鍵,若與隊友組隊時,可以呼叫隊友來施放招式。",
+      "rq": true,
+      "it": null,
+      "mt": "Game tip: Default value - Q key to call a teammate to perform a move if you are teamed up with them.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "游戏提示：预设值 <color=#33ff33> Q </color> 键，若与队友组队时，可以呼叫队友来施放招式。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

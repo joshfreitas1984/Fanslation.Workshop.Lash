@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20017004",
+  "RawLine": "TNPC_20017004,雖然這個{color=#ff0000}玉珮{/color}值點錢，但我不想再見到它了，{p}就當做給你的謝禮吧！告辭！,虽然这个{color=#ff0000}玉珮{/color}值点钱，但我不想再见到它了，{p}就当做给你的谢礼吧！告辞！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20017004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "雖然這個{color=#ff0000}玉珮{/color}值點錢，但我不想再見到它了，{p}就當做給你的謝禮吧！告辭！",
+      "c": "雖然這個玉珮值點錢,但我不想再見到它了,就當做給你的謝禮吧！告辭！",
+      "rq": true,
+      "it": null,
+      "mt": " Although this jade palace is worth a bit of money, I don't want to see it again, so I'll give it to you as a thank you gift. Farewell!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "虽然这个{color=#ff0000}玉珮{/color}值点钱，但我不想再见到它了，{p}就当做给你的谢礼吧！告辞！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

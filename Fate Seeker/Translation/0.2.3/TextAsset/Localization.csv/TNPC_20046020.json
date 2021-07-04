@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20046020",
+  "RawLine": "TNPC_20046020,咦？你是文順？{p}多年沒見，長這麼大了！{p}你和你娘怎會來到開封？,咦？你是文顺？{p}多年没见，长这么大了！{p}你和你娘怎会来到开封？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20046020",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "咦？你是文順？{p}多年沒見，長這麼大了！{p}你和你娘怎會來到開封？",
+      "c": "咦？你是文順？多年沒見,長這麼大了！你和你娘怎會來到開封？",
+      "rq": true,
+      "it": null,
+      "mt": "Eh? You are Winsoon? I haven't seen you for years, you've grown so much! How did you and your mother come to Kaifeng?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "咦？你是文顺？{p}多年没见，长这么大了！{p}你和你娘怎会来到开封？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

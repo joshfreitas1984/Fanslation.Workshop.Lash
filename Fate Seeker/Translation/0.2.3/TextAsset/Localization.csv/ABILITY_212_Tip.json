@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_212_Tip",
+  "RawLine": "ABILITY_212_Tip,五個招式以上在冷卻時，每秒內力恢復量上升<color=#00DB00>40%</color>。,五个招式以上在冷却时，每秒内力恢复量上升<color=#00DB00>40%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_212_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "五個招式以上在冷卻時，每秒內力恢復量上升<color=#00DB00>40%</color>。",
+      "c": "五個招式以上在冷卻時,每秒內力恢復量上升40%。",
+      "rq": true,
+      "it": null,
+      "mt": "Raises internal power by 40% per second when more than 5 moves are cooled down.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "五个招式以上在冷却时，每秒内力恢复量上升<color=#00DB00>40%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

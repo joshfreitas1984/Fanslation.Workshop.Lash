@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "fix_7101026809",
+  "RawLine": "fix_7101026809,【接下來的對話得{color=#cc0000}仔細聽好{/color}了，說不定能從中得知究竟是{color=#cc0000}誰在製造三派混亂{/color}。】,【接下来的对话得{color=#cc0000}仔细听好{/color}了，说不定能从中得知究竟是{color=#cc0000}谁在制造三派混乱{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "fix_7101026809",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【接下來的對話得{color=#cc0000}仔細聽好{/color}了，說不定能從中得知究竟是{color=#cc0000}誰在製造三派混亂{/color}。】",
+      "c": "<[>接下來的對話得仔細聽好了,說不定能從中得知究竟是誰在製造三派混亂。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The next conversation should be listened to carefully, and we may be able to find out who is creating the chaos among the three factions. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【接下来的对话得{color=#cc0000}仔细听好{/color}了，说不定能从中得知究竟是{color=#cc0000}谁在制造三派混乱{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

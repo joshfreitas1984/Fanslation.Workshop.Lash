@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31055001",
+  "RawLine": "TNPC_31055001,先去向{color=#cc0000}正哥{/color}買{color=#cc0000}麵粉{/color}，再去{color=#cc0000}酒館{/color}找{color=#cc0000}龐大娘{/color}吧。,先去向{color=#cc0000}正哥{/color}买{color=#cc0000}面粉{/color}，再去{color=#cc0000}酒馆{/color}找{color=#cc0000}庞大娘{/color}吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31055001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "先去向{color=#cc0000}正哥{/color}買{color=#cc0000}麵粉{/color}，再去{color=#cc0000}酒館{/color}找{color=#cc0000}龐大娘{/color}吧。",
+      "c": "先去向正哥買麵粉,再去酒館找龐大娘吧。",
+      "rq": true,
+      "it": null,
+      "mt": "Go to buy flour from Zheng first, and then go to the pub to find Pang Da Niang.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "先去向{color=#cc0000}正哥{/color}买{color=#cc0000}面粉{/color}，再去{color=#cc0000}酒馆{/color}找{color=#cc0000}庞大娘{/color}吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

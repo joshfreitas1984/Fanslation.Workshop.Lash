@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05222_Tip",
+  "RawLine": "ITEM_05222_Tip,釀酒用料，取自雄鹿的幼角，未完全成長，帶著細密的絨毛，價值遠勝鹿角。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}藥酒{/color}。{p}合成難度：{color=#ff0000}3{/color}。,酿酒用料，取自雄鹿的幼角，未完全成长，带着细密的绒毛，价值远胜鹿角。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}药酒{/color}。{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05222_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "釀酒用料，取自雄鹿的幼角，未完全成長，帶著細密的絨毛，價值遠勝鹿角。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}藥酒{/color}。{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "釀酒用料,取自雄鹿的幼角,未完全成長,帶著細密的絨毛,價值遠勝鹿角。用途：適合釀造藥酒。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": " Used in brewing wine. The young antlers of stags are not fully grown and have fine velvet, making them much more valuable than antlers. Use: Suitable for brewing medicinal wine. Synthesis difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酿酒用料，取自雄鹿的幼角，未完全成长，带着细密的绒毛，价值远胜鹿角。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}药酒{/color}。{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

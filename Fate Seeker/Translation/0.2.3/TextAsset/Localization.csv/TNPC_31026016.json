@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31026016",
+  "RawLine": "TNPC_31026016,【只要在{color=#cc0000}時限內{/color}選擇{color=#cc0000}答應幫忙{/color}的選項就好了吧？】,【只要在{color=#cc0000}时限内{/color}选择{color=#cc0000}答应帮忙{/color}的选项就好了吧？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31026016",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【只要在{color=#cc0000}時限內{/color}選擇{color=#cc0000}答應幫忙{/color}的選項就好了吧？】",
+      "c": "<[>只要在時限內選擇答應幫忙的選項就好了吧？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Just choose the option to help within the time limit, right? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【只要在{color=#cc0000}时限内{/color}选择{color=#cc0000}答应帮忙{/color}的选项就好了吧？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31076151",
+  "RawLine": "TNPC_31076151,{color=#cc0000}瑞露酒{/color}是難度約為{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，這酒靠現在雜記上的配方是無法釀製的。。,{color=#cc0000}瑞露酒{/color}是难度约为{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，这酒靠现在杂记上的配方是无法酿制的。。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31076151",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#cc0000}瑞露酒{/color}是難度約為{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，這酒靠現在雜記上的配方是無法釀製的。。",
+      "c": "瑞露酒是難度約為六的白酒,這酒靠現在雜記上的配方是無法釀製的。。",
+      "rq": true,
+      "it": null,
+      "mt": "Relux is a white wine with a difficulty level of about six, which cannot be made by the recipe in the current journal.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#cc0000}瑞露酒{/color}是难度约为{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，这酒靠现在杂记上的配方是无法酿制的。。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

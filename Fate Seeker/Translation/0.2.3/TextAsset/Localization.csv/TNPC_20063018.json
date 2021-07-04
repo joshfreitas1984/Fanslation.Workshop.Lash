@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20063018",
+  "RawLine": "TNPC_20063018,你前去{color=#ff0000}窄巷酒攤{/color}，就會看到附近有一木桿上，高掛著{color=#ff0000}一對橘色燈籠{/color}，那戶人家{color=#ff0000}門口還有二個盆栽{/color}，那間就是水井坊。,你前去{color=#ff0000}窄巷酒摊{/color}，就会看到附近有一木杆上，高挂着{color=#ff0000}一对橘色灯笼{/color}，那户人家{color=#ff0000}门口还有二个盆栽{/color}，那间就是水井坊。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20063018",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你前去{color=#ff0000}窄巷酒攤{/color}，就會看到附近有一木桿上，高掛著{color=#ff0000}一對橘色燈籠{/color}，那戶人家{color=#ff0000}門口還有二個盆栽{/color}，那間就是水井坊。",
+      "c": "你前去窄巷酒攤,就會看到附近有一木桿上,高掛著一對橘色燈籠,那戶人家門口還有二個盆栽,那間就是水井坊。",
+      "rq": true,
+      "it": null,
+      "mt": "When you go to the wine stall in Narrow Lane, you will see a pair of orange lanterns hanging on a wooden pole nearby, and two potted plants in front of the door of that house.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你前去{color=#ff0000}窄巷酒摊{/color}，就会看到附近有一木杆上，高挂着{color=#ff0000}一对橘色灯笼{/color}，那户人家{color=#ff0000}门口还有二个盆栽{/color}，那间就是水井坊。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

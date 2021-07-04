@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130303_Tip",
+  "RawLine": "SKILL_130303_Tip,【{color=#FFD700}破防功能{/color}】\\n先使用{color=#FF0000}小隱於林{/color}並接著使用{color=#FF0000}大隱於市{/color}後使用此招，基礎攻擊力增傷{color=#00DB00}30%{/color}。\\n往後位移的前方範圍攻擊。,【{color=#FFD700}破防功能{/color}】\\n先使用{color=#FF0000}小隐于林{/color}并接着使用{color=#FF0000}大隐于市{/color}后使用此招，基础攻击力增伤{color=#00DB00}30%{/color}。\\n往后位移的前方范围攻击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130303_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n先使用{color=#FF0000}小隱於林{/color}並接著使用{color=#FF0000}大隱於市{/color}後使用此招，基礎攻擊力增傷{color=#00DB00}30%{/color}。\\n往後位移的前方範圍攻擊。",
+      "c": "<[>破防功能<]><<\\n>>先使用小隱於林並接著使用大隱於市後使用此招,基礎攻擊力增傷30%。<<\\n>>往後位移的前方範圍攻擊。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Defense Break<]><\\n>>Use this move after using Small Hide in the Forest and then Big Hide in the City to increase base attack power by 30%. <<\\n>>Attack in front of the backward displacement.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n先使用{color=#FF0000}小隐于林{/color}并接着使用{color=#FF0000}大隐于市{/color}后使用此招，基础攻击力增伤{color=#00DB00}30%{/color}。\\n往后位移的前方范围攻击。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

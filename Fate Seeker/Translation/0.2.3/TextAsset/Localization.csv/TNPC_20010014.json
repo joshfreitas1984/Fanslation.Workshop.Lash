@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20010014",
+  "RawLine": "TNPC_20010014,{s=6}嗯……{/s}算我多事吧，我可以順便幫你留意一下。,{s=6}嗯……{/s}算我多事吧，我可以顺便帮你留意一下。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20010014",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}嗯……{/s}算我多事吧，我可以順便幫你留意一下。",
+      "c": "嗯......算我多事吧,我可以順便幫你留意一下。",
+      "rq": true,
+      "it": null,
+      "mt": "Hmmm ...... I'm nosy, I can help you keep an eye on it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}嗯……{/s}算我多事吧，我可以顺便帮你留意一下。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

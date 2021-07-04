@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101056139",
+  "RawLine": "SDM_2101056139,我跟你說唷，{color=#ff0000}小狗子他們的寶物，就藏在『釀酒坊旁的田裡』。{/color},我跟你说唷，{color=#ff0000}小狗子他们的宝物，就藏在『酿酒坊旁的田里』。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101056139",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我跟你說唷，{color=#ff0000}小狗子他們的寶物，就藏在『釀酒坊旁的田裡』。{/color}",
+      "c": "我跟你說唷,小狗子他們的寶物,就藏在『釀酒坊旁的田裡』。",
+      "rq": true,
+      "it": null,
+      "mt": "I'm telling you, the treasure of the puppies is hidden in the field next to the brewery.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我跟你说唷，{color=#ff0000}小狗子他们的宝物，就藏在『酿酒坊旁的田里』。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

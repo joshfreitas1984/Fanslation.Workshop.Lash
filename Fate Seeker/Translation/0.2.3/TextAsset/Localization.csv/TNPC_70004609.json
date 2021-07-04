@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004609",
+  "RawLine": "TNPC_70004609,{fn}兄弟，你放心他們倆就交給我照顧，我一定會把他們照顧得好好的。,{fn}兄弟，你放心他们俩就交给我照顾，我一定会把他们照顾得好好的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004609",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄弟，你放心他們倆就交給我照顧，我一定會把他們照顧得好好的。",
+      "c": "<fn>兄弟,你放心他們倆就交給我照顧,我一定會把他們照顧得好好的。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Brother, don't worry, I'll take care of them, I'll take good care of them.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄弟，你放心他们俩就交给我照顾，我一定会把他们照顾得好好的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

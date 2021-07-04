@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31075001",
+  "RawLine": "TNPC_31075001,釀吉山紅需要{color=#cc0000}秈糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龜板{/color}。,酿吉山红需要{color=#cc0000}籼糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龟板{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31075001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "釀吉山紅需要{color=#cc0000}秈糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龜板{/color}。",
+      "c": "釀吉山紅需要秈糯米、橡子、龜板。",
+      "rq": true,
+      "it": null,
+      "mt": "You need glutinous rice, acorns and tortoise board to make Ji Shan Hong.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酿吉山红需要{color=#cc0000}籼糯米{/color}、{color=#cc0000}橡子{/color}、{color=#cc0000}龟板{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20031001",
+  "RawLine": "TNPC_20031001,【果不其然，這些酒罈大多空無一物，{p}但……至少有一桶封存了紅色偏紫的桑葚，還沒腐敗、尚可食用。{p}我記得紅色很常見，就帶些回去好了，聊勝於無。】,【果不其然，这些酒坛大多空无一物，{p}但……至少有一桶封存了红色偏紫的桑葚，还没腐败、尚可食用。{p}我记得红色很常见，就带些回去好了，聊胜于无。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20031001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【果不其然，這些酒罈大多空無一物，{p}但……至少有一桶封存了紅色偏紫的桑葚，還沒腐敗、尚可食用。{p}我記得紅色很常見，就帶些回去好了，聊勝於無。】",
+      "c": "<[>果不其然,這些酒罈大多空無一物,但......至少有一桶封存了紅色偏紫的桑葚,還沒腐敗、尚可食用。我記得紅色很常見,就帶些回去好了,聊勝於無。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>As expected, most of these wine jars were empty, but ...... There is at least one barrel of red and purple mulberries sealed and not yet rotten and still edible. I remember that red is very common, so I'll take some back with me, it's better than nothing. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【果不其然，这些酒坛大多空无一物，{p}但……至少有一桶封存了红色偏紫的桑葚，还没腐败、尚可食用。{p}我记得红色很常见，就带些回去好了，聊胜于无。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

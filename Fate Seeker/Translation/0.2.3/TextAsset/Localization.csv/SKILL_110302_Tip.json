@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110302_Tip",
+  "RawLine": "SKILL_110302_Tip,【{color=#FFD700}前置{/color}】\\n先使用過{color=#FF0000}混元一氣{/color}再使用本招，增傷{color=#00DB00}20%{/color}。中距離攻擊招式。,【{color=#FFD700}前置{/color}】\\n先使用过{color=#FF0000}混元一气{/color}再使用本招，增伤{color=#00DB00}20%{/color}。中距离攻击招式。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110302_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用過{color=#FF0000}混元一氣{/color}再使用本招，增傷{color=#00DB00}20%{/color}。中距離攻擊招式。",
+      "c": "<[>前置<]><<\\n>>先使用過混元一氣再使用本招,增傷20%。中距離攻擊招式。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Preceding<]><<\\n>>Use this move after using Mixed One Breath to increase damage by 20%. A medium range attack move.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用过{color=#FF0000}混元一气{/color}再使用本招，增伤{color=#00DB00}20%{/color}。中距离攻击招式。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

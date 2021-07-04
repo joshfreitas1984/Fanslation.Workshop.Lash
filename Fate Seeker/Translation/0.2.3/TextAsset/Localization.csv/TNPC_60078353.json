@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078353",
+  "RawLine": "TNPC_60078353,飯可以亂吃，話可不能亂說。我為何要偷你那兩百銀兩呢？！,饭可以乱吃，话可不能乱说。我为何要偷你那两百银两呢？！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078353",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "飯可以亂吃，話可不能亂說。我為何要偷你那兩百銀兩呢？！",
+      "c": "飯可以亂吃,話可不能亂說。我為何要偷你那兩百銀兩呢？！",
+      "rq": true,
+      "it": null,
+      "mt": "You can eat your food, but you can't talk nonsense. Why would I steal your 200 silver taels?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "饭可以乱吃，话可不能乱说。我为何要偷你那两百银两呢？！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

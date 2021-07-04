@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31057402",
+  "RawLine": "TNPC_31057402,這不是盟內的{fn}堂主嗎？可惜本女俠對此物沒興趣。,这不是盟内的{fn}堂主吗？可惜本女侠对此物没兴趣。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31057402",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這不是盟內的{fn}堂主嗎？可惜本女俠對此物沒興趣。",
+      "c": "這不是盟內的<fn>堂主嗎？可惜本女俠對此物沒興趣。",
+      "rq": true,
+      "it": null,
+      "mt": "Isn't this the <fn>tang master of the alliance? Unfortunately, I am not interested in this.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这不是盟内的{fn}堂主吗？可惜本女侠对此物没兴趣。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

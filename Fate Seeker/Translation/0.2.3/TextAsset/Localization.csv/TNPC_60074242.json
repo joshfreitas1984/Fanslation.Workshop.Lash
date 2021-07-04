@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074242",
+  "RawLine": "TNPC_60074242,【沒想到那瘋老頭竟是摩尼教的叛徒，可惜來不及問他事情。】,【没想到那疯老头竟是摩尼教的叛徒，可惜来不及问他事情。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074242",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【沒想到那瘋老頭竟是摩尼教的叛徒，可惜來不及問他事情。】",
+      "c": "<[>沒想到那瘋老頭竟是摩尼教的叛徒,可惜來不及問他事情。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I didn't know that the crazy old man was a traitor to the Manichean Church, but it was too late to ask him. <]>The old man is a traitor to the Manichean Church.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【没想到那疯老头竟是摩尼教的叛徒，可惜来不及问他事情。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

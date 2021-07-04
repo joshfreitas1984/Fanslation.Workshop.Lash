@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_300023_Tip",
+  "RawLine": "ITEM_300023_Tip,尋常的廉價酒，壇子上面貼著紙條「酒逢知己千杯少」。,寻常的廉价酒，坛子上面贴着纸条「酒逢知己千杯少」。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_300023_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "尋常的廉價酒，壇子上面貼著紙條「酒逢知己千杯少」。",
+      "c": "尋常的廉價酒,壇子上面貼著紙條「酒逢知己千杯少」。",
+      "rq": true,
+      "it": null,
+      "mt": "The usual cheap sake with a note on the top of the altar: \"A thousand glasses of wine when you meet someone you know\".",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "寻常的廉价酒，坛子上面贴着纸条「酒逢知己千杯少」。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

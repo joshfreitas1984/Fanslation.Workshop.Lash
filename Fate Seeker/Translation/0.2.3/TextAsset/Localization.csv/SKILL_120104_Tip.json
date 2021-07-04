@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120104_Tip",
+  "RawLine": "SKILL_120104_Tip,【{color=#FFD700}強力{/color}】\\n往前方四向快速來回斬擊的招式，需注意定力較低易被中斷。,【{color=#FFD700}强力{/color}】\\n往前方四向快速来回斩击的招式，需注意定力较低易被中断。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120104_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n往前方四向快速來回斬擊的招式，需注意定力較低易被中斷。",
+      "c": "<[>強力<]><<\\n>>往前方四向快速來回斬擊的招式,需注意定力較低易被中斷。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>> A fast back and forth chopping move in all directions in front of you, with a low chance of being interrupted.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n往前方四向快速来回斩击的招式，需注意定力较低易被中断。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101603301",
+  "RawLine": "SDM_1101603301,{fn}兄弟，何總管點貨還需要一點時間，你可以去虹橋那頭的橋前酒攤找井四弟喝兩杯。,{fn}兄弟，何总管点货还需要一点时间，你可以去虹桥那头的桥前酒摊找井四弟喝两杯。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101603301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄弟，何總管點貨還需要一點時間，你可以去虹橋那頭的橋前酒攤找井四弟喝兩杯。",
+      "c": "<fn>兄弟,何總管點貨還需要一點時間,你可以去虹橋那頭的橋前酒攤找井四弟喝兩杯。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Brother, it will take some time for Chief He to order the goods, you can go to the wine stall in front of the bridge at the end of the Hongqiao to have a drink with Jing Si Di.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄弟，何总管点货还需要一点时间，你可以去虹桥那头的桥前酒摊找井四弟喝两杯。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

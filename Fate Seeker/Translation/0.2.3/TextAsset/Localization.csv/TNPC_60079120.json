@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079120",
+  "RawLine": "TNPC_60079120,初雪服下幾次加了{color=#FF0000}白蘞{/color}的藥後，氣色果然好轉了，這次服完藥後說不定就能醒來了！,初雪服下几次加了{color=#FF0000}白蔹{/color}的药后，气色果然好转了，这次服完药后说不定就能醒来了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079120",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "初雪服下幾次加了{color=#FF0000}白蘞{/color}的藥後，氣色果然好轉了，這次服完藥後說不定就能醒來了！",
+      "c": "初雪服下幾次加了白蘞的藥後,氣色果然好轉了,這次服完藥後說不定就能醒來了！",
+      "rq": true,
+      "it": null,
+      "mt": "Hatsue has taken several doses of the medicine with Jangry, and she looks better.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "初雪服下几次加了{color=#FF0000}白蔹{/color}的药后，气色果然好转了，这次服完药后说不定就能醒来了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

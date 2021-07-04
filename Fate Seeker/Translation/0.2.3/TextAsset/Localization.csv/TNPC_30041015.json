@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30041015",
+  "RawLine": "TNPC_30041015,老闆，你看，這是我在別處買的飯糰，賣的比你便宜呢！,老板，你看，这是我在别处买的饭团，卖的比你便宜呢！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30041015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老闆，你看，這是我在別處買的飯糰，賣的比你便宜呢！",
+      "c": "老闆,你看,這是我在別處買的飯糰,賣的比你便宜呢！",
+      "rq": true,
+      "it": null,
+      "mt": "Look, boss, this is the rice ball I bought elsewhere, and it's cheaper than yours!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老板，你看，这是我在别处买的饭团，卖的比你便宜呢！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20089008",
+  "RawLine": "TNPC_20089008,牆上這首詩：白雲峰下兩旗新，膩綠長鮮穀雨春。,墙上这首诗：白云峰下两旗新，腻绿长鲜谷雨春。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20089008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "牆上這首詩：白雲峰下兩旗新，膩綠長鮮穀雨春。",
+      "c": "牆上這首詩：白雲峰下兩旗新,膩綠長鮮穀雨春。",
+      "rq": true,
+      "it": null,
+      "mt": "This poem on the wall: Two new flags under the white cloud peak, greener and fresher in spring.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "墙上这首诗：白云峰下两旗新，腻绿长鲜谷雨春。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

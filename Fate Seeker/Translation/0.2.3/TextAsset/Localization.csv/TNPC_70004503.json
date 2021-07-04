@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004503",
+  "RawLine": "TNPC_70004503,話說{fn}兄弟你來這幹嘛？這裡荒山野嶺，不見有人行路，難道小狗子跟小石子在這？,话说{fn}兄弟你来这干嘛？这里荒山野岭，不见有人行路，难道小狗子跟小石子在这？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004503",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "話說{fn}兄弟你來這幹嘛？這裡荒山野嶺，不見有人行路，難道小狗子跟小石子在這？",
+      "c": "話說<fn>兄弟你來這幹嘛？這裡荒山野嶺,不見有人行路,難道小狗子跟小石子在這？",
+      "rq": true,
+      "it": null,
+      "mt": "What are you doing here? It's a deserted mountain, no one is walking here, are the puppy and the little stone here?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "话说{fn}兄弟你来这干嘛？这里荒山野岭，不见有人行路，难道小狗子跟小石子在这？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

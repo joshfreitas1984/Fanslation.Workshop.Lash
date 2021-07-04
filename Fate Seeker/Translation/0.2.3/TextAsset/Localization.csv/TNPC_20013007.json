@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20013007",
+  "RawLine": "TNPC_20013007,{s=6}原來……{/s}是那隻貪吃的狗救了你……{p}當時我和你爸去野林偷埋你，就是想掩人耳目。{p}卻碰到一隻野狗過來討食，緊咬不放。{p}只好隨便拿吃的餵牠，趁機將你草草埋葬就走人。,{s=6}原来……{/s}是那只贪吃的狗救了你……{p}当时我和你爸去野林偷埋你，就是想掩人耳目。{p}却碰到一只野狗过来讨食，紧咬不放。{p}只好随便拿吃的喂它，趁机将你草草埋葬就走人。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20013007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}原來……{/s}是那隻貪吃的狗救了你……{p}當時我和你爸去野林偷埋你，就是想掩人耳目。{p}卻碰到一隻野狗過來討食，緊咬不放。{p}只好隨便拿吃的餵牠，趁機將你草草埋葬就走人。",
+      "c": "原來......是那隻貪吃的狗救了你......當時我和你爸去野林偷埋你,就是想掩人耳目。卻碰到一隻野狗過來討食,緊咬不放。只好隨便拿吃的餵牠,趁機將你草草埋葬就走人。",
+      "rq": true,
+      "it": null,
+      "mt": "It turns out that ...... It was the greedy dog that saved you ...... I went with your father to bury you in the wild forest to cover up. But I ran into a wild dog that came over to ask for food and wouldn't let go. I had to feed it with food and bury you hastily before leaving.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}原来……{/s}是那只贪吃的狗救了你……{p}当时我和你爸去野林偷埋你，就是想掩人耳目。{p}却碰到一只野狗过来讨食，紧咬不放。{p}只好随便拿吃的喂它，趁机将你草草埋葬就走人。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

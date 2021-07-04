@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102010123",
+  "RawLine": "SDM_2102010123,慢著，這帖藥很重要，能否煩勞老闆代我製作一份？這是配方。,慢着，这帖药很重要，能否烦劳老板代我制作一份？这是配方。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102010123",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "慢著，這帖藥很重要，能否煩勞老闆代我製作一份？這是配方。",
+      "c": "慢著,這帖藥很重要,能否煩勞老闆代我製作一份？這是配方。",
+      "rq": true,
+      "it": null,
+      "mt": "Wait, this medicine is very important, can you please make one for me? Here is the recipe.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "慢着，这帖药很重要，能否烦劳老板代我制作一份？这是配方。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

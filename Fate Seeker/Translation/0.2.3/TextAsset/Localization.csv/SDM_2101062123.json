@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101062123",
+  "RawLine": "SDM_2101062123,那客人就是{color=#ff0000}西京布莊的老闆李西{/color}，不過我覺得這麼稀有的東西，她應該不會賣你。,那客人就是{color=#ff0000}西京布庄的老板李西{/color}，不过我觉得这么稀有的东西，她应该不会卖你。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101062123",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "那客人就是{color=#ff0000}西京布莊的老闆李西{/color}，不過我覺得這麼稀有的東西，她應該不會賣你。",
+      "c": "那客人就是西京布莊的老闆李西,不過我覺得這麼稀有的東西,她應該不會賣你。",
+      "rq": true,
+      "it": null,
+      "mt": "The customer is Li Xi, the owner of Xijing Cloth House, but I don't think she would sell you such a rare item.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "那客人就是{color=#ff0000}西京布庄的老板李西{/color}，不过我觉得这么稀有的东西，她应该不会卖你。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

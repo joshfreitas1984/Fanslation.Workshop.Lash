@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20052002",
+  "RawLine": "TNPC_20052002,先生不用多禮。{p}反正人說也奇怪，算命說真話不想聽，就只想聽好話。{p}妽兒好話聽多了，對這沒興趣。,先生不用多礼。{p}反正人说也奇怪，算命说真话不想听，就只想听好话。{p}妽儿好话听多了，对这没兴趣。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20052002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "先生不用多禮。{p}反正人說也奇怪，算命說真話不想聽，就只想聽好話。{p}妽兒好話聽多了，對這沒興趣。",
+      "c": "先生不用多禮。反正人說也奇怪,算命說真話不想聽,就只想聽好話。妽兒好話聽多了,對這沒興趣。",
+      "rq": true,
+      "it": null,
+      "mt": "No need to be polite, sir. The actual fact is that you can find a lot of people who want to hear the truth, but only want to hear good things. I've heard too many good things, I'm not interested in this.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "先生不用多礼。{p}反正人说也奇怪，算命说真话不想听，就只想听好话。{p}妽儿好话听多了，对这没兴趣。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60009202",
+  "RawLine": "TNPC_60009202,竟然是家中有人想害我，我{s=6}……{/s}我離開這個家吧！{p}再繼續待在這裡也沒甚麼意義了。,竟然是家中有人想害我，我{s=6}……{/s}我离开这个家吧！{p}再继续待在这里也没什么意义了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60009202",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "竟然是家中有人想害我，我{s=6}……{/s}我離開這個家吧！{p}再繼續待在這裡也沒甚麼意義了。",
+      "c": "竟然是家中有人想害我,我......我離開這個家吧！再繼續待在這裡也沒甚麼意義了。",
+      "rq": true,
+      "it": null,
+      "mt": "I can't believe that someone in my family wants to harm me, I ...... I'll leave this house! There is no point in staying here any longer.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "竟然是家中有人想害我，我{s=6}……{/s}我离开这个家吧！{p}再继续待在这里也没什么意义了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

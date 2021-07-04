@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20063008",
+  "RawLine": "TNPC_20063008,【同一種的甕片，在這酒攤只找到這一片，只好去其他酒攤，看能不能找齊四片。】,【同一种的瓮片，在这酒摊只找到这一片，只好去其他酒摊，看能不能找齐四片。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20063008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【同一種的甕片，在這酒攤只找到這一片，只好去其他酒攤，看能不能找齊四片。】",
+      "c": "<[>同一種的甕片,在這酒攤只找到這一片,只好去其他酒攤,看能不能找齊四片。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Only one piece of the same kind of urn was found at this wine stand, so I had to go to other wine stands to see if I could find all four pieces. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【同一种的瓮片，在这酒摊只找到这一片，只好去其他酒摊，看能不能找齐四片。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140205_Tip",
+  "RawLine": "SKILL_140205_Tip,【{color=#FFD700}位移{/color}】\\n快速往敵人前方衝刺的攻擊。,【{color=#FFD700}位移{/color}】\\n快速往敌人前方冲刺的攻击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140205_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}位移{/color}】\\n快速往敵人前方衝刺的攻擊。",
+      "c": "<[>位移<]><<\\n>>快速往敵人前方衝刺的攻擊。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Displacement<]><<\\n>> A quick dash attack in front of the enemy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}位移{/color}】\\n快速往敌人前方冲刺的攻击。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

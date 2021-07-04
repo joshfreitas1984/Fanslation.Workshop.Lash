@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20034003",
+  "RawLine": "TNPC_20034003,唉、這年頭山賊難當啊！{p}如果遠遠看見兇神惡煞，誰不走避？{p}穿我這樣，路人見我就不會走避了。,唉、这年头山贼难当啊！{p}如果远远看见凶神恶煞，谁不走避？{p}穿我这样，路人见我就不会走避了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20034003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唉、這年頭山賊難當啊！{p}如果遠遠看見兇神惡煞，誰不走避？{p}穿我這樣，路人見我就不會走避了。",
+      "c": "唉、這年頭山賊難當啊！如果遠遠看見兇神惡煞,誰不走避？穿我這樣,路人見我就不會走避了。",
+      "rq": true,
+      "it": null,
+      "mt": "Alas, it's hard to be a bandit these days! Who wouldn't run away if they saw a fierce man from afar? If I look like this, passers-by will not run away when they see me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唉、这年头山贼难当啊！{p}如果远远看见凶神恶煞，谁不走避？{p}穿我这样，路人见我就不会走避了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

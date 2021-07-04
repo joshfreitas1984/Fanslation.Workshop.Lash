@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007082",
+  "RawLine": "TNPC_70007082,請欲挑戰盟主之位的英雄，上台挑戰{ln}少俠吧！,请欲挑战盟主之位的英雄，上台挑战{ln}少侠吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007082",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "請欲挑戰盟主之位的英雄，上台挑戰{ln}少俠吧！",
+      "c": "請欲挑戰盟主之位的英雄,上台挑戰<ln>少俠吧！",
+      "rq": true,
+      "it": null,
+      "mt": "Please challenge <ln>Ms.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "请欲挑战盟主之位的英雄，上台挑战{ln}少侠吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

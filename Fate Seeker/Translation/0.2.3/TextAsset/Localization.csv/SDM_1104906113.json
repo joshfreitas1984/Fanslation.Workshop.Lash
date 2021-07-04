@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104906113",
+  "RawLine": "SDM_1104906113,【那天是我的十八歲生辰，卻成了嬸娘的忌日。】,【那天是我的十八岁生辰，却成了婶娘的忌日。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104906113",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【那天是我的十八歲生辰，卻成了嬸娘的忌日。】",
+      "c": "<[>那天是我的十八歲生辰,卻成了嬸娘的忌日。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>That day was my 18th birthday, but it became the anniversary of my aunt's death. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【那天是我的十八岁生辰，却成了婶娘的忌日。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

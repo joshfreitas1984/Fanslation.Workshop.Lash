@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SystemWindow.MixCreate",
+  "RawLine": "SystemWindow.MixCreate,確定要花費 {0} 進行 {1}？製作失敗時，僅消耗金錢。,确定要花费 {0} 进行 {1}？制作失败时，仅消耗金钱。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SystemWindow.MixCreate",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "確定要花費 {0} 進行 {1}？製作失敗時，僅消耗金錢。",
+      "c": "確定要花費 <0> 進行 <1>？製作失敗時,僅消耗金錢。",
+      "rq": true,
+      "it": null,
+      "mt": " sure you want to spend <0> to make <1>? If the creation fails, only money is consumed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "确定要花费 {0} 进行 {1}？制作失败时，仅消耗金钱。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

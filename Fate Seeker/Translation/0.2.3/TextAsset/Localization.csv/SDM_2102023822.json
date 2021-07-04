@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102023822",
+  "RawLine": "SDM_2102023822,{color=#ff0000}你去問杭州碼頭出租馬車的人，或許能打聽到周麗那批貨的去向。{/color},{color=#ff0000}你去问杭州码头出租马车的人，或许能打听到周丽那批货的去向。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102023822",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}你去問杭州碼頭出租馬車的人，或許能打聽到周麗那批貨的去向。{/color}",
+      "c": "你去問杭州碼頭出租馬車的人,或許能打聽到周麗那批貨的去向。",
+      "rq": true,
+      "it": null,
+      "mt": "You may be able to find out where Zhou Li's shipment is going if you ask the carriage renters at the Hangzhou terminal.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}你去问杭州码头出租马车的人，或许能打听到周丽那批货的去向。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

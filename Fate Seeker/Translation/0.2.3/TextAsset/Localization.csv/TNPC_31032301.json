@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31032301",
+  "RawLine": "TNPC_31032301,{fn}，有空轉告梁大俠，他上次欠我的酒錢還沒付清呢！,{fn}，有空转告梁大侠，他上次欠我的酒钱还没付清呢！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31032301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}，有空轉告梁大俠，他上次欠我的酒錢還沒付清呢！",
+      "c": "<fn>,有空轉告梁大俠,他上次欠我的酒錢還沒付清呢！",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>, tell Liang that he still owes me for the last wine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}，有空转告梁大侠，他上次欠我的酒钱还没付清呢！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

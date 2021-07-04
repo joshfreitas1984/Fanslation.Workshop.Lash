@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130205_Tip",
+  "RawLine": "SKILL_130205_Tip,【{color=#FFD700}增益{/color}】\\n移動速度{color=#FF0000}變快{/color}、{color=#FF0000}防禦力大幅增加{/color}、{color=#FF0000}攻擊力大幅下降{/color}持續一段時間。\\n使用後強制解除{color=#FF0000}千杯不醉{/color}。,【{color=#FFD700}增益{/color}】\\n移动速度{color=#FF0000}变快{/color}、{color=#FF0000}防御力大幅增加{/color}、{color=#FF0000}攻击力大幅下降{/color}持续一段时间。\\n使用后强制解除{color=#FF0000}千杯不醉{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130205_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}增益{/color}】\\n移動速度{color=#FF0000}變快{/color}、{color=#FF0000}防禦力大幅增加{/color}、{color=#FF0000}攻擊力大幅下降{/color}持續一段時間。\\n使用後強制解除{color=#FF0000}千杯不醉{/color}。",
+      "c": "<[>增益<]><<\\n>>移動速度變快、防禦力大幅增加、攻擊力大幅下降持續一段時間。<<\\n>>使用後強制解除千杯不醉。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Gain<]><<\\n>>Movement speed becomes faster, defense power increases significantly, and attack power decreases significantly for a period of time. <<\\n>>Forced to disable a thousand drinks after use.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}增益{/color}】\\n移动速度{color=#FF0000}变快{/color}、{color=#FF0000}防御力大幅增加{/color}、{color=#FF0000}攻击力大幅下降{/color}持续一段时间。\\n使用后强制解除{color=#FF0000}千杯不醉{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08029274",
+  "RawLine": "TNPC_08029274,{fn}你不是要報仇嗎？現在是最佳時機吧。你心軟啦？,{fn}你不是要报仇吗？现在是最佳时机吧。你心软啦？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08029274",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}你不是要報仇嗎？現在是最佳時機吧。你心軟啦？",
+      "c": "<fn>你不是要報仇嗎？現在是最佳時機吧。你心軟啦？",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Don't you want to take revenge? Now is the best time. Have you gone soft?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}你不是要报仇吗？现在是最佳时机吧。你心软啦？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

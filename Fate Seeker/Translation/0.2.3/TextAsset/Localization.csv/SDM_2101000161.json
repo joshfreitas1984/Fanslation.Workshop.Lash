@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101000161",
+  "RawLine": "SDM_2101000161,你們這兩個孩子，每次都被{fn}耍著玩，卻老愛粘著他。我看你們其實挺喜歡他的吧。,你们这两个孩子，每次都被{fn}耍着玩，却老爱粘着他。我看你们其实挺喜欢他的吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101000161",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你們這兩個孩子，每次都被{fn}耍著玩，卻老愛粘著他。我看你們其實挺喜歡他的吧。",
+      "c": "你們這兩個孩子,每次都被<fn>耍著玩,卻老愛粘著他。我看你們其實挺喜歡他的吧。",
+      "rq": true,
+      "it": null,
+      "mt": "You two children, you are always being played with by <fn>, but you always cling to him. I think you guys actually like him.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你们这两个孩子，每次都被{fn}耍着玩，却老爱粘着他。我看你们其实挺喜欢他的吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

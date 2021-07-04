@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20093001",
+  "RawLine": "TNPC_20093001,多謝老前輩救命之恩，{fn}銘感五內，沒齒難忘！,多谢老前辈救命之恩，{fn}铭感五内，没齿难忘！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20093001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "多謝老前輩救命之恩，{fn}銘感五內，沒齒難忘！",
+      "c": "多謝老前輩救命之恩,<fn>銘感五內,沒齒難忘！",
+      "rq": true,
+      "it": null,
+      "mt": "Thank you for saving my life, <fn>I feel it in my heart and I will never forget it!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "多谢老前辈救命之恩，{fn}铭感五内，没齿难忘！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

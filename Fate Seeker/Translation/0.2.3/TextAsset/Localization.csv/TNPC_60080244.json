@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080244",
+  "RawLine": "TNPC_60080244,【上次撿到的紙團裡，有一股{color=#FF0000}牡丹花香氣{/color}，說不定他們的下落跟這個線索有甚麼關聯。】,【上次捡到的纸团里，有一股{color=#FF0000}牡丹花香气{/color}，说不定他们的下落跟这个线索有什么关联。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080244",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【上次撿到的紙團裡，有一股{color=#FF0000}牡丹花香氣{/color}，說不定他們的下落跟這個線索有甚麼關聯。】",
+      "c": "<[>上次撿到的紙團裡,有一股牡丹花香氣,說不定他們的下落跟這個線索有甚麼關聯。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The paper ball I found last time smells like peony flowers. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【上次捡到的纸团里，有一股{color=#FF0000}牡丹花香气{/color}，说不定他们的下落跟这个线索有什么关联。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

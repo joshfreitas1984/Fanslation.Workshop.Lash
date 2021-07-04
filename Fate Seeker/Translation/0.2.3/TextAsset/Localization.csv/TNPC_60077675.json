@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60077675",
+  "RawLine": "TNPC_60077675,【桌上這張紙寫著抓藥單，內容有一堆藥丸名稱，但也有一堆被劃掉，改另外一種藥丸名稱。這原本寫的跟後來劃掉改的字跡不相同，應該是不同人寫的。】,【桌上这张纸写着抓药单，内容有一堆药丸名称，但也有一堆被划掉，改另外一种药丸名称。这原本写的跟后来划掉改的字迹不相同，应该是不同人写的。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60077675",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【桌上這張紙寫著抓藥單，內容有一堆藥丸名稱，但也有一堆被劃掉，改另外一種藥丸名稱。這原本寫的跟後來劃掉改的字跡不相同，應該是不同人寫的。】",
+      "c": "<[>桌上這張紙寫著抓藥單,內容有一堆藥丸名稱,但也有一堆被劃掉,改另外一種藥丸名稱。這原本寫的跟後來劃掉改的字跡不相同,應該是不同人寫的。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This piece of paper on the table contains a list of pills, but a bunch of them have been crossed out and replaced with the name of another pill. The original writing is different from the one later crossed out and changed, so it must be written by different people. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【桌上这张纸写着抓药单，内容有一堆药丸名称，但也有一堆被划掉，改另外一种药丸名称。这原本写的跟后来划掉改的字迹不相同，应该是不同人写的。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

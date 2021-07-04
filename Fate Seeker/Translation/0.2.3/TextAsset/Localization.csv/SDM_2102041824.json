@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102041824",
+  "RawLine": "SDM_2102041824,還有，{color=#ff0000}配方的材料亂丟也能釀出酒，卻難以掌控是何種酒。{/color},还有，{color=#ff0000}配方的材料乱丢也能酿出酒，却难以掌控是何种酒。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102041824",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "還有，{color=#ff0000}配方的材料亂丟也能釀出酒，卻難以掌控是何種酒。{/color}",
+      "c": "還有,配方的材料亂丟也能釀出酒,卻難以掌控是何種酒。",
+      "rq": true,
+      "it": null,
+      "mt": "Also, you can make wine by throwing ingredients around in a recipe, but it's hard to control what kind of wine it is.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "还有，{color=#ff0000}配方的材料乱丢也能酿出酒，却难以掌控是何种酒。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

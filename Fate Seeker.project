@@ -1,0 +1,27 @@
+{
+  "$type": "FanslationStudio.Domain.Project, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "Name": "Fate Seeker",
+  "ScriptsToTranslate": [
+    {
+      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "SourcePath": "\\TextAsset\\Localization.csv",
+      "SplitIndexes": [
+        1
+      ],
+      "SplitCharacters": ",",
+      "UseIndexForLineId": true,
+      "LineIdIndex": 0,
+      "OverrideFontSize": 0
+    }
+  ],
+  "Versions": [
+    {
+      "$type": "FanslationStudio.Domain.ProjectVersion, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Version": "0.2.3",
+      "RawInputFolder": "X:\\repos\\GameTranslator\\GameTranslator\\FateSeeker\\input0.2.3",
+      "OldGameTranslator": false,
+      "GameTranslatorSource": null
+    }
+  ],
+  "ProjectFile": "H:\\FanslationStudioWorkshop\\Fate Seeker.project"
+}

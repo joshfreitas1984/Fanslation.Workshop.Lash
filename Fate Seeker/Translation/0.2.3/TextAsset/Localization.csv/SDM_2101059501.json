@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101059501",
+  "RawLine": "SDM_2101059501,客官你還沒找到周氏嗎？{p}她常去{color=#ff0000}向陽市集買首飾，你問問賣首飾的，八成就能找到她。{/color},客官你还没找到周氏吗？{p}她常去{color=#ff0000}向阳市集买首饰，你问问卖首饰的，八成就能找到她。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101059501",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客官你還沒找到周氏嗎？{p}她常去{color=#ff0000}向陽市集買首飾，你問問賣首飾的，八成就能找到她。{/color}",
+      "c": "客官你還沒找到周氏嗎？她常去向陽市集買首飾,你問問賣首飾的,八成就能找到她。",
+      "rq": true,
+      "it": null,
+      "mt": "Did you not find Zhou yet? She often goes to Xiangyang market to buy jewelry, ask the jewelry vendor and you will probably find her.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客官你还没找到周氏吗？{p}她常去{color=#ff0000}向阳市集买首饰，你问问卖首饰的，八成就能找到她。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

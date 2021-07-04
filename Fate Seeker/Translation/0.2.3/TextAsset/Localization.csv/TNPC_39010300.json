@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_39010300",
+  "RawLine": "TNPC_39010300,{ln}{fn}……這名字真難唸，我可以叫你一聲{fn}哥嗎？,{ln}{fn}……这名字真难念，我可以叫你一声{fn}哥吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_39010300",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{ln}{fn}……這名字真難唸，我可以叫你一聲{fn}哥嗎？",
+      "c": "<ln><fn>......這名字真難唸,我可以叫你一聲<fn>哥嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "<ln><fn>...... This name is so hard to pronounce, can I call you <fn>brother?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{ln}{fn}……这名字真难念，我可以叫你一声{fn}哥吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

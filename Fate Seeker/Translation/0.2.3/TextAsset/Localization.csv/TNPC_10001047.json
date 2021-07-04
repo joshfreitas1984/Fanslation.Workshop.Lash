@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10001047",
+  "RawLine": "TNPC_10001047,真的嗎？看溪水都能學會武功，那我學{name}一天到晚看螞蟻，是不是也變成大俠？,真的吗？看溪水都能学会武功，那我学{name}一天到晚看蚂蚁，是不是也变成大侠？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10001047",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "真的嗎？看溪水都能學會武功，那我學{name}一天到晚看螞蟻，是不是也變成大俠？",
+      "c": "真的嗎？看溪水都能學會武功,那我學<name>一天到晚看螞蟻,是不是也變成大俠？",
+      "rq": true,
+      "it": null,
+      "mt": "Really? If I can learn martial arts by watching the stream, then I can become a great warrior by watching ants all day long.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "真的吗？看溪水都能学会武功，那我学{name}一天到晚看蚂蚁，是不是也变成大侠？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

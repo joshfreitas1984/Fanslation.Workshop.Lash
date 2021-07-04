@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08013042",
+  "RawLine": "TNPC_08013042,屬下打聽到一方法可強化這冷玉環，據說拿著這{color=#FF0000}百煉鋼{/color}與{color=#FF0000}銀塊{/color}便能製出強力武器，您找鐵匠試試吧！,属下打听到一方法可强化这冷玉环，据说拿着这{color=#FF0000}百炼钢{/color}与{color=#FF0000}银块{/color}便能制出强力武器，您找铁匠试试吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08013042",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "屬下打聽到一方法可強化這冷玉環，據說拿著這{color=#FF0000}百煉鋼{/color}與{color=#FF0000}銀塊{/color}便能製出強力武器，您找鐵匠試試吧！",
+      "c": "屬下打聽到一方法可強化這冷玉環,據說拿著這百煉鋼與銀塊便能製出強力武器,您找鐵匠試試吧！",
+      "rq": true,
+      "it": null,
+      "mt": "I have heard of a way to strengthen this cold jade ring, and it is said that with this piece of steel and silver, you can make a powerful weapon.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "属下打听到一方法可强化这冷玉环，据说拿着这{color=#FF0000}百炼钢{/color}与{color=#FF0000}银块{/color}便能制出强力武器，您找铁匠试试吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

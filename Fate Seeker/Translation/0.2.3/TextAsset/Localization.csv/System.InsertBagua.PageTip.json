@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.InsertBagua.PageTip",
+  "RawLine": "System.InsertBagua.PageTip,大俠 <color=yellow>{0}{1}</color> 再入江湖，武學心法已達極致。,大侠 <color=yellow>{0}{1}</color> 再入江湖，武学心法已达极致。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.InsertBagua.PageTip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "大俠 <color=yellow>{0}{1}</color> 再入江湖，武學心法已達極致。",
+      "c": "大俠 <0><1> 再入江湖,武學心法已達極致。",
+      "rq": true,
+      "it": null,
+      "mt": "Major warrior <0><1> Re-enter the jungle, the martial arts have reached the ultimate.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "大侠 <color=yellow>{0}{1}</color> 再入江湖，武学心法已达极致。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

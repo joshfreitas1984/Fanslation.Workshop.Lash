@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101060001",
+  "RawLine": "SDM_2101060001,這附近就{color=#ff0000}橋前酒攤{/color}，賣的酒最上等了，也許周氏真去過。,这附近就{color=#ff0000}桥前酒摊{/color}，卖的酒最上等了，也许周氏真去过。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101060001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這附近就{color=#ff0000}橋前酒攤{/color}，賣的酒最上等了，也許周氏真去過。",
+      "c": "這附近就橋前酒攤,賣的酒最上等了,也許周氏真去過。",
+      "rq": true,
+      "it": null,
+      "mt": "The wine stall in front of the bridge sells the best wine around here, maybe Zhou really went there.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这附近就{color=#ff0000}桥前酒摊{/color}，卖的酒最上等了，也许周氏真去过。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

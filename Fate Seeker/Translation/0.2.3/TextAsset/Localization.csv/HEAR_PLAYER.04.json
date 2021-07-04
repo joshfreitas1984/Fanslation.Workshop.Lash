@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEAR_PLAYER.04",
+  "RawLine": "HEAR_PLAYER.04,這位<color=#33ff33>善心人士</color>，你可否行行好，帶我去官府一趟呢～,这位<color=#33ff33>善心人士</color>，你可否行行好，带我去官府一趟呢～",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEAR_PLAYER.04",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這位<color=#33ff33>善心人士</color>，你可否行行好，帶我去官府一趟呢～",
+      "c": "這位善心人士,你可否行行好,帶我去官府一趟呢～",
+      "rq": true,
+      "it": null,
+      "mt": "Will you be kind enough to take me to the government?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这位<color=#33ff33>善心人士</color>，你可否行行好，带我去官府一趟呢～",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_30110",
+  "RawLine": "QINFO_30110,向{color=#cc0000}趙妽{/color}出示搜尋到的{color=#cc0000}可疑玉珮{/color}。（小溪村）,向{color=#cc0000}赵妽{/color}出示搜寻到的{color=#cc0000}可疑玉珮{/color}。（小溪村）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_30110",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "向{color=#cc0000}趙妽{/color}出示搜尋到的{color=#cc0000}可疑玉珮{/color}。（小溪村）",
+      "c": "向趙妽出示搜尋到的可疑玉珮。（小溪村）",
+      "rq": true,
+      "it": null,
+      "mt": " Show the suspicious jade pendant found to Zhao Qi. (Xiao Xi Village)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "向{color=#cc0000}赵妽{/color}出示搜寻到的{color=#cc0000}可疑玉珮{/color}。（小溪村）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

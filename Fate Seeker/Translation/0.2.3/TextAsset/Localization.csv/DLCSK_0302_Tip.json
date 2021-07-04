@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "DLCSK_0302_Tip",
+  "RawLine": "DLCSK_0302_Tip,嚴喜與嚴樂不出現，可以<color=#FFD700>Q鍵</color>使嚴哀賦予敵人<color=#FFD700>易傷</color>。,严喜与严乐不出现，可以<color=#FFD700>Q键</color>使严哀赋予敌人<color=#FFD700>易伤</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "DLCSK_0302_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嚴喜與嚴樂不出現，可以<color=#FFD700>Q鍵</color>使嚴哀賦予敵人<color=#FFD700>易傷</color>。",
+      "c": "嚴喜與嚴樂不出現,可以Q鍵使嚴哀賦予敵人易傷。",
+      "rq": true,
+      "it": null,
+      "mt": "When Yim Hei and Yim Le do not appear, you can Q-click Yim Mourning to give the enemy Easy Damage.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "严喜与严乐不出现，可以<color=#FFD700>Q键</color>使严哀赋予敌人<color=#FFD700>易伤</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

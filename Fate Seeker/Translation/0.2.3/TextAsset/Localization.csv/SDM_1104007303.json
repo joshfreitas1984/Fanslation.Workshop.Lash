@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104007303",
+  "RawLine": "SDM_1104007303,此外還有個老舊的{color=#FF0000}香包{/color}，上面繡著一隻貓咪。,此外还有个老旧的{color=#FF0000}香包{/color}，上面绣着一只猫咪。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104007303",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "此外還有個老舊的{color=#FF0000}香包{/color}，上面繡著一隻貓咪。",
+      "c": "此外還有個老舊的香包,上面繡著一隻貓咪。",
+      "rq": true,
+      "it": null,
+      "mt": "There is also an old incense bag with a cat embroidered on it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "此外还有个老旧的{color=#FF0000}香包{/color}，上面绣着一只猫咪。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

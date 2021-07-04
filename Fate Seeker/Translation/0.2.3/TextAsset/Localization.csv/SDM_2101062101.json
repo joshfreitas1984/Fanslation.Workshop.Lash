@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101062101",
+  "RawLine": "SDM_2101062101,【我得先去{color=#ff0000}鄭家漁攤買漁網{/color}，才能請鐵舖幫我裝上鐵環鍊。】,【我得先去{color=#ff0000}郑家渔摊买渔网{/color}，才能请铁铺帮我装上铁环链。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101062101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我得先去{color=#ff0000}鄭家漁攤買漁網{/color}，才能請鐵舖幫我裝上鐵環鍊。】",
+      "c": "<[>我得先去鄭家漁攤買漁網,才能請鐵舖幫我裝上鐵環鍊。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I have to go to Cheng's fishing stall to buy a fishing net before I can ask the iron shop to help me put on the iron ring chain. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我得先去{color=#ff0000}郑家渔摊买渔网{/color}，才能请铁铺帮我装上铁环链。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

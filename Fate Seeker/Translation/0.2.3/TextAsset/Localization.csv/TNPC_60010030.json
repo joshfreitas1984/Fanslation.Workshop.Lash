@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010030",
+  "RawLine": "TNPC_60010030,【唱童謠自古以來是哄小孩的好辦法，說不定試在瘋乞丐上面也可以！】,【唱童谣自古以来是哄小孩的好办法，说不定试在疯乞丐上面也可以！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010030",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【唱童謠自古以來是哄小孩的好辦法，說不定試在瘋乞丐上面也可以！】",
+      "c": "<[>唱童謠自古以來是哄小孩的好辦法,說不定試在瘋乞丐上面也可以！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Singing nursery rhymes has been a good way to coax children since ancient times, maybe it can be tried on crazy beggars! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【唱童谣自古以来是哄小孩的好办法，说不定试在疯乞丐上面也可以！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

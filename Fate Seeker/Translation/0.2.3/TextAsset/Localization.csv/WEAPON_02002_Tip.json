@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "WEAPON_02002_Tip",
+  "RawLine": "WEAPON_02002_Tip,由複合的鋼材所冶煉而成，韌度較低、重心驅前，劈砍時威力十足，可惜刀刃易崩且不易控制，是其缺點。經驗不足的刀客甚至會誤傷自己。,由复合的钢材所冶炼而成，韧度较低、重心驱前，劈砍时威力十足，可惜刀刃易崩且不易控制，是其缺点。经验不足的刀客甚至会误伤自己。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "WEAPON_02002_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "由複合的鋼材所冶煉而成，韌度較低、重心驅前，劈砍時威力十足，可惜刀刃易崩且不易控制，是其缺點。經驗不足的刀客甚至會誤傷自己。",
+      "c": "由複合的鋼材所冶煉而成,韌度較低、重心驅前,劈砍時威力十足,可惜刀刃易崩且不易控制,是其缺點。經驗不足的刀客甚至會誤傷自己。",
+      "rq": true,
+      "it": null,
+      "mt": "Made from a composite steel, it is less tough and has a more aggressive center of gravity, making it powerful when slashing, but the blade is prone to chipping and difficult to control. The less experienced swordsmen may even injure themselves by mistake.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "由复合的钢材所冶炼而成，韧度较低、重心驱前，劈砍时威力十足，可惜刀刃易崩且不易控制，是其缺点。经验不足的刀客甚至会误伤自己。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

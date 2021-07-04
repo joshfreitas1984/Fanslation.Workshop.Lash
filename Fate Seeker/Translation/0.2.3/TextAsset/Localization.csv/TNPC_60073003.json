@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60073003",
+  "RawLine": "TNPC_60073003,是{fn}啊，你怎麼上氣不接下氣的？發生什麼事了？,是{fn}啊，你怎么上气不接下气的？发生什么事了？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60073003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是{fn}啊，你怎麼上氣不接下氣的？發生什麼事了？",
+      "c": "是<fn>啊,你怎麼上氣不接下氣的？發生什麼事了？",
+      "rq": true,
+      "it": null,
+      "mt": "Yes <fn>, why are you out of breath? What happened?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "是{fn}啊，你怎么上气不接下气的？发生什么事了？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31083111",
+  "RawLine": "TNPC_31083111,太可惜了，答案是{color=#ff0000}小妤女俠{/color}才對。{fn}哥哥猜錯啦！,太可惜了，答案是{color=#ff0000}小妤女侠{/color}才对。{fn}哥哥猜错啦！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31083111",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "太可惜了，答案是{color=#ff0000}小妤女俠{/color}才對。{fn}哥哥猜錯啦！",
+      "c": "太可惜了,答案是小妤女俠才對。<fn>哥哥猜錯啦！",
+      "rq": true,
+      "it": null,
+      "mt": "Too bad, the answer is \"Little Lady Yu\". <fn>Brother guessed wrong!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "太可惜了，答案是{color=#ff0000}小妤女侠{/color}才对。{fn}哥哥猜错啦！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

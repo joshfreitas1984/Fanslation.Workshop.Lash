@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30045605",
+  "RawLine": "TNPC_30045605,見聞足夠的時候，游標移到可以調查的物品上時，該物品就會發光。,见闻足够的时候，游标移到可以调查的物品上时，该物品就会发光。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30045605",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "見聞足夠的時候，游標移到可以調查的物品上時，該物品就會發光。",
+      "c": "見聞足夠的時候,游標移到可以調查的物品上時,該物品就會發光。",
+      "rq": true,
+      "it": null,
+      "mt": "When there are enough sightings, when the cursor is moved to an item that can be investigated, the item will glow.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "见闻足够的时候，游标移到可以调查的物品上时，该物品就会发光。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

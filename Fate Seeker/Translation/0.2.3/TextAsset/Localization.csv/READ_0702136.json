@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0702136",
+  "RawLine": "READ_0702136,甲、乙、丙、丁、戊、己、庚、辛、壬、癸為十天干；\\n子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥為十二地支。\\n兩兩相配，始於甲子，終於癸亥，六十為一循環。,甲、乙、丙、丁、戊、己、庚、辛、壬、癸为十天干；\\n子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥为十二地支。\\n两两相配，始于甲子，终于癸亥，六十为一循环。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0702136",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "甲、乙、丙、丁、戊、己、庚、辛、壬、癸為十天干；\\n子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥為十二地支。\\n兩兩相配，始於甲子，終於癸亥，六十為一循環。",
+      "c": "甲、乙、丙、丁、戊、己、庚、辛、壬、癸為十天干；<<\\n>>子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥為十二地支。<<\\n>>兩兩相配,始於甲子,終於癸亥,六十為一循環。",
+      "rq": true,
+      "it": null,
+      "mt": "A, B, C, D, E, F, G, X, N, and J are the ten heavenly stems; <<\\n>>Zi, Ugly, Yin, Mao, Chen, Si, No, Wu, Wei, Shen, You, Xu, and Hai are the twelve earthly branches. <<\\n>>The two match, starting from Azi and ending in Kuihai, 60 is a cycle.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "甲、乙、丙、丁、戊、己、庚、辛、壬、癸为十天干；\\n子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥为十二地支。\\n两两相配，始于甲子，终于癸亥，六十为一循环。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

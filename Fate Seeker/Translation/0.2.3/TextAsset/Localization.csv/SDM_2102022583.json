@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102022583",
+  "RawLine": "SDM_2102022583,{color=#ff0000}你把這訂單，拿給洛陽的鐵舖老闆看，他就會把東西交給你了。{/color},{color=#ff0000}你把这订单，拿给洛阳的铁铺老板看，他就会把东西交给你了。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102022583",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}你把這訂單，拿給洛陽的鐵舖老闆看，他就會把東西交給你了。{/color}",
+      "c": "你把這訂單,拿給洛陽的鐵舖老闆看,他就會把東西交給你了。",
+      "rq": true,
+      "it": null,
+      "mt": "Take this order to the owner of the iron shop in Luoyang, and he will give you the stuff.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}你把这订单，拿给洛阳的铁铺老板看，他就会把东西交给你了。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

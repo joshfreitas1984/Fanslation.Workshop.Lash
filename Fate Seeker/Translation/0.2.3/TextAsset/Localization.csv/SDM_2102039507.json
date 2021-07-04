@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102039507",
+  "RawLine": "SDM_2102039507,你猜想的沒錯，那是機關鎖，{color=#ff0000}只要把圖案拼出來，就可以解開鎖。{/color},你猜想的没错，那是机关锁，{color=#ff0000}只要把图案拼出来，就可以解开锁。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102039507",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你猜想的沒錯，那是機關鎖，{color=#ff0000}只要把圖案拼出來，就可以解開鎖。{/color}",
+      "c": "你猜想的沒錯,那是機關鎖,只要把圖案拼出來,就可以解開鎖。",
+      "rq": true,
+      "it": null,
+      "mt": "You're right, it's a mechanism lock, just spell out the pattern and you can unlock it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你猜想的没错，那是机关锁，{color=#ff0000}只要把图案拼出来，就可以解开锁。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

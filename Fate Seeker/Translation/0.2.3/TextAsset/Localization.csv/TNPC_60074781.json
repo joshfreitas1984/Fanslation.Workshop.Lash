@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074781",
+  "RawLine": "TNPC_60074781,【這條線索果然又回到黃氏這，得趕緊去試試另外一條線索。】,【这条线索果然又回到黄氏这，得赶紧去试试另外一条线索。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074781",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這條線索果然又回到黃氏這，得趕緊去試試另外一條線索。】",
+      "c": "<[>這條線索果然又回到黃氏這,得趕緊去試試另外一條線索。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This clue really came back to Huang, I have to try another clue in a hurry. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这条线索果然又回到黄氏这，得赶紧去试试另外一条线索。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

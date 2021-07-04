@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08002320",
+  "RawLine": "TNPC_08002320,做這酒需要{color=#FF0000}荔枝{/color}，{color=#FF0000}蜜桃{/color}，{color=#FF0000}汾酒{/color}。,做这酒需要{color=#FF0000}荔枝{/color}，{color=#FF0000}蜜桃{/color}，{color=#FF0000}汾酒{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08002320",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "做這酒需要{color=#FF0000}荔枝{/color}，{color=#FF0000}蜜桃{/color}，{color=#FF0000}汾酒{/color}。",
+      "c": "做這酒需要荔枝,蜜桃,汾酒。",
+      "rq": true,
+      "it": null,
+      "mt": "We need lychee, peach and fen wine to make this wine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "做这酒需要{color=#FF0000}荔枝{/color}，{color=#FF0000}蜜桃{/color}，{color=#FF0000}汾酒{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

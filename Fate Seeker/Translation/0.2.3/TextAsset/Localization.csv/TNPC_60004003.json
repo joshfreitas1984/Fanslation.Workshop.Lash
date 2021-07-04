@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60004003",
+  "RawLine": "TNPC_60004003,我身子康復許多了，謝謝{fn}兄關心。另外，關於你問的問題{s=6}……{/s}{p}因為我家境並不富裕，所以才會身穿輕薄，而身上的傷也是因為在家幫忙{p}常常發生意外而導致的。,我身子康复许多了，谢谢{fn}兄关心。另外，关于你问的问题{s=6}……{/s}{p}因为我家境并不富裕，所以才会身穿轻薄，而身上的伤也是因为在家帮忙{p}常常发生意外而导致的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60004003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我身子康復許多了，謝謝{fn}兄關心。另外，關於你問的問題{s=6}……{/s}{p}因為我家境並不富裕，所以才會身穿輕薄，而身上的傷也是因為在家幫忙{p}常常發生意外而導致的。",
+      "c": "我身子康復許多了,謝謝<fn>兄關心。另外,關於你問的問題......因為我家境並不富裕,所以才會身穿輕薄,而身上的傷也是因為在家幫忙常常發生意外而導致的。",
+      "rq": true,
+      "it": null,
+      "mt": "I am much better, thank you for your concern. Also, about the question you asked ...... Because my family is not rich, that's why I wear light clothes and the injuries on my body are caused by helping at home and often having accidents.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我身子康复许多了，谢谢{fn}兄关心。另外，关于你问的问题{s=6}……{/s}{p}因为我家境并不富裕，所以才会身穿轻薄，而身上的伤也是因为在家帮忙{p}常常发生意外而导致的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

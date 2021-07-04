@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "CHOICE_100050123",
+  "RawLine": "CHOICE_100050123,先生可敢對著{ln}某砂鍋大的拳頭再說一次？,先生可敢对着{ln}某砂锅大的拳头再说一次？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "CHOICE_100050123",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "先生可敢對著{ln}某砂鍋大的拳頭再說一次？",
+      "c": "先生可敢對著<ln>某砂鍋大的拳頭再說一次？",
+      "rq": true,
+      "it": null,
+      "mt": "Do you dare to say it again to <ln>someone with a fist as big as a casserole?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "先生可敢对着{ln}某砂锅大的拳头再说一次？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

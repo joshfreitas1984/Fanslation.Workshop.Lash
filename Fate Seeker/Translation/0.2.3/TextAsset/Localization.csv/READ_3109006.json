@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_3109006",
+  "RawLine": "READ_3109006,甲方和某\\n乙方呂某\\n乙方設法構陷城西　戚齊氏入獄，則由甲方保證洛陽商賈特許權三月。\\n不計任何手段，唯要保戚齊氏成活。\\n殺其夫，滅其子，再加特許權三月。\\n（畫押）,甲方和某\\n乙方吕某\\n乙方设法构陷城西　戚齐氏入狱，则由甲方保证洛阳商贾特许权三月。\\n不计任何手段，唯要保戚齐氏成活。\\n杀其夫，灭其子，再加特许权三月。\\n（画押）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_3109006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "甲方和某\\n乙方呂某\\n乙方設法構陷城西　戚齊氏入獄，則由甲方保證洛陽商賈特許權三月。\\n不計任何手段，唯要保戚齊氏成活。\\n殺其夫，滅其子，再加特許權三月。\\n（畫押）",
+      "c": "甲方和某<<\\n>>乙方呂某<<\\n>>乙方設法構陷城西　戚齊氏入獄,則由甲方保證洛陽商賈特許權三月。<<\\n>>不計任何手段,唯要保戚齊氏成活。<<\\n>>殺其夫,滅其子,再加特許權三月。<<\\n>>（畫押）",
+      "rq": true,
+      "it": null,
+      "mt": "Party A and a certain <<\\n>>Party B, Lu, a certain <<\\n>>Party B, who has tried to trap Qi in the west of the city and put her in jail, will be guaranteed by Party A the privileged right of the merchant of Luoyang for three months. <<\\n>>No matter what means, only to ensure the survival of Qi Qi. <<\\n>>Kill her husband and destroy her son, and then give her power for three months. <<\\n>>(Draw)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "甲方和某\\n乙方吕某\\n乙方设法构陷城西　戚齐氏入狱，则由甲方保证洛阳商贾特许权三月。\\n不计任何手段，唯要保戚齐氏成活。\\n杀其夫，灭其子，再加特许权三月。\\n（画押）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

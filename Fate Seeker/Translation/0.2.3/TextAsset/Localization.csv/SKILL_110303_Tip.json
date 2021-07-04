@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110303_Tip",
+  "RawLine": "SKILL_110303_Tip,【{color=#FFD700}破防功能{/color}】\\n先依序使用過{color=#FF0000}混元一氣{/color}與{color=#FF0000}一氣三分{/color}後使用本招，增傷{color=#00DB00}25%{/color}。\\n中距離攻擊招式，威力驚人但不易命中。,【{color=#FFD700}破防功能{/color}】\\n先依序使用过{color=#FF0000}混元一气{/color}与{color=#FF0000}一气三分{/color}后使用本招，增伤{color=#00DB00}25%{/color}。\\n中距离攻击招式，威力惊人但不易命中。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110303_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n先依序使用過{color=#FF0000}混元一氣{/color}與{color=#FF0000}一氣三分{/color}後使用本招，增傷{color=#00DB00}25%{/color}。\\n中距離攻擊招式，威力驚人但不易命中。",
+      "c": "<[>破防功能<]><<\\n>>先依序使用過混元一氣與一氣三分後使用本招,增傷25%。<<\\n>>中距離攻擊招式,威力驚人但不易命中。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Break Defenses<]><<\\n>>Use this move after using Mixed One Breath and One Breath Three Points in order to increase damage by 25%. <<\\n>>Mid-range attacking move, amazing power but not easy to hit.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n先依序使用过{color=#FF0000}混元一气{/color}与{color=#FF0000}一气三分{/color}后使用本招，增伤{color=#00DB00}25%{/color}。\\n中距离攻击招式，威力惊人但不易命中。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

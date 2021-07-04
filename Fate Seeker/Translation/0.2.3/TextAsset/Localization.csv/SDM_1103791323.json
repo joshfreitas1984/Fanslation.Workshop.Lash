@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103791323",
+  "RawLine": "SDM_1103791323,【此處藥材眾多，千萬不要拿錯了。我記得解藥的材料之一是…】,【此处药材众多，千万不要拿错了。我记得解药的材料之一是…】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103791323",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【此處藥材眾多，千萬不要拿錯了。我記得解藥的材料之一是…】",
+      "c": "<[>此處藥材眾多,千萬不要拿錯了。我記得解藥的材料之一是...<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There are a lot of herbs here, so don't get the wrong one. I remember that one of the ingredients for the antidote is... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【此处药材众多，千万不要拿错了。我记得解药的材料之一是…】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

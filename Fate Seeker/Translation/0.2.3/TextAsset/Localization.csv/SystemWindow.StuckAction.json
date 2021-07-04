@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SystemWindow.StuckAction",
+  "RawLine": "SystemWindow.StuckAction,此功能用於卡點時，將幫助玩家從卡在物件時移到正常的道路上。<color=#ff3333>有一定的風險使用後產生其它問題，請不要頻繁使用。</color>,此功能用于卡点时，将帮助玩家从卡在物件时移到正常的道路上。<color=#ff3333>有一定的风险使用后产生其它问题，请不要频繁使用。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SystemWindow.StuckAction",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "此功能用於卡點時，將幫助玩家從卡在物件時移到正常的道路上。<color=#ff3333>有一定的風險使用後產生其它問題，請不要頻繁使用。</color>",
+      "c": "此功能用於卡點時,將幫助玩家從卡在物件時移到正常的道路上。有一定的風險使用後產生其它問題,請不要頻繁使用。",
+      "rq": true,
+      "it": null,
+      "mt": "This function is used when stuck in a point, and will help the player move from being stuck on an object to the normal path. There is a certain risk of other problems after using it, so please do not use it too often.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "此功能用于卡点时，将帮助玩家从卡在物件时移到正常的道路上。<color=#ff3333>有一定的风险使用后产生其它问题，请不要频繁使用。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

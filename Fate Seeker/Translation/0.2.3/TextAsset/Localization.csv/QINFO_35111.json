@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_35111",
+  "RawLine": "QINFO_35111,向{color=#cc0000}大福鐵舖{/color}的蘇大福，詢問修理龍泉劍的方法。（小溪村）,向{color=#cc0000}大福铁铺{/color}的苏大福，询问修理龙泉剑的方法。（小溪村）",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_35111",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "向{color=#cc0000}大福鐵舖{/color}的蘇大福，詢問修理龍泉劍的方法。（小溪村）",
+      "c": "向大福鐵舖的蘇大福,詢問修理龍泉劍的方法。（小溪村）",
+      "rq": true,
+      "it": null,
+      "mt": " Ask Su Dafu of the Dafu Iron Shop if he would like to repair the broken sword. (Xiaoxi Village)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "向{color=#cc0000}大福铁铺{/color}的苏大福，询问修理龙泉剑的方法。（小溪村）",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

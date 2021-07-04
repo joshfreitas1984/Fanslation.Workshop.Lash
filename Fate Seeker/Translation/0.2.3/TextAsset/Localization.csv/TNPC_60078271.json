@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078271",
+  "RawLine": "TNPC_60078271,【見義兄自釀的人蔘藥酒，在口感上似乎是{color=#FF0000}少了一味藥材{/color}，印象中以前喝過的人蔘藥酒是會{color=#FF0000}帶點甜味{/color}的。】,【见义兄自酿的人参药酒，在口感上似乎是{color=#FF0000}少了一味药材{/color}，印象中以前喝过的人参药酒是会{color=#FF0000}带点甜味{/color}的。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078271",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【見義兄自釀的人蔘藥酒，在口感上似乎是{color=#FF0000}少了一味藥材{/color}，印象中以前喝過的人蔘藥酒是會{color=#FF0000}帶點甜味{/color}的。】",
+      "c": "<[>見義兄自釀的人蔘藥酒,在口感上似乎是少了一味藥材,印象中以前喝過的人蔘藥酒是會帶點甜味的。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The ginseng herbal liquor that Brother Ji brewed himself seems to be missing one herb in the taste, as I remember that the ginseng herbal liquor I had before had a sweet taste. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【见义兄自酿的人参药酒，在口感上似乎是{color=#FF0000}少了一味药材{/color}，印象中以前喝过的人参药酒是会{color=#FF0000}带点甜味{/color}的。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

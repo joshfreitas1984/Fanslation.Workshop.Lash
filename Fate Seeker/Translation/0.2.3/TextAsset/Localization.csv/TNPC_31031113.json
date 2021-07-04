@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31031113",
+  "RawLine": "TNPC_31031113,於是我先秤了{color=#cc0000}四石半{/color}的米，發現不太夠，再秤了{color=#cc0000}六石半{/color}的米才出門。,于是我先秤了{color=#cc0000}四石半{/color}的米，发现不太够，再秤了{color=#cc0000}六石半{/color}的米才出门。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31031113",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "於是我先秤了{color=#cc0000}四石半{/color}的米，發現不太夠，再秤了{color=#cc0000}六石半{/color}的米才出門。",
+      "c": "於是我先秤了四石半的米,發現不太夠,再秤了六石半的米才出門。",
+      "rq": true,
+      "it": null,
+      "mt": "So I weighed four and a half stones of rice first, and found that it was not enough, so I weighed six and a half stones of rice before I went out.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "于是我先秤了{color=#cc0000}四石半{/color}的米，发现不太够，再秤了{color=#cc0000}六石半{/color}的米才出门。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003182",
+  "RawLine": "TNPC_70003182,{color=#FF0000}這四面牆上刻著字{/color}，跟畫上的字有什麼關聯呢？,{color=#FF0000}这四面墙上刻着字{/color}，跟画上的字有什么关联呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003182",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#FF0000}這四面牆上刻著字{/color}，跟畫上的字有什麼關聯呢？",
+      "c": "這四面牆上刻著字,跟畫上的字有什麼關聯呢？",
+      "rq": true,
+      "it": null,
+      "mt": "What is the relationship between the words carved on these four walls and the words on the painting?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#FF0000}这四面墙上刻着字{/color}，跟画上的字有什么关联呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

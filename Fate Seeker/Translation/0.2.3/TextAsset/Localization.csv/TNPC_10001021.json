@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10001021",
+  "RawLine": "TNPC_10001021,【既然拿到鑰匙了，先把釣鉤拆掉好了，留下這條花繩，說不定能物歸原主。】,【既然拿到钥匙了，先把钓钩拆掉好了，留下这条花绳，说不定能物归原主。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10001021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【既然拿到鑰匙了，先把釣鉤拆掉好了，留下這條花繩，說不定能物歸原主。】",
+      "c": "<[>既然拿到鑰匙了,先把釣鉤拆掉好了,留下這條花繩,說不定能物歸原主。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Now that I have the key, I'll take the hook off and leave the rope, maybe I can return it to its rightful owner. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【既然拿到钥匙了，先把钓钩拆掉好了，留下这条花绳，说不定能物归原主。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

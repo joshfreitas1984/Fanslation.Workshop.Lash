@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_2700051",
+  "RawLine": "READ_2700051,有皮無毛，有骨無肉，搖搖擺擺，風頭出足。\\n第二道題,有皮无毛，有骨无肉，摇摇摆摆，风头出足。\\n第二道题",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_2700051",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "有皮無毛，有骨無肉，搖搖擺擺，風頭出足。\\n第二道題",
+      "c": "有皮無毛,有骨無肉,搖搖擺擺,風頭出足。<<\\n>>第二道題",
+      "rq": true,
+      "it": null,
+      "mt": "Skin but no hair, bone but no flesh, swaying, the wind is full. <<\\n>>The second question",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "有皮无毛，有骨无肉，摇摇摆摆，风头出足。\\n第二道题",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

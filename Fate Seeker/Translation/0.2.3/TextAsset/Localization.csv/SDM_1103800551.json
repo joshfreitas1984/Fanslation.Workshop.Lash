@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103800551",
+  "RawLine": "SDM_1103800551,【…雖然很想這麼說，但家家有本難唸的經，多說無益，還是算了吧。】,【…虽然很想这么说，但家家有本难念的经，多说无益，还是算了吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103800551",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【…雖然很想這麼說，但家家有本難唸的經，多說無益，還是算了吧。】",
+      "c": "<[>...雖然很想這麼說,但家家有本難唸的經,多說無益,還是算了吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[... I'd like to say this, but it's a hard lesson to learn, so I'll let it go. <]>.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【…虽然很想这么说，但家家有本难念的经，多说无益，还是算了吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

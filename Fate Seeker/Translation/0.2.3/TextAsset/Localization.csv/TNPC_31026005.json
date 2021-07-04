@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31026005",
+  "RawLine": "TNPC_31026005,沒想到她真的跑去杜建的{color=#cc0000}酒館{/color}，鬧了起來。,没想到她真的跑去杜建的{color=#cc0000}酒馆{/color}，闹了起来。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31026005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "沒想到她真的跑去杜建的{color=#cc0000}酒館{/color}，鬧了起來。",
+      "c": "沒想到她真的跑去杜建的酒館,鬧了起來。",
+      "rq": true,
+      "it": null,
+      "mt": "I didn't expect she would really go to Du Jian's tavern and make a scene.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "没想到她真的跑去杜建的{color=#cc0000}酒馆{/color}，闹了起来。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

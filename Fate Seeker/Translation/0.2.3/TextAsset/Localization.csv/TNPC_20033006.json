@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20033006",
+  "RawLine": "TNPC_20033006,嗯？抱歉、你們是住在這的人家嗎？{p}我只是找東西時嘴饞，所以取了些來吃，{p}大不了給你點錢，能借過一下嗎？我很忙的。,嗯？抱歉、你们是住在这的人家吗？{p}我只是找东西时嘴馋，所以取了些来吃，{p}大不了给你点钱，能借过一下吗？我很忙的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20033006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯？抱歉、你們是住在這的人家嗎？{p}我只是找東西時嘴饞，所以取了些來吃，{p}大不了給你點錢，能借過一下嗎？我很忙的。",
+      "c": "嗯？抱歉、你們是住在這的人家嗎？我只是找東西時嘴饞,所以取了些來吃,大不了給你點錢,能借過一下嗎？我很忙的。",
+      "rq": true,
+      "it": null,
+      "mt": "Huh? I'm sorry, are you the people who live here? I'm just looking for something when my mouth is hungry, so I took some to eat, big deal, give you some money, can you lend a little? I'm very busy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯？抱歉、你们是住在这的人家吗？{p}我只是找东西时嘴馋，所以取了些来吃，{p}大不了给你点钱，能借过一下吗？我很忙的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

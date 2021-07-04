@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20007021",
+  "RawLine": "TNPC_20007021,{s=6}嗚……{/s}當時我育有一子，無奈丈夫休了我之後，我只能流落他鄉……嗚嗚……。,{s=6}呜……{/s}当时我育有一子，无奈丈夫休了我之后，我只能流落他乡……呜呜……。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20007021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}嗚……{/s}當時我育有一子，無奈丈夫休了我之後，我只能流落他鄉……嗚嗚……。",
+      "c": "嗚......當時我育有一子,無奈丈夫休了我之後,我只能流落他鄉......嗚嗚......。",
+      "rq": true,
+      "it": null,
+      "mt": "嗚...... I had a son at that time, but after my husband left me, I had to live in another country ...... Awwww ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}呜……{/s}当时我育有一子，无奈丈夫休了我之后，我只能流落他乡……呜呜……。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

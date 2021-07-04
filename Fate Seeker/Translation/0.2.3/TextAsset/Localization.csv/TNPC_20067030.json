@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20067030",
+  "RawLine": "TNPC_20067030,【糟糕！不小心被人發現了！{p}在外看守的人由後門和正門衝進來，這下被圍困於廳堂了……】,【糟糕！不小心被人发现了！{p}在外看守的人由后门和正门冲进来，这下被围困于厅堂了……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20067030",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【糟糕！不小心被人發現了！{p}在外看守的人由後門和正門衝進來，這下被圍困於廳堂了……】",
+      "c": "<[>糟糕！不小心被人發現了！在外看守的人由後門和正門衝進來,這下被圍困於廳堂了......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Oops! I've been found out by accident! The people who were guarding outside rushed in through the back and front doors, and now we are trapped in the hall ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【糟糕！不小心被人发现了！{p}在外看守的人由后门和正门冲进来，这下被围困于厅堂了……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

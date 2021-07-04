@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001055",
+  "RawLine": "TNPC_70001055,嗯……兄弟們，今天就看{ln}少俠的面子上，我們走！,嗯……兄弟们，今天就看{ln}少侠的面子上，我们走！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001055",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯……兄弟們，今天就看{ln}少俠的面子上，我們走！",
+      "c": "嗯......兄弟們,今天就看<ln>少俠的面子上,我們走！",
+      "rq": true,
+      "it": null,
+      "mt": "uh ...... Brothers, today on the face of <ln> young knight, let's go!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯……兄弟们，今天就看{ln}少侠的面子上，我们走！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

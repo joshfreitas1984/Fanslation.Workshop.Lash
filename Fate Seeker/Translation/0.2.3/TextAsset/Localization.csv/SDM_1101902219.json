@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101902219",
+  "RawLine": "SDM_1101902219,{fn}小哥，今日謝謝你了。我這裡有另一把「百辟寶劍」，雖然不若我們家傳的劍古老，但修復一下的話，也是把鋒利無雙的名刀，就送給你了吧。,{fn}小哥，今日谢谢你了。我这里有另一把「百辟宝剑」，虽然不若我们家传的剑古老，但修复一下的话，也是把锋利无双的名刀，就送给你了吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101902219",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}小哥，今日謝謝你了。我這裡有另一把「百辟寶劍」，雖然不若我們家傳的劍古老，但修復一下的話，也是把鋒利無雙的名刀，就送給你了吧。",
+      "c": "<fn>小哥,今日謝謝你了。我這裡有另一把「百辟寶劍」,雖然不若我們家傳的劍古老,但修復一下的話,也是把鋒利無雙的名刀,就送給你了吧。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Thank you for today, little brother. I have another sword here, not as old as our family sword, but if it's restored, it's still a sharp and famous sword, so I'll give it to you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}小哥，今日谢谢你了。我这里有另一把「百辟宝剑」，虽然不若我们家传的剑古老，但修复一下的话，也是把锋利无双的名刀，就送给你了吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

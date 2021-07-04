@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05103_Tip",
+  "RawLine": "ITEM_05103_Tip,製藥藥材，木姜子的根，味辛辣，常用於散寒、鎮痛、健胃，性熱。{p}{p}合成難度：{color=#ff0000}5{/color}。,制药药材，木姜子的根，味辛辣，常用于散寒、镇痛、健胃，性热。{p}{p}合成难度：{color=#ff0000}5{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05103_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "製藥藥材，木姜子的根，味辛辣，常用於散寒、鎮痛、健胃，性熱。{p}{p}合成難度：{color=#ff0000}5{/color}。",
+      "c": "製藥藥材,木姜子的根,味辛辣,常用於散寒、鎮痛、健胃,性熱。合成難度：5。",
+      "rq": true,
+      "it": null,
+      "mt": "Mother's medicine, the root of Mucuna pruriens, is pungent and often used to disperse cold, relieve pain, and strengthen the stomach, and is hot in nature. Synthesis Difficulty: 5.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "制药药材，木姜子的根，味辛辣，常用于散寒、镇痛、健胃，性热。{p}{p}合成难度：{color=#ff0000}5{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103020401",
+  "RawLine": "SDM_2103020401,這酒香聞起來好怪，嘗起來雖然是一種陳年酒，但味道好嗆辣。,这酒香闻起来好怪，尝起来虽然是一种陈年酒，但味道好呛辣。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103020401",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這酒香聞起來好怪，嘗起來雖然是一種陳年酒，但味道好嗆辣。",
+      "c": "這酒香聞起來好怪,嘗起來雖然是一種陳年酒,但味道好嗆辣。",
+      "rq": true,
+      "it": null,
+      "mt": "This wine smells weird and tastes like an old wine, but it tastes so spicy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这酒香闻起来好怪，尝起来虽然是一种陈年酒，但味道好呛辣。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

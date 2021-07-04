@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60080150",
+  "RawLine": "TNPC_60080150,【嘿嘿，鷸蚌相爭，漁翁得利，撿到了一個好東西！】,【嘿嘿，鹬蚌相争，渔翁得利，捡到了一个好东西！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60080150",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嘿嘿，鷸蚌相爭，漁翁得利，撿到了一個好東西！】",
+      "c": "<[>嘿嘿,鷸蚌相爭,漁翁得利,撿到了一個好東西！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, the snipe and the clam are fighting for each other, and the fisherman is getting a good thing! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嘿嘿，鹬蚌相争，渔翁得利，捡到了一个好东西！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

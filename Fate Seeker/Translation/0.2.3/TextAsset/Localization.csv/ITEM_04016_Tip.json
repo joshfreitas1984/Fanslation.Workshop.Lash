@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04016_Tip",
+  "RawLine": "ITEM_04016_Tip,可以治療一個人神靈的藥品，並非凡人所能煉製。{p}{p}合成難度：{color=#ff0000}6{/color}。,可以治疗一个人神灵的药品，并非凡人所能炼制。{p}{p}合成难度：{color=#ff0000}6{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04016_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "可以治療一個人神靈的藥品，並非凡人所能煉製。{p}{p}合成難度：{color=#ff0000}6{/color}。",
+      "c": "可以治療一個人神靈的藥品,並非凡人所能煉製。合成難度：6。",
+      "rq": true,
+      "it": null,
+      "mt": "A medicine that can heal a person's spirit and can not be made by ordinary people. Synthesis difficulty: 6.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "可以治疗一个人神灵的药品，并非凡人所能炼制。{p}{p}合成难度：{color=#ff0000}6{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

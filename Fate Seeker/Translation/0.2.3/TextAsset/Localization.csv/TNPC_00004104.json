@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_00004104",
+  "RawLine": "TNPC_00004104,小哥你比較常四處遊歷，有見到這藥品能幫我帶來嗎？我會給你報酬的。,小哥你比较常四处游历，有见到这药品能帮我带来吗？我会给你报酬的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_00004104",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小哥你比較常四處遊歷，有見到這藥品能幫我帶來嗎？我會給你報酬的。",
+      "c": "小哥你比較常四處遊歷,有見到這藥品能幫我帶來嗎？我會給你報酬的。",
+      "rq": true,
+      "it": null,
+      "mt": "You travel around a lot, can you bring me this medicine? I will pay you for it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小哥你比较常四处游历，有见到这药品能帮我带来吗？我会给你报酬的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

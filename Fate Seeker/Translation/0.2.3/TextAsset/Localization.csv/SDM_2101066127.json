@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101066127",
+  "RawLine": "SDM_2101066127,【這傢伙葫蘆裡在賣什麼藥？我且配合他看看。】,【这家伙葫芦里在卖什么药？我且配合他看看。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101066127",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這傢伙葫蘆裡在賣什麼藥？我且配合他看看。】",
+      "c": "<[>這傢伙葫蘆裡在賣什麼藥？我且配合他看看。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What is this guy selling in his gourd? I'll work with him to see. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这家伙葫芦里在卖什么药？我且配合他看看。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

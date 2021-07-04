@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60075417",
+  "RawLine": "TNPC_60075417,【我也趕緊離開這裡，去{color=#FF0000}洛陽謫仙客棧{/color}住下吧！】,【我也赶紧离开这里，去{color=#FF0000}洛阳谪仙客栈{/color}住下吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60075417",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我也趕緊離開這裡，去{color=#FF0000}洛陽謫仙客棧{/color}住下吧！】",
+      "c": "<[>我也趕緊離開這裡,去洛陽謫仙客棧住下吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I'll also leave here and go to Luoyang Inn to stay there! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我也赶紧离开这里，去{color=#FF0000}洛阳谪仙客栈{/color}住下吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

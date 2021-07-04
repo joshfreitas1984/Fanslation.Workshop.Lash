@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_OUT4_Tip",
+  "RawLine": "ABILITY_OUT4_Tip,施放招式後，有<color=#00DB00>{0:0.00}%</color>機率不會進入冷卻。,施放招式后，有<color=#00DB00>{0:0.00}%</color>机率不会进入冷却。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_OUT4_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "施放招式後，有<color=#00DB00>{0:0.00}%</color>機率不會進入冷卻。",
+      "c": "施放招式後,有<0:0.00>%機率不會進入冷卻。",
+      "rq": true,
+      "it": null,
+      "mt": "After casting a move, there is a <0:0.00>% chance that it will not go into cool down.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "施放招式后，有<color=#00DB00>{0:0.00}%</color>机率不会进入冷却。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

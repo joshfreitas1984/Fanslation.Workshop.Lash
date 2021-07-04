@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20004009",
+  "RawLine": "TNPC_20004009,{s=8}抱歉！{/s}今天進的水果好多，我還在整理，客人你晚點再來買吧！,{s=8}抱歉！{/s}今天进的水果好多，我还在整理，客人你晚点再来买吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20004009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=8}抱歉！{/s}今天進的水果好多，我還在整理，客人你晚點再來買吧！",
+      "c": "抱歉！今天進的水果好多,我還在整理,客人你晚點再來買吧！",
+      "rq": true,
+      "it": null,
+      "mt": "Sorry! I've got a lot of fruit in today, I'm still sorting it out, you can come back later to buy it!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=8}抱歉！{/s}今天进的水果好多，我还在整理，客人你晚点再来买吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

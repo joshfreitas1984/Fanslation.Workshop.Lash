@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102016607",
+  "RawLine": "SDM_2102016607,老夫名叫{color=#ff0000}李煊{/color}，江湖人稱{color=#ff0000}狂老李{/color}，少俠叫我李幫主便可。,老夫名叫{color=#ff0000}李煊{/color}，江湖人称{color=#ff0000}狂老李{/color}，少侠叫我李帮主便可。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102016607",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老夫名叫{color=#ff0000}李煊{/color}，江湖人稱{color=#ff0000}狂老李{/color}，少俠叫我李幫主便可。",
+      "c": "老夫名叫李煊,江湖人稱狂老李,少俠叫我李幫主便可。",
+      "rq": true,
+      "it": null,
+      "mt": "My name is Li Xuan, known in the jianghu as Crazy Old Li, young knights can call me Master Li.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老夫名叫{color=#ff0000}李煊{/color}，江湖人称{color=#ff0000}狂老李{/color}，少侠叫我李帮主便可。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

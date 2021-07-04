@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103796701",
+  "RawLine": "SDM_1103796701,【這本書上面記載著一些製藥資訊，看樣子像是製藥筆記。】,【这本书上面记载着一些制药资讯，看样子像是制药笔记。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103796701",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這本書上面記載著一些製藥資訊，看樣子像是製藥筆記。】",
+      "c": "<[>這本書上面記載著一些製藥資訊,看樣子像是製藥筆記。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This book contains some information on drug making, and it looks like a drug making notebook. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这本书上面记载着一些制药资讯，看样子像是制药笔记。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

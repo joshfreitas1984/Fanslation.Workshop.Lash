@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.LoseNear",
+  "RawLine": "System.LoseNear,{0} 對 {1} 好感度下降<color=#ff3333> {2} </color>。,{0} 对 {1} 好感度下降<color=#ff3333> {2} </color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.LoseNear",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{0} 對 {1} 好感度下降<color=#ff3333> {2} </color>。",
+      "c": "<0> 對 <1> 好感度下降 <2> 。",
+      "rq": true,
+      "it": null,
+      "mt": "<0> vs <1> Decrease in goodness <2>.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{0} 对 {1} 好感度下降<color=#ff3333> {2} </color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

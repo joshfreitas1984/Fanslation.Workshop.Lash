@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_04004_Tip3",
+  "RawLine": "HEART_04004_Tip3,<color=#EFD8B0>內力低於 <color=#33ff33>{0:0.00}%</color> 時，內力恢復量增加 30%；內力高於 <color=#33ff33>{1:0.00}%</color> 時，傷害增加30%。</color>,<color=#EFD8B0>内力低于 <color=#33ff33>{0:0.00}%</color> 时，内力恢复量增加 30%；内力高于 <color=#33ff33>{1:0.00}%</color> 时，伤害增加30%。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_04004_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0>內力低於 <color=#33ff33>{0:0.00}%</color> 時，內力恢復量增加 30%；內力高於 <color=#33ff33>{1:0.00}%</color> 時，傷害增加30%。</color>",
+      "c": "內力低於 <0:0.00>% 時,內力恢復量增加 30%；內力高於 <1:0.00>% 時,傷害增加30%。",
+      "rq": true,
+      "it": null,
+      "mt": "Inner power below <0:0.00>% increases inner power recovery by 30%; inner power above <1:0.00>% increases damage by 30%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0>内力低于 <color=#33ff33>{0:0.00}%</color> 时，内力恢复量增加 30%；内力高于 <color=#33ff33>{1:0.00}%</color> 时，伤害增加30%。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

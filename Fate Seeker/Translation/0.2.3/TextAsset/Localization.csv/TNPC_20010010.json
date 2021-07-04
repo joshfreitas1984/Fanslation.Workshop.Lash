@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20010010",
+  "RawLine": "TNPC_20010010,又見狗往林中跑去，於是她好奇的尋著哭聲往林中走去，{p}發現狗正挖著一位半埋著的嬰兒，{s=10}那就是我……{/s},又见狗往林中跑去，于是她好奇的寻着哭声往林中走去，{p}发现狗正挖着一位半埋着的婴儿，{s=10}那就是我……{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20010010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "又見狗往林中跑去，於是她好奇的尋著哭聲往林中走去，{p}發現狗正挖著一位半埋著的嬰兒，{s=10}那就是我……{/s}",
+      "c": "又見狗往林中跑去,於是她好奇的尋著哭聲往林中走去,發現狗正挖著一位半埋著的嬰兒,那就是我......",
+      "rq": true,
+      "it": null,
+      "mt": "She saw the dog running to the forest again, so she was curious and looked for the sound of crying and found that the dog was digging up a half-buried baby, that was me ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "又见狗往林中跑去，于是她好奇的寻着哭声往林中走去，{p}发现狗正挖着一位半埋着的婴儿，{s=10}那就是我……{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

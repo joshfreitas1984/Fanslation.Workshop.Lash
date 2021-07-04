@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60020081",
+  "RawLine": "TNPC_60020081,我說、我說！這個藥是{s=6}……{/s}{p}是拿來治病用的，為了治療瘟疫，所以就讓瘋乞丐身上感染這種病毒，再拿我們自己研發的解藥試在他身上。,我说、我说！这个药是{s=6}……{/s}{p}是拿来治病用的，为了治疗瘟疫，所以就让疯乞丐身上感染这种病毒，再拿我们自己研发的解药试在他身上。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60020081",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我說、我說！這個藥是{s=6}……{/s}{p}是拿來治病用的，為了治療瘟疫，所以就讓瘋乞丐身上感染這種病毒，再拿我們自己研發的解藥試在他身上。",
+      "c": "我說、我說！這個藥是......是拿來治病用的,為了治療瘟疫,所以就讓瘋乞丐身上感染這種病毒,再拿我們自己研發的解藥試在他身上。",
+      "rq": true,
+      "it": null,
+      "mt": "I say, I say! This medicine is ...... In order to cure the plague, the mad beggar was infected with the virus and then our own antidote was tried on him.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我说、我说！这个药是{s=6}……{/s}{p}是拿来治病用的，为了治疗瘟疫，所以就让疯乞丐身上感染这种病毒，再拿我们自己研发的解药试在他身上。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

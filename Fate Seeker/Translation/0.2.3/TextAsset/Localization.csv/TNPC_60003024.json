@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60003024",
+  "RawLine": "TNPC_60003024,{name}將棉衣拿起，割破的地方突然裂開來，裡面的{color=#cc0000}蘆花{/color}從裂縫中掉落下來。,{name}将棉衣拿起，割破的地方突然裂开来，里面的{color=#cc0000}芦花{/color}从裂缝中掉落下来。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60003024",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}將棉衣拿起，割破的地方突然裂開來，裡面的{color=#cc0000}蘆花{/color}從裂縫中掉落下來。",
+      "c": "<name>將棉衣拿起,割破的地方突然裂開來,裡面的蘆花從裂縫中掉落下來。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Picking up the cotton shirt, the cut place suddenly split open and the aloe inside fell down from the crack.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}将棉衣拿起，割破的地方突然裂开来，里面的{color=#cc0000}芦花{/color}从裂缝中掉落下来。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

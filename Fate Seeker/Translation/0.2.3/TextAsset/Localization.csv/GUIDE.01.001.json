@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "GUIDE.01.001",
+  "RawLine": "GUIDE.01.001,師父說過，這<color=#FF3333>懸河劍法</color>的<color=#FF3333>起手式</color>尤為重要。,师父说过，这<color=#FF3333>悬河剑法</color>的<color=#FF3333>起手式</color>尤为重要。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "GUIDE.01.001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "師父說過，這<color=#FF3333>懸河劍法</color>的<color=#FF3333>起手式</color>尤為重要。",
+      "c": "師父說過,這懸河劍法的起手式尤為重要。",
+      "rq": true,
+      "it": null,
+      "mt": "Sifu said that the starting stance of this Hanging River Sword Technique is especially important.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "师父说过，这<color=#FF3333>悬河剑法</color>的<color=#FF3333>起手式</color>尤为重要。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20003027",
+  "RawLine": "TNPC_20003027,【糟糕，我押錯寶了嗎？{p}看來只好換種酒再試一次。】,【糟糕，我押错宝了吗？{p}看来只好换种酒再试一次。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20003027",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【糟糕，我押錯寶了嗎？{p}看來只好換種酒再試一次。】",
+      "c": "<[>糟糕,我押錯寶了嗎？看來只好換種酒再試一次。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Oops, did I bet on the wrong one? Looks like I'll have to try again with a different wine. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【糟糕，我押错宝了吗？{p}看来只好换种酒再试一次。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

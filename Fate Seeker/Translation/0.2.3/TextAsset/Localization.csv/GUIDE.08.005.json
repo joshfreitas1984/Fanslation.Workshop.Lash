@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "GUIDE.08.005",
+  "RawLine": "GUIDE.08.005,平時可以藉由<color=#cc0000>戰鬥</color>獲得<color=#cc0000>修練點數</color>，並由修練點數提升<color=#cc0000>心法等級</color>。,平时可以借由<color=#cc0000>战斗</color>获得<color=#cc0000>修练点数</color>，并由修练点数提升<color=#cc0000>心法等级</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "GUIDE.08.005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "平時可以藉由<color=#cc0000>戰鬥</color>獲得<color=#cc0000>修練點數</color>，並由修練點數提升<color=#cc0000>心法等級</color>。",
+      "c": "平時可以藉由戰鬥獲得修練點數,並由修練點數提升心法等級。",
+      "rq": true,
+      "it": null,
+      "mt": "You can usually get training points by fighting, and raise the level of your mind by training points.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "平时可以借由<color=#cc0000>战斗</color>获得<color=#cc0000>修练点数</color>，并由修练点数提升<color=#cc0000>心法等级</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

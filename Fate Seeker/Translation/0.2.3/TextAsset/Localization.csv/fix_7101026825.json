@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "fix_7101026825",
+  "RawLine": "fix_7101026825,【另外，他還說了把劍譜{color=#cc0000}放回{/color}聖地……】,【另外，他还说了把剑谱{color=#cc0000}放回{/color}圣地……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "fix_7101026825",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【另外，他還說了把劍譜{color=#cc0000}放回{/color}聖地……】",
+      "c": "<[>另外,他還說了把劍譜放回聖地......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Also, he said to put the sword book back to the holy land ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【另外，他还说了把剑谱{color=#cc0000}放回{/color}圣地……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103015801",
+  "RawLine": "SDM_1103015801,【距離蟲群最近的{color=#FF0000}火源{/color}就是這火堆了。】,【距离虫群最近的{color=#FF0000}火源{/color}就是这火堆了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103015801",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【距離蟲群最近的{color=#FF0000}火源{/color}就是這火堆了。】",
+      "c": "<[>距離蟲群最近的火源就是這火堆了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The closest source of fire to the swarm is this fire. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【距离虫群最近的{color=#FF0000}火源{/color}就是这火堆了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

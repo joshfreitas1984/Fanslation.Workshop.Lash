@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010081",
+  "RawLine": "TNPC_60010081,{name}拿起地上的破碗，發現裡面裝著一顆顏色特殊的{color=#FF0000}藥丸{/color}。,{name}拿起地上的破碗，发现里面装着一颗颜色特殊的{color=#FF0000}药丸{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010081",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}拿起地上的破碗，發現裡面裝著一顆顏色特殊的{color=#FF0000}藥丸{/color}。",
+      "c": "<name>拿起地上的破碗,發現裡面裝著一顆顏色特殊的藥丸。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Picked up the broken bowl on the ground and found a special colored pill inside.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}拿起地上的破碗，发现里面装着一颗颜色特殊的{color=#FF0000}药丸{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

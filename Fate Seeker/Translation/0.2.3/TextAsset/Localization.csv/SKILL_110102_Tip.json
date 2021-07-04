@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110102_Tip",
+  "RawLine": "SKILL_110102_Tip,【{color=#FFD700}暗勁{/color}】\\n暗勁較強的原地攻擊。,【{color=#FFD700}暗劲{/color}】\\n暗劲较强的原地攻击。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110102_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}暗勁{/color}】\\n暗勁較強的原地攻擊。",
+      "c": "<[>暗勁<]><<\\n>>暗勁較強的原地攻擊。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Dark Power<]><<\\n>> A darker, more powerful in-place attack.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}暗劲{/color}】\\n暗劲较强的原地攻击。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

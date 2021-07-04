@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074936",
+  "RawLine": "TNPC_60074936,{color=#ff0000}漁攤應該能買到漁網{/color}，然後再請{color=#ff0000}鐵舖加工{/color}就可以了。,{color=#ff0000}渔摊应该能买到渔网{/color}，然后再请{color=#ff0000}铁铺加工{/color}就可以了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074936",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}漁攤應該能買到漁網{/color}，然後再請{color=#ff0000}鐵舖加工{/color}就可以了。",
+      "c": "漁攤應該能買到漁網,然後再請鐵舖加工就可以了。",
+      "rq": true,
+      "it": null,
+      "mt": "We should be able to buy the nets at the fishing stall, and then we can ask the iron shop to process them.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}渔摊应该能买到渔网{/color}，然后再请{color=#ff0000}铁铺加工{/color}就可以了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

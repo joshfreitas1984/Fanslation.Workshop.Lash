@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003619",
+  "RawLine": "TNPC_70003619,【現在只要把劍插入對應的石座，機關就會被開啟，至於三把劍分別插入哪個石座，線索就在石座前的石板上。】,【现在只要把剑插入对应的石座，机关就会被开启，至于三把剑分别插入哪个石座，线索就在石座前的石板上。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003619",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【現在只要把劍插入對應的石座，機關就會被開啟，至於三把劍分別插入哪個石座，線索就在石座前的石板上。】",
+      "c": "<[>現在只要把劍插入對應的石座,機關就會被開啟,至於三把劍分別插入哪個石座,線索就在石座前的石板上。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Now, if you insert the swords into the corresponding stone bases, the mechanism will be opened, and the clue to which stone bases the three swords are inserted into is on the stone slab in front of the stone bases. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【现在只要把剑插入对应的石座，机关就会被开启，至于三把剑分别插入哪个石座，线索就在石座前的石板上。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

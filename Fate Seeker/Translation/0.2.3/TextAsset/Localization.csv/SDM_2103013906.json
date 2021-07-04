@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103013906",
+  "RawLine": "SDM_2103013906,若我選正面，你只要全擲反面，就算我全擲正面，五五也不算我贏。,若我选正面，你只要全掷反面，就算我全掷正面，五五也不算我赢。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103013906",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "若我選正面，你只要全擲反面，就算我全擲正面，五五也不算我贏。",
+      "c": "若我選正面,你只要全擲反面,就算我全擲正面,五五也不算我贏。",
+      "rq": true,
+      "it": null,
+      "mt": "If I choose heads and you just throw all tails, even if I throw all heads, 50/50 doesn't count as a win for me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "若我选正面，你只要全掷反面，就算我全掷正面，五五也不算我赢。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

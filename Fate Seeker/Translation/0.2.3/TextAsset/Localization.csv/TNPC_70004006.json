@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004006",
+  "RawLine": "TNPC_70004006,這叫{color=#FF0000}神機島{/color}的海島，島上除了被佈置各式各樣的機關，上面還住著許多機關術高強的人。聽說百年前那江湖第一人神機子也是來自於神機島。,这叫{color=#FF0000}神机岛{/color}的海岛，岛上除了被布置各式各样的机关，上面还住着许多机关术高强的人。听说百年前那江湖第一人神机子也是来自于神机岛。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這叫{color=#FF0000}神機島{/color}的海島，島上除了被佈置各式各樣的機關，上面還住著許多機關術高強的人。聽說百年前那江湖第一人神機子也是來自於神機島。",
+      "c": "這叫神機島的海島,島上除了被佈置各式各樣的機關,上面還住著許多機關術高強的人。聽說百年前那江湖第一人神機子也是來自於神機島。",
+      "rq": true,
+      "it": null,
+      "mt": "This island called Shen Chi Island has all kinds of mechanisms and many people who are highly skilled in machine tools living on it. It is said that a hundred years ago the first man in the jungle, Shen Ji Zi, also came from Shen Ji Island.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这叫{color=#FF0000}神机岛{/color}的海岛，岛上除了被布置各式各样的机关，上面还住着许多机关术高强的人。听说百年前那江湖第一人神机子也是来自于神机岛。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60040008",
+  "RawLine": "TNPC_60040008,【碗裡？那不就是我先前搜到的藥丸嗎？看來那藥丸是能夠救瘋乞丐的{p}難怪顏色跟毒藥的顏色不一樣，這就說通了為何瘋乞丐還能安然無恙地活著。】,【碗里？那不就是我先前搜到的药丸吗？看来那药丸是能够救疯乞丐的{p}难怪颜色跟毒药的颜色不一样，这就说通了为何疯乞丐还能安然无恙地活着。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60040008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【碗裡？那不就是我先前搜到的藥丸嗎？看來那藥丸是能夠救瘋乞丐的{p}難怪顏色跟毒藥的顏色不一樣，這就說通了為何瘋乞丐還能安然無恙地活著。】",
+      "c": "<[>碗裡？那不就是我先前搜到的藥丸嗎？看來那藥丸是能夠救瘋乞丐的難怪顏色跟毒藥的顏色不一樣,這就說通了為何瘋乞丐還能安然無恙地活著。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>In the bowl? Isn't that the pill I found earlier? It seems that the pill is able to save the mad beggar no wonder the color is different from that of the poison, which explains why the mad beggar is still alive and unharmed. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【碗里？那不就是我先前搜到的药丸吗？看来那药丸是能够救疯乞丐的{p}难怪颜色跟毒药的颜色不一样，这就说通了为何疯乞丐还能安然无恙地活着。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

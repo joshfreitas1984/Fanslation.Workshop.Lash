@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16000082",
+  "RawLine": "TNPC_16000082,【朦朧中，我看見嬸娘在昏黃燭光下縫補衣服的身影，一瞬間，我又來到了開封的橋前酒攤，和井四哥把酒言歡，談天說地。】,【朦胧中，我看见婶娘在昏黄烛光下缝补衣服的身影，一瞬间，我又来到了开封的桥前酒摊，和井四哥把酒言欢，谈天说地。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16000082",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【朦朧中，我看見嬸娘在昏黃燭光下縫補衣服的身影，一瞬間，我又來到了開封的橋前酒攤，和井四哥把酒言歡，談天說地。】",
+      "c": "<[>朦朧中,我看見嬸娘在昏黃燭光下縫補衣服的身影,一瞬間,我又來到了開封的橋前酒攤,和井四哥把酒言歡,談天說地。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>In a blur, I saw the silhouette of my aunt sewing her clothes under the dim candlelight, and in a flash, I was at the wine stall in front of the bridge in Kaifeng again, drinking and talking with Jing Si. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【朦胧中，我看见婶娘在昏黄烛光下缝补衣服的身影，一瞬间，我又来到了开封的桥前酒摊，和井四哥把酒言欢，谈天说地。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

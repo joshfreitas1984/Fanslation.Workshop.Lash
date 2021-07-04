@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_LRH1_Tip",
+  "RawLine": "BUFF_LRH1_Tip,梁人昊組隊增益。HP歸零時極低機率恢復一半最大生命HP並迴避死亡。,梁人昊组队增益。HP归零时极低机率恢复一半最大生命HP并回避死亡。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_LRH1_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "梁人昊組隊增益。HP歸零時極低機率恢復一半最大生命HP並迴避死亡。",
+      "c": "梁人昊組隊增益。HP歸零時極低機率恢復一半最大生命HP並迴避死亡。",
+      "rq": true,
+      "it": null,
+      "mt": "Liang Renhao team gain. very low chance to recover half max life HP and avoid death when HP goes to zero.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "梁人昊组队增益。HP归零时极低机率恢复一半最大生命HP并回避死亡。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

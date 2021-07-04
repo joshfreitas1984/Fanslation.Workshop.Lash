@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20101005",
+  "RawLine": "TNPC_20101005,老闆，請問你認識一位周氏嗎？她看起來身材曼妙，衣著華貴，妝容豔麗。,老板，请问你认识一位周氏吗？她看起来身材曼妙，衣着华贵，妆容艳丽。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20101005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老闆，請問你認識一位周氏嗎？她看起來身材曼妙，衣著華貴，妝容豔麗。",
+      "c": "老闆,請問你認識一位周氏嗎？她看起來身材曼妙,衣著華貴,妝容豔麗。",
+      "rq": true,
+      "it": null,
+      "mt": "Boss, do you know a Ms. Zhou? She looks beautiful, dresses well, and has beautiful makeup.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老板，请问你认识一位周氏吗？她看起来身材曼妙，衣着华贵，妆容艳丽。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

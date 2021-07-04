@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60025210",
+  "RawLine": "TNPC_60025210,伯母，打擾了，初次見面，我叫{name}，與子千相識。晚輩有事想請教您。,伯母，打扰了，初次见面，我叫{name}，与子千相识。晚辈有事想请教您。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60025210",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "伯母，打擾了，初次見面，我叫{name}，與子千相識。晚輩有事想請教您。",
+      "c": "伯母,打擾了,初次見面,我叫<name>,與子千相識。晚輩有事想請教您。",
+      "rq": true,
+      "it": null,
+      "mt": "Auntie, sorry to bother you, I'm <name>, I know Ziqian. I have something to ask you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "伯母，打扰了，初次见面，我叫{name}，与子千相识。晚辈有事想请教您。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

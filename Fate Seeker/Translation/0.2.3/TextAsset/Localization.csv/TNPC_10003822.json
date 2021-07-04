@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003822",
+  "RawLine": "TNPC_10003822,【日晷上的{color=#FF0000}虎{/color}、{color=#FF0000}蛇{/color}、{color=#FF0000}雞{/color}、{color=#FF0000}龍{/color}分別對應{color=#FF0000}四神{/color}，又各自對應{color=#FF0000}寅{/color}、{color=#FF0000}巳{/color}、{color=#FF0000}酉{/color}、{color=#FF0000}辰{/color}四個地支，只要將令牌從第一域排序下來，照著順序跳下山谷即可。】,【日晷上的{color=#FF0000}虎{/color}、{color=#FF0000}蛇{/color}、{color=#FF0000}鸡{/color}、{color=#FF0000}龙{/color}分别对应{color=#FF0000}四神{/color}，又各自对应{color=#FF0000}寅{/color}、{color=#FF0000}巳{/color}、{color=#FF0000}酉{/color}、{color=#FF0000}辰{/color}四个地支，只要将令牌从第一域排序下来，照着顺序跳下山谷即可。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003822",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【日晷上的{color=#FF0000}虎{/color}、{color=#FF0000}蛇{/color}、{color=#FF0000}雞{/color}、{color=#FF0000}龍{/color}分別對應{color=#FF0000}四神{/color}，又各自對應{color=#FF0000}寅{/color}、{color=#FF0000}巳{/color}、{color=#FF0000}酉{/color}、{color=#FF0000}辰{/color}四個地支，只要將令牌從第一域排序下來，照著順序跳下山谷即可。】",
+      "c": "<[>日晷上的虎、蛇、雞、龍分別對應四神,又各自對應寅、巳、酉、辰四個地支,只要將令牌從第一域排序下來,照著順序跳下山谷即可。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The tiger, snake, chicken and dragon on the sundial correspond to the four gods, and each corresponds to the four earthly branches of Yin, Si, You and Chen, so just sort the tokens from the first domain and jump down the valley according to the order. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【日晷上的{color=#FF0000}虎{/color}、{color=#FF0000}蛇{/color}、{color=#FF0000}鸡{/color}、{color=#FF0000}龙{/color}分别对应{color=#FF0000}四神{/color}，又各自对应{color=#FF0000}寅{/color}、{color=#FF0000}巳{/color}、{color=#FF0000}酉{/color}、{color=#FF0000}辰{/color}四个地支，只要将令牌从第一域排序下来，照着顺序跳下山谷即可。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

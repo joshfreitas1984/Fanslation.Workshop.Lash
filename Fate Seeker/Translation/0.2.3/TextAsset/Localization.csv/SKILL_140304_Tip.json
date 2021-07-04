@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140304_Tip",
+  "RawLine": "SKILL_140304_Tip,【{color=#FFD700}異常{/color}】\\n往前方位移的多段數攻擊。機率造成敵人內傷，定力相當高。,【{color=#FFD700}异常{/color}】\\n往前方位移的多段数攻击。机率造成敌人内伤，定力相当高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140304_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}異常{/color}】\\n往前方位移的多段數攻擊。機率造成敵人內傷，定力相當高。",
+      "c": "<[>異常<]><<\\n>>往前方位移的多段數攻擊。機率造成敵人內傷,定力相當高。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Abnormal<]><<\\n>> A multi-step attack that moves forward. It has a high chance of causing internal damage to the enemy and has a very high stamina.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}异常{/color}】\\n往前方位移的多段数攻击。机率造成敌人内伤，定力相当高。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

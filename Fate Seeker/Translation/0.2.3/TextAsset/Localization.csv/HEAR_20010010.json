@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEAR_20010010",
+  "RawLine": "HEAR_20010010,你怎有紅桑葚，味道還可以。我還有點餓，你還能給我嗎？,你怎有红桑葚，味道还可以。我还有点饿，你还能给我吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEAR_20010010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你怎有紅桑葚，味道還可以。我還有點餓，你還能給我嗎？",
+      "c": "你怎有紅桑葚,味道還可以。我還有點餓,你還能給我嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "How do you have red mulberry, it tastes okay. I'm still hungry, can you still give it to me?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你怎有红桑葚，味道还可以。我还有点饿，你还能给我吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

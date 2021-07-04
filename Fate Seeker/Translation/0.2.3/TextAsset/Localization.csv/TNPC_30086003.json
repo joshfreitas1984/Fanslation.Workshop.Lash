@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30086003",
+  "RawLine": "TNPC_30086003,【只憑這個什麼都無法證明。{color=#FF0000}那東西{/color}說不準是白仙要交給他的，拿給他看看吧。】,【只凭这个什么都无法证明。{color=#FF0000}那东西{/color}说不准是白仙要交给他的，拿给他看看吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30086003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【只憑這個什麼都無法證明。{color=#FF0000}那東西{/color}說不準是白仙要交給他的，拿給他看看吧。】",
+      "c": "<[>只憑這個什麼都無法證明。那東西說不準是白仙要交給他的,拿給他看看吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There is no way to prove anything with just this. It's not possible that it was given to him by the White Fairy, so let's show it to him. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【只凭这个什么都无法证明。{color=#FF0000}那东西{/color}说不准是白仙要交给他的，拿给他看看吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

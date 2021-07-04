@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30084085",
+  "RawLine": "TNPC_30084085,{ln}兄有急事需要幫助，亦可找我{color=#cc0000}組隊{/color}。事情辦完前，我應該都會待在杭州。,{ln}兄有急事需要帮助，亦可找我{color=#cc0000}组队{/color}。事情办完前，我应该都会待在杭州。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30084085",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{ln}兄有急事需要幫助，亦可找我{color=#cc0000}組隊{/color}。事情辦完前，我應該都會待在杭州。",
+      "c": "<ln>兄有急事需要幫助,亦可找我組隊。事情辦完前,我應該都會待在杭州。",
+      "rq": true,
+      "it": null,
+      "mt": "<ln>If you need help with something urgent, you can ask me to form a team. I should stay in Hangzhou until the job is done.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{ln}兄有急事需要帮助，亦可找我{color=#cc0000}组队{/color}。事情办完前，我应该都会待在杭州。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

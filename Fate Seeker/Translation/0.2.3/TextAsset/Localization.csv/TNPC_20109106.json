@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20109106",
+  "RawLine": "TNPC_20109106,【這鎖頭左右兩旁寫著「碧、閣」二字，我身上有能開這鎖的鑰匙嗎？】,【这锁头左右两旁写着「碧、阁」二字，我身上有能开这锁的钥匙吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20109106",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這鎖頭左右兩旁寫著「碧、閣」二字，我身上有能開這鎖的鑰匙嗎？】",
+      "c": "<[>這鎖頭左右兩旁寫著「碧、閣」二字,我身上有能開這鎖的鑰匙嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The words \"Bi and Ge\" are written on the left and right side of this lock. <]>The lock is written on the left and right side with the word \"Bi, Ge\".",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这锁头左右两旁写着「碧、阁」二字，我身上有能开这锁的钥匙吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

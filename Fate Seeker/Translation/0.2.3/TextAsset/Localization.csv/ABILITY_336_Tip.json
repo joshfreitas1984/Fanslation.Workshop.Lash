@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_336_Tip",
+  "RawLine": "ABILITY_336_Tip,內勁高於兩倍護體時，移動速度上升<color=#00DB00>20%</color>。,内劲高于两倍护体时，移动速度上升<color=#00DB00>20%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_336_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "內勁高於兩倍護體時，移動速度上升<color=#00DB00>20%</color>。",
+      "c": "內勁高於兩倍護體時,移動速度上升20%。",
+      "rq": true,
+      "it": null,
+      "mt": "Movement speed increases by 20% when internal power is higher than twice the bodyguard.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "内劲高于两倍护体时，移动速度上升<color=#00DB00>20%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

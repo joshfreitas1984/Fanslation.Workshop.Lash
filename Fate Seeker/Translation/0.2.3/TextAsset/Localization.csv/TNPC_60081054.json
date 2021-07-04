@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60081054",
+  "RawLine": "TNPC_60081054,{name}兄弟，你在想些什麼？我們趕緊繼續找藏墨劍譜吧！,{name}兄弟，你在想些什么？我们赶紧继续找藏墨剑谱吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60081054",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，你在想些什麼？我們趕緊繼續找藏墨劍譜吧！",
+      "c": "<name>兄弟,你在想些什麼？我們趕緊繼續找藏墨劍譜吧！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, what are you thinking? Let's hurry up and keep looking for the hidden ink and sword book!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，你在想些什么？我们赶紧继续找藏墨剑谱吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

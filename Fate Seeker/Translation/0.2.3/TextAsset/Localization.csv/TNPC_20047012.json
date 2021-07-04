@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20047012",
+  "RawLine": "TNPC_20047012,【什麼？賊王是他兒子？{p}看來一切都是他的計謀，{color=#ff0000}如果不取他性命，說服他投降{/color}，{p}也許能讓他把一切說個明白，先只好應戰了！】,【什么？贼王是他儿子？{p}看来一切都是他的计谋，{color=#ff0000}如果不取他性命，说服他投降{/color}，{p}也许能让他把一切说个明白，先只好应战了！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20047012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【什麼？賊王是他兒子？{p}看來一切都是他的計謀，{color=#ff0000}如果不取他性命，說服他投降{/color}，{p}也許能讓他把一切說個明白，先只好應戰了！】",
+      "c": "<[>什麼？賊王是他兒子？看來一切都是他的計謀,如果不取他性命,說服他投降,也許能讓他把一切說個明白,先只好應戰了！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What? The King of Thieves is his son? It seems that everything is his plan, if we don't take his life and convince him to surrender, maybe we can get him to tell us everything, so we have to fight first! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【什么？贼王是他儿子？{p}看来一切都是他的计谋，{color=#ff0000}如果不取他性命，说服他投降{/color}，{p}也许能让他把一切说个明白，先只好应战了！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

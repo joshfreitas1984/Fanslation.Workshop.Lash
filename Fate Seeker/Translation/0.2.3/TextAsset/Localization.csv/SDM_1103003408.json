@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103003408",
+  "RawLine": "SDM_1103003408,嘖嘖嘖，我若是要買魚，怎麼會在這個賣病魚的攤子買呢？,啧啧啧，我若是要买鱼，怎么会在这个卖病鱼的摊子买呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103003408",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嘖嘖嘖，我若是要買魚，怎麼會在這個賣病魚的攤子買呢？",
+      "c": "嘖嘖嘖,我若是要買魚,怎麼會在這個賣病魚的攤子買呢？",
+      "rq": true,
+      "it": null,
+      "mt": "If I wanted to buy fish, why would I buy it from this stall selling sick fish?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "啧啧啧，我若是要买鱼，怎么会在这个卖病鱼的摊子买呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

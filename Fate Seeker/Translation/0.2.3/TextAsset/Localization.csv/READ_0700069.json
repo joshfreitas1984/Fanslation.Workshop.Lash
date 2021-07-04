@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0700069",
+  "RawLine": "READ_0700069,《夏日山中》\\n懶搖白羽扇，裸袒青林中。\\n脫巾掛石壁，露頂灑松風。,《夏日山中》\\n懒摇白羽扇，裸袒青林中。\\n脱巾挂石壁，露顶洒松风。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0700069",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "《夏日山中》\\n懶搖白羽扇，裸袒青林中。\\n脫巾掛石壁，露頂灑松風。",
+      "c": "《夏日山中》<<\\n>>懶搖白羽扇,裸袒青林中。<<\\n>>脫巾掛石壁,露頂灑松風。",
+      "rq": true,
+      "it": null,
+      "mt": "\"In the Mountain on a Summer Day\" <<\\n>>Lazily shaking the white feather fan, naked in the green forest. <<\\n>>Taking off my scarf and hanging it on the rocky wall, the dewy top sprinkles the pine wind.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "《夏日山中》\\n懒摇白羽扇，裸袒青林中。\\n脱巾挂石壁，露顶洒松风。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

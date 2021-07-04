@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16000065",
+  "RawLine": "TNPC_16000065,三樣食材都到手了，回去找廚神大賽的主持人拿雞肉吧。,三样食材都到手了，回去找厨神大赛的主持人拿鸡肉吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16000065",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "三樣食材都到手了，回去找廚神大賽的主持人拿雞肉吧。",
+      "c": "三樣食材都到手了,回去找廚神大賽的主持人拿雞肉吧。",
+      "rq": true,
+      "it": null,
+      "mt": "All three ingredients are in hand, go back to the host of the Chef's Competition to get the chicken.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "三样食材都到手了，回去找厨神大赛的主持人拿鸡肉吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

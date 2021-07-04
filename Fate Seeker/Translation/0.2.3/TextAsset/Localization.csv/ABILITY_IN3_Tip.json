@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_IN3_Tip",
+  "RawLine": "ABILITY_IN3_Tip,造成敵人暈眩時，暈眩時間上升<color=#00DB00>{0:0.00}%</color>。,造成敌人晕眩时，晕眩时间上升<color=#00DB00>{0:0.00}%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_IN3_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "造成敵人暈眩時，暈眩時間上升<color=#00DB00>{0:0.00}%</color>。",
+      "c": "造成敵人暈眩時,暈眩時間上升<0:0.00>%。",
+      "rq": true,
+      "it": null,
+      "mt": "Increases stun time by <0:0.00>% when dazzling enemies.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "造成敌人晕眩时，晕眩时间上升<color=#00DB00>{0:0.00}%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

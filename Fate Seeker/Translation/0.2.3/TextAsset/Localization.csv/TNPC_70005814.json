@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005814",
+  "RawLine": "TNPC_70005814,我先前誤入歧途，多虧{name}點醒了我，若是要選出一位武林盟主，那絕對非他莫屬！,我先前误入歧途，多亏{name}点醒了我，若是要选出一位武林盟主，那绝对非他莫属！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005814",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我先前誤入歧途，多虧{name}點醒了我，若是要選出一位武林盟主，那絕對非他莫屬！",
+      "c": "我先前誤入歧途,多虧<name>點醒了我,若是要選出一位武林盟主,那絕對非他莫屬！",
+      "rq": true,
+      "it": null,
+      "mt": "I went astray before, thanks to <name>who woke me up, if I were to choose a martial arts master, it would be him!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我先前误入歧途，多亏{name}点醒了我，若是要选出一位武林盟主，那绝对非他莫属！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

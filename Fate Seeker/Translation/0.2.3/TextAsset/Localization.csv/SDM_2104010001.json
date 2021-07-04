@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2104010001",
+  "RawLine": "SDM_2104010001,【現在不是悠閒逛開封的時候，我還是先去周麗住處吧。】,【现在不是悠闲逛开封的时候，我还是先去周丽住处吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2104010001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【現在不是悠閒逛開封的時候，我還是先去周麗住處吧。】",
+      "c": "<[>現在不是悠閒逛開封的時候,我還是先去周麗住處吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This is not the time to take a leisurely stroll around Kaifeng, I'd better go to Zhou Li's place first. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【现在不是悠闲逛开封的时候，我还是先去周丽住处吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

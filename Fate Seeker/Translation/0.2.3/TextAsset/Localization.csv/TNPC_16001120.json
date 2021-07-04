@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16001120",
+  "RawLine": "TNPC_16001120,【這村民已經被人口失蹤的事弄得神經兮兮了，我還是別再刺激她了。】,【这村民已经被人口失踪的事弄得神经兮兮了，我还是别再刺激她了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16001120",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這村民已經被人口失蹤的事弄得神經兮兮了，我還是別再刺激她了。】",
+      "c": "<[>這村民已經被人口失蹤的事弄得神經兮兮了,我還是別再刺激她了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This villager is already nervous about the missing population, I'd better not stimulate her anymore. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这村民已经被人口失踪的事弄得神经兮兮了，我还是别再刺激她了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

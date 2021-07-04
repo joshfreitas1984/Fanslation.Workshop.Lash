@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_311_Tip",
+  "RawLine": "ABILITY_311_Tip,兩倍護體高於內勁時，所有生命恢復效果上升<color=#00DB00>20%</color>。,两倍护体高于内劲时，所有生命恢复效果上升<color=#00DB00>20%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_311_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "兩倍護體高於內勁時，所有生命恢復效果上升<color=#00DB00>20%</color>。",
+      "c": "兩倍護體高於內勁時,所有生命恢復效果上升20%。",
+      "rq": true,
+      "it": null,
+      "mt": "When Double Bodyguard is higher than Inner Strength, all life restoration effects increase by 20%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "两倍护体高于内劲时，所有生命恢复效果上升<color=#00DB00>20%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

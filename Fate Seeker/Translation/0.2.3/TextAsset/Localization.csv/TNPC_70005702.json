@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005702",
+  "RawLine": "TNPC_70005702,在{name}的幫助下，杭州官府將XX逮捕歸案，杭州的惡霸因此個個惶恐不安，深怕成為下一個XX，不敢再像從前一般肆無忌憚。,在{name}的帮助下，杭州官府将XX逮捕归案，杭州的恶霸因此个个惶恐不安，深怕成为下一个XX，不敢再像从前一般肆无忌惮。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005702",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "在{name}的幫助下，杭州官府將XX逮捕歸案，杭州的惡霸因此個個惶恐不安，深怕成為下一個XX，不敢再像從前一般肆無忌憚。",
+      "c": "在<name>的幫助下,杭州官府將XX逮捕歸案,杭州的惡霸因此個個惶恐不安,深怕成為下一個XX,不敢再像從前一般肆無忌憚。",
+      "rq": true,
+      "it": null,
+      "mt": "With the help of <name>, the Hangzhou government arrested XX, and the Hangzhou bullies were all afraid of becoming the next XX, so they did not dare to be as reckless as before.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "在{name}的帮助下，杭州官府将XX逮捕归案，杭州的恶霸因此个个惶恐不安，深怕成为下一个XX，不敢再像从前一般肆无忌惮。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

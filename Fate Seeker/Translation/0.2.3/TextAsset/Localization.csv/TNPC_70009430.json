@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009430",
+  "RawLine": "TNPC_70009430,【這鎖起來的櫃子，莫非就是白虎令上所指的木櫃。】,【这锁起来的柜子，莫非就是白虎令上所指的木柜。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009430",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這鎖起來的櫃子，莫非就是白虎令上所指的木櫃。】",
+      "c": "<[>這鎖起來的櫃子,莫非就是白虎令上所指的木櫃。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This locked cabinet is the wooden cabinet referred to in the White Tiger Order. <]> The tiger is quite impressive.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这锁起来的柜子，莫非就是白虎令上所指的木柜。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

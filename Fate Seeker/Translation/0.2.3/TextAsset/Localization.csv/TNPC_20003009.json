@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20003009",
+  "RawLine": "TNPC_20003009,【這位幫忙賣酒的婆婆，雙手被袖子遮著看不到，要怎麼辦呢？{p}禮貌的直接問她看看好了。】,【这位帮忙卖酒的婆婆，双手被袖子遮着看不到，要怎么办呢？{p}礼貌的直接问她看看好了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20003009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這位幫忙賣酒的婆婆，雙手被袖子遮著看不到，要怎麼辦呢？{p}禮貌的直接問她看看好了。】",
+      "c": "<[>這位幫忙賣酒的婆婆,雙手被袖子遮著看不到,要怎麼辦呢？禮貌的直接問她看看好了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This woman who helps sell wine can't see her hands because they are covered by her sleeves. I'd like to ask her directly if she's polite. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这位帮忙卖酒的婆婆，双手被袖子遮着看不到，要怎么办呢？{p}礼貌的直接问她看看好了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

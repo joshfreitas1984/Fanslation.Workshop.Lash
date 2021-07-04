@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10002182",
+  "RawLine": "TNPC_10002182,你覺得一串三顆冬棗，賣個兩千錢怎麼樣？,你觉得一串三颗冬枣，卖个两千钱怎么样？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10002182",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你覺得一串三顆冬棗，賣個兩千錢怎麼樣？",
+      "c": "你覺得一串三顆冬棗,賣個兩千錢怎麼樣？",
+      "rq": true,
+      "it": null,
+      "mt": "What do you think about selling a bunch of three jujubes for 2,000 dollars?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你觉得一串三颗冬枣，卖个两千钱怎么样？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

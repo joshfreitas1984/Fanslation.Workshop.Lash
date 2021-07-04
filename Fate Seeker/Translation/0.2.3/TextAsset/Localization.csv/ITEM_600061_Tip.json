@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_600061_Tip",
+  "RawLine": "ITEM_600061_Tip,模糊的書名上寫著「怒目金剛棍」，是一套剛強的棍法，更是少林寺代表武功之一。,模糊的书名上写着「怒目金刚棍」，是一套刚强的棍法，更是少林寺代表武功之一。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_600061_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "模糊的書名上寫著「怒目金剛棍」，是一套剛強的棍法，更是少林寺代表武功之一。",
+      "c": "模糊的書名上寫著「怒目金剛棍」,是一套剛強的棍法,更是少林寺代表武功之一。",
+      "rq": true,
+      "it": null,
+      "mt": "The vague title of the book reads \"The Angry Eye Golden Vajra Stick\", a set of strong stick techniques, and one of the representative martial arts of Shaolin Temple.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "模糊的书名上写着「怒目金刚棍」，是一套刚强的棍法，更是少林寺代表武功之一。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

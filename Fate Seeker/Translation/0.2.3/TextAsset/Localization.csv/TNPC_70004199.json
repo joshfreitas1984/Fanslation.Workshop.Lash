@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004199",
+  "RawLine": "TNPC_70004199,若是日後你有任何需要幫忙的地方，段某赴湯蹈火，在所不辭。,若是日后你有任何需要帮忙的地方，段某赴汤蹈火，在所不辞。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004199",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "若是日後你有任何需要幫忙的地方，段某赴湯蹈火，在所不辭。",
+      "c": "若是日後你有任何需要幫忙的地方,段某赴湯蹈火,在所不辭。",
+      "rq": true,
+      "it": null,
+      "mt": "If you need any help in the future, I will be happy to help you.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "若是日后你有任何需要帮忙的地方，段某赴汤蹈火，在所不辞。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

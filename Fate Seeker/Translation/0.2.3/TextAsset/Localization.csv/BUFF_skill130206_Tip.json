@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_skill130206_Tip",
+  "RawLine": "BUFF_skill130206_Tip,千杯不醉發動期間，增加攻擊力、和防禦力各30%，但移動速度減慢,千杯不醉发动期间，增加攻击力、和防御力各30%，但移动速度减慢",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_skill130206_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "千杯不醉發動期間，增加攻擊力、和防禦力各30%，但移動速度減慢",
+      "c": "千杯不醉發動期間,增加攻擊力、和防禦力各30%,但移動速度減慢",
+      "rq": true,
+      "it": null,
+      "mt": "Increases attack power and defense power by 30% each, but slows down movement speed during the launch of \"A Thousand Drinks\".",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "千杯不醉发动期间，增加攻击力、和防御力各30%，但移动速度减慢",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

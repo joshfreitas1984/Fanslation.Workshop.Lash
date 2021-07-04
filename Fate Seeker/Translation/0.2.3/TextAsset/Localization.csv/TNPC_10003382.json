@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003382",
+  "RawLine": "TNPC_10003382,【喂喂喂，表面客氣，實際上不動聲色的誆了我一頓飯，你也太不要臉了。】,【喂喂喂，表面客气，实际上不动声色的诓了我一顿饭，你也太不要脸了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003382",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【喂喂喂，表面客氣，實際上不動聲色的誆了我一頓飯，你也太不要臉了。】",
+      "c": "<[>喂喂喂,表面客氣,實際上不動聲色的誆了我一頓飯,你也太不要臉了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Hey, hey, hey, You're trying to be polite, In reality, you cheated me out of a meal shamelessly.<]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【喂喂喂，表面客气，实际上不动声色的诓了我一顿饭，你也太不要脸了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

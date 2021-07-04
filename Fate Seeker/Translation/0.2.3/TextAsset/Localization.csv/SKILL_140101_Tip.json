@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140101_Tip",
+  "RawLine": "SKILL_140101_Tip,【{color=#FFD700}異常{/color}】\\n前方近距離範圍多段數位移攻擊。低機率造成火毒。,【{color=#FFD700}异常{/color}】\\n前方近距离范围多段数位移攻击。低机率造成火毒。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140101_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}異常{/color}】\\n前方近距離範圍多段數位移攻擊。低機率造成火毒。",
+      "c": "<[>異常<]><<\\n>>前方近距離範圍多段數位移攻擊。低機率造成火毒。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Abnormal<]><<\\n>> Multi-displacement attack at close range ahead. Low chance of causing fire poison.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}异常{/color}】\\n前方近距离范围多段数位移攻击。低机率造成火毒。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

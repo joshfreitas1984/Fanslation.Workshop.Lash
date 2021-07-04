@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60002002",
+  "RawLine": "TNPC_60002002,{name}立刻凝聚丹田中的內力慢慢地傳輸給小兄弟，貫通全身十二經脈{p}運氣療傷調息。,{name}立刻凝聚丹田中的内力慢慢地传输给小兄弟，贯通全身十二经脉{p}运气疗伤调息。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60002002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}立刻凝聚丹田中的內力慢慢地傳輸給小兄弟，貫通全身十二經脈{p}運氣療傷調息。",
+      "c": "<name>立刻凝聚丹田中的內力慢慢地傳輸給小兄弟,貫通全身十二經脈運氣療傷調息。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>I immediately gathered the internal force in the dantian and slowly transmitted it to the little brother, running through the twelve meridians of the body to heal his injuries.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}立刻凝聚丹田中的内力慢慢地传输给小兄弟，贯通全身十二经脉{p}运气疗伤调息。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

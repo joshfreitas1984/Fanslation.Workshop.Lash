@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120303_Tip",
+  "RawLine": "SKILL_120303_Tip,【{color=#FFD700}異常{/color}】\\n三連段位移中距離攻擊。低機率造成出血使敵人受到大量傷害。,【{color=#FFD700}异常{/color}】\\n三连段位移中距离攻击。低机率造成出血使敌人受到大量伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120303_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}異常{/color}】\\n三連段位移中距離攻擊。低機率造成出血使敵人受到大量傷害。",
+      "c": "<[>異常<]><<\\n>>三連段位移中距離攻擊。低機率造成出血使敵人受到大量傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Abnormal<]><<\\n>>Triple displacement mid-range attack. Low chance to cause bleeding to cause massive damage to enemies.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}异常{/color}】\\n三连段位移中距离攻击。低机率造成出血使敌人受到大量伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

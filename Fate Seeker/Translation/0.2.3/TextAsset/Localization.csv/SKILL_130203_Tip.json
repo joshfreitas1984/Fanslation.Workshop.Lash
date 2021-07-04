@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130203_Tip",
+  "RawLine": "SKILL_130203_Tip,【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}順風掃葉{/color}、{color=#FF0000}風捲殘雲{/color}後使用此招，威力增加{color=#00DB00}30%{/color}。\\n原地使用的全方位攻擊技巧。,【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}顺风扫叶{/color}、{color=#FF0000}风卷残云{/color}后使用此招，威力增加{color=#00DB00}30%{/color}。\\n原地使用的全方位攻击技巧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130203_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}強力{/color}】\\n依序使用{color=#FF0000}順風掃葉{/color}、{color=#FF0000}風捲殘雲{/color}後使用此招，威力增加{color=#00DB00}30%{/color}。\\n原地使用的全方位攻擊技巧。",
+      "c": "<[>強力<]><<\\n>>依序使用順風掃葉、風捲殘雲後使用此招,威力增加30%。<<\\n>>原地使用的全方位攻擊技巧。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Powerful<]><<\\n>>Use this move after using Wind Swept Leaf and Wind Swept Cloud in that order to increase its power by 30%. <<\\n>>An all-around attack technique used in place.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}强力{/color}】\\n依序使用{color=#FF0000}顺风扫叶{/color}、{color=#FF0000}风卷残云{/color}后使用此招，威力增加{color=#00DB00}30%{/color}。\\n原地使用的全方位攻击技巧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

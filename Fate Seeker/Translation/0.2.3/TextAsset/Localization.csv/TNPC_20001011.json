@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20001011",
+  "RawLine": "TNPC_20001011,哈哈哈！好大的口氣！{p}就衝著你這自信，我告訴你，我是打算在這洛陽城內尋找我的生母。{p}這找起來可不輕鬆，看這忙你怎麼幫？,哈哈哈！好大的口气！{p}就冲着你这自信，我告诉你，我是打算在这洛阳城内寻找我的生母。{p}这找起来可不轻松，看这忙你怎么帮？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20001011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "哈哈哈！好大的口氣！{p}就衝著你這自信，我告訴你，我是打算在這洛陽城內尋找我的生母。{p}這找起來可不輕鬆，看這忙你怎麼幫？",
+      "c": "哈哈哈！好大的口氣！就衝著你這自信,我告訴你,我是打算在這洛陽城內尋找我的生母。這找起來可不輕鬆,看這忙你怎麼幫？",
+      "rq": true,
+      "it": null,
+      "mt": "Hahaha! What a big mouth!  It's not going to be easy to find her. See how you can help?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "哈哈哈！好大的口气！{p}就冲着你这自信，我告诉你，我是打算在这洛阳城内寻找我的生母。{p}这找起来可不轻松，看这忙你怎么帮？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

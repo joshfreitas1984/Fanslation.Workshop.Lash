@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08003181",
+  "RawLine": "TNPC_08003181,【不好，沒想到這酒這麼貴，得把之前花掉的錢籌回來了。】,【不好，没想到这酒这么贵，得把之前花掉的钱筹回来了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08003181",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【不好，沒想到這酒這麼貴，得把之前花掉的錢籌回來了。】",
+      "c": "<[>不好,沒想到這酒這麼貴,得把之前花掉的錢籌回來了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>No, I didn't expect the wine to be so expensive, I have to raise the money I spent before. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【不好，没想到这酒这么贵，得把之前花掉的钱筹回来了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

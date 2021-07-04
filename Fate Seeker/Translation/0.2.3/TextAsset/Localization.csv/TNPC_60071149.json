@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071149",
+  "RawLine": "TNPC_60071149,呃{s=6}……{/s}你是說去開封幫你拿鍛造台嗎？,呃{s=6}……{/s}你是说去开封帮你拿锻造台吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071149",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呃{s=6}……{/s}你是說去開封幫你拿鍛造台嗎？",
+      "c": "呃......你是說去開封幫你拿鍛造台嗎？",
+      "rq": true,
+      "it": null,
+      "mt": " uh ...... Do you mean to go to Kaifeng to get the forging table for you?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呃{s=6}……{/s}你是说去开封帮你拿锻造台吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

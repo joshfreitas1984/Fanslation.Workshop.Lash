@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002155",
+  "RawLine": "TNPC_70002155,{fn}哥哥少騙人了，這顆樹哪時變成你的了，這明明是大家的樹。,{fn}哥哥少骗人了，这颗树哪时变成你的了，这明明是大家的树。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002155",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}哥哥少騙人了，這顆樹哪時變成你的了，這明明是大家的樹。",
+      "c": "<fn>哥哥少騙人了,這顆樹哪時變成你的了,這明明是大家的樹。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Brother, don't lie, when did this tree become yours, it's obviously everyone's tree.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}哥哥少骗人了，这颗树哪时变成你的了，这明明是大家的树。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

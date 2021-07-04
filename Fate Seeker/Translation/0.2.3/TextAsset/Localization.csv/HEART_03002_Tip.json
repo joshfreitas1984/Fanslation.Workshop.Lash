@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_03002_Tip",
+  "RawLine": "HEART_03002_Tip,{color=#EFD8B0}從敵人正面攻擊時傷害提高，正面受擊時受到傷害降低。 {/color},{color=#EFD8B0}从敌人正面攻击时伤害提高，正面受击时受到伤害降低。 {/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_03002_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#EFD8B0}從敵人正面攻擊時傷害提高，正面受擊時受到傷害降低。 {/color}",
+      "c": "從敵人正面攻擊時傷害提高,正面受擊時受到傷害降低。 ",
+      "rq": true,
+      "it": null,
+      "mt": "Increases damage when attacking from the enemy's front, and decreases damage when hit from the front. ",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#EFD8B0}从敌人正面攻击时伤害提高，正面受击时受到伤害降低。 {/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072043",
+  "RawLine": "TNPC_60072043,【看來這隻狗狗沒有主人，先不管牠吧，一會自個應該就走開了。】,【看来这只狗狗没有主人，先不管它吧，一会自个应该就走开了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072043",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這隻狗狗沒有主人，先不管牠吧，一會自個應該就走開了。】",
+      "c": "<[>看來這隻狗狗沒有主人,先不管牠吧,一會自個應該就走開了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It looks like this dog doesn't have an owner, so let's leave it alone and it should go away on its own later. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这只狗狗没有主人，先不管它吧，一会自个应该就走开了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

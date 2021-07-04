@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0700070",
+  "RawLine": "READ_0700070,《聞雁》\\n故園渺何處，歸思方悠哉。\\n淮南秋雨夜，高齋聞雁來。,《闻雁》\\n故园渺何处，归思方悠哉。\\n淮南秋雨夜，高斋闻雁来。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0700070",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "《聞雁》\\n故園渺何處，歸思方悠哉。\\n淮南秋雨夜，高齋聞雁來。",
+      "c": "《聞雁》<<\\n>>故園渺何處,歸思方悠哉。<<\\n>>淮南秋雨夜,高齋聞雁來。",
+      "rq": true,
+      "it": null,
+      "mt": "\"Hearing the Geese\" <<\\\\n>>The homeland is far away. <<\\n>>On the night of the autumn rain in Huainan, I heard the geese coming from the High Studio.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "《闻雁》\\n故园渺何处，归思方悠哉。\\n淮南秋雨夜，高斋闻雁来。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

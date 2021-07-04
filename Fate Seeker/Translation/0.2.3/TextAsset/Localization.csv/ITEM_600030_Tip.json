@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_600030_Tip",
+  "RawLine": "ITEM_600030_Tip,由於鐵匠師傅工藝超群，很難看出是一把仿製的銀劍，威力只比真劍略差一些。,由于铁匠师傅工艺超群，很难看出是一把仿制的银剑，威力只比真剑略差一些。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_600030_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "由於鐵匠師傅工藝超群，很難看出是一把仿製的銀劍，威力只比真劍略差一些。",
+      "c": "由於鐵匠師傅工藝超群,很難看出是一把仿製的銀劍,威力只比真劍略差一些。",
+      "rq": true,
+      "it": null,
+      "mt": "Because of the excellent craftsmanship of the blacksmith, it is hard to tell that it is an imitation silver sword, and its power is only slightly less than that of the real one.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "由于铁匠师傅工艺超群，很难看出是一把仿制的银剑，威力只比真剑略差一些。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

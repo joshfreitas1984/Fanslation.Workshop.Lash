@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102004916",
+  "RawLine": "SDM_2102004916,你得先答出這題才行：{color=#ff0000}「你淺我深，直下直上，取你所需。」猜村內一物。{/color},你得先答出这题才行：{color=#ff0000}「你浅我深，直下直上，取你所需。」猜村内一物。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102004916",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你得先答出這題才行：{color=#ff0000}「你淺我深，直下直上，取你所需。」猜村內一物。{/color}",
+      "c": "你得先答出這題才行：「你淺我深,直下直上,取你所需。」猜村內一物。",
+      "rq": true,
+      "it": null,
+      "mt": "You have to answer this question first: \"You are shallow, I am deep, straight down, straight up, take what you need. Guess one thing in the village.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你得先答出这题才行：{color=#ff0000}「你浅我深，直下直上，取你所需。」猜村内一物。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20083007",
+  "RawLine": "TNPC_20083007,只不過是普通的酒罷了。{p}老人家你先別說話，免得牽動傷口。來，我背您到路邊。,只不过是普通的酒罢了。{p}老人家你先别说话，免得牵动伤口。来，我背您到路边。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20083007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "只不過是普通的酒罷了。{p}老人家你先別說話，免得牽動傷口。來，我背您到路邊。",
+      "c": "只不過是普通的酒罷了。老人家你先別說話,免得牽動傷口。來,我背您到路邊。",
+      "rq": true,
+      "it": null,
+      "mt": "It's just ordinary wine. The old man, you do not talk first, so as not to hurt the wound. Come, I will carry you to the roadside.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "只不过是普通的酒罢了。{p}老人家你先别说话，免得牵动伤口。来，我背您到路边。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

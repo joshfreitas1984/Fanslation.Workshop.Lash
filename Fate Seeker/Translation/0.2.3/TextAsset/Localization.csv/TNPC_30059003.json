@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30059003",
+  "RawLine": "TNPC_30059003,客人想試試釀酒嗎？不過由於材料都是客人決定的，出現什麼酒我一概不負責。,客人想试试酿酒吗？不过由于材料都是客人决定的，出现什么酒我一概不负责。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30059003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客人想試試釀酒嗎？不過由於材料都是客人決定的，出現什麼酒我一概不負責。",
+      "c": "客人想試試釀酒嗎？不過由於材料都是客人決定的,出現什麼酒我一概不負責。",
+      "rq": true,
+      "it": null,
+      "mt": "Would you like to try the brew? I am not responsible for any wine that comes out because the ingredients are decided by the customer.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客人想试试酿酒吗？不过由于材料都是客人决定的，出现什么酒我一概不负责。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

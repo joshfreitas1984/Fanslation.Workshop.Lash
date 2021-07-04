@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004350",
+  "RawLine": "TNPC_70004350,黃正，你就別擔心了，{fn}小哥一定會找到他們倆的。,黄正，你就别担心了，{fn}小哥一定会找到他们俩的。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004350",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "黃正，你就別擔心了，{fn}小哥一定會找到他們倆的。",
+      "c": "黃正,你就別擔心了,<fn>小哥一定會找到他們倆的。",
+      "rq": true,
+      "it": null,
+      "mt": "Huang Zheng, don't worry about it, <fn>my little brother will find them both.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "黄正，你就别担心了，{fn}小哥一定会找到他们俩的。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

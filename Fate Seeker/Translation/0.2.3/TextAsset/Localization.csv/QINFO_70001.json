@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "QINFO_70001",
+  "RawLine": "QINFO_70001,林虎受了傷，因此無法回家。帶林虎去橋邊的藥鋪找大夫治療吧！,林虎受了伤，因此无法回家。带林虎去桥边的药铺找大夫治疗吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "QINFO_70001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "林虎受了傷，因此無法回家。帶林虎去橋邊的藥鋪找大夫治療吧！",
+      "c": "林虎受了傷,因此無法回家。帶林虎去橋邊的藥鋪找大夫治療吧！",
+      "rq": true,
+      "it": null,
+      "mt": "Lin Hu is injured, so he can't go home. Take Lin Hu to the medicine shop by the bridge to see a doctor for treatment!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "林虎受了伤，因此无法回家。带林虎去桥边的药铺找大夫治疗吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

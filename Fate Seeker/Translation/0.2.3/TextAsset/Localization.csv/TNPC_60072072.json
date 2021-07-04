@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072072",
+  "RawLine": "TNPC_60072072,【這床鋪雖是翻開來的，但床墊卻還有些溫度，能留下這溫度代表不久前有人還在這熟睡著。】,【这床铺虽是翻开来的，但床垫却还有些温度，能留下这温度代表不久前有人还在这熟睡着。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072072",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這床鋪雖是翻開來的，但床墊卻還有些溫度，能留下這溫度代表不久前有人還在這熟睡著。】",
+      "c": "<[>這床鋪雖是翻開來的,但床墊卻還有些溫度,能留下這溫度代表不久前有人還在這熟睡著。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This bed is turned over, but the mattress is still warm, which means that someone was sleeping here not long ago. <]>The mattress is still warm.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这床铺虽是翻开来的，但床垫却还有些温度，能留下这温度代表不久前有人还在这熟睡着。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

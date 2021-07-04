@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102014811",
+  "RawLine": "SDM_2102014811,【這櫃子鎖著，裡頭一定放著李煊很重視的東西。】,【这柜子锁着，里头一定放着李煊很重视的东西。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102014811",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這櫃子鎖著，裡頭一定放著李煊很重視的東西。】",
+      "c": "<[>這櫃子鎖著,裡頭一定放著李煊很重視的東西。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This cabinet is locked, and inside it must be something that Xuan Li values very much. <]> The cabinet is locked.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这柜子锁着，里头一定放着李煊很重视的东西。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

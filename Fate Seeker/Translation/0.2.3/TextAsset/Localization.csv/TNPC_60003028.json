@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60003028",
+  "RawLine": "TNPC_60003028,「今日{color=#cc0000}母親{/color}親手織了一件{color=#cc0000}棉衣{/color}給我，我非常開心。」{p}「今日去水井取水時，不知道被誰從背後推下井裡，好險沒溺斃或摔重傷{p}但棉衣不小心割到了，還是先收著吧。」,「今日{color=#cc0000}母亲{/color}亲手织了一件{color=#cc0000}棉衣{/color}给我，我非常开心。」{p}「今日去水井取水时，不知道被谁从背后推下井里，好险没溺毙或摔重伤{p}但棉衣不小心割到了，还是先收着吧。」",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60003028",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "「今日{color=#cc0000}母親{/color}親手織了一件{color=#cc0000}棉衣{/color}給我，我非常開心。」{p}「今日去水井取水時，不知道被誰從背後推下井裡，好險沒溺斃或摔重傷{p}但棉衣不小心割到了，還是先收著吧。」",
+      "c": "「今日母親親手織了一件棉衣給我,我非常開心。」「今日去水井取水時,不知道被誰從背後推下井裡,好險沒溺斃或摔重傷但棉衣不小心割到了,還是先收著吧。」",
+      "rq": true,
+      "it": null,
+      "mt": "\"Today my mother knitted a cotton jacket for me, I am very happy. When I went to get water from the well today, I don't know who pushed me down the well from behind, but I didn't drown or get seriously injured, but the cotton jacket was cut accidentally, so I'll keep it for now.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "「今日{color=#cc0000}母亲{/color}亲手织了一件{color=#cc0000}棉衣{/color}给我，我非常开心。」{p}「今日去水井取水时，不知道被谁从背后推下井里，好险没溺毙或摔重伤{p}但棉衣不小心割到了，还是先收着吧。」",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

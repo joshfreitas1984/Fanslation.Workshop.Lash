@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003838",
+  "RawLine": "TNPC_10003838,【看來這凹槽是特別設計來安放{color=#FF0000}令牌{/color}的。】,【看来这凹槽是特别设计来安放{color=#FF0000}令牌{/color}的。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003838",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這凹槽是特別設計來安放{color=#FF0000}令牌{/color}的。】",
+      "c": "<[>看來這凹槽是特別設計來安放令牌的。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that the groove is specially designed to hold the token. <]> The token is not in the groove...",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这凹槽是特别设计来安放{color=#FF0000}令牌{/color}的。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

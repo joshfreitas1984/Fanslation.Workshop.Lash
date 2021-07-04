@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20015001",
+  "RawLine": "TNPC_20015001,嗯？有事嗎？{p}沒事最好別來煩我，我正在調查這裡的命案。,嗯？有事吗？{p}没事最好别来烦我，我正在调查这里的命案。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20015001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯？有事嗎？{p}沒事最好別來煩我，我正在調查這裡的命案。",
+      "c": "嗯？有事嗎？沒事最好別來煩我,我正在調查這裡的命案。",
+      "rq": true,
+      "it": null,
+      "mt": "Huh? Is something wrong? I'm investigating a murder here.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯？有事吗？{p}没事最好别来烦我，我正在调查这里的命案。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

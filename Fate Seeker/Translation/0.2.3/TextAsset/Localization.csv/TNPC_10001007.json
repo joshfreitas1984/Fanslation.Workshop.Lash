@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10001007",
+  "RawLine": "TNPC_10001007,謝了，{name}！要是你有什麼東西想烤的，這堆火可以借你用。,谢了，{name}！要是你有什么东西想烤的，这堆火可以借你用。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10001007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "謝了，{name}！要是你有什麼東西想烤的，這堆火可以借你用。",
+      "c": "謝了,<name>！要是你有什麼東西想烤的,這堆火可以借你用。",
+      "rq": true,
+      "it": null,
+      "mt": "Thanks, <name>! If you have something you want to roast, you can borrow this fire.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "谢了，{name}！要是你有什么东西想烤的，这堆火可以借你用。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

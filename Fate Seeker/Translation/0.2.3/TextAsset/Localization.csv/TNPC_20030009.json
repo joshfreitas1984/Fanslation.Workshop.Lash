@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20030009",
+  "RawLine": "TNPC_20030009,【這寶藏可能藏於{color=#ff0000}過此寨門後，附近的酒罈櫃之中{/color}，{p}來查看看江湖傳言是否為真。】,【这宝藏可能藏于{color=#ff0000}过此寨门后，附近的酒坛柜之中{/color}，{p}来查看看江湖传言是否为真。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20030009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這寶藏可能藏於{color=#ff0000}過此寨門後，附近的酒罈櫃之中{/color}，{p}來查看看江湖傳言是否為真。】",
+      "c": "<[>這寶藏可能藏於過此寨門後,附近的酒罈櫃之中,來查看看江湖傳言是否為真。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The treasure may be hidden in the wine cupboard near the gate of the fortress, so let's see if the rumors are true. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这宝藏可能藏于{color=#ff0000}过此寨门后，附近的酒坛柜之中{/color}，{p}来查看看江湖传言是否为真。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003216",
+  "RawLine": "TNPC_70003216,終於明白了！{color=#FF0000}石碑上的字指的是現在的位置，牆上的字是指引方向的{/color}。順序的關鍵就在詩中，只要{color=#FF0000}回到最初之地{/color}，依照{color=#FF0000}詩中的順序{/color}就能走出這裡。,终于明白了！{color=#FF0000}石碑上的字指的是现在的位置，墙上的字是指引方向的{/color}。顺序的关键就在诗中，只要{color=#FF0000}回到最初之地{/color}，依照{color=#FF0000}诗中的顺序{/color}就能走出这里。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003216",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "終於明白了！{color=#FF0000}石碑上的字指的是現在的位置，牆上的字是指引方向的{/color}。順序的關鍵就在詩中，只要{color=#FF0000}回到最初之地{/color}，依照{color=#FF0000}詩中的順序{/color}就能走出這裡。",
+      "c": "終於明白了！石碑上的字指的是現在的位置,牆上的字是指引方向的。順序的關鍵就在詩中,只要回到最初之地,依照詩中的順序就能走出這裡。",
+      "rq": true,
+      "it": null,
+      "mt": "At last, I understand! The words on the monument refer to the present location, and the words on the wall are for direction. The key to the order is in the poem. If we go back to the original place and follow the order in the poem, we can get out of here.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "终于明白了！{color=#FF0000}石碑上的字指的是现在的位置，墙上的字是指引方向的{/color}。顺序的关键就在诗中，只要{color=#FF0000}回到最初之地{/color}，依照{color=#FF0000}诗中的顺序{/color}就能走出这里。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

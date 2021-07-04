@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005812",
+  "RawLine": "TNPC_70005812,{name}不記前嫌，以德報怨，令我慚愧不已，若他願意擔任盟主之位，我必定竭盡全力幫助他。,{name}不记前嫌，以德报怨，令我惭愧不已，若他愿意担任盟主之位，我必定竭尽全力帮助他。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005812",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}不記前嫌，以德報怨，令我慚愧不已，若他願意擔任盟主之位，我必定竭盡全力幫助他。",
+      "c": "<name>不記前嫌,以德報怨,令我慚愧不已,若他願意擔任盟主之位,我必定竭盡全力幫助他。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>I am ashamed of myself for not remembering my past grudges and repaying my grievances with virtue.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}不记前嫌，以德报怨，令我惭愧不已，若他愿意担任盟主之位，我必定竭尽全力帮助他。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

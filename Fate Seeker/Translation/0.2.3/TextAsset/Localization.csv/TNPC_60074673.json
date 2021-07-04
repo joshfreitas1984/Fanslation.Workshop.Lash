@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074673",
+  "RawLine": "TNPC_60074673,你忘了嗎？這幅畫像的主人一個在{color=#FF0000}城西市集{/color}，一個在{color=#FF0000}醉翁酒肆{/color}。公子若多來幾次，我看我這喉嚨又得啞了。,你忘了吗？这幅画像的主人一个在{color=#FF0000}城西市集{/color}，一个在{color=#FF0000}醉翁酒肆{/color}。公子若多来几次，我看我这喉咙又得哑了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074673",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你忘了嗎？這幅畫像的主人一個在{color=#FF0000}城西市集{/color}，一個在{color=#FF0000}醉翁酒肆{/color}。公子若多來幾次，我看我這喉嚨又得啞了。",
+      "c": "你忘了嗎？這幅畫像的主人一個在城西市集,一個在醉翁酒肆。公子若多來幾次,我看我這喉嚨又得啞了。",
+      "rq": true,
+      "it": null,
+      "mt": "Did you forget? The owner of this portrait is in the marketplace in the west of the city, and the other is in the drunkard's wine shop. If you come a few more times, I think my throat will be mute again.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你忘了吗？这幅画像的主人一个在{color=#FF0000}城西市集{/color}，一个在{color=#FF0000}醉翁酒肆{/color}。公子若多来几次，我看我这喉咙又得哑了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

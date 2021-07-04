@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_17027221",
+  "RawLine": "TNPC_17027221,{name}，你這是要走了？也好，藥佛舍利的事就下次再說吧。,{name}，你这是要走了？也好，药佛舍利的事就下次再说吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_17027221",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，你這是要走了？也好，藥佛舍利的事就下次再說吧。",
+      "c": "<name>,你這是要走了？也好,藥佛舍利的事就下次再說吧。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, you're leaving now? Fine, let's talk about the Medicine Buddha relics another time.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，你这是要走了？也好，药佛舍利的事就下次再说吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

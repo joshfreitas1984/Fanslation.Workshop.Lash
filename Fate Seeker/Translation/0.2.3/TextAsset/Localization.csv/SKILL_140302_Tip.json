@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140302_Tip",
+  "RawLine": "SKILL_140302_Tip,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}虎嘯沖天{/color}後，攻擊力增加{color=#00DB00}20%{/color}。\\n穩扎穩打的四連段攻擊，定力相當高。,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}虎啸冲天{/color}后，攻击力增加{color=#00DB00}20%{/color}。\\n稳扎稳打的四连段攻击，定力相当高。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140302_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}虎嘯沖天{/color}後，攻擊力增加{color=#00DB00}20%{/color}。\\n穩扎穩打的四連段攻擊，定力相當高。",
+      "c": "<[>前置<]><<\\n>>先使用虎嘯沖天後,攻擊力增加20%。<<\\n>>穩扎穩打的四連段攻擊,定力相當高。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>>After using Tiger Tsunami first, the attack power is increased by 20%. <<\\n>>A solid four-strike attack with a high power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}虎啸冲天{/color}后，攻击力增加{color=#00DB00}20%{/color}。\\n稳扎稳打的四连段攻击，定力相当高。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

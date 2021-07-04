@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101060324",
+  "RawLine": "SDM_2101060324,客官你由這往虹橋去，{color=#ff0000}上虹橋前附近就是三不欺藥舖了。{/color},客官你由这往虹桥去，{color=#ff0000}上虹桥前附近就是三不欺药铺了。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101060324",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "客官你由這往虹橋去，{color=#ff0000}上虹橋前附近就是三不欺藥舖了。{/color}",
+      "c": "客官你由這往虹橋去,上虹橋前附近就是三不欺藥舖了。",
+      "rq": true,
+      "it": null,
+      "mt": "You can go from here to Hongqiao, and near the Hongqiao is the San Bu Bu De medicine shop.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "客官你由这往虹桥去，{color=#ff0000}上虹桥前附近就是三不欺药铺了。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

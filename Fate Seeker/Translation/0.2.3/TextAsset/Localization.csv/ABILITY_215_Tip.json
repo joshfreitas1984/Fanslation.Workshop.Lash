@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_215_Tip",
+  "RawLine": "ABILITY_215_Tip,暴擊時有<color=#00DB00>2%</color>機率直接使敵人暈眩。,暴击时有<color=#00DB00>2%</color>机率直接使敌人晕眩。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_215_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "暴擊時有<color=#00DB00>2%</color>機率直接使敵人暈眩。",
+      "c": "暴擊時有2%機率直接使敵人暈眩。",
+      "rq": true,
+      "it": null,
+      "mt": "There is a 2% chance to directly stun the enemy on a blast.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "暴击时有<color=#00DB00>2%</color>机率直接使敌人晕眩。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

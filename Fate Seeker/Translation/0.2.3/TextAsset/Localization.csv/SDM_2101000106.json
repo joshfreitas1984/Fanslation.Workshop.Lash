@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101000106",
+  "RawLine": "SDM_2101000106,大叔給了我們好吃的梨兒，要我們幫忙找{fn}。娘說這就叫什麼吃人家的鹿，就要幫別人作事。,大叔给了我们好吃的梨儿，要我们帮忙找{fn}。娘说这就叫什么吃人家的鹿，就要帮别人作事。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101000106",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "大叔給了我們好吃的梨兒，要我們幫忙找{fn}。娘說這就叫什麼吃人家的鹿，就要幫別人作事。",
+      "c": "大叔給了我們好吃的梨兒,要我們幫忙找<fn>。娘說這就叫什麼吃人家的鹿,就要幫別人作事。",
+      "rq": true,
+      "it": null,
+      "mt": "Uncle gave us delicious pears and asked us to help find the <fn>. Mother said this is called eating someone else's deer and helping someone else to do something.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "大叔给了我们好吃的梨儿，要我们帮忙找{fn}。娘说这就叫什么吃人家的鹿，就要帮别人作事。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

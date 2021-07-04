@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60030024",
+  "RawLine": "TNPC_60030024,【他們走的方向，看來是去{color=#FF0000}東邊的摩尼教廟{/color}了，快點跟過去看看。】,【他们走的方向，看来是去{color=#FF0000}东边的摩尼教庙{/color}了，快点跟过去看看。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60030024",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【他們走的方向，看來是去{color=#FF0000}東邊的摩尼教廟{/color}了，快點跟過去看看。】",
+      "c": "<[>他們走的方向,看來是去東邊的摩尼教廟了,快點跟過去看看。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The direction they are going, it looks like they are going to the Manichaean temple in the east, let's follow them quickly. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【他们走的方向，看来是去{color=#FF0000}东边的摩尼教庙{/color}了，快点跟过去看看。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010040",
+  "RawLine": "TNPC_60010040,【這瘋乞丐說的大娘，應該就是指子千的親生母親吧？】,【这疯乞丐说的大娘，应该就是指子千的亲生母亲吧？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010040",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這瘋乞丐說的大娘，應該就是指子千的親生母親吧？】",
+      "c": "<[>這瘋乞丐說的大娘,應該就是指子千的親生母親吧？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>When this crazy beggar talks about his mother, he should be referring to Ziqian's real mother, right? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这疯乞丐说的大娘，应该就是指子千的亲生母亲吧？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

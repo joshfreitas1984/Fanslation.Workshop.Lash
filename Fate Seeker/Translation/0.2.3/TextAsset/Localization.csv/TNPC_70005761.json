@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005761",
+  "RawLine": "TNPC_70005761,原來是秦老莊主，我{name}有眼不識泰山，原諒我剛才的無意冒犯。,原来是秦老庄主，我{name}有眼不识泰山，原谅我刚才的无意冒犯。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005761",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "原來是秦老莊主，我{name}有眼不識泰山，原諒我剛才的無意冒犯。",
+      "c": "原來是秦老莊主,我<name>有眼不識泰山,原諒我剛才的無意冒犯。",
+      "rq": true,
+      "it": null,
+      "mt": "So it's the old master Qin, I <name>have no knowledge of the mountain, forgive me for my unintentional offense just now.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "原来是秦老庄主，我{name}有眼不识泰山，原谅我刚才的无意冒犯。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

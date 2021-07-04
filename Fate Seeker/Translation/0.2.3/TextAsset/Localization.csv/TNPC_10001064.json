@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10001064",
+  "RawLine": "TNPC_10001064,阿漓也當了老梁和{name}的老媽子好多年了，實質上和梁嫂沒什麼差別了吧。,阿漓也当了老梁和{name}的老妈子好多年了，实质上和梁嫂没什么差别了吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10001064",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "阿漓也當了老梁和{name}的老媽子好多年了，實質上和梁嫂沒什麼差別了吧。",
+      "c": "阿漓也當了老梁和<name>的老媽子好多年了,實質上和梁嫂沒什麼差別了吧。",
+      "rq": true,
+      "it": null,
+      "mt": "A Li has been the mother of Liang and <name> for many years, so there is no difference between her and Liang's wife, right?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "阿漓也当了老梁和{name}的老妈子好多年了，实质上和梁嫂没什么差别了吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30068012",
+  "RawLine": "TNPC_30068012,少俠您來晚了，小店才剛賣出不久。你掉的這種{color=#FF0000}珍奇異石{/color}可不是天天都有啊！,少侠您来晚了，小店才刚卖出不久。你掉的这种{color=#FF0000}珍奇异石{/color}可不是天天都有啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30068012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "少俠您來晚了，小店才剛賣出不久。你掉的這種{color=#FF0000}珍奇異石{/color}可不是天天都有啊！",
+      "c": "少俠您來晚了,小店才剛賣出不久。你掉的這種珍奇異石可不是天天都有啊！",
+      "rq": true,
+      "it": null,
+      "mt": "You're late, the store just sold it not long ago. The rare and exotic stones you dropped are not available every day!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "少侠您来晚了，小店才刚卖出不久。你掉的这种{color=#FF0000}珍奇异石{/color}可不是天天都有啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

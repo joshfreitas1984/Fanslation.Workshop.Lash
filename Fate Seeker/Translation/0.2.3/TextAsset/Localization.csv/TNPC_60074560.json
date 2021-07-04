@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074560",
+  "RawLine": "TNPC_60074560,摩尼教的事情，我已經回報安大人了，他們會處理這件事，您沒有必要要跟著{name}那傢伙一起行動。,摩尼教的事情，我已经回报安大人了，他们会处理这件事，您没有必要要跟着{name}那家伙一起行动。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074560",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "摩尼教的事情，我已經回報安大人了，他們會處理這件事，您沒有必要要跟著{name}那傢伙一起行動。",
+      "c": "摩尼教的事情,我已經回報安大人了,他們會處理這件事,您沒有必要要跟著<name>那傢伙一起行動。",
+      "rq": true,
+      "it": null,
+      "mt": "I have already reported to Lord An about the Manichaeism, they will take care of this matter, there is no need for you to follow <name>that guy.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "摩尼教的事情，我已经回报安大人了，他们会处理这件事，您没有必要要跟着{name}那家伙一起行动。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

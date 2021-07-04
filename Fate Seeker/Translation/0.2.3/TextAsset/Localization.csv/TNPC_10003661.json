@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003661",
+  "RawLine": "TNPC_10003661,【我身上有東西能{color=#FF0000}點燃火堆{/color}嗎...？】,【我身上有东西能{color=#FF0000}点燃火堆{/color}吗...？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003661",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我身上有東西能{color=#FF0000}點燃火堆{/color}嗎...？】",
+      "c": "<[>我身上有東西能點燃火堆嗎...？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Do I have something on me that can light a fire...? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我身上有东西能{color=#FF0000}点燃火堆{/color}吗...？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_225_Tip",
+  "RawLine": "ABILITY_225_Tip,暴擊時有<color=#00DB00>4%</color>機率直接中斷敵人動作。,暴击时有<color=#00DB00>4%</color>机率直接中断敌人动作。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_225_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "暴擊時有<color=#00DB00>4%</color>機率直接中斷敵人動作。",
+      "c": "暴擊時有4%機率直接中斷敵人動作。",
+      "rq": true,
+      "it": null,
+      "mt": "Switch has a 4% chance of interrupting the enemy's move directly on a blast.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "暴击时有<color=#00DB00>4%</color>机率直接中断敌人动作。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

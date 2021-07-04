@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103014115",
+  "RawLine": "SDM_2103014115,【這桌鬧夠了，反正也沒賺頭，該去鬧別桌了。】,【这桌闹够了，反正也没赚头，该去闹别桌了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103014115",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這桌鬧夠了，反正也沒賺頭，該去鬧別桌了。】",
+      "c": "<[>這桌鬧夠了,反正也沒賺頭,該去鬧別桌了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This table has had enough, it's not profitable anyway, it's time to go to another table. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这桌闹够了，反正也没赚头，该去闹别桌了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60077655",
+  "RawLine": "TNPC_60077655,小玥，幫我找找有沒有{color=#FF0000}雞血藤{/color}或{color=#FF0000}川烏{/color}。,小玥，帮我找找有没有{color=#FF0000}鸡血藤{/color}或{color=#FF0000}川乌{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60077655",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小玥，幫我找找有沒有{color=#FF0000}雞血藤{/color}或{color=#FF0000}川烏{/color}。",
+      "c": "小玥,幫我找找有沒有雞血藤或川烏。",
+      "rq": true,
+      "it": null,
+      "mt": "Xiao Yue, help me to find out if there is chicken blood vine or Sichuan wu.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小玥，帮我找找有没有{color=#FF0000}鸡血藤{/color}或{color=#FF0000}川乌{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

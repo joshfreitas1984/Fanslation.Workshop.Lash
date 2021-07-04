@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_120304_Tip",
+  "RawLine": "SKILL_120304_Tip,【{color=#FFD700}暗勁{/color}】\\n起步較慢的遠距範圍攻擊。暗勁極強。,【{color=#FFD700}暗劲{/color}】\\n起步较慢的远距范围攻击。暗劲极强。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_120304_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}暗勁{/color}】\\n起步較慢的遠距範圍攻擊。暗勁極強。",
+      "c": "<[>暗勁<]><<\\n>>起步較慢的遠距範圍攻擊。暗勁極強。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Dark Power<]><<\\n>> A long-range attack with a slow start. Very strong dark power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}暗劲{/color}】\\n起步较慢的远距范围攻击。暗劲极强。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

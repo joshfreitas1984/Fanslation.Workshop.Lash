@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70008660",
+  "RawLine": "TNPC_70008660,沒有令牌者，請到隔壁案台上取一份謎題，開始第一域的考驗。,没有令牌者，请到隔壁案台上取一份谜题，开始第一域的考验。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70008660",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "沒有令牌者，請到隔壁案台上取一份謎題，開始第一域的考驗。",
+      "c": "沒有令牌者,請到隔壁案台上取一份謎題,開始第一域的考驗。",
+      "rq": true,
+      "it": null,
+      "mt": "If you don't have a token, please go to the next desk to get a puzzle and start the first domain.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "没有令牌者，请到隔壁案台上取一份谜题，开始第一域的考验。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

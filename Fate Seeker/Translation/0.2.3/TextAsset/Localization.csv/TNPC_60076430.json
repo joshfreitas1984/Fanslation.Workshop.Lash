@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60076430",
+  "RawLine": "TNPC_60076430,老闆，還敢請教一件事情，您於{color=#FF0000}未時{/color}曾送貨到大福鐵鋪去嗎？,老板，还敢请教一件事情，您于{color=#FF0000}未时{/color}曾送货到大福铁铺去吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60076430",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "老闆，還敢請教一件事情，您於{color=#FF0000}未時{/color}曾送貨到大福鐵鋪去嗎？",
+      "c": "老闆,還敢請教一件事情,您於未時曾送貨到大福鐵鋪去嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Mr. Boss, may I ask you one more thing, have you delivered goods to Dafu Teikoku in the future?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "老板，还敢请教一件事情，您于{color=#FF0000}未时{/color}曾送货到大福铁铺去吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

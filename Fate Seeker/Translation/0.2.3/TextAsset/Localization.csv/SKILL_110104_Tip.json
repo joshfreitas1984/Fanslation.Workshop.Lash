@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110104_Tip",
+  "RawLine": "SKILL_110104_Tip,【{color=#FFD700}遠程{/color}】\\n傷害不佳，但能遠距離攻擊的招式。,【{color=#FFD700}远程{/color}】\\n伤害不佳，但能远距离攻击的招式。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110104_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}遠程{/color}】\\n傷害不佳，但能遠距離攻擊的招式。",
+      "c": "<[>遠程<]><<\\n>>傷害不佳,但能遠距離攻擊的招式。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Long range<]><<\\n>> A move that does not do much damage, but can attack from a distance.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}远程{/color}】\\n伤害不佳，但能远距离攻击的招式。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

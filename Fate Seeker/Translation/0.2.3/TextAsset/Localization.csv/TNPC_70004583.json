@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004583",
+  "RawLine": "TNPC_70004583,要殺要剮，悉聽尊便！{s=6}我{/s}闕蒼鷹{w=1}不需要你的同情！,要杀要剐，悉听尊便！{s=6}我{/s}阙苍鹰{w=1}不需要你的同情！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004583",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "要殺要剮，悉聽尊便！{s=6}我{/s}闕蒼鷹{w=1}不需要你的同情！",
+      "c": "要殺要剮,悉聽尊便！我闕蒼鷹不需要你的同情！",
+      "rq": true,
+      "it": null,
+      "mt": "Kill or cut the razor, as you wish! I don't need your pity!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "要杀要剐，悉听尊便！{s=6}我{/s}阙苍鹰{w=1}不需要你的同情！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70004046",
+  "RawLine": "TNPC_70004046,【看來{color=#FF0000}這骰子就是神機門流傳在外的機關之一{/color}。】,【看来{color=#FF0000}这骰子就是神机门流传在外的机关之一{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70004046",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來{color=#FF0000}這骰子就是神機門流傳在外的機關之一{/color}。】",
+      "c": "<[>看來這骰子就是神機門流傳在外的機關之一。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that this dice is one of the mechanisms passed down from the Divine Principle. <]> The dice are one of the mechanisms that have been passed down to the world.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来{color=#FF0000}这骰子就是神机门流传在外的机关之一{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

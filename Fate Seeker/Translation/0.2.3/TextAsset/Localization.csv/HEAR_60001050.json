@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEAR_60001050",
+  "RawLine": "HEAR_60001050,你得猶如白鶴一般，騰雲駕霧，流風回雪！,你得犹如白鹤一般，腾云驾雾，流风回雪！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEAR_60001050",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你得猶如白鶴一般，騰雲駕霧，流風回雪！",
+      "c": "你得猶如白鶴一般,騰雲駕霧,流風回雪！",
+      "rq": true,
+      "it": null,
+      "mt": "You must be like a white crane, soaring through the clouds, flowing back into the snow!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你得犹如白鹤一般，腾云驾雾，流风回雪！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

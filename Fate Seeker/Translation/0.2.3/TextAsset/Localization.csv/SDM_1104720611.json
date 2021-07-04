@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104720611",
+  "RawLine": "SDM_1104720611,{name}兄弟，我要去喝兩杯，你若想赴先前的酒約，就到虹橋那一頭的橋前酒攤找我吧。,{name}兄弟，我要去喝两杯，你若想赴先前的酒约，就到虹桥那一头的桥前酒摊找我吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104720611",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}兄弟，我要去喝兩杯，你若想赴先前的酒約，就到虹橋那一頭的橋前酒攤找我吧。",
+      "c": "<name>兄弟,我要去喝兩杯,你若想赴先前的酒約,就到虹橋那一頭的橋前酒攤找我吧。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Brother, I'm going to have a couple of drinks, if you want to go to your previous drink date, meet me at the wine stand in front of the bridge at the Hongqiao end.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}兄弟，我要去喝两杯，你若想赴先前的酒约，就到虹桥那一头的桥前酒摊找我吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

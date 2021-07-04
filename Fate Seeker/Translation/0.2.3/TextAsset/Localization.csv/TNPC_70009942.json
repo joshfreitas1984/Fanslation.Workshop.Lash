@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70009942",
+  "RawLine": "TNPC_70009942,而這行文字要我們對調{color=#cc0000}寒{/color}與{color=#cc0000}暑{/color}，也就是{color=#cc0000}冬天{/color}跟{color=#cc0000}夏天{/color}，所以才會這樣擺放。,而这行文字要我们对调{color=#cc0000}寒{/color}与{color=#cc0000}暑{/color}，也就是{color=#cc0000}冬天{/color}跟{color=#cc0000}夏天{/color}，所以才会这样摆放。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70009942",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "而這行文字要我們對調{color=#cc0000}寒{/color}與{color=#cc0000}暑{/color}，也就是{color=#cc0000}冬天{/color}跟{color=#cc0000}夏天{/color}，所以才會這樣擺放。",
+      "c": "而這行文字要我們對調寒與暑,也就是冬天跟夏天,所以才會這樣擺放。",
+      "rq": true,
+      "it": null,
+      "mt": "And this line asks us to adjust the cold and the heat, that is, winter and summer, that's why it is placed in this way.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "而这行文字要我们对调{color=#cc0000}寒{/color}与{color=#cc0000}暑{/color}，也就是{color=#cc0000}冬天{/color}跟{color=#cc0000}夏天{/color}，所以才会这样摆放。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20087009",
+  "RawLine": "TNPC_20087009,{fn}兄弟，清點鏢物要花些時間，你就稍等一會，等確定沒問題再把工資算給你。,{fn}兄弟，清点镖物要花些时间，你就稍等一会，等确定没问题再把工资算给你。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20087009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄弟，清點鏢物要花些時間，你就稍等一會，等確定沒問題再把工資算給你。",
+      "c": "<fn>兄弟,清點鏢物要花些時間,你就稍等一會,等確定沒問題再把工資算給你。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Brother, it takes some time to count the darts, so you can wait for a while and then I'll calculate your salary when I'm sure there's no problem.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄弟，清点镖物要花些时间，你就稍等一会，等确定没问题再把工资算给你。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079605",
+  "RawLine": "TNPC_60079605,小玥你也去過洛陽那吧？那附近的廟宇只有{color=#FF0000}摩尼教堂{/color}。,小玥你也去过洛阳那吧？那附近的庙宇只有{color=#FF0000}摩尼教堂{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079605",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小玥你也去過洛陽那吧？那附近的廟宇只有{color=#FF0000}摩尼教堂{/color}。",
+      "c": "小玥你也去過洛陽那吧？那附近的廟宇只有摩尼教堂。",
+      "rq": true,
+      "it": null,
+      "mt": "You've been to Luoyang too, haven't you Yue? The only temple near there is the Manichaean Church.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小玥你也去过洛阳那吧？那附近的庙宇只有{color=#FF0000}摩尼教堂{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

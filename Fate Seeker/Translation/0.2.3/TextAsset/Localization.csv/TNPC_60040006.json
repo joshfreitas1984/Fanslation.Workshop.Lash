@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60040006",
+  "RawLine": "TNPC_60040006,我、我只吃一顆，藥{s=6}……{/s}還在碗裡。{p}我不想吃藥、我不喜歡吃藥，大娘走了，我就偷偷吐出來，放回去。,我、我只吃一颗，药{s=6}……{/s}还在碗里。{p}我不想吃药、我不喜欢吃药，大娘走了，我就偷偷吐出来，放回去。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60040006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我、我只吃一顆，藥{s=6}……{/s}還在碗裡。{p}我不想吃藥、我不喜歡吃藥，大娘走了，我就偷偷吐出來，放回去。",
+      "c": "我、我只吃一顆,藥......還在碗裡。我不想吃藥、我不喜歡吃藥,大娘走了,我就偷偷吐出來,放回去。",
+      "rq": true,
+      "it": null,
+      "mt": "I, I only took one, the medicine ...... It's still in the bowl. I don't want to take the medicine, I don't like to take the medicine. When the elder lady left, I secretly spit it out and put it back.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我、我只吃一颗，药{s=6}……{/s}还在碗里。{p}我不想吃药、我不喜欢吃药，大娘走了，我就偷偷吐出来，放回去。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

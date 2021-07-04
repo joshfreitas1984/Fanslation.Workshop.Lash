@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60079551",
+  "RawLine": "TNPC_60079551,{name}，你幫了我個大忙，真是感激不盡！我就不多耽擱你了，你趕緊進飛白派找我師父他們吧！,{name}，你帮了我个大忙，真是感激不尽！我就不多耽搁你了，你赶紧进飞白派找我师父他们吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60079551",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}，你幫了我個大忙，真是感激不盡！我就不多耽擱你了，你趕緊進飛白派找我師父他們吧！",
+      "c": "<name>,你幫了我個大忙,真是感激不盡！我就不多耽擱你了,你趕緊進飛白派找我師父他們吧！",
+      "rq": true,
+      "it": null,
+      "mt": "<name>, you've helped me a lot, I'm really grateful! I won't keep you any longer, you should go into the Flying White School and find my master!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}，你帮了我个大忙，真是感激不尽！我就不多耽搁你了，你赶紧进飞白派找我师父他们吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

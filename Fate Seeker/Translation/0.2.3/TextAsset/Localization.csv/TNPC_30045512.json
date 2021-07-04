@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30045512",
+  "RawLine": "TNPC_30045512,【對了，師父說過敵人運氣時，如果散發出{color=#FFAA33}橘色{/color}的光芒，表示得{color=#FFAA33}盡快打斷{/color}。而發出{color=#33FFFF}藍色{/color}的光芒則得{color=#33FFFF}儘速遠離{/color}。】,【对了，师父说过敌人运气时，如果散发出{color=#FFAA33}橘色{/color}的光芒，表示得{color=#FFAA33}尽快打断{/color}。而发出{color=#33FFFF}蓝色{/color}的光芒则得{color=#33FFFF}尽速远离{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30045512",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【對了，師父說過敵人運氣時，如果散發出{color=#FFAA33}橘色{/color}的光芒，表示得{color=#FFAA33}盡快打斷{/color}。而發出{color=#33FFFF}藍色{/color}的光芒則得{color=#33FFFF}儘速遠離{/color}。】",
+      "c": "<[>對了,師父說過敵人運氣時,如果散發出橘色的光芒,表示得盡快打斷。而發出藍色的光芒則得儘速遠離。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>By the way, Master said that when an enemy is lucky, if it emits an orange glow, it means you have to break it as soon as possible. The blue glow means you have to get away as soon as possible. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【对了，师父说过敌人运气时，如果散发出{color=#FFAA33}橘色{/color}的光芒，表示得{color=#FFAA33}尽快打断{/color}。而发出{color=#33FFFF}蓝色{/color}的光芒则得{color=#33FFFF}尽速远离{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

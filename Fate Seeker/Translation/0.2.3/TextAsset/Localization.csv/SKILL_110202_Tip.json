@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110202_Tip",
+  "RawLine": "SKILL_110202_Tip,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}電光急逝{/color}，增傷{color=#00DB00}20%{/color}，向前衝刺後歸位。\\n最遠距離時造成額外傷害。,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}电光急逝{/color}，增伤{color=#00DB00}20%{/color}，向前冲刺后归位。\\n最远距离时造成额外伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110202_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}電光急逝{/color}，增傷{color=#00DB00}20%{/color}，向前衝刺後歸位。\\n最遠距離時造成額外傷害。",
+      "c": "<[>前置<]><<\\n>>先使用電光急逝,增傷20%,向前衝刺後歸位。<<\\n>>最遠距離時造成額外傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>>Use Lightning Rush first, increasing damage by 20%, then dash forward and return to position. <<\\n>>Add extra damage at longest distance.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}电光急逝{/color}，增伤{color=#00DB00}20%{/color}，向前冲刺后归位。\\n最远距离时造成额外伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

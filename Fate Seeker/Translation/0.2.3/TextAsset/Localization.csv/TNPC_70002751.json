@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002751",
+  "RawLine": "TNPC_70002751,【這丫頭講話吞吞吐吐的，看起來很可疑。】,【这丫头讲话吞吞吐吐的，看起来很可疑。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002751",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這丫頭講話吞吞吐吐的，看起來很可疑。】",
+      "c": "<[>這丫頭講話吞吞吐吐的,看起來很可疑。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This girl is stammering and looks suspicious. <]>The girl stutters and looks suspicious.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这丫头讲话吞吞吐吐的，看起来很可疑。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

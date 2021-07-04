@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101064628",
+  "RawLine": "SDM_2101064628,{color=#ff0000}若是進出內陣八門順序有錯，或是想衝出外陣，便會觸發機關，前功盡棄。{/color},{color=#ff0000}若是进出内阵八门顺序有错，或是想冲出外阵，便会触发机关，前功尽弃。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101064628",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}若是進出內陣八門順序有錯，或是想衝出外陣，便會觸發機關，前功盡棄。{/color}",
+      "c": "若是進出內陣八門順序有錯,或是想衝出外陣,便會觸發機關,前功盡棄。",
+      "rq": true,
+      "it": null,
+      "mt": "If there is a mistake in the order of entering and leaving the inner gate, or if you try to rush out of the outer gate, you will trigger the mechanism and lose all your work.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}若是进出内阵八门顺序有错，或是想冲出外阵，便会触发机关，前功尽弃。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

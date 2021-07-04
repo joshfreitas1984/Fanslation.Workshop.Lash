@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20010009",
+  "RawLine": "TNPC_20010009,某日她經過開封外一處野林，突然林中衝出一隻野狗對她吼叫，{p}嚇得她想跑，卻又聽聞嬰孩的哭聲……,某日她经过开封外一处野林，突然林中冲出一只野狗对她吼叫，{p}吓得她想跑，却又听闻婴孩的哭声……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20010009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "某日她經過開封外一處野林，突然林中衝出一隻野狗對她吼叫，{p}嚇得她想跑，卻又聽聞嬰孩的哭聲……",
+      "c": "某日她經過開封外一處野林,突然林中衝出一隻野狗對她吼叫,嚇得她想跑,卻又聽聞嬰孩的哭聲......",
+      "rq": true,
+      "it": null,
+      "mt": "One day she was walking through a wild forest outside Kaifeng when a wild dog suddenly came out of the forest and barked at her.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "某日她经过开封外一处野林，突然林中冲出一只野狗对她吼叫，{p}吓得她想跑，却又听闻婴孩的哭声……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

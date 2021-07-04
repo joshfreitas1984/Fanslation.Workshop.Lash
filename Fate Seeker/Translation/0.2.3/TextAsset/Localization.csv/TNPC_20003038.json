@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20003038",
+  "RawLine": "TNPC_20003038,確實在下有事相求，我正在幫人探訪左手背有刺青之婆婆，{p}為表誠意，故以此為禮相贈。,确实在下有事相求，我正在帮人探访左手背有刺青之婆婆，{p}为表诚意，故以此为礼相赠。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20003038",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "確實在下有事相求，我正在幫人探訪左手背有刺青之婆婆，{p}為表誠意，故以此為禮相贈。",
+      "c": "確實在下有事相求,我正在幫人探訪左手背有刺青之婆婆,為表誠意,故以此為禮相贈。",
+      "rq": true,
+      "it": null,
+      "mt": "It is true that I have a request. I am helping someone to visit an old woman with a tattoo on the back of her left hand, so I am giving this as a gift to show my sincerity.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "确实在下有事相求，我正在帮人探访左手背有刺青之婆婆，{p}为表诚意，故以此为礼相赠。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

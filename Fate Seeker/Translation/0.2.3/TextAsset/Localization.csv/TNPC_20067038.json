@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20067038",
+  "RawLine": "TNPC_20067038,【沒想到屋裡藏了不少錢，看來這張老闆賺了不少，{p}只怕這是黑心錢，與其讓他花天酒地，不如讓我幫他用在正途上。】,【没想到屋里藏了不少钱，看来这张老板赚了不少，{p}只怕这是黑心钱，与其让他花天酒地，不如让我帮他用在正途上。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20067038",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【沒想到屋裡藏了不少錢，看來這張老闆賺了不少，{p}只怕這是黑心錢，與其讓他花天酒地，不如讓我幫他用在正途上。】",
+      "c": "<[>沒想到屋裡藏了不少錢,看來這張老闆賺了不少,只怕這是黑心錢,與其讓他花天酒地,不如讓我幫他用在正途上。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I didn't expect that there was a lot of money hidden in the house, it seems that this boss has made a lot of money. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【没想到屋里藏了不少钱，看来这张老板赚了不少，{p}只怕这是黑心钱，与其让他花天酒地，不如让我帮他用在正途上。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

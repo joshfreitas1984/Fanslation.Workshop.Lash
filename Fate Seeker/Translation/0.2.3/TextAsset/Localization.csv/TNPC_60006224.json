@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60006224",
+  "RawLine": "TNPC_60006224,{fn}兄，謝謝你之前的相救之恩，我一輩子會記得的{p}還有，這個送給你，我先走一步了。,{fn}兄，谢谢你之前的相救之恩，我一辈子会记得的{p}还有，这个送给你，我先走一步了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60006224",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄，謝謝你之前的相救之恩，我一輩子會記得的{p}還有，這個送給你，我先走一步了。",
+      "c": "<fn>兄,謝謝你之前的相救之恩,我一輩子會記得的還有,這個送給你,我先走一步了。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Bro, thank you for saving me, I will remember it for the rest of my life.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄，谢谢你之前的相救之恩，我一辈子会记得的{p}还有，这个送给你，我先走一步了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

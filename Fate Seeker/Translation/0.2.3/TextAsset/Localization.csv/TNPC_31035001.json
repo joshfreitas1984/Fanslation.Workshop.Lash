@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31035001",
+  "RawLine": "TNPC_31035001,先以{color=#cc0000}右鍵{/color}點擊趙姑娘出示，讓她看看這{color=#cc0000}玉石{/color}吧。,先以{color=#cc0000}右键{/color}点击赵姑娘出示，让她看看这{color=#cc0000}玉石{/color}吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31035001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "先以{color=#cc0000}右鍵{/color}點擊趙姑娘出示，讓她看看這{color=#cc0000}玉石{/color}吧。",
+      "c": "先以右鍵點擊趙姑娘出示,讓她看看這玉石吧。",
+      "rq": true,
+      "it": null,
+      "mt": "First right click on Miss Zhao to show it to her, let her see the jade.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "先以{color=#cc0000}右键{/color}点击赵姑娘出示，让她看看这{color=#cc0000}玉石{/color}吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

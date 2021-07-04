@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "GUIDE.05.004_Joystick",
+  "RawLine": "GUIDE.05.004_Joystick,接著選擇一個想要的<color=#cc0000>卦象</color>。<color=#ff3333>( [5] 移動，[0] 選擇 )</color>,接着选择一个想要的<color=#cc0000>卦象</color>。<color=#ff3333>( [5] 移动，[0] 选择 )</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "GUIDE.05.004_Joystick",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "接著選擇一個想要的<color=#cc0000>卦象</color>。<color=#ff3333>( [5] 移動，[0] 選擇 )</color>",
+      "c": "接著選擇一個想要的卦象。( [5] 移動,[0] 選擇 )",
+      "rq": true,
+      "it": null,
+      "mt": " Then choose a desired trigram. ([5] Move,[0] Select)",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "接着选择一个想要的<color=#cc0000>卦象</color>。<color=#ff3333>( [5] 移动，[0] 选择 )</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

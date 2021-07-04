@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003211",
+  "RawLine": "TNPC_70003211,我們來找一位大夫。大姐，你知道最近的大夫在哪嗎？,我们来找一位大夫。大姐，你知道最近的大夫在哪吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003211",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我們來找一位大夫。大姐，你知道最近的大夫在哪嗎？",
+      "c": "我們來找一位大夫。大姐,你知道最近的大夫在哪嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "We are looking for a doctor. Sister, do you know where the nearest doctor is?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我们来找一位大夫。大姐，你知道最近的大夫在哪吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

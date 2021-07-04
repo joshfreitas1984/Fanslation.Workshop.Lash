@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "DLCSK_0301_Tip",
+  "RawLine": "DLCSK_0301_Tip,嚴樂出現後，可<color=#FFD700>Q鍵</color>呼叫嚴哀賦予敵人<color=#FFD700>火毒</color>。,严乐出现后，可<color=#FFD700>Q键</color>呼叫严哀赋予敌人<color=#FFD700>火毒</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "DLCSK_0301_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嚴樂出現後，可<color=#FFD700>Q鍵</color>呼叫嚴哀賦予敵人<color=#FFD700>火毒</color>。",
+      "c": "嚴樂出現後,可Q鍵呼叫嚴哀賦予敵人火毒。",
+      "rq": true,
+      "it": null,
+      "mt": "After Yim Lok appears, you can Q-click to call Yim Sorrow to give the enemy fire poison.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "严乐出现后，可<color=#FFD700>Q键</color>呼叫严哀赋予敌人<color=#FFD700>火毒</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

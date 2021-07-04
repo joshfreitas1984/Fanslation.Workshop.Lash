@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20023032",
+  "RawLine": "TNPC_20023032,少俠客氣了，真是多虧少俠相助，這點小錢就請你收下吧。{p}我和母親談談。,少侠客气了，真是多亏少侠相助，这点小钱就请你收下吧。{p}我和母亲谈谈。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20023032",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "少俠客氣了，真是多虧少俠相助，這點小錢就請你收下吧。{p}我和母親談談。",
+      "c": "少俠客氣了,真是多虧少俠相助,這點小錢就請你收下吧。我和母親談談。",
+      "rq": true,
+      "it": null,
+      "mt": "You are very kind, thanks for your help, please accept this small amount of money. I'll talk to my mother.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "少侠客气了，真是多亏少侠相助，这点小钱就请你收下吧。{p}我和母亲谈谈。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

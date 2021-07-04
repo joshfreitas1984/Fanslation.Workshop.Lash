@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006667",
+  "RawLine": "TNPC_70006667,正是如此，所以我同白掌門、夏侯掌門共同推舉{name}少俠為總掌門，日後三派攜手共進，絕無二心。,正是如此，所以我同白掌门、夏侯掌门共同推举{name}少侠为总掌门，日后三派携手共进，绝无二心。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006667",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "正是如此，所以我同白掌門、夏侯掌門共同推舉{name}少俠為總掌門，日後三派攜手共進，絕無二心。",
+      "c": "正是如此,所以我同白掌門、夏侯掌門共同推舉<name>少俠為總掌門,日後三派攜手共進,絕無二心。",
+      "rq": true,
+      "it": null,
+      "mt": "That's why I, together with Master Bai and Master Xiahou, have elected <name>Ms.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "正是如此，所以我同白掌门、夏侯掌门共同推举{name}少侠为总掌门，日后三派携手共进，绝无二心。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

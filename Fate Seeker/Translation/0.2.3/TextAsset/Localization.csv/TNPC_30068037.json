@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30068037",
+  "RawLine": "TNPC_30068037,【看來只能前往尋找這兩位三派弟子看能不能贖回來了。】,【看来只能前往寻找这两位三派弟子看能不能赎回来了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30068037",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來只能前往尋找這兩位三派弟子看能不能贖回來了。】",
+      "c": "<[>看來只能前往尋找這兩位三派弟子看能不能贖回來了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that we can only go to look for these two disciples of the three schools to see if they can be redeemed. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来只能前往寻找这两位三派弟子看能不能赎回来了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

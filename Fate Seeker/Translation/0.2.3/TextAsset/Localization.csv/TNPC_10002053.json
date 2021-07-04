@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10002053",
+  "RawLine": "TNPC_10002053,你想洗甚麼…唉唷，這把短劍上怎麼都是血！這腥味…你剛剛殺魚了？,你想洗什么…唉唷，这把短剑上怎么都是血！这腥味…你刚刚杀鱼了？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10002053",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你想洗甚麼…唉唷，這把短劍上怎麼都是血！這腥味…你剛剛殺魚了？",
+      "c": "你想洗甚麼...唉唷,這把短劍上怎麼都是血！這腥味...你剛剛殺魚了？",
+      "rq": true,
+      "it": null,
+      "mt": "What do you want to wash... I'm not sure what I'm doing. This fishy smell... Did you just kill a fish?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你想洗什么…唉唷，这把短剑上怎么都是血！这腥味…你刚刚杀鱼了？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

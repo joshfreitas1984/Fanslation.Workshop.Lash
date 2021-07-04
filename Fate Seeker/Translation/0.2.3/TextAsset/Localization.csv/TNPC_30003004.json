@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30003004",
+  "RawLine": "TNPC_30003004,阿彌陀佛，囧施主慈悲為懷，小僧不勝感激。,阿弥陀佛，囧施主慈悲为怀，小僧不胜感激。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30003004",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "阿彌陀佛，囧施主慈悲為懷，小僧不勝感激。",
+      "c": "阿彌陀佛,囧施主慈悲為懷,小僧不勝感激。",
+      "rq": true,
+      "it": null,
+      "mt": "Amitabha Buddha, I am grateful to you for your compassion.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "阿弥陀佛，囧施主慈悲为怀，小僧不胜感激。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072166",
+  "RawLine": "TNPC_60072166,【這小傢伙自個往{color=#FF0000}北方{/color}跑去了，看起來像是要我跟上去一樣，要不就跟上去看看吧！】,【这小家伙自个往{color=#FF0000}北方{/color}跑去了，看起来像是要我跟上去一样，要不就跟上去看看吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072166",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這小傢伙自個往{color=#FF0000}北方{/color}跑去了，看起來像是要我跟上去一樣，要不就跟上去看看吧！】",
+      "c": "<[>這小傢伙自個往北方跑去了,看起來像是要我跟上去一樣,要不就跟上去看看吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This little guy is running north by himself, and it looks like he wants me to follow him, so why don't we follow him? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这小家伙自个往{color=#FF0000}北方{/color}跑去了，看起来像是要我跟上去一样，要不就跟上去看看吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

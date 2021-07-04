@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003080",
+  "RawLine": "TNPC_10003080,【前面的黑衣人只顧前方，不顧背後，我正好趁這個機會偷偷把燈台點了。】,【前面的黑衣人只顾前方，不顾背后，我正好趁这个机会偷偷把灯台点了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003080",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【前面的黑衣人只顧前方，不顧背後，我正好趁這個機會偷偷把燈台點了。】",
+      "c": "<[>前面的黑衣人只顧前方,不顧背後,我正好趁這個機會偷偷把燈台點了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The man in black in front of me only cared about the front and not the back, so I took this opportunity to light up the lampstand secretly. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【前面的黑衣人只顾前方，不顾背后，我正好趁这个机会偷偷把灯台点了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

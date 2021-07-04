@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_08003101",
+  "RawLine": "TNPC_08003101,這位小哥，對我們飛白派特產的「飛仙望月」酒有沒有興趣啊？跟外邊的酒味道很不一樣的，現在只賣{color=#FF0000}一萬{/color}，錯過就沒機會囉！,这位小哥，对我们飞白派特产的「飞仙望月」酒有没有兴趣啊？跟外边的酒味道很不一样的，现在只卖{color=#FF0000}一万{/color}，错过就没机会啰！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_08003101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這位小哥，對我們飛白派特產的「飛仙望月」酒有沒有興趣啊？跟外邊的酒味道很不一樣的，現在只賣{color=#FF0000}一萬{/color}，錯過就沒機會囉！",
+      "c": "這位小哥,對我們飛白派特產的「飛仙望月」酒有沒有興趣啊？跟外邊的酒味道很不一樣的,現在只賣一萬,錯過就沒機會囉！",
+      "rq": true,
+      "it": null,
+      "mt": "Do you have any interest in our special wine \"Fei Xian Wang Yue\"? It tastes very different from the outside wine, and it's only sold for 10,000, so if you miss it, you won't have a chance!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这位小哥，对我们飞白派特产的「飞仙望月」酒有没有兴趣啊？跟外边的酒味道很不一样的，现在只卖{color=#FF0000}一万{/color}，错过就没机会啰！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_228_Tip",
+  "RawLine": "ABILITY_228_Tip,使用恢復內力物品時，<color=#00DB00>10%</color>不消耗物品。,使用恢复内力物品时，<color=#00DB00>10%</color>不消耗物品。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_228_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "使用恢復內力物品時，<color=#00DB00>10%</color>不消耗物品。",
+      "c": "使用恢復內力物品時,10%不消耗物品。",
+      "rq": true,
+      "it": null,
+      "mt": "When using a restoration item, 10% of the item is not consumed.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "使用恢复内力物品时，<color=#00DB00>10%</color>不消耗物品。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

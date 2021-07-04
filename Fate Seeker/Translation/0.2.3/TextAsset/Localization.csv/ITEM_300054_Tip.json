@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_300054_Tip",
+  "RawLine": "ITEM_300054_Tip,不知道是什麼東西製成的藥品（？），有一股麵粉的味道。,不知道是什么东西制成的药品（？），有一股面粉的味道。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_300054_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "不知道是什麼東西製成的藥品（？），有一股麵粉的味道。",
+      "c": "不知道是什麼東西製成的藥品（？）,有一股麵粉的味道。",
+      "rq": true,
+      "it": null,
+      "mt": "I don't know what kind of medicine it is made of (?) It smells like flour.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "不知道是什么东西制成的药品（？），有一股面粉的味道。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

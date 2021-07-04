@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070311",
+  "RawLine": "TNPC_60070311,{s=25}趙妽心裡想，蒙面人在找的玉珮，肯定跟{name}有甚麼關係。{/s},{s=25}赵妽心里想，蒙面人在找的玉珮，肯定跟{name}有什么关系。{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070311",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=25}趙妽心裡想，蒙面人在找的玉珮，肯定跟{name}有甚麼關係。{/s}",
+      "c": "趙妽心裡想,蒙面人在找的玉珮,肯定跟<name>有甚麼關係。",
+      "rq": true,
+      "it": null,
+      "mt": "In his mind, Zhao Qi thought that the jade palace the masked man was looking for must have something to do with <name>.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=25}赵妽心里想，蒙面人在找的玉珮，肯定跟{name}有什么关系。{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

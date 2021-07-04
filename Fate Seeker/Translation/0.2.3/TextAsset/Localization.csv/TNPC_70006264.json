@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006264",
+  "RawLine": "TNPC_70006264,【去三大城的藥鋪或醫館問問，或許有人能看得懂這藥單。】,【去三大城的药铺或医馆问问，或许有人能看得懂这药单。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006264",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【去三大城的藥鋪或醫館問問，或許有人能看得懂這藥單。】",
+      "c": "<[>去三大城的藥鋪或醫館問問,或許有人能看得懂這藥單。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Go to a pharmacy or a doctor's shop in the three major cities and ask, maybe someone can read the prescription list. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【去三大城的药铺或医馆问问，或许有人能看得懂这药单。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

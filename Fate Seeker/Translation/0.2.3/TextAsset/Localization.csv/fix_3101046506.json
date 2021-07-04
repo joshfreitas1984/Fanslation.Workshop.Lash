@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "fix_3101046506",
+  "RawLine": "fix_3101046506,【雖然他們有些用詞很生硬，但真正奇怪的地方應該是……】,【虽然他们有些用词很生硬，但真正奇怪的地方应该是……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "fix_3101046506",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【雖然他們有些用詞很生硬，但真正奇怪的地方應該是……】",
+      "c": "<[>雖然他們有些用詞很生硬,但真正奇怪的地方應該是......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Although some of their wording is very stiff, the really weird part should be ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【虽然他们有些用词很生硬，但真正奇怪的地方应该是……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

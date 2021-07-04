@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3104151363",
+  "RawLine": "SDM_3104151363,【嗯？方才山賊們落下了一枚{color=#cc0000}玉石{/color}，也不知這是贓物還是山賊自己的東西。】,【嗯？方才山贼们落下了一枚{color=#cc0000}玉石{/color}，也不知这是赃物还是山贼自己的东西。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3104151363",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嗯？方才山賊們落下了一枚{color=#cc0000}玉石{/color}，也不知這是贓物還是山賊自己的東西。】",
+      "c": "<[>嗯？方才山賊們落下了一枚玉石,也不知這是贓物還是山賊自己的東西。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Huh? The bandits left a jade stone behind, I don't know if it's stolen or the bandits' own stuff. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嗯？方才山贼们落下了一枚{color=#cc0000}玉石{/color}，也不知这是赃物还是山贼自己的东西。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

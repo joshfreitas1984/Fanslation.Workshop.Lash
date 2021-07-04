@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071070",
+  "RawLine": "TNPC_60071070,擲錢遊戲玩法：{p}每局總共有十枚硬幣，玩家與敵人各會有五枚硬幣，玩家可選擇押硬幣正面或者硬幣反面，當擲完所有硬幣後，看是正面的數量多，還是反面的數量多，贏者則發放銀兩。,掷钱游戏玩法：{p}每局总共有十枚硬币，玩家与敌人各会有五枚硬币，玩家可选择押硬币正面或者硬币反面，当掷完所有硬币后，看是正面的数量多，还是反面的数量多，赢者则发放银两。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071070",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "擲錢遊戲玩法：{p}每局總共有十枚硬幣，玩家與敵人各會有五枚硬幣，玩家可選擇押硬幣正面或者硬幣反面，當擲完所有硬幣後，看是正面的數量多，還是反面的數量多，贏者則發放銀兩。",
+      "c": "擲錢遊戲玩法：每局總共有十枚硬幣,玩家與敵人各會有五枚硬幣,玩家可選擇押硬幣正面或者硬幣反面,當擲完所有硬幣後,看是正面的數量多,還是反面的數量多,贏者則發放銀兩。",
+      "rq": true,
+      "it": null,
+      "mt": "Tossing money game play: There are ten coins in each game, player and enemy will have five coins each, player can choose to bet on the front side or the back side of the coin, after tossing all the coins, see whether there are more coins on the front side or the back side, the winner will be paid coins.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "掷钱游戏玩法：{p}每局总共有十枚硬币，玩家与敌人各会有五枚硬币，玩家可选择押硬币正面或者硬币反面，当掷完所有硬币后，看是正面的数量多，还是反面的数量多，赢者则发放银两。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

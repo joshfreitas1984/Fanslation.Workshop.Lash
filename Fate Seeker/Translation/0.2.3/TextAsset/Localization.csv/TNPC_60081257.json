@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60081257",
+  "RawLine": "TNPC_60081257,正是如此。我們就請{fn}少俠就任三派掌門人，日後大家就尊稱{fn}少俠為總掌門。,正是如此。我们就请{fn}少侠就任三派掌门人，日后大家就尊称{fn}少侠为总掌门。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60081257",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "正是如此。我們就請{fn}少俠就任三派掌門人，日後大家就尊稱{fn}少俠為總掌門。",
+      "c": "正是如此。我們就請<fn>少俠就任三派掌門人,日後大家就尊稱<fn>少俠為總掌門。",
+      "rq": true,
+      "it": null,
+      "mt": "That's exactly it. We'll ask <fn>Major knight to be the head of the three schools, and in the future we'll honor <fn>Major knight as the chief master.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "正是如此。我们就请{fn}少侠就任三派掌门人，日后大家就尊称{fn}少侠为总掌门。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

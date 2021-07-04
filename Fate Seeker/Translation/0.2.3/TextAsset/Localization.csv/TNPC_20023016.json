@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20023016",
+  "RawLine": "TNPC_20023016,你可沒立下此規矩。{p}這樣好了，你最後一題請各位婆婆依虔誠、酒館、賣水果之順序答之。,你可没立下此规矩。{p}这样好了，你最后一题请各位婆婆依虔诚、酒馆、卖水果之顺序答之。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20023016",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你可沒立下此規矩。{p}這樣好了，你最後一題請各位婆婆依虔誠、酒館、賣水果之順序答之。",
+      "c": "你可沒立下此規矩。這樣好了,你最後一題請各位婆婆依虔誠、酒館、賣水果之順序答之。",
+      "rq": true,
+      "it": null,
+      "mt": " You didn't make this rule. I'll ask you to answer the last question in the order of piety, tavern, and fruit.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你可没立下此规矩。{p}这样好了，你最后一题请各位婆婆依虔诚、酒馆、卖水果之顺序答之。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

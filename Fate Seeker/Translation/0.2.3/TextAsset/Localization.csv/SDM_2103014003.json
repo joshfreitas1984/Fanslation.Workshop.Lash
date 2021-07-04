@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2103014003",
+  "RawLine": "SDM_2103014003,這有三枚錢幣，你先選正或反面，我擲二枚，你擲一枚。,这有三枚钱币，你先选正或反面，我掷二枚，你掷一枚。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2103014003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這有三枚錢幣，你先選正或反面，我擲二枚，你擲一枚。",
+      "c": "這有三枚錢幣,你先選正或反面,我擲二枚,你擲一枚。",
+      "rq": true,
+      "it": null,
+      "mt": "There are three coins here, you choose heads or tails first, I'll toss two, you toss one.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这有三枚钱币，你先选正或反面，我掷二枚，你掷一枚。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

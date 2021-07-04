@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010084",
+  "RawLine": "TNPC_60010084,【這些佛珠難道是哪個信徒來這裡掉落的嗎？】,【这些佛珠难道是哪个信徒来这里掉落的吗？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010084",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這些佛珠難道是哪個信徒來這裡掉落的嗎？】",
+      "c": "<[>這些佛珠難道是哪個信徒來這裡掉落的嗎？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Did one of the believers drop these beads here? <]>They were dropped by a devotee here?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这些佛珠难道是哪个信徒来这里掉落的吗？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

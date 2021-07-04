@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "READ_0100005",
+  "RawLine": "READ_0100005,難度六\\n仙療丸：木椒根+白茅根+大黃\\n延命丹：當歸+白茅根+大黃\\n\\n癒靈露：地黃+白茅根+大黃\\n固魂漿：車前子+白茅根+大黃,难度六\\n仙疗丸：木椒根+白茅根+大黄\\n延命丹：当归+白茅根+大黄\\n\\n愈灵露：地黄+白茅根+大黄\\n固魂浆：车前子+白茅根+大黄",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "READ_0100005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "難度六\\n仙療丸：木椒根+白茅根+大黃\\n延命丹：當歸+白茅根+大黃\\n\\n癒靈露：地黃+白茅根+大黃\\n固魂漿：車前子+白茅根+大黃",
+      "c": "難度六<<\\n>>仙療丸：木椒根+白茅根+大黃<<\\n>>延命丹：當歸+白茅根+大黃<<\\n>><<\\n>>癒靈露：地黃+白茅根+大黃<<\\n>>固魂漿：車前子+白茅根+大黃",
+      "rq": true,
+      "it": null,
+      "mt": "Difficulty 6<<<\\n>>Xian Healing Pill: Mu Jiao Root + Bai Mao Root + Da Huang<<<\\n>>Yuan Long Life Pill: Angelica Sinensis + Bai Mao Root + Da Huang<<<\\n>><<\\n>>Healing Dew: Di Huang + Bai Mao Root + Da Huang<<<\\n>>Fixing Soul Paste: Che Qian Zi + Bai Mao Root + Da Huang",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "难度六\\n仙疗丸：木椒根+白茅根+大黄\\n延命丹：当归+白茅根+大黄\\n\\n愈灵露：地黄+白茅根+大黄\\n固魂浆：车前子+白茅根+大黄",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

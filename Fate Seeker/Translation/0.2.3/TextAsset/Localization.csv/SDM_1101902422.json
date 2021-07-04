@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101902422",
+  "RawLine": "SDM_1101902422,{fn}小哥，今日雖然認錯人，但事情還是圓滿解決了，辛苦你啦。你是來找這錦囊的吧？拿去吧。,{fn}小哥，今日虽然认错人，但事情还是圆满解决了，辛苦你啦。你是来找这锦囊的吧？拿去吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101902422",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}小哥，今日雖然認錯人，但事情還是圓滿解決了，辛苦你啦。你是來找這錦囊的吧？拿去吧。",
+      "c": "<fn>小哥,今日雖然認錯人,但事情還是圓滿解決了,辛苦你啦。你是來找這錦囊的吧？拿去吧。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>You're the wrong person today, but the matter is resolved successfully. You're looking for this bag, right? Take it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}小哥，今日虽然认错人，但事情还是圆满解决了，辛苦你啦。你是来找这锦囊的吧？拿去吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

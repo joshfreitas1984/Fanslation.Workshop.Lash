@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078267",
+  "RawLine": "TNPC_60078267,【釀藥酒這事倒簡單，我記得{color=#FF0000}開封{/color}有一家{color=#FF0000}酒鋪{/color}，只要把材料給老闆，就可以釀出想要的酒來了。不過配方我可得重調一次，不然釀出一樣難喝的就沒用了。】,【酿药酒这事倒简单，我记得{color=#FF0000}开封{/color}有一家{color=#FF0000}酒铺{/color}，只要把材料给老板，就可以酿出想要的酒来了。不过配方我可得重调一次，不然酿出一样难喝的就没用了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078267",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【釀藥酒這事倒簡單，我記得{color=#FF0000}開封{/color}有一家{color=#FF0000}酒鋪{/color}，只要把材料給老闆，就可以釀出想要的酒來了。不過配方我可得重調一次，不然釀出一樣難喝的就沒用了。】",
+      "c": "<[>釀藥酒這事倒簡單,我記得開封有一家酒鋪,只要把材料給老闆,就可以釀出想要的酒來了。不過配方我可得重調一次,不然釀出一樣難喝的就沒用了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Making herbal wine is easy. I remember there is a wine shop in Kaifeng. But the recipe I have to re-adjust, otherwise it will be useless to make the same bad drink. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【酿药酒这事倒简单，我记得{color=#FF0000}开封{/color}有一家{color=#FF0000}酒铺{/color}，只要把材料给老板，就可以酿出想要的酒来了。不过配方我可得重调一次，不然酿出一样难喝的就没用了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

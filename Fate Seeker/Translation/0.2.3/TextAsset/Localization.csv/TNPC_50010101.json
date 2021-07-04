@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_50010101",
+  "RawLine": "TNPC_50010101,新鮮的魚，剛打撈上岸的。鰒魚、大金鯉、鱸魚通通有，要做膾這也有！鯽魚膾、沙魚膾、魚鰾二色膾，要怎麼膾就怎麼膾！,新鲜的鱼，刚打捞上岸的。鳆鱼、大金鲤、鲈鱼通通有，要做脍这也有！鲫鱼脍、沙鱼脍、鱼鳔二色脍，要怎么脍就怎么脍！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_50010101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "新鮮的魚，剛打撈上岸的。鰒魚、大金鯉、鱸魚通通有，要做膾這也有！鯽魚膾、沙魚膾、魚鰾二色膾，要怎麼膾就怎麼膾！",
+      "c": "新鮮的魚,剛打撈上岸的。鰒魚、大金鯉、鱸魚通通有,要做膾這也有！鯽魚膾、沙魚膾、魚鰾二色膾,要怎麼膾就怎麼膾！",
+      "rq": true,
+      "it": null,
+      "mt": "Fresh fish, just landed. We've got all the fish from the squid, the carp, the perch, and we've got the fish to make the board! We can make any kind of fish you want to make, including carp, sardine, and biscuit!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "新鲜的鱼，刚打捞上岸的。鳆鱼、大金鲤、鲈鱼通通有，要做脍这也有！鲫鱼脍、沙鱼脍、鱼鳔二色脍，要怎么脍就怎么脍！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

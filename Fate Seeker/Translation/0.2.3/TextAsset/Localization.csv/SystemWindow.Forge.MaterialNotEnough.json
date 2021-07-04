@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SystemWindow.Forge.MaterialNotEnough",
+  "RawLine": "SystemWindow.Forge.MaterialNotEnough,當前配方所需主要材料不足，無法進行鍛造。,当前配方所需主要材料不足，无法进行锻造。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SystemWindow.Forge.MaterialNotEnough",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "當前配方所需主要材料不足，無法進行鍛造。",
+      "c": "當前配方所需主要材料不足,無法進行鍛造。",
+      "rq": true,
+      "it": null,
+      "mt": "The main material required for the current recipe is not enough and cannot be forged.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "当前配方所需主要材料不足，无法进行锻造。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

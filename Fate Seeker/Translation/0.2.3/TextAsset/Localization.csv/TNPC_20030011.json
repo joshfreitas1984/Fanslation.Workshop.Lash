@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20030011",
+  "RawLine": "TNPC_20030011,【其實我剛叫了兩壺酒請他，但還沒有付錢，{p}老伯看來還沒發現此事，就交給他買單了，{p}我還是快點去尋寶，免得他發現。】,【其实我刚叫了两壶酒请他，但还没有付钱，{p}老伯看来还没发现此事，就交给他买单了，{p}我还是快点去寻宝，免得他发现。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20030011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【其實我剛叫了兩壺酒請他，但還沒有付錢，{p}老伯看來還沒發現此事，就交給他買單了，{p}我還是快點去尋寶，免得他發現。】",
+      "c": "<[>其實我剛叫了兩壺酒請他,但還沒有付錢,老伯看來還沒發現此事,就交給他買單了,我還是快點去尋寶,免得他發現。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>I actually just ordered two bottles of wine for him, but I haven't paid for them yet, and the old man doesn't seem to have found out about it yet, so I gave him the bill. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【其实我刚叫了两壶酒请他，但还没有付钱，{p}老伯看来还没发现此事，就交给他买单了，{p}我还是快点去寻宝，免得他发现。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

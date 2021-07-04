@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05211_Tip",
+  "RawLine": "ITEM_05211_Tip,釀酒用料，外表細長、黏性弱，常用於製作蘿蔔糕、米粉、飯團等食物。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}黃酒{/color}。{p}釀酒難度：{color=#ff0000}2{/color}。,酿酒用料，外表细长、黏性弱，常用于制作萝卜糕、米粉、饭团等食物。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}黄酒{/color}。{p}酿酒难度：{color=#ff0000}2{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05211_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "釀酒用料，外表細長、黏性弱，常用於製作蘿蔔糕、米粉、飯團等食物。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}黃酒{/color}。{p}釀酒難度：{color=#ff0000}2{/color}。",
+      "c": "釀酒用料,外表細長、黏性弱,常用於製作蘿蔔糕、米粉、飯團等食物。用途：適合釀造黃酒。釀酒難度：2。",
+      "rq": true,
+      "it": null,
+      "mt": "Sake brewing material with long and thin appearance and weak viscosity, often used for making radish cake, rice flour, rice balls and other foods. Use: Suitable for brewing yellow wine. Brewing Difficulty: 2.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酿酒用料，外表细长、黏性弱，常用于制作萝卜糕、米粉、饭团等食物。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}黄酒{/color}。{p}酿酒难度：{color=#ff0000}2{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003079",
+  "RawLine": "TNPC_10003079,我是在{color=#FF0000}杭州白堤的盡頭{/color}撈到這個機關盒的，或許那一帶還有更多好東西。,我是在{color=#FF0000}杭州白堤的尽头{/color}捞到这个机关盒的，或许那一带还有更多好东西。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003079",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我是在{color=#FF0000}杭州白堤的盡頭{/color}撈到這個機關盒的，或許那一帶還有更多好東西。",
+      "c": "我是在杭州白堤的盡頭撈到這個機關盒的,或許那一帶還有更多好東西。",
+      "rq": true,
+      "it": null,
+      "mt": "I found this organ box at the end of the White Embankment in Hangzhou, maybe there are more good things in that area.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我是在{color=#FF0000}杭州白堤的尽头{/color}捞到这个机关盒的，或许那一带还有更多好东西。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

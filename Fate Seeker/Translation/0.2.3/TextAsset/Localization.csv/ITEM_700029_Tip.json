@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700029_Tip",
+  "RawLine": "ITEM_700029_Tip,隋朝畫家展子虔所繪的畫作。跟<color=#FF0000>張青陽寄來的信，放在同一個箱子</color>。,隋朝画家展子虔所绘的画作。跟<color=#FF0000>张青阳寄来的信，放在同一个箱子</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700029_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "隋朝畫家展子虔所繪的畫作。跟<color=#FF0000>張青陽寄來的信，放在同一個箱子</color>。",
+      "c": "隋朝畫家展子虔所繪的畫作。跟張青陽寄來的信,放在同一個箱子。",
+      "rq": true,
+      "it": null,
+      "mt": "A painting by Zhan Ziqian, a painter of the Sui Dynasty. It was put in the same box as the letter sent by Zhang Qingyang.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "隋朝画家展子虔所绘的画作。跟<color=#FF0000>张青阳寄来的信，放在同一个箱子</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

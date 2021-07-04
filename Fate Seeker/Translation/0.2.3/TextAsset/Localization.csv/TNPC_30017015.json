@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30017015",
+  "RawLine": "TNPC_30017015,我已非江湖中人，只是個鄉村漁夫，{color=#FF0000}阿囧{/color}。,我已非江湖中人，只是个乡村渔夫，{color=#FF0000}阿囧{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30017015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我已非江湖中人，只是個鄉村漁夫，{color=#FF0000}阿囧{/color}。",
+      "c": "我已非江湖中人,只是個鄉村漁夫,阿囧。",
+      "rq": true,
+      "it": null,
+      "mt": "I am no longer a member of the jianghu, I am just a village fisherman, awkward.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我已非江湖中人，只是个乡村渔夫，{color=#FF0000}阿囧{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

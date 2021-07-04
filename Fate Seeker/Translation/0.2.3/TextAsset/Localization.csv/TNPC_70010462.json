@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70010462",
+  "RawLine": "TNPC_70010462,【{color=#FF0000}『密穴土道，草甲覆之，刀槍不入，冷熱不侵。』{/color}】,【{color=#FF0000}『密穴土道，草甲覆之，刀枪不入，冷热不侵。』{/color}】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70010462",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FF0000}『密穴土道，草甲覆之，刀槍不入，冷熱不侵。』{/color}】",
+      "c": "<[>『密穴土道,草甲覆之,刀槍不入,冷熱不侵。』<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>'Dense caves and earth paths, covered with grass armor, invulnerable to swords and spears, hot and cold. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FF0000}『密穴土道，草甲覆之，刀枪不入，冷热不侵。』{/color}】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

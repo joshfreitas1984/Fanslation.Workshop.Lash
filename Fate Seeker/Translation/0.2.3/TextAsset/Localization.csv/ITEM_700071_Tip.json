@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700071_Tip",
+  "RawLine": "ITEM_700071_Tip,唐代柳宗元所著。內文：『千山鳥飛絕，萬徑人蹤滅。孤舟蓑笠翁，獨釣寒江雪。』,唐代柳宗元所着。内文：『千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。』",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700071_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唐代柳宗元所著。內文：『千山鳥飛絕，萬徑人蹤滅。孤舟蓑笠翁，獨釣寒江雪。』",
+      "c": "唐代柳宗元所著。內文：『千山鳥飛絕,萬徑人蹤滅。孤舟蓑笠翁,獨釣寒江雪。』",
+      "rq": true,
+      "it": null,
+      "mt": "Written by Liu Zongyuan in the Tang Dynasty. The text: 'Birds fly away from a thousand mountains, and people disappear from a thousand paths. A lonely boat with a straw hat, fishing alone in the cold river snow.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唐代柳宗元所着。内文：『千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。』",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

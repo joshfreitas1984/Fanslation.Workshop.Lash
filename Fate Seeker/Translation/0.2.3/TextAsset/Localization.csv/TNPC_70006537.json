@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006537",
+  "RawLine": "TNPC_70006537,{name}開心點，如果還難過了話，不如做做好事，例如賞我點飯吃。,{name}开心点，如果还难过了话，不如做做好事，例如赏我点饭吃。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006537",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}開心點，如果還難過了話，不如做做好事，例如賞我點飯吃。",
+      "c": "<name>開心點,如果還難過了話,不如做做好事,例如賞我點飯吃。",
+      "rq": true,
+      "it": null,
+      "mt": "<name>Be happy, if you are still sad, why don't you do something good, like giving me some rice?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}开心点，如果还难过了话，不如做做好事，例如赏我点饭吃。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

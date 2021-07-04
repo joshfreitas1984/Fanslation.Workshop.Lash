@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_110108_Tip",
+  "RawLine": "SKILL_110108_Tip,【{color=#FFD700}絕學{/color}】\\n極大範圍攻擊，被擊中的敵人在{color=#00DB00}20{/color}秒內更容易受到傷害。,【{color=#FFD700}绝学{/color}】\\n极大范围攻击，被击中的敌人在{color=#00DB00}20{/color}秒内更容易受到伤害。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_110108_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}絕學{/color}】\\n極大範圍攻擊，被擊中的敵人在{color=#00DB00}20{/color}秒內更容易受到傷害。",
+      "c": "<[>絕學<]><<\\n>>極大範圍攻擊,被擊中的敵人在20秒內更容易受到傷害。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Jedi<]><<\\n>> Extremely wide range attack, enemies hit are more likely to be damaged within 20 seconds.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}绝学{/color}】\\n极大范围攻击，被击中的敌人在{color=#00DB00}20{/color}秒内更容易受到伤害。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

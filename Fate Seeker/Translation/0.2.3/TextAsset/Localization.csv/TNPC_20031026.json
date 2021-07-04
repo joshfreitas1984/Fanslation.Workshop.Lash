@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20031026",
+  "RawLine": "TNPC_20031026,【如果直接抓賊，就能{color=#ff0000}攻他個措手不及，來不及把財寶藏匿起來{/color}。{p}如果騙他們，就能{color=#ff0000}直取賊王，避免過多打鬥{/color}。{p}我該如何應對好呢？】,【如果直接抓贼，就能{color=#ff0000}攻他个措手不及，来不及把财宝藏匿起来{/color}。{p}如果骗他们，就能{color=#ff0000}直取贼王，避免过多打斗{/color}。{p}我该如何应对好呢？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20031026",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【如果直接抓賊，就能{color=#ff0000}攻他個措手不及，來不及把財寶藏匿起來{/color}。{p}如果騙他們，就能{color=#ff0000}直取賊王，避免過多打鬥{/color}。{p}我該如何應對好呢？】",
+      "c": "<[>如果直接抓賊,就能攻他個措手不及,來不及把財寶藏匿起來。如果騙他們,就能直取賊王,避免過多打鬥。我該如何應對好呢？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>If we catch the thief directly, we can catch him by surprise and hide the treasure in time. If you lie to them, you can get the king of thieves and avoid too much fighting. What should I do? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【如果直接抓贼，就能{color=#ff0000}攻他个措手不及，来不及把财宝藏匿起来{/color}。{p}如果骗他们，就能{color=#ff0000}直取贼王，避免过多打斗{/color}。{p}我该如何应对好呢？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

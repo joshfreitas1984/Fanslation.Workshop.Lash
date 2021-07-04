@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074938",
+  "RawLine": "TNPC_60074938,{color=#ff0000}若材料已備妥，我們便回開封鏢局與馮二哥會合。{/color},{color=#ff0000}若材料已备妥，我们便回开封镖局与冯二哥会合。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074938",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}若材料已備妥，我們便回開封鏢局與馮二哥會合。{/color}",
+      "c": "若材料已備妥,我們便回開封鏢局與馮二哥會合。",
+      "rq": true,
+      "it": null,
+      "mt": "If the materials are ready, we will go back to Kaifeng Darts and meet with Brother Feng.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}若材料已备妥，我们便回开封镖局与冯二哥会合。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

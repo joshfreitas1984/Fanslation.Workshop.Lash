@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60006103",
+  "RawLine": "TNPC_60006103,嗯，謝謝{fn}哥，讓你替我跑了這一趟，我相信肯定會越來越好的！,嗯，谢谢{fn}哥，让你替我跑了这一趟，我相信肯定会越来越好的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60006103",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "嗯，謝謝{fn}哥，讓你替我跑了這一趟，我相信肯定會越來越好的！",
+      "c": "嗯,謝謝<fn>哥,讓你替我跑了這一趟,我相信肯定會越來越好的！",
+      "rq": true,
+      "it": null,
+      "mt": "Well, thank you, brother <fn>, for making this trip for me, I'm sure it will get better and better!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "嗯，谢谢{fn}哥，让你替我跑了这一趟，我相信肯定会越来越好的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

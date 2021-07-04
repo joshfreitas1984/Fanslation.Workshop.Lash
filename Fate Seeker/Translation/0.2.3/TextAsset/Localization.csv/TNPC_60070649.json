@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070649",
+  "RawLine": "TNPC_60070649,這位小哥，真不好意思，糖葫蘆賣光了，如果有{color=#FF0000}山楂{/color}的話就能做了。,这位小哥，真不好意思，糖葫芦卖光了，如果有{color=#FF0000}山楂{/color}的话就能做了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070649",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這位小哥，真不好意思，糖葫蘆賣光了，如果有{color=#FF0000}山楂{/color}的話就能做了。",
+      "c": "這位小哥,真不好意思,糖葫蘆賣光了,如果有山楂的話就能做了。",
+      "rq": true,
+      "it": null,
+      "mt": "I'm sorry, I'm out of sugar gourds, but if we have hawthorn, we can make them.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这位小哥，真不好意思，糖葫芦卖光了，如果有{color=#FF0000}山楂{/color}的话就能做了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

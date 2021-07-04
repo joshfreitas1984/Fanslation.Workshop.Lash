@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30066057",
+  "RawLine": "TNPC_30066057,【照大福叔的說詞，{color=#FF0000}那傢伙{/color}好像講了不該講的話，去問問看吧！】,【照大福叔的说词，{color=#FF0000}那家伙{/color}好像讲了不该讲的话，去问问看吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30066057",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【照大福叔的說詞，{color=#FF0000}那傢伙{/color}好像講了不該講的話，去問問看吧！】",
+      "c": "<[>照大福叔的說詞,那傢伙好像講了不該講的話,去問問看吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>According to Uncle Dafu's words, that guy seems to have said something he shouldn't have said, go ask! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【照大福叔的说词，{color=#FF0000}那家伙{/color}好像讲了不该讲的话，去问问看吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60071074",
+  "RawLine": "TNPC_60071074,現在場上十枚硬幣，開正面的數量有{s=4}……{/s}{s=1}四個{/s}！開反面的數量有六個！是『反』可惜了！祝您下一場扭轉乾坤，鴻運發財！,现在场上十枚硬币，开正面的数量有{s=4}……{/s}{s=1}四个{/s}！开反面的数量有六个！是『反』可惜了！祝您下一场扭转乾坤，鸿运发财！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60071074",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "現在場上十枚硬幣，開正面的數量有{s=4}……{/s}{s=1}四個{/s}！開反面的數量有六個！是『反』可惜了！祝您下一場扭轉乾坤，鴻運發財！",
+      "c": "現在場上十枚硬幣,開正面的數量有......四個！開反面的數量有六個！是『反』可惜了！祝您下一場扭轉乾坤,鴻運發財！",
+      "rq": true,
+      "it": null,
+      "mt": "There are ten coins on the field, and the number of heads is ...... Four! There are six reverse coins! It's a pity that it's \"negative\"! I wish you luck and prosperity in the next game!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "现在场上十枚硬币，开正面的数量有{s=4}……{/s}{s=1}四个{/s}！开反面的数量有六个！是『反』可惜了！祝您下一场扭转乾坤，鸿运发财！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

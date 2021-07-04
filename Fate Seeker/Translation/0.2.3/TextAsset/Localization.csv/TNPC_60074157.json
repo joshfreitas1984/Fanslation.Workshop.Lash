@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60074157",
+  "RawLine": "TNPC_60074157,【我拿這東西給他幹嘛？現在趕緊拿奇形鐵針去開牢房的鎖吧！】,【我拿这东西给他干嘛？现在赶紧拿奇形铁针去开牢房的锁吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60074157",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我拿這東西給他幹嘛？現在趕緊拿奇形鐵針去開牢房的鎖吧！】",
+      "c": "<[>我拿這東西給他幹嘛？現在趕緊拿奇形鐵針去開牢房的鎖吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What do I give him this for? Now take the odd-shaped iron needle and open the lock on the cell! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我拿这东西给他干嘛？现在赶紧拿奇形铁针去开牢房的锁吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

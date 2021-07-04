@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60010021",
+  "RawLine": "TNPC_60010021,包子！我好餓！我想吃！我{s=6}……{/s}{p}等等！大娘等等會拿吃的過來，最愛就是他做的包子，可好吃了！,包子！我好饿！我想吃！我{s=6}……{/s}{p}等等！大娘等等会拿吃的过来，最爱就是他做的包子，可好吃了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60010021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "包子！我好餓！我想吃！我{s=6}……{/s}{p}等等！大娘等等會拿吃的過來，最愛就是他做的包子，可好吃了！",
+      "c": "包子！我好餓！我想吃！我......等等！大娘等等會拿吃的過來,最愛就是他做的包子,可好吃了！",
+      "rq": true,
+      "it": null,
+      "mt": "Buns! I'm so hungry! I want to eat! I ...... Wait! Auntie will come with food later, I like his buns, they are delicious!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "包子！我好饿！我想吃！我{s=6}……{/s}{p}等等！大娘等等会拿吃的过来，最爱就是他做的包子，可好吃了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070025",
+  "RawLine": "TNPC_60070025,小夥子你找到水啦？！那真太好了，我就不客氣地喝下了喔？,小伙子你找到水啦？！那真太好了，我就不客气地喝下了喔？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070025",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "小夥子你找到水啦？！那真太好了，我就不客氣地喝下了喔？",
+      "c": "小夥子你找到水啦？！那真太好了,我就不客氣地喝下了喔？",
+      "rq": true,
+      "it": null,
+      "mt": "You found water, little man? That's great, so I'll drink it without any compliments, right?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "小伙子你找到水啦？！那真太好了，我就不客气地喝下了喔？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

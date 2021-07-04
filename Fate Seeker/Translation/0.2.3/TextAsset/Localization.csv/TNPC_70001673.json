@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001673",
+  "RawLine": "TNPC_70001673,這樣下來除了人參以外的藥材都找到了，去{color=#FF0000}開封醫館或藥鋪{/color}買千年人參。,这样下来除了人参以外的药材都找到了，去{color=#FF0000}开封医馆或药铺{/color}买千年人参。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001673",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這樣下來除了人參以外的藥材都找到了，去{color=#FF0000}開封醫館或藥鋪{/color}買千年人參。",
+      "c": "這樣下來除了人參以外的藥材都找到了,去開封醫館或藥鋪買千年人參。",
+      "rq": true,
+      "it": null,
+      "mt": "Then you can find all the herbs except ginseng, and go to Kaifeng Medical Center or medicine shop to buy thousand-year-old ginseng.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这样下来除了人参以外的药材都找到了，去{color=#FF0000}开封医馆或药铺{/color}买千年人参。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

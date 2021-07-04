@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1101902301",
+  "RawLine": "SDM_1101902301,【雖然沒有證據，但薛姨行跡可疑，肯定就是嫌犯！】,【虽然没有证据，但薛姨行迹可疑，肯定就是嫌犯！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1101902301",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【雖然沒有證據，但薛姨行跡可疑，肯定就是嫌犯！】",
+      "c": "<[>雖然沒有證據,但薛姨行跡可疑,肯定就是嫌犯！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>There's no evidence, but Aunt Xue is acting suspiciously, so she's definitely a suspect! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【虽然没有证据，但薛姨行迹可疑，肯定就是嫌犯！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

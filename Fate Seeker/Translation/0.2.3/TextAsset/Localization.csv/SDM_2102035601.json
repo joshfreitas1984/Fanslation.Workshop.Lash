@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102035601",
+  "RawLine": "SDM_2102035601,這個城鎮裡還有{flag=2100490}個容器尚未擊破，有勞施主再找找了。,这个城镇里还有{flag=2100490}个容器尚未击破，有劳施主再找找了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102035601",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這個城鎮裡還有{flag=2100490}個容器尚未擊破，有勞施主再找找了。",
+      "c": "這個城鎮裡還有<flag=2100490>個容器尚未擊破,有勞施主再找找了。",
+      "rq": true,
+      "it": null,
+      "mt": "There is <flag=2100490>a container in this town that has not yet been broken, so please look for it again.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这个城镇里还有{flag=2100490}个容器尚未击破，有劳施主再找找了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

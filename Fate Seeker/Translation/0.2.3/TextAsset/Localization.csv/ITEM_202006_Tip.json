@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_202006_Tip",
+  "RawLine": "ITEM_202006_Tip,空的酒甕，可以拿來釀酒。{p}{p}合成難度：{color=#ff0000}4{/color}。,空的酒瓮，可以拿来酿酒。{p}{p}合成难度：{color=#ff0000}4{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_202006_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "空的酒甕，可以拿來釀酒。{p}{p}合成難度：{color=#ff0000}4{/color}。",
+      "c": "空的酒甕,可以拿來釀酒。合成難度：4。",
+      "rq": true,
+      "it": null,
+      "mt": "Empty wine urns, which can be used to make wine. Synthesis Difficulty: 4.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "空的酒瓮，可以拿来酿酒。{p}{p}合成难度：{color=#ff0000}4{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

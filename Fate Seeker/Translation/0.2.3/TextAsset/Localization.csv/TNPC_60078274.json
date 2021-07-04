@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078274",
+  "RawLine": "TNPC_60078274,【釀藥酒？我記得{color=#FF0000}開封{/color}有一家{color=#FF0000}酒鋪{/color}，只要把材料給老闆，就可以釀出想要的酒來了。】,【酿药酒？我记得{color=#FF0000}开封{/color}有一家{color=#FF0000}酒铺{/color}，只要把材料给老板，就可以酿出想要的酒来了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078274",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【釀藥酒？我記得{color=#FF0000}開封{/color}有一家{color=#FF0000}酒鋪{/color}，只要把材料給老闆，就可以釀出想要的酒來了。】",
+      "c": "<[>釀藥酒？我記得開封有一家酒鋪,只要把材料給老闆,就可以釀出想要的酒來了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Make medicinal wine? I remember there is a liquor shop in Kaifeng where you can make the liquor you want by giving the owner the ingredients. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【酿药酒？我记得{color=#FF0000}开封{/color}有一家{color=#FF0000}酒铺{/color}，只要把材料给老板，就可以酿出想要的酒来了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "BUFF_LRH_Tip",
+  "RawLine": "BUFF_LRH_Tip,梁人昊組隊增益。HP歸零時機率恢復一半最大血量HP並迴避死亡(機率小)。,梁人昊组队增益。HP归零时机率恢复一半最大血量HP并回避死亡(机率小)。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "BUFF_LRH_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "梁人昊組隊增益。HP歸零時機率恢復一半最大血量HP並迴避死亡(機率小)。",
+      "c": "梁人昊組隊增益。HP歸零時機率恢復一半最大血量HP並迴避死亡(機率小)。",
+      "rq": true,
+      "it": null,
+      "mt": "Liang Renhao team gain. chance to recover half max blood HP and evade death when HP goes to zero (small chance).",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "梁人昊组队增益。HP归零时机率恢复一半最大血量HP并回避死亡(机率小)。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

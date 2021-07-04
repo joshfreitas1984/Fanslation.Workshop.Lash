@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20088006",
+  "RawLine": "TNPC_20088006,{fn}兄弟，你回來的正好，這張老闆點完說要去拿錢，要我們在此等他。,{fn}兄弟，你回来的正好，这张老板点完说要去拿钱，要我们在此等他。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20088006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄弟，你回來的正好，這張老闆點完說要去拿錢，要我們在此等他。",
+      "c": "<fn>兄弟,你回來的正好,這張老闆點完說要去拿錢,要我們在此等他。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Brother, you're back just in time, Mr. Zhang finished his order and said he was going to get the money.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄弟，你回来的正好，这张老板点完说要去拿钱，要我们在此等他。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

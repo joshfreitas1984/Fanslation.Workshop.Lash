@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31091101",
+  "RawLine": "TNPC_31091101,{fn}兄，我最近也開始在向師父討教鍛造了，聽說你略有小成，是否可替我指點一二呢？,{fn}兄，我最近也开始在向师父讨教锻造了，听说你略有小成，是否可替我指点一二呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31091101",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}兄，我最近也開始在向師父討教鍛造了，聽說你略有小成，是否可替我指點一二呢？",
+      "c": "<fn>兄,我最近也開始在向師父討教鍛造了,聽說你略有小成,是否可替我指點一二呢？",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>Bro, I have recently started to ask my master for training, and I heard that you have a little success, can you give me some guidance?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}兄，我最近也开始在向师父讨教锻造了，听说你略有小成，是否可替我指点一二呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

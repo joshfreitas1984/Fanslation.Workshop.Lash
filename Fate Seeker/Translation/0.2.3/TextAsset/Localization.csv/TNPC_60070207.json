@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60070207",
+  "RawLine": "TNPC_60070207,【竟然是來找玉珮的？對嘛，我就想我這麼窮，怎麼還有人要來行竊勒？原來是這樣啊！不過{s=6}……{/s}話說回來，究竟是誰要來搶我這個玉珮？】,【竟然是来找玉珮的？对嘛，我就想我这么穷，怎么还有人要来行窃勒？原来是这样啊！不过{s=6}……{/s}话说回来，究竟是谁要来抢我这个玉珮？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60070207",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【竟然是來找玉珮的？對嘛，我就想我這麼窮，怎麼還有人要來行竊勒？原來是這樣啊！不過{s=6}……{/s}話說回來，究竟是誰要來搶我這個玉珮？】",
+      "c": "<[>竟然是來找玉珮的？對嘛,我就想我這麼窮,怎麼還有人要來行竊勒？原來是這樣啊！不過......話說回來,究竟是誰要來搶我這個玉珮？<]>",
+      "rq": true,
+      "it": null,
+      "mt": " <[>How come you're here to find the jade pendant? The first thing that I want to do is to find out if I'm so poor, how come people want to steal? So that's how it is! But ...... I'm not sure who's coming to steal my jade pendant. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【竟然是来找玉珮的？对嘛，我就想我这么穷，怎么还有人要来行窃勒？原来是这样啊！不过{s=6}……{/s}话说回来，究竟是谁要来抢我这个玉珮？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

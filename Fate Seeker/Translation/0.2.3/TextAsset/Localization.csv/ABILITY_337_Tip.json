@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_337_Tip",
+  "RawLine": "ABILITY_337_Tip,依持有金錢獲得額外減傷，最高持有2萬時受到傷害下降<color=#00DB00>20%</color>。,依持有金钱获得额外减伤，最高持有2万时受到伤害下降<color=#00DB00>20%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_337_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "依持有金錢獲得額外減傷，最高持有2萬時受到傷害下降<color=#00DB00>20%</color>。",
+      "c": "依持有金錢獲得額外減傷,最高持有2萬時受到傷害下降20%。",
+      "rq": true,
+      "it": null,
+      "mt": "Gets additional damage reduction based on money held, up to 20% less damage when held up to 20,000.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "依持有金钱获得额外减伤，最高持有2万时受到伤害下降<color=#00DB00>20%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

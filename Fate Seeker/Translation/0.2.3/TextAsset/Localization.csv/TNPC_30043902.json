@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30043902",
+  "RawLine": "TNPC_30043902,我只看到{fn}哥在自家門口進進出出的，其他誰都沒看到。,我只看到{fn}哥在自家门口进进出出的，其他谁都没看到。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30043902",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我只看到{fn}哥在自家門口進進出出的，其他誰都沒看到。",
+      "c": "我只看到<fn>哥在自家門口進進出出的,其他誰都沒看到。",
+      "rq": true,
+      "it": null,
+      "mt": "I only saw <fn>brother going in and out at the door of his house, but I didn't see anyone else.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我只看到{fn}哥在自家门口进进出出的，其他谁都没看到。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

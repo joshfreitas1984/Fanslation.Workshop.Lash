@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20049002",
+  "RawLine": "TNPC_20049002,這位鄉親說的，我不認同，{p}算命師也要過活的，怎能不給錢，{p}如果之後真不準，你們再來討錢！,这位乡亲说的，我不认同，{p}算命师也要过活的，怎能不给钱，{p}如果之后真不准，你们再来讨钱！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20049002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這位鄉親說的，我不認同，{p}算命師也要過活的，怎能不給錢，{p}如果之後真不準，你們再來討錢！",
+      "c": "這位鄉親說的,我不認同,算命師也要過活的,怎能不給錢,如果之後真不準,你們再來討錢！",
+      "rq": true,
+      "it": null,
+      "mt": "I don't agree with what this villager said. The fortune teller has to make a living too, so how can he not pay.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这位乡亲说的，我不认同，{p}算命师也要过活的，怎能不给钱，{p}如果之后真不准，你们再来讨钱！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

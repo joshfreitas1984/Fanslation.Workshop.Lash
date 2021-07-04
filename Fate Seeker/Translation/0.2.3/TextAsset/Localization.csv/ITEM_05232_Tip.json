@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05232_Tip",
+  "RawLine": "ITEM_05232_Tip,釀酒用料，又名冰糖棗，常直接食用，懂得以其釀酒者寡。{p}用途：{color=#ff0000}相當適合{/color}釀造{color=#ff0000}果酒{/color}。{p}合成難度：{color=#ff0000}3{/color}。,酿酒用料，又名冰糖枣，常直接食用，懂得以其酿酒者寡。{p}用途：{color=#ff0000}相当适合{/color}酿造{color=#ff0000}果酒{/color}。{p}合成难度：{color=#ff0000}3{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05232_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "釀酒用料，又名冰糖棗，常直接食用，懂得以其釀酒者寡。{p}用途：{color=#ff0000}相當適合{/color}釀造{color=#ff0000}果酒{/color}。{p}合成難度：{color=#ff0000}3{/color}。",
+      "c": "釀酒用料,又名冰糖棗,常直接食用,懂得以其釀酒者寡。用途：相當適合釀造果酒。合成難度：3。",
+      "rq": true,
+      "it": null,
+      "mt": "These are often eaten directly and are not used for making wine. Uses: Good for making fruit wine. Synthesis difficulty: 3.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酿酒用料，又名冰糖枣，常直接食用，懂得以其酿酒者寡。{p}用途：{color=#ff0000}相当适合{/color}酿造{color=#ff0000}果酒{/color}。{p}合成难度：{color=#ff0000}3{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

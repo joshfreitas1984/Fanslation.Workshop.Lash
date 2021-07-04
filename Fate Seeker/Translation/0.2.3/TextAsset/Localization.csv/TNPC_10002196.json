@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10002196",
+  "RawLine": "TNPC_10002196,【而另一塊磚上刻的詩，只是用來嘲諷這標語的打油詩罷了】,【而另一块砖上刻的诗，只是用来嘲讽这标语的打油诗罢了】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10002196",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【而另一塊磚上刻的詩，只是用來嘲諷這標語的打油詩罷了】",
+      "c": "<[>而另一塊磚上刻的詩,只是用來嘲諷這標語的打油詩罷了<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>And the poem carved on the other brick is just a limerick to mock this slogan<]>.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【而另一块砖上刻的诗，只是用来嘲讽这标语的打油诗罢了】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

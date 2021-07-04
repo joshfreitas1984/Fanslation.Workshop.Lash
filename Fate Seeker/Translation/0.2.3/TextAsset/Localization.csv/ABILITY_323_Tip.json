@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_323_Tip",
+  "RawLine": "ABILITY_323_Tip,對動作被中斷的敵人造成傷害上升<color=#00DB00>30%</color>。,对动作被中断的敌人造成伤害上升<color=#00DB00>30%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_323_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "對動作被中斷的敵人造成傷害上升<color=#00DB00>30%</color>。",
+      "c": "對動作被中斷的敵人造成傷害上升30%。",
+      "rq": true,
+      "it": null,
+      "mt": "Does 30% more damage to enemies whose movement is interrupted.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "对动作被中断的敌人造成伤害上升<color=#00DB00>30%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

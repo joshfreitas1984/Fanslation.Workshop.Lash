@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ABILITY_ALL8_Tip",
+  "RawLine": "ABILITY_ALL8_Tip,閃躲的冷卻時間下降<color=#00DB00>{0:0.00}%</color>。,闪躲的冷却时间下降<color=#00DB00>{0:0.00}%</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ABILITY_ALL8_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "閃躲的冷卻時間下降<color=#00DB00>{0:0.00}%</color>。",
+      "c": "閃躲的冷卻時間下降<0:0.00>%。",
+      "rq": true,
+      "it": null,
+      "mt": "Dodge's cooldown time drops <0:0.00>%.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "闪躲的冷却时间下降<color=#00DB00>{0:0.00}%</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

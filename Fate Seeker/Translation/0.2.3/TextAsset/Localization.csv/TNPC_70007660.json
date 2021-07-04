@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70007660",
+  "RawLine": "TNPC_70007660,【要直接出發呢？或是去{color=#FF0000}打聽一些有關秦文祥的事情{/color}，這樣有助於到東華古道尋人。】,【要直接出发呢？或是去{color=#FF0000}打听一些有关秦文祥的事情{/color}，这样有助于到东华古道寻人。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70007660",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【要直接出發呢？或是去{color=#FF0000}打聽一些有關秦文祥的事情{/color}，這樣有助於到東華古道尋人。】",
+      "c": "<[>要直接出發呢？或是去打聽一些有關秦文祥的事情,這樣有助於到東華古道尋人。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Would you like to go directly? Or do you want to ask about Qin Wenxiang, which will help you find him on the Tung Hua Trail? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【要直接出发呢？或是去{color=#FF0000}打听一些有关秦文祥的事情{/color}，这样有助于到东华古道寻人。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

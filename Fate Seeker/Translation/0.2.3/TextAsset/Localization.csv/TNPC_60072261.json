@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072261",
+  "RawLine": "TNPC_60072261,你不說的話，我就要把瓶子裡的東西倒掉囉{s=6}……{/s}等等，你先別哭啊！,你不说的话，我就要把瓶子里的东西倒掉啰{s=6}……{/s}等等，你先别哭啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072261",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你不說的話，我就要把瓶子裡的東西倒掉囉{s=6}……{/s}等等，你先別哭啊！",
+      "c": "你不說的話,我就要把瓶子裡的東西倒掉囉......等等,你先別哭啊！",
+      "rq": true,
+      "it": null,
+      "mt": "I'll pour out the bottle if you don't say anything ...... Wait, don't cry yet!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你不说的话，我就要把瓶子里的东西倒掉啰{s=6}……{/s}等等，你先别哭啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

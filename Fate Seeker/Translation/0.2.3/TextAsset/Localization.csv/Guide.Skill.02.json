@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "Guide.Skill.02",
+  "RawLine": "Guide.Skill.02,亮起代表裝備中的武器，僅能使用該武器的武學。,亮起代表装备中的武器，仅能使用该武器的武学。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "Guide.Skill.02",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "亮起代表裝備中的武器，僅能使用該武器的武學。",
+      "c": "亮起代表裝備中的武器,僅能使用該武器的武學。",
+      "rq": true,
+      "it": null,
+      "mt": "Light up the weapon in the equipment, only the weapon's martial arts can be used.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "亮起代表装备中的武器，仅能使用该武器的武学。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

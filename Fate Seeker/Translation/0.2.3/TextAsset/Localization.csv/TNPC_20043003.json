@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20043003",
+  "RawLine": "TNPC_20043003,少俠啊，你有所不知，我兒並非是賊啊，{p}我母子是前些日子路過此處被劫，但又無值錢之物，{p}情急之下，我兒力抗賊子，讓賊子吃盡苦頭。,少侠啊，你有所不知，我儿并非是贼啊，{p}我母子是前些日子路过此处被劫，但又无值钱之物，{p}情急之下，我儿力抗贼子，让贼子吃尽苦头。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20043003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "少俠啊，你有所不知，我兒並非是賊啊，{p}我母子是前些日子路過此處被劫，但又無值錢之物，{p}情急之下，我兒力抗賊子，讓賊子吃盡苦頭。",
+      "c": "少俠啊,你有所不知,我兒並非是賊啊,我母子是前些日子路過此處被劫,但又無值錢之物,情急之下,我兒力抗賊子,讓賊子吃盡苦頭。",
+      "rq": true,
+      "it": null,
+      "mt": "You don't know, my son is not a thief, my mother and son were robbed when they passed by here some days ago, but they had nothing valuable.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "少侠啊，你有所不知，我儿并非是贼啊，{p}我母子是前些日子路过此处被劫，但又无值钱之物，{p}情急之下，我儿力抗贼子，让贼子吃尽苦头。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

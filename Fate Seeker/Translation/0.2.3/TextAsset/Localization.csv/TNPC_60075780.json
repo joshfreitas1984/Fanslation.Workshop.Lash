@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60075780",
+  "RawLine": "TNPC_60075780,此處乃我派創建的藏經閣，內部上下有一千三百二十一本書籍，大致上為心經、武功典籍、佛教典籍這三類別，若有想借閱的書本，告知貧僧一聲即可。,此处乃我派创建的藏经阁，内部上下有一千三百二十一本书籍，大致上为心经、武功典籍、佛教典籍这三类别，若有想借阅的书本，告知贫僧一声即可。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60075780",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "此處乃我派創建的藏經閣，內部上下有一千三百二十一本書籍，大致上為心經、武功典籍、佛教典籍這三類別，若有想借閱的書本，告知貧僧一聲即可。",
+      "c": "此處乃我派創建的藏經閣,內部上下有一千三百二十一本書籍,大致上為心經、武功典籍、佛教典籍這三類別,若有想借閱的書本,告知貧僧一聲即可。",
+      "rq": true,
+      "it": null,
+      "mt": "This is the scripture collection created by our sect, and there are 1,321 books in it, generally three categories: Heart Sutra, martial arts text and Buddhist text.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "此处乃我派创建的藏经阁，内部上下有一千三百二十一本书籍，大致上为心经、武功典籍、佛教典籍这三类别，若有想借阅的书本，告知贫僧一声即可。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

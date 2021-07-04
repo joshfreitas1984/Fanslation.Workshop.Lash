@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003260",
+  "RawLine": "TNPC_70003260,【要不是先前的禿驢跟這賊人，也不會受傷，得趕緊把瓶子找出來，再不回去就糟了。】,【要不是先前的秃驴跟这贼人，也不会受伤，得赶紧把瓶子找出来，再不回去就糟了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003260",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【要不是先前的禿驢跟這賊人，也不會受傷，得趕緊把瓶子找出來，再不回去就糟了。】",
+      "c": "<[>要不是先前的禿驢跟這賊人,也不會受傷,得趕緊把瓶子找出來,再不回去就糟了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>If it wasn't for the bald donkey and this thief earlier, we wouldn't have gotten hurt, we have to find the bottle quickly, it would be bad if we don't go back. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【要不是先前的秃驴跟这贼人，也不会受伤，得赶紧把瓶子找出来，再不回去就糟了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

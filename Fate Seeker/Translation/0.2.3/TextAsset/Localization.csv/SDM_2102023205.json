@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102023205",
+  "RawLine": "SDM_2102023205,【糟糕，不是這張紙條嗎？那就試試別張，別得他瘋起來。】,【糟糕，不是这张纸条吗？那就试试别张，别得他疯起来。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102023205",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【糟糕，不是這張紙條嗎？那就試試別張，別得他瘋起來。】",
+      "c": "<[>糟糕,不是這張紙條嗎？那就試試別張,別得他瘋起來。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Oops, not this note? Then try another one, before he goes crazy. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【糟糕，不是这张纸条吗？那就试试别张，别得他疯起来。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

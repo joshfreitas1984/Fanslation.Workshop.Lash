@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70008236",
+  "RawLine": "TNPC_70008236,是啊。{w=1}【這小鬼一定在打什麼鬼主意，先不拆穿他，來看看他要幹嘛。】,是啊。{w=1}【这小鬼一定在打什么鬼主意，先不拆穿他，来看看他要干嘛。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70008236",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "是啊。{w=1}【這小鬼一定在打什麼鬼主意，先不拆穿他，來看看他要幹嘛。】",
+      "c": "是啊。<[>這小鬼一定在打什麼鬼主意,先不拆穿他,來看看他要幹嘛。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "Yes. <[>This kid must be thinking something, let's not expose him, let's see what he wants to do. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "是啊。{w=1}【这小鬼一定在打什么鬼主意，先不拆穿他，来看看他要干嘛。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

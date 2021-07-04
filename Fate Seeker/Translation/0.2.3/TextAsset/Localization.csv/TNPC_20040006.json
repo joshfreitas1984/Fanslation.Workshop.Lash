@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20040006",
+  "RawLine": "TNPC_20040006,說話這句話，賊王就斷氣了。{p}雖沒找到寶藏，但意外的在賊王身上搜出一些錢。{p}還看到一袋沾滿血的黑桑葚，就不拿了。,说话这句话，贼王就断气了。{p}虽没找到宝藏，但意外的在贼王身上搜出一些钱。{p}还看到一袋沾满血的黑桑葚，就不拿了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20040006",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "說話這句話，賊王就斷氣了。{p}雖沒找到寶藏，但意外的在賊王身上搜出一些錢。{p}還看到一袋沾滿血的黑桑葚，就不拿了。",
+      "c": "說話這句話,賊王就斷氣了。雖沒找到寶藏,但意外的在賊王身上搜出一些錢。還看到一袋沾滿血的黑桑葚,就不拿了。",
+      "rq": true,
+      "it": null,
+      "mt": "When he said this, the king of thieves broke off his breath. The first thing you need to do is to find the treasure, but accidentally find some money on the thief's body. The first time I saw a bag of blackberry covered with blood, I didn't take it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "说话这句话，贼王就断气了。{p}虽没找到宝藏，但意外的在贼王身上搜出一些钱。{p}还看到一袋沾满血的黑桑葚，就不拿了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

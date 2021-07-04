@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20063012",
+  "RawLine": "TNPC_20063012,【這裡是虹橋前的酒攤，酒食俱全，看來擺設雅致，別具風情。】,【这里是虹桥前的酒摊，酒食俱全，看来摆设雅致，别具风情。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20063012",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這裡是虹橋前的酒攤，酒食俱全，看來擺設雅致，別具風情。】",
+      "c": "<[>這裡是虹橋前的酒攤,酒食俱全,看來擺設雅致,別具風情。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Here is the wine stall in front of Hongqiao, with all kinds of wine and food, which looks elegantly decorated and unique. <]>The restaurant is located in front of Hongqiao.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这里是虹桥前的酒摊，酒食俱全，看来摆设雅致，别具风情。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

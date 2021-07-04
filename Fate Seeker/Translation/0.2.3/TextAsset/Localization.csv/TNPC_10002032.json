@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10002032",
+  "RawLine": "TNPC_10002032,這條攤販街人多手雜，常有賊人出沒，因此必須反覆巡視。,这条摊贩街人多手杂，常有贼人出没，因此必须反覆巡视。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10002032",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "這條攤販街人多手雜，常有賊人出沒，因此必須反覆巡視。",
+      "c": "這條攤販街人多手雜,常有賊人出沒,因此必須反覆巡視。",
+      "rq": true,
+      "it": null,
+      "mt": "This street is crowded with people and there are often thieves, so you must patrol it repeatedly.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "这条摊贩街人多手杂，常有贼人出没，因此必须反覆巡视。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

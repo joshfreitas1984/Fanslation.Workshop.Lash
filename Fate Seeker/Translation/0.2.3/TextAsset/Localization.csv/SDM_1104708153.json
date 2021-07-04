@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1104708153",
+  "RawLine": "SDM_1104708153,掌門，{ln}大俠，酒菜已經擺好，請兩位移步西殿。,掌门，{ln}大侠，酒菜已经摆好，请两位移步西殿。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1104708153",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "掌門，{ln}大俠，酒菜已經擺好，請兩位移步西殿。",
+      "c": "掌門,<ln>大俠,酒菜已經擺好,請兩位移步西殿。",
+      "rq": true,
+      "it": null,
+      "mt": "The food and drinks are ready, please move to the west hall.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "掌门，{ln}大侠，酒菜已经摆好，请两位移步西殿。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

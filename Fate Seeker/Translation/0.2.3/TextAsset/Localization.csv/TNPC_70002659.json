@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70002659",
+  "RawLine": "TNPC_70002659,唉呀！{fn}，你額頭怎麼這麼燙？看來是得熱病了，不好了，得趕緊躺下休息。,唉呀！{fn}，你额头怎么这么烫？看来是得热病了，不好了，得赶紧躺下休息。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70002659",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "唉呀！{fn}，你額頭怎麼這麼燙？看來是得熱病了，不好了，得趕緊躺下休息。",
+      "c": "唉呀！<fn>,你額頭怎麼這麼燙？看來是得熱病了,不好了,得趕緊躺下休息。",
+      "rq": true,
+      "it": null,
+      "mt": "Ugh! <fn>, why is your forehead so hot? It looks like you have a fever, it's not good, you have to lie down and rest.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "唉呀！{fn}，你额头怎么这么烫？看来是得热病了，不好了，得赶紧躺下休息。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

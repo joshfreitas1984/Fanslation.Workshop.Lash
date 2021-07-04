@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60005520",
+  "RawLine": "TNPC_60005520,【我來看看剛剛摸到甚麼東西了？嗯{s=6}……{/s}竟然是一封{color=#FF0000}信{/color}？那就打開來看看吧。】,【我来看看刚刚摸到什么东西了？嗯{s=6}……{/s}竟然是一封{color=#FF0000}信{/color}？那就打开来看看吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60005520",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我來看看剛剛摸到甚麼東西了？嗯{s=6}……{/s}竟然是一封{color=#FF0000}信{/color}？那就打開來看看吧。】",
+      "c": "<[>我來看看剛剛摸到甚麼東西了？嗯......竟然是一封信？那就打開來看看吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Let me see what I just touched. Hmm ...... It's a letter? Then let's open it and take a look. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我来看看刚刚摸到什么东西了？嗯{s=6}……{/s}竟然是一封{color=#FF0000}信{/color}？那就打开来看看吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

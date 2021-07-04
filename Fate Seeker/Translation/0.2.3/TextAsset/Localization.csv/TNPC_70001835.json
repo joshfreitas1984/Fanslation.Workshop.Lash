@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70001835",
+  "RawLine": "TNPC_70001835,少俠，要從這裡離開，一般尋常的方法是行不通的。到我身旁，你會看到一條離開的路。,少侠，要从这里离开，一般寻常的方法是行不通的。到我身旁，你会看到一条离开的路。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70001835",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "少俠，要從這裡離開，一般尋常的方法是行不通的。到我身旁，你會看到一條離開的路。",
+      "c": "少俠,要從這裡離開,一般尋常的方法是行不通的。到我身旁,你會看到一條離開的路。",
+      "rq": true,
+      "it": null,
+      "mt": "You can't get out of here in the usual way. Come to my side, you will see a way out.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "少侠，要从这里离开，一般寻常的方法是行不通的。到我身旁，你会看到一条离开的路。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

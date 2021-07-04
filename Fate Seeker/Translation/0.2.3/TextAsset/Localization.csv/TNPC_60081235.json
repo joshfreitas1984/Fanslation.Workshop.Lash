@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60081235",
+  "RawLine": "TNPC_60081235,既然{name}少俠心胸如此寬廣，加上兩位掌門都這麼說了，那我也沒異議了！,既然{name}少侠心胸如此宽广，加上两位掌门都这么说了，那我也没异议了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60081235",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "既然{name}少俠心胸如此寬廣，加上兩位掌門都這麼說了，那我也沒異議了！",
+      "c": "既然<name>少俠心胸如此寬廣,加上兩位掌門都這麼說了,那我也沒異議了！",
+      "rq": true,
+      "it": null,
+      "mt": "Since <name>you are so broad-minded, and the two sect leaders have said so, then I have no objection!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "既然{name}少侠心胸如此宽广，加上两位掌门都这么说了，那我也没异议了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

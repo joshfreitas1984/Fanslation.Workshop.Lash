@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130206_Tip",
+  "RawLine": "SKILL_130206_Tip,【{color=#FFD700}增益{/color}】\\n使用期間增加攻擊力和防禦力各{color=#00DB00}30%{/color}，但移動速度減慢一段時間。\\n使用後強制解除{color=#FF0000}醉仙指路{/color}。,【{color=#FFD700}增益{/color}】\\n使用期间增加攻击力和防御力各{color=#00DB00}30%{/color}，但移动速度减慢一段时间。\\n使用后强制解除{color=#FF0000}醉仙指路{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130206_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}增益{/color}】\\n使用期間增加攻擊力和防禦力各{color=#00DB00}30%{/color}，但移動速度減慢一段時間。\\n使用後強制解除{color=#FF0000}醉仙指路{/color}。",
+      "c": "<[>增益<]><<\\n>>使用期間增加攻擊力和防禦力各30%,但移動速度減慢一段時間。<<\\n>>使用後強制解除醉仙指路。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Gain<]><<\\n>>Increases attack and defense power by 30% each during use, but slows movement speed for a while. <<\\n>>Forced to disable Drunken Immortal's Guidance after use.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}增益{/color}】\\n使用期间增加攻击力和防御力各{color=#00DB00}30%{/color}，但移动速度减慢一段时间。\\n使用后强制解除{color=#FF0000}醉仙指路{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

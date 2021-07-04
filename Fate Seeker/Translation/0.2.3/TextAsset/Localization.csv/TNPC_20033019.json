@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20033019",
+  "RawLine": "TNPC_20033019,呵呵，雖然你打敗了我爺倆，{p}但我們大王肯定讓你空手而歸！哈哈！,呵呵，虽然你打败了我爷俩，{p}但我们大王肯定让你空手而归！哈哈！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20033019",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呵呵，雖然你打敗了我爺倆，{p}但我們大王肯定讓你空手而歸！哈哈！",
+      "c": "呵呵,雖然你打敗了我爺倆,但我們大王肯定讓你空手而歸！哈哈！",
+      "rq": true,
+      "it": null,
+      "mt": " Oh, although you have defeated my grandfather and I, our king will definitely let you go home empty-handed! Haha!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呵呵，虽然你打败了我爷俩，{p}但我们大王肯定让你空手而归！哈哈！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

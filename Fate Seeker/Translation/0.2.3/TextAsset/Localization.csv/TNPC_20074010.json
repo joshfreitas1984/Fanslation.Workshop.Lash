@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20074010",
+  "RawLine": "TNPC_20074010,【我該阻止這小孩嗎？{p}但是幫她反而引來官兵就麻煩了，多一事不如少一事，{color=#ff0000}我到底該不該幫她呢？{/color}】,【我该阻止这小孩吗？{p}但是帮她反而引来官兵就麻烦了，多一事不如少一事，{color=#ff0000}我到底该不该帮她呢？{/color}】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20074010",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【我該阻止這小孩嗎？{p}但是幫她反而引來官兵就麻煩了，多一事不如少一事，{color=#ff0000}我到底該不該幫她呢？{/color}】",
+      "c": "<[>我該阻止這小孩嗎？但是幫她反而引來官兵就麻煩了,多一事不如少一事,我到底該不該幫她呢？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>我該阻止這小孩嗎？但是幫她反而引來官兵就麻煩了,多一事不如少一事,我到底該不該幫她呢？<]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【我该阻止这小孩吗？{p}但是帮她反而引来官兵就麻烦了，多一事不如少一事，{color=#ff0000}我到底该不该帮她呢？{/color}】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

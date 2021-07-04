@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20032002",
+  "RawLine": "TNPC_20032002,【還是不想和酒鬼打交道……{p}快點向店小二打聽寶藏之事吧。】,【还是不想和酒鬼打交道……{p}快点向店小二打听宝藏之事吧。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20032002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【還是不想和酒鬼打交道……{p}快點向店小二打聽寶藏之事吧。】",
+      "c": "<[>還是不想和酒鬼打交道......快點向店小二打聽寶藏之事吧。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Still don't want to deal with alcoholics ...... Come on, ask the shopkeeper about the treasure. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【还是不想和酒鬼打交道……{p}快点向店小二打听宝藏之事吧。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

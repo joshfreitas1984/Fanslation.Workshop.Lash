@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20099002",
+  "RawLine": "TNPC_20099002,{fn}，你來的正好，我這新進了女兒紅，保管比釀酒坊那姓徐的傢伙釀的好喝一百倍！你師父肯定會喜歡的！,{fn}，你来的正好，我这新进了女儿红，保管比酿酒坊那姓徐的家伙酿的好喝一百倍！你师父肯定会喜欢的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20099002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}，你來的正好，我這新進了女兒紅，保管比釀酒坊那姓徐的傢伙釀的好喝一百倍！你師父肯定會喜歡的！",
+      "c": "<fn>,你來的正好,我這新進了女兒紅,保管比釀酒坊那姓徐的傢伙釀的好喝一百倍！你師父肯定會喜歡的！",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>, you've come just in time, I've got a new daughter's red here, it's a hundred times better than the one made by that Xu in the brewery! Your master will love it!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}，你来的正好，我这新进了女儿红，保管比酿酒坊那姓徐的家伙酿的好喝一百倍！你师父肯定会喜欢的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003676",
+  "RawLine": "TNPC_10003676,【那人紀錄上所說的寶物就在這{color=#FF0000}後方的水池{/color}中，但...該如何驅走這些蟲...？】,【那人纪录上所说的宝物就在这{color=#FF0000}后方的水池{/color}中，但...该如何驱走这些虫...？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003676",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【那人紀錄上所說的寶物就在這{color=#FF0000}後方的水池{/color}中，但...該如何驅走這些蟲...？】",
+      "c": "<[>那人紀錄上所說的寶物就在這後方的水池中,但...該如何驅走這些蟲...？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>The treasure mentioned in the man's record is in the pool behind here, but... How do I get rid of these bugs...? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【那人纪录上所说的宝物就在这{color=#FF0000}后方的水池{/color}中，但...该如何驱走这些虫...？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

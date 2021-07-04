@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60020044",
+  "RawLine": "TNPC_60020044,那{s=6}……{/s}說出來你們去瘋乞丐窩到底做了甚麼吧？,那{s=6}……{/s}说出来你们去疯乞丐窝到底做了什么吧？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60020044",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "那{s=6}……{/s}說出來你們去瘋乞丐窩到底做了甚麼吧？",
+      "c": "那......說出來你們去瘋乞丐窩到底做了甚麼吧？",
+      "rq": true,
+      "it": null,
+      "mt": "That ...... The first thing you should do is to tell us what you did in the mad beggar's den.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "那{s=6}……{/s}说出来你们去疯乞丐窝到底做了什么吧？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

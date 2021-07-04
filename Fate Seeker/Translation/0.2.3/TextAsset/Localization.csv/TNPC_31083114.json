@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31083114",
+  "RawLine": "TNPC_31083114,感謝{fn}替我找回重要的暗器，這下我又能與小狗子他們抗衡了！,感谢{fn}替我找回重要的暗器，这下我又能与小狗子他们抗衡了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31083114",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "感謝{fn}替我找回重要的暗器，這下我又能與小狗子他們抗衡了！",
+      "c": "感謝<fn>替我找回重要的暗器,這下我又能與小狗子他們抗衡了！",
+      "rq": true,
+      "it": null,
+      "mt": "Thanks to <fn>recovering my important concealed weapon, now I can fight against Puppy and the others again!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "感谢{fn}替我找回重要的暗器，这下我又能与小狗子他们抗衡了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130102_Tip",
+  "RawLine": "SKILL_130102_Tip,【{color=#FFD700}前置{/color}】\\n先使用過{color=#FF0000}蓄流{/color}再使用本招，增傷{color=#00DB00}15%{/color}。\\n,【{color=#FFD700}前置{/color}】\\n先使用过{color=#FF0000}蓄流{/color}再使用本招，增伤{color=#00DB00}15%{/color}。\\n",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130102_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用過{color=#FF0000}蓄流{/color}再使用本招，增傷{color=#00DB00}15%{/color}。\\n",
+      "c": "<[>前置<]><<\\n>>先使用過蓄流再使用本招,增傷15%。<<\\n>>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>>Use this move after using a long stream to increase damage by 15%. <<\\n>>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用过{color=#FF0000}蓄流{/color}再使用本招，增伤{color=#00DB00}15%{/color}。\\n",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

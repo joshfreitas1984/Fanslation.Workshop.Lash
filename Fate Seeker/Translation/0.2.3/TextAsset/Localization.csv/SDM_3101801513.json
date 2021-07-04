@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101801513",
+  "RawLine": "SDM_3101801513,{fn}，今天是你成年之日，大夥兒決定幫你過生辰，這都是你愛吃的菜。,{fn}，今天是你成年之日，大伙儿决定帮你过生辰，这都是你爱吃的菜。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101801513",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{fn}，今天是你成年之日，大夥兒決定幫你過生辰，這都是你愛吃的菜。",
+      "c": "<fn>,今天是你成年之日,大夥兒決定幫你過生辰,這都是你愛吃的菜。",
+      "rq": true,
+      "it": null,
+      "mt": "<fn>, today is your birthday, we decided to help you celebrate your birthday, here are the dishes you like to eat.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{fn}，今天是你成年之日，大伙儿决定帮你过生辰，这都是你爱吃的菜。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

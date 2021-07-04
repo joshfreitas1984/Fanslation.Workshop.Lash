@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60073192",
+  "RawLine": "TNPC_60073192,【這有甚麼稀奇的，我還看過老鷹抓雞勒！】,【这有什么稀奇的，我还看过老鹰抓鸡勒！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60073192",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這有甚麼稀奇的，我還看過老鷹抓雞勒！】",
+      "c": "<[>這有甚麼稀奇的,我還看過老鷹抓雞勒！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What's so unusual about that? I've even seen an eagle catching a chicken! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这有什么稀奇的，我还看过老鹰抓鸡勒！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

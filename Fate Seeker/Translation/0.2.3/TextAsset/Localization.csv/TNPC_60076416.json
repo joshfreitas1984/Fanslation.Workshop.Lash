@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60076416",
+  "RawLine": "TNPC_60076416,鑄劍材料是我委託{color=#FF0000}馬記貨行{/color}的人送來的，{fn}，這件事方才你問過的，看來你也挺累的哦！,铸剑材料是我委托{color=#FF0000}马记货行{/color}的人送来的，{fn}，这件事方才你问过的，看来你也挺累的哦！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60076416",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "鑄劍材料是我委託{color=#FF0000}馬記貨行{/color}的人送來的，{fn}，這件事方才你問過的，看來你也挺累的哦！",
+      "c": "鑄劍材料是我委託馬記貨行的人送來的,<fn>,這件事方才你問過的,看來你也挺累的哦！",
+      "rq": true,
+      "it": null,
+      "mt": "The sword casting materials were sent to me by the people of Ma Ji's goods company, <fn>, you asked me about this earlier.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "铸剑材料是我委托{color=#FF0000}马记货行{/color}的人送来的，{fn}，这件事方才你问过的，看来你也挺累的哦！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

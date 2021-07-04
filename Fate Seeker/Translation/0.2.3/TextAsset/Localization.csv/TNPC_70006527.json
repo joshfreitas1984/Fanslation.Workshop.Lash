@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70006527",
+  "RawLine": "TNPC_70006527,{ln}少俠，是這樣的，近日聽聞有人在三大城見到門主夫人。,{ln}少侠，是这样的，近日听闻有人在三大城见到门主夫人。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70006527",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{ln}少俠，是這樣的，近日聽聞有人在三大城見到門主夫人。",
+      "c": "<ln>少俠,是這樣的,近日聽聞有人在三大城見到門主夫人。",
+      "rq": true,
+      "it": null,
+      "mt": "<ln>You know, I heard recently that someone saw the master's wife in the three major cities.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{ln}少侠，是这样的，近日听闻有人在三大城见到门主夫人。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60003003",
+  "RawLine": "TNPC_60003003,{s=3}哦～{/s}就是你救了我哥喔？{p}那種倒楣鬼啊，就是該回到地府去，免得帶給我們家惡運！,{s=3}哦～{/s}就是你救了我哥喔？{p}那种倒霉鬼啊，就是该回到地府去，免得带给我们家恶运！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60003003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=3}哦～{/s}就是你救了我哥喔？{p}那種倒楣鬼啊，就是該回到地府去，免得帶給我們家惡運！",
+      "c": "哦～就是你救了我哥喔？那種倒楣鬼啊,就是該回到地府去,免得帶給我們家惡運！",
+      "rq": true,
+      "it": null,
+      "mt": " Oh, you're the one who saved my brother, right? That kind of unlucky ghost should go back to hell, so as not to bring bad luck to our family!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=3}哦～{/s}就是你救了我哥喔？{p}那种倒霉鬼啊，就是该回到地府去，免得带给我们家恶运！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

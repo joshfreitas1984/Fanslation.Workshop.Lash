@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20073003",
+  "RawLine": "TNPC_20073003,【看來這輛車{color=#ff0000}在這路口繼續直走了，沒有轉彎{/color}。】,【看来这辆车{color=#ff0000}在这路口继续直走了，没有转弯{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20073003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這輛車{color=#ff0000}在這路口繼續直走了，沒有轉彎{/color}。】",
+      "c": "<[>看來這輛車在這路口繼續直走了,沒有轉彎。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It looks like this car continued straight ahead at this intersection without turning. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这辆车{color=#ff0000}在这路口继续直走了，没有转弯{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

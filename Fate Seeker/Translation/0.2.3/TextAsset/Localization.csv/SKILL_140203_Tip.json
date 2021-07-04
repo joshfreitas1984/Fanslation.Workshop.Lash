@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_140203_Tip",
+  "RawLine": "SKILL_140203_Tip,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}疾風如勁{/color}後，攻擊力增加{color=#00DB00}20%{/color}。\\n近距離攻擊後兼保持距離的攻擊動作。,【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}疾风如劲{/color}后，攻击力增加{color=#00DB00}20%{/color}。\\n近距离攻击后兼保持距离的攻击动作。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_140203_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}疾風如勁{/color}後，攻擊力增加{color=#00DB00}20%{/color}。\\n近距離攻擊後兼保持距離的攻擊動作。",
+      "c": "<[>前置<]><<\\n>>先使用疾風如勁後,攻擊力增加20%。<<\\n>>近距離攻擊後兼保持距離的攻擊動作。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Previously<]><<\\n>>Increases attack power by 20% after using Wind Rushing first. <<\\n>>Attack action that also maintains distance after a close range attack.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n先使用{color=#FF0000}疾风如劲{/color}后，攻击力增加{color=#00DB00}20%{/color}。\\n近距离攻击后兼保持距离的攻击动作。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

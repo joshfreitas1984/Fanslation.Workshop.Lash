@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60075918",
+  "RawLine": "TNPC_60075918,【這書皮上顯示出重複的字跡。如果我的推斷沒錯，只要找出{color=#FF0000}另一本「般若波羅蜜多心經」{/color}，就能知道答案了。】,【这书皮上显示出重复的字迹。如果我的推断没错，只要找出{color=#FF0000}另一本「般若波罗蜜多心经」{/color}，就能知道答案了。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60075918",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這書皮上顯示出重複的字跡。如果我的推斷沒錯，只要找出{color=#FF0000}另一本「般若波羅蜜多心經」{/color}，就能知道答案了。】",
+      "c": "<[>這書皮上顯示出重複的字跡。如果我的推斷沒錯,只要找出另一本「般若波羅蜜多心經」,就能知道答案了。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This book cover shows repetitive handwriting. If my deduction is correct, I can find the answer if I find another book, the Prajnaparamita Sutra. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这书皮上显示出重复的字迹。如果我的推断没错，只要找出{color=#FF0000}另一本「般若波罗蜜多心经」{/color}，就能知道答案了。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20066017",
+  "RawLine": "TNPC_20066017,怎麼？你想家了嗎？{p}你應該接李白的「對影成三人」，{p}想不到你連三題都對不中。,怎么？你想家了吗？{p}你应该接李白的「对影成三人」，{p}想不到你连三题都对不中。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20066017",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "怎麼？你想家了嗎？{p}你應該接李白的「對影成三人」，{p}想不到你連三題都對不中。",
+      "c": "怎麼？你想家了嗎？你應該接李白的「對影成三人」,想不到你連三題都對不中。",
+      "rq": true,
+      "it": null,
+      "mt": "What? Are you homesick? You should have taken Li Bai's \"Three in the shadow\", but you couldn't even get three questions right.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "怎么？你想家了吗？{p}你应该接李白的「对影成三人」，{p}想不到你连三题都对不中。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

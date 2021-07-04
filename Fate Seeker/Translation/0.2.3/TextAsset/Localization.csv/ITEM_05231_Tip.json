@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_05231_Tip",
+  "RawLine": "ITEM_05231_Tip,釀酒用料，味酸、甘甜的水果，用於釀製果酒再好不過了。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}果酒{/color}。{p}合成難度：{color=#ff0000}2{/color}。,酿酒用料，味酸、甘甜的水果，用于酿制果酒再好不过了。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}果酒{/color}。{p}合成难度：{color=#ff0000}2{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_05231_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "釀酒用料，味酸、甘甜的水果，用於釀製果酒再好不過了。{p}用途：{color=#ff0000}適合{/color}釀造{color=#ff0000}果酒{/color}。{p}合成難度：{color=#ff0000}2{/color}。",
+      "c": "釀酒用料,味酸、甘甜的水果,用於釀製果酒再好不過了。用途：適合釀造果酒。合成難度：2。",
+      "rq": true,
+      "it": null,
+      "mt": "Sour, sweet fruit that is perfect for making wine. Uses: Suitable for making fruit wines. Synthesis Difficulty: 2.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "酿酒用料，味酸、甘甜的水果，用于酿制果酒再好不过了。{p}用途：{color=#ff0000}适合{/color}酿造{color=#ff0000}果酒{/color}。{p}合成难度：{color=#ff0000}2{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

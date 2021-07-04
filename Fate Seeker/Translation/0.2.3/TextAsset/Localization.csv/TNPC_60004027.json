@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60004027",
+  "RawLine": "TNPC_60004027,此人命相並非是倒楣啊，而是近期有{color=#FF0000}小人{/color}作祟的緣故。,此人命相并非是倒霉啊，而是近期有{color=#FF0000}小人{/color}作祟的缘故。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60004027",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "此人命相並非是倒楣啊，而是近期有{color=#FF0000}小人{/color}作祟的緣故。",
+      "c": "此人命相並非是倒楣啊,而是近期有小人作祟的緣故。",
+      "rq": true,
+      "it": null,
+      "mt": "This person's fortune is not unlucky, but there is a villain recently.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "此人命相并非是倒霉啊，而是近期有{color=#FF0000}小人{/color}作祟的缘故。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

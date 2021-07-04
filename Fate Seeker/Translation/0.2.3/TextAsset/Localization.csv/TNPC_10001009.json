@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10001009",
+  "RawLine": "TNPC_10001009,雖然我很想吃肉，但也沒有不挑到連生肉都吃。,虽然我很想吃肉，但也没有不挑到连生肉都吃。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10001009",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "雖然我很想吃肉，但也沒有不挑到連生肉都吃。",
+      "c": "雖然我很想吃肉,但也沒有不挑到連生肉都吃。",
+      "rq": true,
+      "it": null,
+      "mt": "Although I want to eat meat, I'm not so picky as to eat raw meat.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "虽然我很想吃肉，但也没有不挑到连生肉都吃。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

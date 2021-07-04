@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_700030_Tip",
+  "RawLine": "ITEM_700030_Tip,因為年代久遠，所以封面破損，書中記載著某種<color=#FF0000>酒的釀造方法</color>。,因为年代久远，所以封面破损，书中记载着某种<color=#FF0000>酒的酿造方法</color>。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_700030_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "因為年代久遠，所以封面破損，書中記載著某種<color=#FF0000>酒的釀造方法</color>。",
+      "c": "因為年代久遠,所以封面破損,書中記載著某種酒的釀造方法。",
+      "rq": true,
+      "it": null,
+      "mt": "The cover is torn because of its age, and the book contains the method of brewing a certain kind of wine.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "因为年代久远，所以封面破损，书中记载着某种<color=#FF0000>酒的酿造方法</color>。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

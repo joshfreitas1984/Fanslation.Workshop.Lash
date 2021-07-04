@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60002011",
+  "RawLine": "TNPC_60002011,{s=20}於是{name}將子千抬至一旁，並馬上叫大夫過來診治。{/s},{s=20}于是{name}将子千抬至一旁，并马上叫大夫过来诊治。{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60002011",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=20}於是{name}將子千抬至一旁，並馬上叫大夫過來診治。{/s}",
+      "c": "於是<name>將子千抬至一旁,並馬上叫大夫過來診治。",
+      "rq": true,
+      "it": null,
+      "mt": "So <name>carried Ziqian to the side and immediately called the doctor to come and treat him.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=20}于是{name}将子千抬至一旁，并马上叫大夫过来诊治。{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

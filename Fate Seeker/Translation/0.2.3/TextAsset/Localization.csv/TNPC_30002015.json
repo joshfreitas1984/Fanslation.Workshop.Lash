@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30002015",
+  "RawLine": "TNPC_30002015,【是要趕走和尚嗎？嗯……和尚要化緣，我身上倒是有個飯糰可以給他呢。該怎麼做呢？】,【是要赶走和尚吗？嗯……和尚要化缘，我身上倒是有个饭团可以给他呢。该怎么做呢？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30002015",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【是要趕走和尚嗎？嗯……和尚要化緣，我身上倒是有個飯糰可以給他呢。該怎麼做呢？】",
+      "c": "<[>是要趕走和尚嗎？嗯......和尚要化緣,我身上倒是有個飯糰可以給他呢。該怎麼做呢？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Is it to drive away the monk? Well ...... I have a rice ball to give to the monk. What should I do? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【是要赶走和尚吗？嗯……和尚要化缘，我身上倒是有个饭团可以给他呢。该怎么做呢？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60078456",
+  "RawLine": "TNPC_60078456,我會吟誦一古詩，並有意{color=#FF0000}漏掉一個字{/color}；然後你再吟一詩，詩中必須有一句說明前詩{color=#FF0000}漏字的原因{/color}。,我会吟诵一古诗，并有意{color=#FF0000}漏掉一个字{/color}；然后你再吟一诗，诗中必须有一句说明前诗{color=#FF0000}漏字的原因{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60078456",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我會吟誦一古詩，並有意{color=#FF0000}漏掉一個字{/color}；然後你再吟一詩，詩中必須有一句說明前詩{color=#FF0000}漏字的原因{/color}。",
+      "c": "我會吟誦一古詩,並有意漏掉一個字；然後你再吟一詩,詩中必須有一句說明前詩漏字的原因。",
+      "rq": true,
+      "it": null,
+      "mt": "I will recite an ancient poem and intentionally leave out one word; then you recite another poem, and there must be a line in the poem to explain the reason for the missing word.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我会吟诵一古诗，并有意{color=#FF0000}漏掉一个字{/color}；然后你再吟一诗，诗中必须有一句说明前诗{color=#FF0000}漏字的原因{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

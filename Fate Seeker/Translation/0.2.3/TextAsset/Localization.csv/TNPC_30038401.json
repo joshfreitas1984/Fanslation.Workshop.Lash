@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30038401",
+  "RawLine": "TNPC_30038401,師兄，{ln}老弟，離開封大約剩一個時辰的路程了，我們加緊腳步吧，以免再惹上麻煩事。,师兄，{ln}老弟，离开封大约剩一个时辰的路程了，我们加紧脚步吧，以免再惹上麻烦事。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30038401",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "師兄，{ln}老弟，離開封大約剩一個時辰的路程了，我們加緊腳步吧，以免再惹上麻煩事。",
+      "c": "師兄,<ln>老弟,離開封大約剩一個時辰的路程了,我們加緊腳步吧,以免再惹上麻煩事。",
+      "rq": true,
+      "it": null,
+      "mt": "Brother, <ln>brother, we have about one hour to go to Feng, let's hurry up, so as not to get into trouble again.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "师兄，{ln}老弟，离开封大约剩一个时辰的路程了，我们加紧脚步吧，以免再惹上麻烦事。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

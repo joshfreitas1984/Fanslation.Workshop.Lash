@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16000021",
+  "RawLine": "TNPC_16000021,【裡頭的東西？她指的是水井坊以葡萄酒名義發鏢的貨物，也就是這項東西……】,【里头的东西？她指的是水井坊以葡萄酒名义发镖的货物，也就是这项东西……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16000021",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【裡頭的東西？她指的是水井坊以葡萄酒名義發鏢的貨物，也就是這項東西……】",
+      "c": "<[>裡頭的東西？她指的是水井坊以葡萄酒名義發鏢的貨物,也就是這項東西......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>What's inside? She is referring to the goods issued by Shui Jing Fang under the name of wine, which is this stuff ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【里头的东西？她指的是水井坊以葡萄酒名义发镖的货物，也就是这项东西……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

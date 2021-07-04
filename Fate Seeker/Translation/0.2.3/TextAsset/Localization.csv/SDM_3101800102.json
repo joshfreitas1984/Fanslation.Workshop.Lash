@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101800102",
+  "RawLine": "SDM_3101800102,【先去{color=#cc0000}糧倉{/color}找正哥買些{color=#cc0000}麵粉{/color}吧！】,【先去{color=#cc0000}粮仓{/color}找正哥买些{color=#cc0000}面粉{/color}吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101800102",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【先去{color=#cc0000}糧倉{/color}找正哥買些{color=#cc0000}麵粉{/color}吧！】",
+      "c": "<[>先去糧倉找正哥買些麵粉吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Go to the granary and buy some flour from Zheng first! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【先去{color=#cc0000}粮仓{/color}找正哥买些{color=#cc0000}面粉{/color}吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

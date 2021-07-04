@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31004002",
+  "RawLine": "TNPC_31004002,【這乞丐不行乞，反而像是在等著誰從衙門出來……】,【这乞丐不行乞，反而像是在等着谁从衙门出来……】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31004002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這乞丐不行乞，反而像是在等著誰從衙門出來……】",
+      "c": "<[>這乞丐不行乞,反而像是在等著誰從衙門出來......<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This beggar is not begging, but seems to be waiting for someone to come out from the government office ...... <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这乞丐不行乞，反而像是在等着谁从衙门出来……】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

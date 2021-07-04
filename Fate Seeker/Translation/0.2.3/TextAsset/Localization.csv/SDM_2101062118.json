@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2101062118",
+  "RawLine": "SDM_2101062118,我說的可是{color=#ff0000}金蠶{/color}啊！不是金子做的，是活的蟲子啊！,我说的可是{color=#ff0000}金蚕{/color}啊！不是金子做的，是活的虫子啊！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2101062118",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我說的可是{color=#ff0000}金蠶{/color}啊！不是金子做的，是活的蟲子啊！",
+      "c": "我說的可是金蠶啊！不是金子做的,是活的蟲子啊！",
+      "rq": true,
+      "it": null,
+      "mt": "I'm talking about gold silk! I'm not talking about gold, it's a live bug!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我说的可是{color=#ff0000}金蚕{/color}啊！不是金子做的，是活的虫子啊！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

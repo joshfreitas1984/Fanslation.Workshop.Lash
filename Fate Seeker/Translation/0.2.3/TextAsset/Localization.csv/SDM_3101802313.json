@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_3101802313",
+  "RawLine": "SDM_3101802313,姐姐也真是不容易，居然要替{fn}他收拾這麼多事。,姐姐也真是不容易，居然要替{fn}他收拾这么多事。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_3101802313",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "姐姐也真是不容易，居然要替{fn}他收拾這麼多事。",
+      "c": "姐姐也真是不容易,居然要替<fn>他收拾這麼多事。",
+      "rq": true,
+      "it": null,
+      "mt": "It's not easy for my sister to clean up so much for <fn>him.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "姐姐也真是不容易，居然要替{fn}他收拾这么多事。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

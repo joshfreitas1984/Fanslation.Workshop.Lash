@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20007022",
+  "RawLine": "TNPC_20007022,{s=10}這下我可頭痛了，{/s}少俠、你覺得何者會是我生母呢？,{s=10}这下我可头痛了，{/s}少侠、你觉得何者会是我生母呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20007022",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=10}這下我可頭痛了，{/s}少俠、你覺得何者會是我生母呢？",
+      "c": "這下我可頭痛了,少俠、你覺得何者會是我生母呢？",
+      "rq": true,
+      "it": null,
+      "mt": " Now I have a headache, who do you think is my biological mother?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=10}这下我可头痛了，{/s}少侠、你觉得何者会是我生母呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

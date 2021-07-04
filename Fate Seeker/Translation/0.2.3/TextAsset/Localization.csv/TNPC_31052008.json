@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31052008",
+  "RawLine": "TNPC_31052008,【這玉珮……雖然不是什麼上等貨，但是還是可拿去典當換點錢的。】,【这玉珮……虽然不是什么上等货，但是还是可拿去典当换点钱的。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31052008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【這玉珮……雖然不是什麼上等貨，但是還是可拿去典當換點錢的。】",
+      "c": "<[>這玉珮......雖然不是什麼上等貨,但是還是可拿去典當換點錢的。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>This jade palace ...... <[>This jade pendant  is not the best item, but it can be pawned for some money. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【这玉珮……虽然不是什么上等货，但是还是可拿去典当换点钱的。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

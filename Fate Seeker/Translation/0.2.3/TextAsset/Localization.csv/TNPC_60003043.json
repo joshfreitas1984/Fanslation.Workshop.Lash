@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60003043",
+  "RawLine": "TNPC_60003043,我現在身體不大舒服，{name}兄有想問的事情稍晚再來問我吧！,我现在身体不大舒服，{name}兄有想问的事情稍晚再来问我吧！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60003043",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我現在身體不大舒服，{name}兄有想問的事情稍晚再來問我吧！",
+      "c": "我現在身體不大舒服,<name>兄有想問的事情稍晚再來問我吧！",
+      "rq": true,
+      "it": null,
+      "mt": "I'm not feeling well now, so come back later if you have something to ask me!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我现在身体不大舒服，{name}兄有想问的事情稍晚再来问我吧！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

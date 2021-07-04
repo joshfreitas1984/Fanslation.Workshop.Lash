@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60004001",
+  "RawLine": "TNPC_60004001,{s=6}啊……{/s}少俠，今日之事真是謝謝你了！還敢問少俠如何稱呼呢？,{s=6}啊……{/s}少侠，今日之事真是谢谢你了！还敢问少侠如何称呼呢？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60004001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=6}啊……{/s}少俠，今日之事真是謝謝你了！還敢問少俠如何稱呼呢？",
+      "c": "啊......少俠,今日之事真是謝謝你了！還敢問少俠如何稱呼呢？",
+      "rq": true,
+      "it": null,
+      "mt": " ah ...... I'd like to thank you for what happened today. How do you call yourself a young warrior?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=6}啊……{/s}少侠，今日之事真是谢谢你了！还敢问少侠如何称呼呢？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Achievement.ReleaseRate",
+  "RawLine": "System.Achievement.ReleaseRate,已達成 <color=#ffffff> {0} / {1} </color> 項成就：,已达成 <color=#ffffff> {0} / {1} </color> 项成就：",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Achievement.ReleaseRate",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "已達成 <color=#ffffff> {0} / {1} </color> 項成就：",
+      "c": "已達成  <0> / <1>  項成就：",
+      "rq": true,
+      "it": null,
+      "mt": " Achieved <0> / <1> Item Achievement.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "已达成 <color=#ffffff> {0} / {1} </color> 项成就：",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

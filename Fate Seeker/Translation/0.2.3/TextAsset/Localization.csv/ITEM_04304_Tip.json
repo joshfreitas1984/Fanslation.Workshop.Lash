@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "ITEM_04304_Tip",
+  "RawLine": "ITEM_04304_Tip,能夠快速癒合外傷的藥，搭配其他傷藥使用效果更佳。{p}{p}特殊功能：清除{color=#00DB00}出血{/color}。,能够快速愈合外伤的药，搭配其他伤药使用效果更佳。{p}{p}特殊功能：清除{color=#00DB00}出血{/color}。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "ITEM_04304_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "能夠快速癒合外傷的藥，搭配其他傷藥使用效果更佳。{p}{p}特殊功能：清除{color=#00DB00}出血{/color}。",
+      "c": "能夠快速癒合外傷的藥,搭配其他傷藥使用效果更佳。特殊功能：清除出血。",
+      "rq": true,
+      "it": null,
+      "mt": "A medicine that can heal wounds quickly and is more effective when used with other wound medicines. Special function: Clears bleeding.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "能够快速愈合外伤的药，搭配其他伤药使用效果更佳。{p}{p}特殊功能：清除{color=#00DB00}出血{/color}。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16001140",
+  "RawLine": "TNPC_16001140,【對了，閱讀我手上這本藥王谷藥典，應該就能夠查到相關的情報。】,【对了，阅读我手上这本药王谷药典，应该就能够查到相关的情报。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16001140",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【對了，閱讀我手上這本藥王谷藥典，應該就能夠查到相關的情報。】",
+      "c": "<[>對了,閱讀我手上這本藥王谷藥典,應該就能夠查到相關的情報。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Oh yes, I should be able to find the relevant information by reading the Yakult Valley Pharmacopoeia in my hand. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【对了，阅读我手上这本药王谷药典，应该就能够查到相关的情报。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

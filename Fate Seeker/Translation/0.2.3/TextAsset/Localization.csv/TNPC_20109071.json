@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20109071",
+  "RawLine": "TNPC_20109071,你想釀冬棗酒啊？我記得這種酒裡，通常有{color=#ff0000}冬棗和橡子{/color}的氣味。,你想酿冬枣酒啊？我记得这种酒里，通常有{color=#ff0000}冬枣和橡子{/color}的气味。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20109071",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你想釀冬棗酒啊？我記得這種酒裡，通常有{color=#ff0000}冬棗和橡子{/color}的氣味。",
+      "c": "你想釀冬棗酒啊？我記得這種酒裡,通常有冬棗和橡子的氣味。",
+      "rq": true,
+      "it": null,
+      "mt": "Do you want to make a winter date wine? I remember that this kind of wine usually has the smell of dates and acorns in it.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你想酿冬枣酒啊？我记得这种酒里，通常有{color=#ff0000}冬枣和橡子{/color}的气味。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

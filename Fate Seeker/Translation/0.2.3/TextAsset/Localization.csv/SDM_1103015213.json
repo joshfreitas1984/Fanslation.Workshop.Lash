@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_1103015213",
+  "RawLine": "SDM_1103015213,【趕緊將這兩者組合成{color=#FF0000}驅蟲火把{/color}吧！】,【赶紧将这两者组合成{color=#FF0000}驱虫火把{/color}吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_1103015213",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【趕緊將這兩者組合成{color=#FF0000}驅蟲火把{/color}吧！】",
+      "c": "<[>趕緊將這兩者組合成驅蟲火把吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Combine these two items into an insect repellent torch! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【赶紧将这两者组合成{color=#FF0000}驱虫火把{/color}吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

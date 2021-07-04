@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60050008",
+  "RawLine": "TNPC_60050008,【看來這瘋乞丐的病非常可怕，還是趕緊離開這吧！】,【看来这疯乞丐的病非常可怕，还是赶紧离开这吧！】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60050008",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【看來這瘋乞丐的病非常可怕，還是趕緊離開這吧！】",
+      "c": "<[>看來這瘋乞丐的病非常可怕,還是趕緊離開這吧！<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>It seems that this crazy beggar's disease is very terrible, so let's leave here quickly! <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【看来这疯乞丐的病非常可怕，还是赶紧离开这吧！】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

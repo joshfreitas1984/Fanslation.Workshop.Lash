@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_16000023",
+  "RawLine": "TNPC_16000023,【沒錯，就是這個怪草。看這女人神秘兮兮的樣子，難不成這草不是釀酒用的？】,【没错，就是这个怪草。看这女人神秘兮兮的样子，难不成这草不是酿酒用的？】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_16000023",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【沒錯，就是這個怪草。看這女人神秘兮兮的樣子，難不成這草不是釀酒用的？】",
+      "c": "<[>沒錯,就是這個怪草。看這女人神秘兮兮的樣子,難不成這草不是釀酒用的？<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Yes, it's this weird grass. The woman's mysterious look, could it be that this grass is not used for brewing wine? <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【没错，就是这个怪草。看这女人神秘兮兮的样子，难不成这草不是酿酒用的？】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

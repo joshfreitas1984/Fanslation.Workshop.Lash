@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31076002",
+  "RawLine": "TNPC_31076002,接著要請你釀造{color=#cc0000}瑞露酒{/color}，這是難度約為{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，品質方面也拜託了。,接着要请你酿造{color=#cc0000}瑞露酒{/color}，这是难度约为{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，品质方面也拜托了。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31076002",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "接著要請你釀造{color=#cc0000}瑞露酒{/color}，這是難度約為{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，品質方面也拜託了。",
+      "c": "接著要請你釀造瑞露酒,這是難度約為六的白酒,品質方面也拜託了。",
+      "rq": true,
+      "it": null,
+      "mt": "Next, I'll ask you to brew Rui Lu, which is a white wine with a difficulty level of about 6, and I'll take care of the quality.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "接着要请你酿造{color=#cc0000}瑞露酒{/color}，这是难度约为{color=#cc0000}六{/color}的{color=#cc0000}白酒{/color}，品质方面也拜托了。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

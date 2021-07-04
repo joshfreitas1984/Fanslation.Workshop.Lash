@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SDM_2102007697",
+  "RawLine": "SDM_2102007697,{color=#ff0000}需要去藥鋪買「莨菪」和「曼陀羅花」各一。{/color},{color=#ff0000}需要去药铺买「莨菪」和「曼陀罗花」各一。{/color}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SDM_2102007697",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{color=#ff0000}需要去藥鋪買「莨菪」和「曼陀羅花」各一。{/color}",
+      "c": "需要去藥鋪買「莨菪」和「曼陀羅花」各一。",
+      "rq": true,
+      "it": null,
+      "mt": "You need to go to the pharmacy and buy one each of \"scopolamine\" and \"mandrake flower\".",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{color=#ff0000}需要去药铺买「莨菪」和「曼陀罗花」各一。{/color}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

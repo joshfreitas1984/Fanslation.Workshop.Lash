@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20036007",
+  "RawLine": "TNPC_20036007,果然傳言是假的嗎？{p}我會將你們押到官府去，最好別讓我發現你們說謊。,果然传言是假的吗？{p}我会将你们押到官府去，最好别让我发现你们说谎。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20036007",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "果然傳言是假的嗎？{p}我會將你們押到官府去，最好別讓我發現你們說謊。",
+      "c": "果然傳言是假的嗎？我會將你們押到官府去,最好別讓我發現你們說謊。",
+      "rq": true,
+      "it": null,
+      "mt": " Is the rumor really false? I will take you to the government, and you better not let me find out that you are lying.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "果然传言是假的吗？{p}我会将你们押到官府去，最好别让我发现你们说谎。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_30066022",
+  "RawLine": "TNPC_30066022,且慢，三派向來排外，而其聖地更是不易靠近，{name}小弟你有什麼打算嗎？,且慢，三派向来排外，而其圣地更是不易靠近，{name}小弟你有什么打算吗？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_30066022",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "且慢，三派向來排外，而其聖地更是不易靠近，{name}小弟你有什麼打算嗎？",
+      "c": "且慢,三派向來排外,而其聖地更是不易靠近,<name>小弟你有什麼打算嗎？",
+      "rq": true,
+      "it": null,
+      "mt": "Wait, the three sects have always been exclusive, and their sacred places are not easy to approach, <name>Do you have any plans?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "且慢，三派向来排外，而其圣地更是不易靠近，{name}小弟你有什么打算吗？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

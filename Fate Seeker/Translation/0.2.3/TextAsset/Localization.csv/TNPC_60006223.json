@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60006223",
+  "RawLine": "TNPC_60006223,{s=20}於是子千的父親堅持斷決父子關係，子千只好無奈地準備離去。{/s},{s=20}于是子千的父亲坚持断决父子关系，子千只好无奈地准备离去。{/s}",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60006223",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{s=20}於是子千的父親堅持斷決父子關係，子千只好無奈地準備離去。{/s}",
+      "c": "於是子千的父親堅持斷決父子關係,子千只好無奈地準備離去。",
+      "rq": true,
+      "it": null,
+      "mt": "So Ziqian's father insisted on breaking off the relationship between father and son, and Ziqian had no choice but to prepare to leave.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{s=20}于是子千的父亲坚持断决父子关系，子千只好无奈地准备离去。{/s}",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

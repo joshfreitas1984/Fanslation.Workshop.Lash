@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_10003836",
+  "RawLine": "TNPC_10003836,【什麼事都沒有發生，看樣子是令牌的{color=#FF0000}擺放有誤{/color}。】,【什么事都没有发生，看样子是令牌的{color=#FF0000}摆放有误{/color}。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_10003836",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【什麼事都沒有發生，看樣子是令牌的{color=#FF0000}擺放有誤{/color}。】",
+      "c": "<[>什麼事都沒有發生,看樣子是令牌的擺放有誤。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Nothing happened, it looks like the token was misplaced. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【什么事都没有发生，看样子是令牌的{color=#FF0000}摆放有误{/color}。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005856",
+  "RawLine": "TNPC_70005856,無、無妨，先恭賀{name}兄弟獲勝，我有事先行離開了！,无、无妨，先恭贺{name}兄弟获胜，我有事先行离开了！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005856",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "無、無妨，先恭賀{name}兄弟獲勝，我有事先行離開了！",
+      "c": "無、無妨,先恭賀<name>兄弟獲勝,我有事先行離開了！",
+      "rq": true,
+      "it": null,
+      "mt": "No, no harm, congratulate <name>brother on his victory, I have to leave first!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "无、无妨，先恭贺{name}兄弟获胜，我有事先行离开了！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

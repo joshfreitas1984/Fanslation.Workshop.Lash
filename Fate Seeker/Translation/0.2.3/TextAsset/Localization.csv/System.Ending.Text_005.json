@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "System.Ending.Text_005",
+  "RawLine": "System.Ending.Text_005,程式總監\\n謝鎮嶽\\n\\n程式組\\n林億忠\\t\\t張晉昌\\n,程式总监\\n谢镇岳\\n\\n程式组\\n林亿忠\\t\\t张晋昌\\n",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "System.Ending.Text_005",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "程式總監\\n謝鎮嶽\\n\\n程式組\\n林億忠\\t\\t張晉昌\\n",
+      "c": "程式總監<<\\n>>謝鎮嶽<<\\n>><<\\n>>程式組<<\\n>>林億忠<\\t><\\t>張晉昌<<\\n>>",
+      "rq": true,
+      "it": null,
+      "mt": "Programming Director <<\\n>>Jenny Hsieh<<\\n>> <<\\n>>Programming Team<<\\n>>Yi-Chung Lin<\\t><\\t>Chin-Chang Chang<\\n>>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "程式总监\\n谢镇岳\\n\\n程式组\\n林亿忠\\t\\t张晋昌\\n",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

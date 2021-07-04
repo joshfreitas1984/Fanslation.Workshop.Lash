@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70003398",
+  "RawLine": "TNPC_70003398,{name}！幸好你還活著！之前在劍鋒派發生了誤會，害你被追捕。我後來一直找不到你，你沒事吧？,{name}！幸好你还活着！之前在剑锋派发生了误会，害你被追捕。我后来一直找不到你，你没事吧？",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70003398",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "{name}！幸好你還活著！之前在劍鋒派發生了誤會，害你被追捕。我後來一直找不到你，你沒事吧？",
+      "c": "<name>！幸好你還活著！之前在劍鋒派發生了誤會,害你被追捕。我後來一直找不到你,你沒事吧？",
+      "rq": true,
+      "it": null,
+      "mt": "<name>! Luckily you are still alive! There was a misunderstanding in the Sword Fighter Sect, and you were hunted down. I couldn't find you afterwards, are you okay?",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "{name}！幸好你还活着！之前在剑锋派发生了误会，害你被追捕。我后来一直找不到你，你没事吧？",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

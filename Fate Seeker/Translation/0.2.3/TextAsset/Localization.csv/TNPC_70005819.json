@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70005819",
+  "RawLine": "TNPC_70005819,哈哈哈，想較量的話就盡管上吧！我{name}沒在怕的！,哈哈哈，想较量的话就尽管上吧！我{name}没在怕的！",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70005819",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "哈哈哈，想較量的話就盡管上吧！我{name}沒在怕的！",
+      "c": "哈哈哈,想較量的話就盡管上吧！我<name>沒在怕的！",
+      "rq": true,
+      "it": null,
+      "mt": "Hahahaha, if you want to fight, go ahead! I <name>am not afraid!",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "哈哈哈，想较量的话就尽管上吧！我{name}没在怕的！",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

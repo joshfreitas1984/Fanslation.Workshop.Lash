@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "HEART_04005_Tip3",
+  "RawLine": "HEART_04005_Tip3,<color=#EFD8B0>當身上有負面狀態時，每秒額外回復 <color=#33ff33>{0:0.0}%</color> 生命。</color>,<color=#EFD8B0>当身上有负面状态时，每秒额外回复 <color=#33ff33>{0:0.0}%</color> 生命。</color>",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "HEART_04005_Tip3",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "<color=#EFD8B0>當身上有負面狀態時，每秒額外回復 <color=#33ff33>{0:0.0}%</color> 生命。</color>",
+      "c": "當身上有負面狀態時,每秒額外回復 <0:0.0>% 生命。",
+      "rq": true,
+      "it": null,
+      "mt": "Restores an additional <0:0.0>% life per second when a negative state is present.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "<color=#EFD8B0>当身上有负面状态时，每秒额外回复 <color=#33ff33>{0:0.0}%</color> 生命。</color>",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

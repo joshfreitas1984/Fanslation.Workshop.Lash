@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20063003",
+  "RawLine": "TNPC_20063003,【嗯？這個甕片……漆色和紋樣，很像當時裝怪草的酒甕，{p}但只靠這一塊碎片，想不起來那酒甕的樣子，{p}至少要{color=#ff0000}找到四片{/color}才能拼湊出樣子。】,【嗯？这个瓮片……漆色和纹样，很像当时装怪草的酒瓮，{p}但只靠这一块碎片，想不起来那酒瓮的样子，{p}至少要{color=#ff0000}找到四片{/color}才能拼凑出样子。】",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20063003",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【嗯？這個甕片……漆色和紋樣，很像當時裝怪草的酒甕，{p}但只靠這一塊碎片，想不起來那酒甕的樣子，{p}至少要{color=#ff0000}找到四片{/color}才能拼湊出樣子。】",
+      "c": "<[>嗯？這個甕片......漆色和紋樣,很像當時裝怪草的酒甕,但只靠這一塊碎片,想不起來那酒甕的樣子,至少要找到四片才能拼湊出樣子。<]>",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Huh? This urn piece ...... The color of the paint and the pattern look like the wine urn that held the strange grass at that time, but with just this piece, I can't remember what the wine urn looked like, I need to find at least four pieces to put together the pattern. <]>",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【嗯？这个瓮片……漆色和纹样，很像当时装怪草的酒瓮，{p}但只靠这一块碎片，想不起来那酒瓮的样子，{p}至少要{color=#ff0000}找到四片{/color}才能拼凑出样子。】",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

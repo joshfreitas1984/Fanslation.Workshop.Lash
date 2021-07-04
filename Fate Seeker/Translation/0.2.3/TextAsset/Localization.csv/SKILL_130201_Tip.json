@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130201_Tip",
+  "RawLine": "SKILL_130201_Tip,【{color=#FFD700}前置{/color}】\\n往前方橫掃的小範圍攻擊技巧。,【{color=#FFD700}前置{/color}】\\n往前方横扫的小范围攻击技巧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130201_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}前置{/color}】\\n往前方橫掃的小範圍攻擊技巧。",
+      "c": "<[>前置<]><<\\n>>往前方橫掃的小範圍攻擊技巧。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Front<]><<\\n>> A small area attack technique that sweeps forward.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}前置{/color}】\\n往前方横扫的小范围攻击技巧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

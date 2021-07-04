@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_31043401",
+  "RawLine": "TNPC_31043401,有些積水的桶子…裡面似乎還有些蚊子跟小蟲……,有些积水的桶子…里面似乎还有些蚊子跟小虫……",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_31043401",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "有些積水的桶子…裡面似乎還有些蚊子跟小蟲……",
+      "c": "有些積水的桶子...裡面似乎還有些蚊子跟小蟲......",
+      "rq": true,
+      "it": null,
+      "mt": "There are some buckets of water... There seems to be some mosquitoes and bugs inside ......",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "有些积水的桶子…里面似乎还有些蚊子跟小虫……",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

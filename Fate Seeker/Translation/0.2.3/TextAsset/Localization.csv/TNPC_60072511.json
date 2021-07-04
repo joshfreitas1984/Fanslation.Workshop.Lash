@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_60072511",
+  "RawLine": "TNPC_60072511,你我兄妹，不必如此多禮，我早把{fn}當自己兒子了，用不著和我道謝。,你我兄妹，不必如此多礼，我早把{fn}当自己儿子了，用不着和我道谢。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_60072511",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "你我兄妹，不必如此多禮，我早把{fn}當自己兒子了，用不著和我道謝。",
+      "c": "你我兄妹,不必如此多禮,我早把<fn>當自己兒子了,用不著和我道謝。",
+      "rq": true,
+      "it": null,
+      "mt": "You and I are brother and sister, no need to be so polite, I have treated <fn>as my own son, no need to thank me.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "你我兄妹，不必如此多礼，我早把{fn}当自己儿子了，用不着和我道谢。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

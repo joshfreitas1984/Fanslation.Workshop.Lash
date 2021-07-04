@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_70008542",
+  "RawLine": "TNPC_70008542,我如果沒猜錯的話…應該是{color=#FF0000}那個傢伙{/color}沒錯，走吧。,我如果没猜错的话…应该是{color=#FF0000}那个家伙{/color}没错，走吧。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_70008542",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "我如果沒猜錯的話…應該是{color=#FF0000}那個傢伙{/color}沒錯，走吧。",
+      "c": "我如果沒猜錯的話...應該是那個傢伙沒錯,走吧。",
+      "rq": true,
+      "it": null,
+      "mt": "If I'm not wrong... It's that guy. Let's go.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "我如果没猜错的话…应该是{color=#FF0000}那个家伙{/color}没错，走吧。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

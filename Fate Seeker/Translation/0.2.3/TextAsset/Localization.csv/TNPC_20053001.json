@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "TNPC_20053001",
+  "RawLine": "TNPC_20053001,呵～看來{ln}少俠也不信這套。{p}這命運，不是靠別人說幾句就會改變的，{p}自古有云：事在人為。,呵～看来{ln}少侠也不信这套。{p}这命运，不是靠别人说几句就会改变的，{p}自古有云：事在人为。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "TNPC_20053001",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "呵～看來{ln}少俠也不信這套。{p}這命運，不是靠別人說幾句就會改變的，{p}自古有云：事在人為。",
+      "c": "呵～看來<ln>少俠也不信這套。這命運,不是靠別人說幾句就會改變的,自古有云：事在人為。",
+      "rq": true,
+      "it": null,
+      "mt": "Huh, it seems <ln>you don't believe in this either. The company's main goal is to provide the best possible service to its customers.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "呵～看来{ln}少侠也不信这套。{p}这命运，不是靠别人说几句就会改变的，{p}自古有云：事在人为。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}

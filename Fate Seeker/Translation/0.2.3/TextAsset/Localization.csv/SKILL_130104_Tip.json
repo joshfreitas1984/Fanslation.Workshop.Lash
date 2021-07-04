@@ -1,0 +1,37 @@
+{
+  "$type": "FanslationStudio.Domain.ScriptTranslation, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "LineId": "SKILL_130104_Tip",
+  "RawLine": "SKILL_130104_Tip,【{color=#FFD700}破防功能{/color}】\\n中距離三段攻擊。傷害較低但暗勁極強。,【{color=#FFD700}破防功能{/color}】\\n中距离三段攻击。伤害较低但暗劲极强。",
+  "Items": [
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 0,
+      "r": "SKILL_130104_Tip",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 1,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n中距離三段攻擊。傷害較低但暗勁極強。",
+      "c": "<[>破防功能<]><<\\n>>中距離三段攻擊。傷害較低但暗勁極強。",
+      "rq": true,
+      "it": null,
+      "mt": "<[>Defense Breaker<]><<\\n>> A medium-range three-strike attack. Low damage but very strong dark power.",
+      "mc": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.ScriptTranslationItem, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "s": 2,
+      "r": "【{color=#FFD700}破防功能{/color}】\\n中距离三段攻击。伤害较低但暗劲极强。",
+      "c": null,
+      "rq": false,
+      "it": null,
+      "mt": null,
+      "mc": false
+    }
+  ]
+}
