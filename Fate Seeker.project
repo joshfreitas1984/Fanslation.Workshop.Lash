@@ -1,4 +1,4 @@
-{
+﻿{
   "$type": "FanslationStudio.Domain.Project, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
   "Name": "Fate Seeker",
   "ScriptsToTranslate": [
@@ -23,5 +23,61 @@
       "GameTranslatorSource": null
     }
   ],
-  "ProjectFile": "H:\\FanslationStudioWorkshop\\Fate Seeker.project"
+  "ProjectFile": "H:\\FanslationStudioWorkshop\\Fate Seeker.project",
+  "SearchPatterns": [
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<id=",
+      "Replacement": null,
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "[\\u4E00-\\u9FCC]",
+      "Replacement": null,
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yueyi",
+      "Replacement": "Yue'er",
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yueh",
+      "Replacement": "Yue'er",
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yorozakura",
+      "Replacement": "Xing Ruoying",
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "刑若櫻",
+      "Replacement": "Xing Ruoying",
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Hirakura",
+      "Replacement": "Xing Ruoying",
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yim Lok ",
+      "Replacement": "Yan Le",
+      "CaseSensitive": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "RMB",
+      "Replacement": "Taels",
+      "CaseSensitive": true
+    }
+  ]
 }
