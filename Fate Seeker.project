@@ -1,9 +1,9 @@
-﻿{
+{
   "$type": "FanslationStudio.Domain.Project, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
   "Name": "Fate Seeker",
   "ScriptsToTranslate": [
     {
-      "$type": "FanslationStudio.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "$type": "FanslationStudio.Domain.ScriptToTranslate.SplitTextFileToTranslate, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "SourcePath": "\\TextAsset\\Localization.csv",
       "SplitIndexes": [
         1
@@ -20,64 +20,329 @@
       "Version": "0.2.3",
       "RawInputFolder": "X:\\repos\\GameTranslator\\GameTranslator\\FateSeeker\\input0.2.3",
       "OldGameTranslator": false,
-      "GameTranslatorSource": null
+      "GameTranslatorSource": null,
+      "SourceLanguageCode": "ZH",
+      "TargetLanguageCode": "EN"
     }
   ],
-  "ProjectFile": "H:\\FanslationStudioWorkshop\\Fate Seeker.project",
+  "PreProcessingItems": [
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<[^>]*>",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove Html tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "\\n",
+      "Replacement": "<\\n>",
+      "CaseSensitive": false,
+      "Comment": "Encase new line",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "\\t",
+      "Replacement": "<\\t>",
+      "CaseSensitive": false,
+      "Comment": "Encase tabs",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{",
+      "Replacement": "<",
+      "CaseSensitive": false,
+      "Comment": "Replace Brackets for known tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "}",
+      "Replacement": ">",
+      "CaseSensitive": false,
+      "Comment": "Replace Brackets for known tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<<",
+      "Replacement": "<",
+      "CaseSensitive": false,
+      "Comment": "Replace Double Brackets",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": ">>",
+      "Replacement": ">",
+      "CaseSensitive": false,
+      "Comment": "Replace Double Brackets",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "，",
+      "Replacement": ",",
+      "CaseSensitive": false,
+      "Comment": "Wide Comma to normal comma to make it easier to translate",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "…",
+      "Replacement": "...",
+      "CaseSensitive": false,
+      "Comment": "Wide Bullets to normal bullets to make it easier to translate",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "【",
+      "Replacement": "<[>",
+      "CaseSensitive": false,
+      "Comment": "Wide Bracket to enclosed bracket",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "】",
+      "Replacement": "<]>",
+      "CaseSensitive": false,
+      "Comment": "Wide Bracket to enclosed bracket",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*color[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove Colour Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*size[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove Size Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*back[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove Back Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*vpunch[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove vpunch Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*punch[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove punch Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*shake[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove punch Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*w[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove punch Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*s[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove s Tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{[/\\\\]*p[^}]*}",
+      "Replacement": "",
+      "CaseSensitive": false,
+      "Comment": "Remove p Tags",
+      "Enabled": true
+    }
+  ],
+  "PostProcessingItems": [
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": ",",
+      "Replacement": "，",
+      "CaseSensitive": false,
+      "Comment": "Comma to Wide Comma for CSV",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<[\\s]{1,}",
+      "Replacement": "<",
+      "CaseSensitive": false,
+      "Comment": "Strip spaces in  tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<<",
+      "Replacement": "<",
+      "CaseSensitive": false,
+      "Comment": "Fix Any double brackets",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": ">>",
+      "Replacement": ">",
+      "CaseSensitive": false,
+      "Comment": "Fix Any double brackets",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "[\\s]{1,}>",
+      "Replacement": ">",
+      "CaseSensitive": false,
+      "Comment": "Strip spaces in tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<",
+      "Replacement": "{",
+      "CaseSensitive": false,
+      "Comment": "Put brackets back",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": ">",
+      "Replacement": "}",
+      "CaseSensitive": false,
+      "Comment": "Put brackets back",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "...",
+      "Replacement": "…",
+      "CaseSensitive": false,
+      "Comment": "Return wide bullets",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "(?<prefix><[\\S]*[0-9][\\s]*)((st)|(nd)|(rd)|(th))(?<suffix>[\\S]*>)",
+      "Replacement": "<{prefix}{suffix}>",
+      "CaseSensitive": false,
+      "Comment": "Strip and numerical suffixes added by DeepL to tags",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<space>",
+      "Replacement": " ",
+      "CaseSensitive": false,
+      "Comment": "Add Explicit spaces",
+      "Enabled": true
+    }
+  ],
   "SearchPatterns": [
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "<id=",
       "Replacement": null,
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "[\\u4E00-\\u9FCC]",
       "Replacement": null,
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yueyi",
       "Replacement": "Yue'er",
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yueh",
       "Replacement": "Yue'er",
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yorozakura",
       "Replacement": "Xing Ruoying",
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "刑若櫻",
       "Replacement": "Xing Ruoying",
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Hirakura",
       "Replacement": "Xing Ruoying",
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yim Lok ",
       "Replacement": "Yan Le",
-      "CaseSensitive": false
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "RMB",
       "Replacement": "Taels",
-      "CaseSensitive": true
+      "CaseSensitive": true,
+      "Comment": null,
+      "Enabled": false
     }
-  ]
+  ],
+  "ProjectFile": "H:\\FanslationStudioWorkshop\\Fate Seeker.project",
+  "LastBulkImportFolder": null
 }

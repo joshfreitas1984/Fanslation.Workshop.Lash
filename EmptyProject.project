@@ -8,8 +8,48 @@
       "Version": "1.0",
       "RawInputFolder": null,
       "OldGameTranslator": false,
-      "GameTranslatorSource": null
+      "GameTranslatorSource": null,
+      "SourceLanguageCode": null,
+      "TargetLanguageCode": null
     }
   ],
-  "ProjectFile": "H:\\FanslationStudioWorkshop\\EmptyProject.project"
+  "PreProcessingItems": [
+    {
+      "$type": "FanslationStudio.Domain.PreProcessing.PreFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "a",
+      "Replacement": "b",
+      "CaseSensitive": true,
+      "Comment": null,
+      "Enabled": true
+    }
+  ],
+  "PostProcessingItems": [
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "c",
+      "Replacement": "d",
+      "CaseSensitive": false,
+      "Comment": "fd",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "e",
+      "Replacement": "f",
+      "CaseSensitive": false,
+      "Comment": "g",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "h",
+      "Replacement": "i",
+      "CaseSensitive": false,
+      "Comment": "j",
+      "Enabled": true
+    }
+  ],
+  "SearchPatterns": [],
+  "ProjectFile": "H:\\FanslationStudioWorkshop\\EmptyProject.project",
+  "LastBulkImportFolder": null
 }
