@@ -288,17 +288,25 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Yueyi",
-      "Replacement": "Yue'er",
+      "Find": "Sheriff",
+      "Replacement": null,
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Yueh",
-      "Replacement": "Yue'er",
+      "Find": "Ajumma",
+      "Replacement": "Aunt",
       "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "RMB",
+      "Replacement": "Taels",
+      "CaseSensitive": true,
       "Comment": null,
       "Enabled": false
     },
@@ -336,9 +344,17 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "RMB",
-      "Replacement": "Taels",
-      "CaseSensitive": true,
+      "Find": "Yueyi",
+      "Replacement": "Yue'er",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yueh",
+      "Replacement": "Yue'er",
+      "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
     }
