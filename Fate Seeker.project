@@ -191,7 +191,7 @@
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": ",",
-      "Replacement": "，",
+      "Replacement": ";",
       "CaseSensitive": false,
       "Comment": "Comma to Wide Comma for CSV",
       "Enabled": true
@@ -255,7 +255,7 @@
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "(?<prefix><[\\S]*[0-9][\\s]*)((st)|(nd)|(rd)|(th))(?<suffix>[\\S]*>)",
-      "Replacement": "<{prefix}{suffix}>",
+      "Replacement": "<${prefix}${suffix}>",
       "CaseSensitive": false,
       "Comment": "Strip and numerical suffixes added by DeepL to tags",
       "Enabled": true
@@ -266,6 +266,46 @@
       "Replacement": " ",
       "CaseSensitive": false,
       "Comment": "Add Explicit spaces",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "(?<tag>({fn}|{ln}|{name}))(?<suffix>([A-z]))",
+      "Replacement": "${tag} ${suffix}",
+      "CaseSensitive": false,
+      "Comment": "Space names",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "(?<prefix>([A-z]))(?<tag>({fn}|{ln}|{name}))",
+      "Replacement": "${prefix} ${tag}",
+      "CaseSensitive": false,
+      "Comment": "Space names",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{name}",
+      "Replacement": "{fn} {ln}",
+      "CaseSensitive": false,
+      "Comment": "Add space between first and last",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "[{]{0,1}\\[[}]{0,1}",
+      "Replacement": "【",
+      "CaseSensitive": false,
+      "Comment": "Wide braces",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "[{]{0,1}\\][}]{0,1}",
+      "Replacement": "】",
+      "CaseSensitive": false,
+      "Comment": "Wide braces",
       "Enabled": true
     }
   ],
@@ -289,14 +329,6 @@
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Sheriff",
-      "Replacement": null,
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Dark Power",
       "Replacement": null,
       "CaseSensitive": false,
       "Comment": null,
@@ -466,6 +498,22 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Luo Yang",
       "Replacement": "Luoyang",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yu Pei",
+      "Replacement": "Jade Pendant",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Xiao Xi",
+      "Replacement": "Xiaoxi",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
