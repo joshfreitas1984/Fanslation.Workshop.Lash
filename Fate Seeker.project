@@ -294,7 +294,7 @@
     },
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "[{]{0,1}\\[[}]{0,1}",
+      "Find": "[{]\\[[}]{0,1}",
       "Replacement": "【",
       "CaseSensitive": false,
       "Comment": "Wide braces",
@@ -302,8 +302,24 @@
     },
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "[{]{0,1}\\][}]{0,1}",
+      "Find": "[{]\\][}]{0,1}",
       "Replacement": "】",
+      "CaseSensitive": false,
+      "Comment": "Wide braces",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "[{]{0,1}\\][}]",
+      "Replacement": "】",
+      "CaseSensitive": false,
+      "Comment": "Wide braces",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "[{]{0,1}\\[[}]",
+      "Replacement": "【",
       "CaseSensitive": false,
       "Comment": "Wide braces",
       "Enabled": true
@@ -344,6 +360,22 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Zheng Huang",
+      "Replacement": "Huang Zheng",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yu Pei",
+      "Replacement": "Jade Pendant",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Golden Swallow",
       "Replacement": "Jin Yan",
       "CaseSensitive": false,
@@ -368,9 +400,33 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Luo Yang",
+      "Replacement": "Luoyang",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Dulong Sect",
+      "Replacement": "Poison Dragon Sect",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "RMB",
       "Replacement": "Taels",
       "CaseSensitive": true,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Xiao Xi",
+      "Replacement": "Xiaoxi",
+      "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
     },
@@ -410,6 +466,30 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yim Lok ",
       "Replacement": "Yan Le",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yim Le",
+      "Replacement": "Yan Le",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yang Mei School",
+      "Replacement": "Yang Mei Sect",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "School of Yang Mei",
+      "Replacement": "Yang Mei Sect",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
@@ -458,62 +538,6 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Zhao Yi",
       "Replacement": "Zhao Shen",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Zheng Huang",
-      "Replacement": "Huang Zheng",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Yang Mei School",
-      "Replacement": "Yang Mei Sect",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "School of Yang Mei",
-      "Replacement": "Yang Mei Sect",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Dulong Sect",
-      "Replacement": "Poison Dragon Sect",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Luo Yang",
-      "Replacement": "Luoyang",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Yu Pei",
-      "Replacement": "Jade Pendant",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Xiao Xi",
-      "Replacement": "Xiaoxi",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
