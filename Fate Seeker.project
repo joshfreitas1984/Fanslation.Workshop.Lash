@@ -360,15 +360,7 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Sheriff",
-      "Replacement": null,
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": null,
+      "Find": "Xin Ruo",
       "Replacement": null,
       "CaseSensitive": false,
       "Comment": null,
@@ -378,6 +370,22 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Ajumma",
       "Replacement": "Aunt",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Hatsue",
+      "Replacement": "Chu Xue",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "First Snow",
+      "Replacement": "Chu Xue",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
@@ -440,9 +448,9 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "RMB",
-      "Replacement": "Taels",
-      "CaseSensitive": true,
+      "Find": "Ding",
+      "Replacement": "Xing",
+      "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
     },
