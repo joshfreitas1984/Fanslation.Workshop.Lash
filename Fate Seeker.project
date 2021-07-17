@@ -323,6 +323,22 @@
       "CaseSensitive": false,
       "Comment": "Wide braces",
       "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{\\n}",
+      "Replacement": "\\n",
+      "CaseSensitive": false,
+      "Comment": "Remove Braces ",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "{\\t}",
+      "Replacement": "\\t",
+      "CaseSensitive": false,
+      "Comment": "Remove Braces ",
+      "Enabled": true
     }
   ],
   "SearchPatterns": [
@@ -345,6 +361,14 @@
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Sheriff",
+      "Replacement": null,
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": null,
       "Replacement": null,
       "CaseSensitive": false,
       "Comment": null,
@@ -419,14 +443,6 @@
       "Find": "RMB",
       "Replacement": "Taels",
       "CaseSensitive": true,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Xiao Xi",
-      "Replacement": "Xiaoxi",
-      "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
     },
