@@ -287,7 +287,7 @@
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "{name}",
-      "Replacement": "{fn} {ln}",
+      "Replacement": "{ln} {fn}",
       "CaseSensitive": false,
       "Comment": "Add space between first and last",
       "Enabled": true
@@ -552,6 +552,14 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "jade ornament",
+      "Replacement": "jade pendant",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yu Pei",
       "Replacement": "Jade Pendant",
       "CaseSensitive": false,
@@ -626,6 +634,14 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yakwang",
       "Replacement": "Medicin King Valley",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yakuo",
+      "Replacement": "Medicine King",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
@@ -848,6 +864,14 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Bitch",
+      "Replacement": "Smelly Girl",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Tiger Roaring",
       "Replacement": "Tiger's Roar",
       "CaseSensitive": false,
@@ -858,6 +882,14 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Hso",
       "Replacement": "Tiger's Roar",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "etc.",
+      "Replacement": "Wait",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
