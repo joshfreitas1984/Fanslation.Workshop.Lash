@@ -448,6 +448,14 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "The first thing you need to do",
+      "Replacement": null,
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Hei",
       "Replacement": "A Xi",
       "CaseSensitive": false,
@@ -1090,6 +1098,30 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Tso",
       "Replacement": "Tiger's Roar",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Tiger-saur",
+      "Replacement": "Tiger's Roar Sect",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Tigers",
+      "Replacement": "Tiger's Roar Sect",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Hu Xiao",
+      "Replacement": "Tiger's Roar Sect",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
