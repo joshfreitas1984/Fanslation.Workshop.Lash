@@ -230,6 +230,30 @@
     },
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": " <[>",
+      "Replacement": "<[>",
+      "CaseSensitive": true,
+      "Comment": "Replace spaces",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": " <]>",
+      "Replacement": "<]>",
+      "CaseSensitive": true,
+      "Comment": "Replace spaces",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "<space>",
+      "Replacement": " ",
+      "CaseSensitive": false,
+      "Comment": "Add Explicit spaces",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "<",
       "Replacement": "{",
       "CaseSensitive": false,
@@ -246,26 +270,10 @@
     },
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "...",
-      "Replacement": "…",
-      "CaseSensitive": false,
-      "Comment": "Return wide bullets",
-      "Enabled": true
-    },
-    {
-      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "(?<prefix><[\\S]*[0-9][\\s]*)((st)|(nd)|(rd)|(th))(?<suffix>[\\S]*>)",
       "Replacement": "<${prefix}${suffix}>",
       "CaseSensitive": false,
       "Comment": "Strip and numerical suffixes added by DeepL to tags",
-      "Enabled": true
-    },
-    {
-      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "<space>",
-      "Replacement": " ",
-      "CaseSensitive": false,
-      "Comment": "Add Explicit spaces",
       "Enabled": true
     },
     {
@@ -295,7 +303,7 @@
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "[{]\\[[}]{0,1}",
-      "Replacement": "【",
+      "Replacement": "[",
       "CaseSensitive": false,
       "Comment": "Wide braces",
       "Enabled": true
@@ -303,7 +311,7 @@
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "[{]\\][}]{0,1}",
-      "Replacement": "】",
+      "Replacement": "]",
       "CaseSensitive": false,
       "Comment": "Wide braces",
       "Enabled": true
@@ -311,7 +319,7 @@
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "[{]{0,1}\\][}]",
-      "Replacement": "】",
+      "Replacement": "]",
       "CaseSensitive": false,
       "Comment": "Wide braces",
       "Enabled": true
@@ -319,7 +327,7 @@
     {
       "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "[{]{0,1}\\[[}]",
-      "Replacement": "【",
+      "Replacement": "[",
       "CaseSensitive": false,
       "Comment": "Wide braces",
       "Enabled": true
@@ -338,6 +346,70 @@
       "Replacement": "\\t",
       "CaseSensitive": false,
       "Comment": "Remove Braces ",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Ruomei",
+      "Replacement": "Ruo Mei",
+      "CaseSensitive": true,
+      "Comment": "Fix Ruo Mei",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Ruoying",
+      "Replacement": "Ruo Ying",
+      "CaseSensitive": true,
+      "Comment": "Fix Ruo Ying",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Xiao Mao",
+      "Replacement": "Little Kitten",
+      "CaseSensitive": true,
+      "Comment": "Change Nickname",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Xiao Ying",
+      "Replacement": "Little Ying",
+      "CaseSensitive": true,
+      "Comment": "Change Nickname",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "......",
+      "Replacement": "...",
+      "CaseSensitive": true,
+      "Comment": "Reduce ...",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Jiangfeng",
+      "Replacement": "Jianfeng",
+      "CaseSensitive": true,
+      "Comment": "Typo",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Empress",
+      "Replacement": "Emperor",
+      "CaseSensitive": true,
+      "Comment": "Typo",
+      "Enabled": true
+    },
+    {
+      "$type": "FanslationStudio.Domain.PostProcessing.PostFindReplace, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Long Sense Lake",
+      "Replacement": "Dragon Sense Lake",
+      "CaseSensitive": false,
+      "Comment": "Typo",
       "Enabled": true
     }
   ],
@@ -472,6 +544,14 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "the first thing",
+      "Replacement": null,
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Hei",
       "Replacement": "A Xi",
       "CaseSensitive": true,
@@ -482,14 +562,6 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "A-Hi",
       "Replacement": "Ah Xi",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "White Fairy",
-      "Replacement": "Bai Xian",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
@@ -522,6 +594,14 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Missy",
       "Replacement": "Big Sister",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Feng Er",
+      "Replacement": "Brother Feng",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
@@ -626,7 +706,7 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Old Miracle Doctor",
       "Replacement": "Divine Physician",
-      "CaseSensitive": true,
+      "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
     },
@@ -832,6 +912,22 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Sword Fist",
+      "Replacement": "Jiangfeng Sect",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "jungle",
+      "Replacement": "Jianghu",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Golden Swallow",
       "Replacement": "Jin Yan",
       "CaseSensitive": false,
@@ -856,6 +952,46 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Xiao Ying",
+      "Replacement": "Little Cherry",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Kitten",
+      "Replacement": "Little Kitten",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Kitty",
+      "Replacement": "Little Kitten",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Xiao Mao",
+      "Replacement": "Little Kitten",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "(?<!Little )[K]itten",
+      "Replacement": "Litttle Kitten",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Luo Yan Gu",
       "Replacement": "Luo Yan Valley",
       "CaseSensitive": false,
@@ -873,6 +1009,14 @@
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Yakuo",
+      "Replacement": "Medicine King",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Yakwang",
       "Replacement": "Medicine King",
       "CaseSensitive": false,
       "Comment": null,
@@ -1152,6 +1296,14 @@
     },
     {
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Find": "Tiger's Worry",
+      "Replacement": "Tiger's Roar",
+      "CaseSensitive": false,
+      "Comment": null,
+      "Enabled": false
+    },
+    {
+      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "Tiger-saur",
       "Replacement": "Tiger's Roar Sect",
       "CaseSensitive": false,
@@ -1186,14 +1338,6 @@
       "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
       "Find": "knight",
       "Replacement": "warrior",
-      "CaseSensitive": false,
-      "Comment": null,
-      "Enabled": false
-    },
-    {
-      "$type": "FanslationStudio.Domain.SearchPattern, FanslationStudio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "Find": "Kitten",
-      "Replacement": "Xiao Mao",
       "CaseSensitive": false,
       "Comment": null,
       "Enabled": false
